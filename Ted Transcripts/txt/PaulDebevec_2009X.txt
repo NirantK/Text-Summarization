@@ -1,0 +1,28 @@
+one of the biggest challenges in computer graphics has been being able to create a photo real digital
+aliens and dinosaurs we look at human faces every day they are very important to how we communicate with each other as a result we're tuned in to the subtlest things that could possibly be wrong with a computer rendering
+a reasonably photo realistic computer generated face using some computer graphics technology we've developed and also some collaborators at a company called image metrics
+the way that we did this is we tried to start with emily herself who was gracious enough to come to our laboratory in marina del rey and sit for a session in light stage five this is a face scanning sphere with one hundred and fifty six white leds all around
+that allow us to photograph her in a series of very controlled illumination conditions and the lighting that we use these days looks something like this we shoot all of these photographs in about three seconds
+we basically capture enough information with video projector patterns that drape over the contours of her face
+and different principle directions of light from the light stage to figure out both the coarse scale and the fine scale detail of her face if we zoom in on this photograph right here
+can see it's a really nice photograph to have of her because she is lit from absolutely everywhere at the same time to get a nice image of her facial texture and in addition
+we've actually used polarizers on all the lights just like polarized sunglasses can block the glare off of the road
+you can see she looks kind of shiny and oily at this point if you take the difference between these two images here
+you can get an image lit from the entire sphere of light of just the shine off of emily 's skin i don't think any photograph like this had ever been taken before we had done this and
+this is very important light to capture because this is the light that reflects off the first surface of the skin it doesn't get underneath the translucent layers of the skin and
+as a result it's a very good cue to the detailed shape of the skin pore structure and all of the fine wrinkles that all of us have the things that actually make us look like real humans so if we use information that comes off of this specular reflection
+we can go from a traditional face scan that might have the gross contours of the face and the basic shape and augment it with information
+that puts in all of that skin pore structure and fine wrinkles and even more importantly since this is a photometric process that only takes three seconds to capture
+we can shoot emily in just part of an afternoon in many different facial poses and facial expressions so here you can see her moving her eyes around moving her mouth around and these we're actually going to use to create a photo real digital character
+if you take a look at these scans that we have of emily you can see that the human face does an enormous amount of amazing things as it goes into different facial expressions you can see things
+not only the face shape changes but all sorts of different skin buckling and skin wrinkling occurs you can see that the skin pore structure changes enormously from stretched skin pores
+to the regular skin texture you can see the furrows in the brow and how the microstructure changes there you can see muscles pulling down at flesh to bring her eyebrows down her muscles bulging in her forehead when she winces like that
+in addition to this kind of high resolution geometry since it's all captured with cameras we've got a great texture map to use for the
+by looking at how the different color channels of the illumination the red and the green and the blue diffuse the light differently we can come up with a way of shading the skin in the computer then instead of looking like
+these are the displacement maps here and you can see those different wrinkles actually show up as she animates so the next process was then to animate her we actually used one of her own performances to provide the source data
+so by analyzing this video with computer vision techniques they were able to drive the facial rig with the computer generated performance so what you're going to see now after this is a completely photo real digital face we can turn the volume up a little bit
+we specialize in high quality facial animation for
+we specialize in high quality facial animation
+so if we break that down into layers here 's that diffuse component we saw in the first slide here is the specular component animating you can see all the wrinkles happening there
+now where are we going with this here
+who graciously agreed to get captured running in the light stage and let 's take a look at a computer generated version of bruce running in a new environment

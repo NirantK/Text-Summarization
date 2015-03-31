@@ -1,0 +1,30 @@
+to be able to see it in person because i really really think this is going to change really change the way we interact with machines from this point on now this is a rear projected drafting table it's about thirty six inches wide and it's equipped with a multi touch sensor now
+high resolution low cost and probably most importantly very scalable so the technology you know isn't the most exciting thing here right now other than probably its newfound accessibility what's really interesting here is what you can do with it
+or i can pull it apart with two of my fingers it's completely intuitive there's no instruction manual the interface just kind of disappears this started out as kind of a screensaver app that one of the ph d students in our lab ilya rosenberg
+made but i think its true
+now what's great about a multi touch sensor is that you know i could be doing this with as many fingers here but of course multi touch also inherently means multi user so chris could be out here interacting with another part of lava while i kind of play around with it here
+can imagine a new kind of sculpting tool where i'm kind of warming something up making it malleable and then letting it cool down and solidifying in a certain state
+show you something a little more of a concrete example here thing loads
+this is a photographer 's light box application again i can use both of my hands to interact and move photos around but what's even cooler is that if i have two fingers i can actually grab a photo and then stretch it out like that really easily
+i can kind of do the same thing stretch it out i can do it simultaneously where i'm holding this down and gripping on another one stretching this out like this
+i can bring up a keyboard
+and i can bring that around put that up there now
+we have so much technology nowadays that these interfaces should start conforming to us so little
+applied now to actually improving the way we interact with interfaces from this point on this keyboard is probably actually the really wrong direction to go you can imagine in the future
+as we develop this kind of technology a keyboard that kind of automatically drifts as your hand moves away and really intelligently anticipates which key you're trying to stroke with your hands in
+you can just continuously make things in real multiple scales all at the same time i can create big things out here but i can go back and really quickly go back to where i started and make even smaller things here
+now this is going to be really important as we start getting to things like data visualization for instance i think we all really enjoyed hans rosling 's talk and
+he really emphasized the fact that i've been thinking about for a long time too we have all this great data but for some reason it's just sitting there we're not really accessing it and one of the reasons why i think that is
+another app here this is something called worldwind it's done by nasa it's a kind of we've all seen google earth this is an open source version of that there are plug ins to be able to
+load in different data sets that nasa's collected over the years but as you can see i can use the same two fingered gestures to go down and go in really seamlessly there's no interface again it really allows anybody to kind of go
+and it just does what you'd expect you know again there's just no interface here the interface just disappears
+i can switch to different data views that's what's neat about this app here there you go nasa's really cool they have these hyper spectral images that are false colored so you can it's really good for go back to this
+now the great thing about mapping applications it's not really two d it's kind of three d so again with a multi point interface you can do a gesture like this so you can be able to tilt around like
+it's not just simply relegated to a kind of two d panning and motion now this gesture that we've developed again is just putting two fingers down it's defining an axis of tilt
+and i can tilt up and down that way that's something we just came up with on the spot you know it's probably not the right thing to do but there's such interesting things you can do with this kind of interface
+just so much fun playing around
+and so the last thing i want to show you is you know i'm sure we can all think of a lot of entertainment apps that you can do with this thing i'm a little more interested in the kind of creative applications we can do with this now here 's a simple application here i can draw out a curve
+but the neat thing about it is i can add control points and then what i can do is manipulate them with both of my fingers at the same time and you notice what it does
+it's kind of a puppeteering thing where i can use as many fingers as i have to
+now there's a lot of actual math going on under here for this to control this mesh and do the right thing
+so multi touch interaction research is a very active field right now in hci i'm not the only one doing it there are a lot of other people getting into it thank you

@@ -1,0 +1,52 @@
+kind of neuroscience that i do and my colleagues do is almost like the weatherman
+we are always chasing storms we want to see and measure storms brainstorms that is and we all talk about brainstorms in our daily lives
+but we rarely see or listen to one so i always like to start these talks by actually introducing you to one of them actually the first time we recorded
+more than one neuron a hundred brain cells simultaneously we could measure the electrical sparks of a hundred cells in the same animal this is the first image we got the first ten seconds of this recording so we got a little snippet of a thought and we could see it in front of us
+i always tell the students that we could also call neuroscientists some sort of astronomer because we are dealing with a system that is only comparable in terms of number of cells to the number of galaxies that we have in the universe and here we are
+out of billions of neurons just recording ten years ago a hundred we are doing a thousand now and we hope to understand something fundamental about our human nature because if you don 't know yet everything that we use to define what human nature is comes from these storms
+in particular about twelve years ago we created a preparation that we named brain machine interfaces and you have a scheme here that describes how it works the idea is let 's have some sensors that listen to these storms this electrical firing
+about half a second let 's see if we can read these signals extract the motor messages that are embedded in it translate it into digital commands and send it to an artificial device that will reproduce the voluntary motor wheel of that brain
+in real time and see if we can measure how well we can translate that message when we compare to the way the body does that
+and if we can actually provide feedback sensory signals that go back from this robotic mechanical computational actuator that is now under the control of the brain back to the brain how the brain deals with that
+of receiving messages from an artificial piece of machinery and that 's exactly what we did ten years ago we started with a superstar monkey called aurora that became one of the superstars of this field
+and aurora liked to play video games as you can see here she likes to use a joystick like any one of us any of our kids
+to play this game and as a good primate she even tries to cheat before she gets the right answer so even before a target appears that she 's supposed to cross with the cursor that she 's controlling with this joystick aurora is trying to find the target no matter where it is
+and if she 's doing that because every time she crosses that target with the little cursor she gets a drop of brazilian orange juice and i can tell you any monkey will do anything for you if you get a little drop of brazilian orange juice actually any primate will do that think about that
+well while aurora was playing this game as you saw and doing a thousand trials a day and getting ninety seven percent correct and three hundred and fifty milliliters of orange juice we are recording the brainstorms that are produced in her head
+and sending them to a robotic arm that was learning to reproduce the movements that aurora was making because the idea was to actually turn on this brain machine interface and have aurora play the game just by thinking without interference of her body
+her brainstorms would control an arm that would move the cursor and cross the target and to our shock that 's exactly what aurora did she played the game
+in that outside world just by controlling an artificial device and aurora kept playing the game kept finding the little target and getting the orange juice that she wanted to get that she craved for well
+the robotic arm that you see moving here thirty days later after the first video that i showed to you
+is under the control of aurora 's brain and is moving the cursor to get to the target and aurora now knows that she can play the game with this robotic arm but she has not lost
+the ability to use her biological arms to do what she pleases she can scratch her back she can scratch one of us she can play another game by all purposes and means aurora 's brain has incorporated that artificial device as an extension of her body
+well we did that ten years ago just fast forward
+ten years just last year we realized that you don 't even need to have a robotic device you can just build a computational body an avatar
+a monkey avatar and you can actually use it for our monkeys to either interact with them or you can train them to assume in a virtual world the first person perspective of that avatar and use her brain activity to control the movements of the avatar 's arms or legs
+and what we did basically was to train the animals to learn how to control these avatars and explore objects that appear in the virtual world
+and these objects are visually identical but when the avatar crosses the surface of these objects they send an electrical message that is proportional to the microtactile texture of the object that goes back directly to the monkey 's brain
+informing the brain what it is the avatar is touching and in just four weeks the brain learns to process this new sensation and acquires a new sensory pathway
+like a new sense and you truly liberate the brain now because you are allowing the brain to send motor commands to move this avatar and the feedback that comes from the avatar is being processed directly by the brain without the interference of the skin
+so what you see here is this is the design of the task you 're going to see an animal basically touching these three targets and he has to select one because only one carries the reward the orange juice that they want to get and he has to select it by touch using a virtual arm an arm that doesn 't exist
+and that 's exactly what they do this is a complete liberation of the
+so when we look at the brains of these animals on the top panel you see the alignment of one hundred and twenty five cells showing what happens with the brain activity the electrical storms of this sample of neurons in the brain when the animal is using a joystick and that 's a picture that every neurophysiologist knows the bottom picture
+the brain is assimilating that too as fast as we can measure
+our violins our cars our bicycles our soccer balls our clothing they all become assimilated by this voracious amazing dynamic system called the brain how far can we take it
+well in an experiment that we ran a few years ago we took this to the limit
+we had an animal running on a treadmill at duke university on the east coast of the united states producing the brainstorms necessary to move and we had a robotic device a humanoid robot in kyoto japan at atr laboratories that was dreaming its entire life to be controlled by a brain
+a human brain or a primate brain
+what happens here is that the brain activity that generated the movements in the monkey was transmitted to japan and made this robot walk while footage of this walking was sent back to duke so that the monkey could see the legs of this robot walking in front of her
+so she could be rewarded not by what her body was doing but for every correct step of the robot on the other side of the planet controlled by her
+the monkey was moving a robot that was six times bigger across the planet this is one of the experiments in which that robot was able to walk autonomously this is cb one fulfilling its dream
+in japan under the control of the brain activity of a primate
+so where are we taking all this what are we going to do with all this research besides studying the properties of this dynamic universe that we have between our ears
+well the idea is to take all this knowledge and technology
+and try to restore one of the most severe neurological problems that we have in the world millions of people have lost the ability to translate these brainstorms into action into movement although their brains continue to produce those storms and code for movements
+they cannot cross a barrier that was created by a lesion on the spinal cord
+so our idea is to create a bypass is to use these brain machine interfaces to read these signals larger scale brainstorms that contain the desire to move again
+produced by this consortium this is a nonprofit consortium called the walk again project that is putting together scientists from europe from here in the united states and in brazil together to work to actually get this new body built
+and translate them into movements of this new body but for this body to be assimilated as the new body that the brain controls
+so i was told about ten years ago that this would never happen that this was close to impossible and i can only tell you that as a scientist i grew up in southern brazil in the mid sixty s watching a few crazy guys telling us that they would go to the moon
+and i was five years old and i never understood why nasa didn 't hire captain kirk and spock to do the job after all they were very proficient
+but just seeing that as a kid made me believe as my grandmother used to tell me that impossible is just the possible that someone has not put in enough effort to make it come true
+so they told me that it 's impossible to make someone walk
+i think i 'm going to follow my grandmother 's advice thank you

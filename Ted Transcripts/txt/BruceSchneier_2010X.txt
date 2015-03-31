@@ -1,0 +1,122 @@
+security is two different things it 's a feeling and it 's a reality and they 're different you could feel secure even if you 're not and you can be secure even if you don 't feel it really we have two separate concepts mapped onto the same word
+and what i want to do in this talk is to split them apart figuring out when they diverge and how they converge and language is actually a problem here there aren 't a lot of good words for the concepts we 're going to talk about
+so if you look at security from economic terms it 's a trade off every time you get some security
+you 're always trading off something whether this is a personal decision whether you 're going to install a burglar alarm in your home or a national decision where you 're going to invade some foreign country you 're going to trade off something either money or time convenience capabilities maybe fundamental liberties
+and the question to ask when you look at a security anything is not whether this makes us safer but whether it 's worth the trade off you 've heard in the past several years the world is safer because saddam hussein is not in power that might be true but it 's not terribly relevant the question is was it worth it
+and you can make your own decision and then you 'll decide whether the invasion was worth it that 's how you think about security in terms of the trade off
+some of us have a burglar alarm system at home and some of us don 't and it 'll depend on where we live whether we live alone or have a family how much cool stuff we have how much we 're willing to accept the risk of theft
+in politics also there are different opinions a lot of times these trade offs are about more than just security and i think that 's really important now people have a natural intuition about these trade offs
+we make them every day
+or you in your car when you drove here
+multiple times a day we often won 't even notice them they 're just part of being alive we all do it every species does it
+imagine a rabbit in a field eating grass and the rabbit 's going to see a fox that rabbit will make a security trade off should i stay or should i flee
+and if you think about it the rabbits that are good at making that trade off will tend to live and reproduce and the rabbits that are bad
+so you 'd think that
+us as a successful species on the planet you me everybody
+yet it seems again and again that we 're hopelessly bad at it
+and i think that 's a fundamentally interesting question i 'll give you the short answer
+the answer is we respond to the feeling of security and not the reality
+now most of the time that works
+certainly that 's true for most of human prehistory we 've developed this ability because it makes evolutionary sense
+now there are several biases in risk perception a lot of good experiments in this and you can see certain biases that come up again and again so i 'll give you four we tend to exaggerate spectacular and rare risks and downplay common risks so flying versus driving the unknown
+one example would be people fear kidnapping by strangers when the data supports kidnapping by relatives is much more common this is for children
+third personified risks are perceived to be greater than anonymous risks so bin laden is scarier because he has a name
+and the fourth is people underestimate risks in situations they do control and overestimate them in situations they don 't control so once you take up skydiving or smoking you downplay the risks
+if a risk is thrust upon you terrorism was a good example you 'll overplay it because you don 't feel like it 's in your control
+there are a bunch of other of these biases these cognitive biases that affect our risk decisions
+there 's the availability heuristic
+which basically means we estimate the probability of something by how easy it is to bring instances of it to mind
+so you can imagine how that works if you hear a lot about tiger attacks there must be a lot of tigers around you don 't hear about lion attacks there aren 't a lot of lions around this works until you invent newspapers
+because what newspapers do is they repeat again and again rare risks i tell people if it 's in the news don 't worry about it because by definition news is something that almost never happens
+we 're also a species of storytellers we respond to stories more than data
+and there 's some basic innumeracy going on
+i mean the joke one two three many is kind of right we 're really good at small numbers one mango two mangoes three mangoes ten thousand mangoes one hundred thousand mangoes it 's still more mangoes you can eat before they rot so one half one quarter one fifth we 're good at that one in a million one in a billion they 're both almost never
+so we have trouble with the risks that aren 't very common and what these cognitive biases do is they act as filters between us and reality
+and the result is that feeling and reality get out of whack they get different
+i write a lot about security theater
+which are products that make people feel secure but don 't actually do anything
+so back to economics if economics if the market drives security
+and if people make trade offs based on the feeling of security
+then the smart thing for companies to do for the economic incentives are to make people feel secure
+and there are two ways to do this one you can make people actually secure and hope they notice or two you can make people just feel secure and hope they don 't notice
+so what makes people notice
+but if you know stuff you 're more likely
+to have your feelings match reality enough real world examples helps now we all know the crime rate in our neighborhood because we live there and we get a feeling about it that basically matches reality
+security theater 's exposed when it 's obvious that it 's not working properly
+okay so what makes people not notice well a poor understanding
+if you don 't understand the risks you don 't understand the costs you 're likely to get the trade off wrong and your feeling doesn 't match reality not enough examples
+if for example terrorism almost never happens of counter terrorist measures
+also feelings that are clouding the issues the cognitive biases i talked about earlier fears folk beliefs
+basically an inadequate model of reality
+so let me complicate things
+i have feeling and reality i want to add a third element i want to add model
+feeling and model in our head reality is the outside world it doesn 't change it 's real
+that 's basically the difference in a primitive and simple world there 's really no reason for a model
+because feeling is close to reality you don 't need a model
+but in a modern and complex world
+you need models to understand a lot of the risks we face
+it 's of course limited by science by technology
+we couldn 't have a germ theory of disease before we invented the microscope to see them
+but it has the ability to override our feelings
+culture teachers elders a couple years ago i was in south africa on safari the tracker i was with grew up in kruger national park he had some very complex models of how to survive
+and it depended on if you were attacked by a lion or a leopard or a rhino or an elephant and when you had to run away and when you couldn 't run away and when you had to climb a tree when you could never climb a tree i would have died in a day
+but he was born there and he understood how to survive
+i was born in new york city i could have taken him to new york and he would have died in a day
+models can come from the media from our elected officials
+airline safety car safety models can come from industry
+health models are a great example think of cancer of bird flu swine flu sars
+come from models given to us really by science filtered through the media so models can change
+models are not static as we become more comfortable in our environments
+our model can move closer to our feelings
+so an example might be if you go back one hundred years ago when electricity was first becoming common there were a lot of fears about it i mean there were people who were afraid to push doorbells because there was electricity in there and that was dangerous
+our model of security around electricity
+is something we were born into
+how your parents approach internet security versus how you do
+versus how our kids will
+models eventually fade into the background
+so as your model is close to reality and it converges with feelings you often don 't know it 's there
+so there was that feeling of lack of control and those two things made the risk more than it was as the novelty wore off the months went by there was some amount of tolerance people got used to it
+people thought the doctors should have solved this already and acceptance
+and when the vaccine appeared last winter there were a lot of people a surprising number who refused to get it
+with no new information with no new input
+this kind of thing happens a lot
+i have a very relativistic view of security i think it depends on the observer
+and most security decisions have a variety of people involved and stakeholders with specific
+trade offs will try to influence the decision and i call that their agenda
+and you see agenda this is marketing this is politics trying to convince you to have one model versus another trying to convince you to ignore a model and trust your feelings marginalizing people with models you don 't like this is not uncommon
+in the history of the past fifty years the smoking risk shows how a model changes and it also shows how an industry fights against a model it doesn 't like
+compare that to the secondhand smoke debate probably about twenty years behind
+all examples of models changing
+what we learn is that changing models is hard
+models are hard to dislodge if they equal your feelings you don 't even know you have a model
+and there 's another cognitive bias i 'll call confirmation bias where we tend to accept data
+that confirms our beliefs and reject data that contradicts our beliefs
+at models that span eighty years we can do to the next harvest we can often do until our kids grow up
+but eighty years we 're just not good at
+so it 's a very hard model to accept
+strong feelings can create a model
+personal health scare a health scare in the news
+you 'll see these called flashbulb events by psychiatrists
+they can create a model instantaneously because they 're very emotive
+so in the technological world we don 't have experience
+to judge models and we rely on others we rely on proxies i mean this works as long as it 's to correct others we rely on
+government agencies to tell us what pharmaceuticals
+are safe i flew here yesterday i didn 't check the airplane
+but because we 're pretty sure the building codes here are good
+now when these go out of whack you have two options one you can fix people 's feelings directly appeal to feelings it 's manipulation but it can work
+the second more honest way is to actually fix the model
+change happens slowly the smoking debate took forty years and that was an easy
+some of this stuff is hard
+i mean really though information seems like our best hope and i lied remember i said feeling model reality i said reality doesn 't change it actually does we live in a technological world reality changes all the time
+so we might have for the first time in our species feeling chases model model chases reality reality 's moving they might never catch up
+put poison in it closed it up put it back on the shelf someone else bought it and died this terrified people there were a couple of copycat attacks
+there wasn 't any real risk but people were scared and this is how the tamper proof drug industry was invented those tamper proof caps that came from this it 's complete security theater as a homework assignment think of ten ways to get around it i 'll give you one a syringe
+but it made people feel better
+it made their feeling of security more match the reality
+i said well that 's kind of neat
+i wonder how rampant baby snatching is out of hospitals i go home i look it up it basically never happens
+but if you think about it if you are a hospital and you need to take a baby away from its mother out of the room to run some tests
+you better have some good security theater or she 's going to rip your arm off
+or even look at public policy in ways that affect security
+it 's not just reality it 's feeling and reality what 's important
+is that they be about the same it 's important that if our feelings match reality we make better security trade offs

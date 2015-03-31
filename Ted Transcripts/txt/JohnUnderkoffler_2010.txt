@@ -1,0 +1,67 @@
+such a radical change in fact that the early macintosh development team in eighty two eighty three eighty four had to write an entirely new operating system from the ground up now this is an interesting little message and it's a
+lesson that has since i think been forgotten or lost or something and that is namely that the os is the interface the interface is the os it's like the land and the king i e arthur they're inseparable they are one and to write a new operating system was not
+a capricious matter it wasn't just a matter of tuning up some graphics routines there were no graphics routines there were no mouse drivers so
+but in the quarter century since then we've seen all of the fundamental supporting technologies go
+so memory capacity and disk capacity have been multiplied by something between ten thousand and a million same thing for processor speeds networks we didn't have networks at all at the time of the
+buys you more graphics power than you could have gotten for a million bucks from sgi only a decade ago so we've got that incredible ramp up then on the side we've got the web and increasingly the cloud which is fantastic
+but also in the regard in which an interface is fundamental kind of a distraction so we've forgotten to invent new interfaces certainly we've seen in recent years a lot of change in the regard and people are starting to wake up about that
+so what happens next where do we go from there the problem as we see it has to do with a single simple word space or a single simple phrase real world geometry one
+thing you might get is something like the luminous room the luminous room is a system in which it's considered that input and output spaces are co located that's a strangely
+this little design experiment that was a small office here knew a few other tricks as well if you presented it with a chess board it tried to figure out what you might mean by that
+and if there was nothing for them to do the chess pieces eventually got bored and hopped away the academics who were overseeing this
+thought that was too frivolous so we then built deadly serious applications like this optics prototyping workbench in which a toothpaste cap on a cardboard box becomes a laser
+the beam splitters and lenses are represented by physical objects and the system projects down the laser beam path
+so you've got an interface that has no interface you operate the world as you operate the real world which is to say with your hands similarly a digital wind tunnel with digital wind flowing from right to left
+not that remarkable in a sense we didn't invent the mathematics but if you displayed that on a crt or flat panel display it would be meaningless to hold up an arbitrary object a real world object on it here the real world merges with the simulation
+and finally to pull out all the stops this is a system called urp for urban planners in which we give architects and urban planners back the models that we confiscated
+we insisted that they use cad systems and we make the machine meet them half way urp projects down digital shadows as you see here
+are swinging the sun around
+and we built up a series of tools like this there are inter shadowing studies that children
+can operate even though they don't know anything about urban planning to move a building you simply reach out your hand and you move the building
+now if these ideas seem familiar or perhaps even a little dated that's great they should seem familiar this work is fifteen years old
+fifty four that we were painting in the film be believable that he allowed us to take on that design work as if it were an r d effort and the
+sort of gratifyingly perpetual people still reference those sequences in minority report when they talk about new ui design so this led full circle in a strange way to build these ideas into what we believe
+is the necessary future of human machine interface the spatial operating environment we call it
+so here we have a bunch of stuff some images and using a hand we can actually exercise six degrees of freedom six degrees of navigational control
+all well and good let 's do something a little more
+difficult here we have a whole bunch of disparate images we can fly around them so navigation is a fundamental issue you have to be able to navigate in three d much of what we want computers to help us with in the first place is inherently spatial
+and the part that isn't spatial can often be spatialized to allow our wetware to make greater sense of it now we can distribute this stuff in many different ways so we can throw it out like that
+we can organize it this way and of course it's not just about navigation but about manipulation as well
+so if we don't like something or we're intensely curious about ernst haeckel 's scientific falsifications we can pull them out like that and then if it's time for analysis we can pull back a little bit and ask for a different distribution
+let 's just come down a bit and fly around so that's a different way to look at stuff
+if you're of a more analytical nature then you might want actually to look at this as a color histogram
+so now we've got the stuff color sorted angle maps onto color and now if we want to select
+three d space the idea that we're tracking hands in real space becomes really important because we can reach in
+not in two d not in fake two d but in actual three d here are some selection planes and we'll perform this boolean operation because we really love yellow and tapirs on green grass
+so from there to the world of real work here 's a logistics system a small piece of one that we're currently building
+a lot of elements and one thing that's very important is to combine traditional tabular data with three dimensional and geospatial information
+so here 's a familiar place and we'll bring this back here for a second maybe select a little bit of that and bring out this graph
+and we should now be able to fly in here
+and have a closer look
+these are logistics elements that are scattered across the united states
+one thing that three dimensional interactions and the general idea of imbuing computation with space affords you is a final destruction of that unfortunate one to one pairing between human beings and computers
+that's the old way that's the old mantra one machine one human one mouse one screen well that doesn't really cut it anymore in the real world we have people who collaborate we have people who
+have to work together and we have many different displays and we might want to look at these various images we might want to ask for some help the author of this new pointing device is sitting over there so i can
+the designer of the wand and maybe its easiest for him to come over here and tell me in person what's going on so let me get some of these out of the way
+let 's pull this apart i'll go ahead and explode it kevin can you help
+me see if i can help us find the circuit board
+mind you it's a sort of gratuitous field stripping exercise but we do it in the lab all the time
+all right so collaborative work whether it's
+and finally i'd like to leave you with a glimpse that takes us back to the world of imagery this is a system called tamper which is a slightly whimsical look at what the future of editing and media manipulation systems might be
+oblong believe that media should be accessible in much more fine grained form so we have a large number of movies
+stuck inside here and let 's just pick out a few elements we can zip through them as a possibility we can grab elements off the front where upon they
+come to life and drag them down onto the table here
+we'll go over to jacques tati here and grab our blue friend and put him down on the table as well
+we may need more than one
+and we probably need well we probably need a cowboy to be quite honest yeah let 's take
+yeah let 's take that one
+you see cowboys and french farce people don't go well together and the system knows that
+let me leave with one final thought and that is that one of the greatest english language writers of the last three decades
+expressing and being imbued with a certain generosity and we need to demand that in fact for some of this kind of technology ground center is
+a combination of design which is crucially important we can't have advances in technology any longer unless design is integrated from the very start
+and as well of efficacy agency we 're as human beings the creatures that create and we should make sure our machines aid us in that task and are built in that same image so i will leave you with that thank you
+when real when for us not just in a lab and on a stage can it be for every man or is this just for corporations and movie
+this stuff will be built into the bezel of every display it'll be built into architecture the gloves go away in a matter of months or years so this is the inevitability about
+so in your mind five years time someone can buy this as part of a standard computer interface ju i think in five years time when you buy a computer you'll get this
+do all the big data intensive data heavy problems with it so whether it's logistics and supply chain management or natural gas and resource extraction games
+john thank you for making science fiction real ju it's been a great pleasure thank you

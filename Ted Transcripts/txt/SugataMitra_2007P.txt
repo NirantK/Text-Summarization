@@ -1,0 +1,102 @@
+i have a tough job to do you know when i looked at the profile of
+the audience here with their connotations and design in all its forms and
+so much and so many people working on collaborative and networks and so on that i wanted to tell you i wanted to build an argument
+for primary education in a very specific context in order to do that in twenty minutes i have to bring out four ideas it's like four pieces of a puzzle
+and if i succeed in doing that maybe you would go back with the thought that you could build on and
+the first piece of the puzzle is remoteness and the quality of education now by remoteness i mean
+two or three different kinds of things of course remoteness in its normal sense which means that as you go further and further away from an urban center
+you get to remoter areas what happens to education the second or a different kind of remoteness is that within the large metropolitan areas all over the world
+you have pockets like slums or shanty towns or poorer areas which are socially and economically remote
+from the rest of the city so it's us and them what happens to education in that context so keep both of those ideas of remoteness
+we made a guess the guess was that schools in remote areas do not have good enough teachers if they do have they cannot retain those teachers they do not have a good enough infrastructure and if they had
+some infrastructure they have difficulty maintaining it but i wanted to check if this is true so what i did last year was we hired a car looked
+into northern india from new delhi which you know which did not cross any big cities or any big metropolitan centers
+about three hundred kilometers and wherever we found a school administered a set of standard tests and then took those test results and plotted it on
+was interesting although you need to consider it carefully i mean this is a very small sample you should not generalize from it but it was quite obvious
+a little damning and i tried to correlate it with things like infrastructure or with the availability of electricity and things like that
+to my surprise it did not correlate it did not correlate with the size of classrooms it did not correlate with
+the quality of the infrastructure it did not correlate with the poverty levels it did not
+but what happened was that when i administered a questionnaire to each of these schools with one single question for the teachers which was would you like to move
+just a little bit out of delhi and they say no when you hit the rich suburbs of delhi because you know those are relatively better off
+and then from two hundred kilometers out of delhi the answer is consistently yes i would imagine that a teacher who comes or walks into class every day thinking that i wish i was in some other school
+probably has a deep impact on what happens to the results so it looked as though teacher motivation and teacher migration
+was a powerfully correlated thing with what was happening in primary schools as opposed to whether the children have enough to eat and whether they are packed tightly into classrooms and
+it's always piloted first in the best schools the best urban schools and according to me bias is
+but it's too expensive for what it does because it's being piloted in a school where the students are already getting let 's say eighty percent of whatever they could do
+you put in this new super duper technology and now they get eighty three percent so the principal looks at it and says three percent for three hundred thousand dollars forget it
+top but we seem to be doing it the other way about so i came to this conclusion that et should reach the
+the other way about and finally came the question of how do tackle teacher perception whenever you go to a teacher and show them some technology the teacher 's first reaction is you cannot replace a teacher with a machine
+i don't know why it's impossible but even for a moment if you did assume that it's impossible i have a quotation from
+the science fiction writer whom i met in colombo and he said something which completely solves this problem he said a teacher than can be replaced by a machine should
+puts the teacher into a tough bind you have to think anyway so i'm proposing that an alternative primary education whatever alternative you want
+schools don't exist where schools are not good enough where teachers are not available or where teachers are not good enough
+for whatever reason if you happen to live in a part of the world where none of this applies then you don't need an alternative education
+so far i haven't come across such an area except for one case i won 't name the area but somewhere in the world people said we don't have this problem because
+we have perfect teachers and perfect schools there are such areas but anyway i'd never heard that
+i'm going to talk about children and self organization and a set of experiments which sort of led to this idea of what might an alternative education be like
+and put a pretty powerful pc into that hole sort of embedded into the wall so that its monitor was sticking out at the other end
+a touchpad similarly embedded into the wall put it on high speed internet put the internet explorer there put it on altavista com in those days and just left it there and this is what
+so that was my office in it here 's the hole in the wall about
+eight hours later we found this kid to the right is this eight year old child who
+and to his left is a six year old girl who is not very tall and what he was doing was he was teaching her
+so it sort of raised more questions than it answered is this real does the language matter because he 's not supposed to know english will the computer last or will they break it and steal it and did anyone
+the last question is what everybody said but you know i mean they must have poked their head over the wall and asked the people in your office can you show me how to do it and then somebody taught him so i took the experiment out of delhi and repeated it
+this time in a city called chifpuri in the center of india where i was assured that nobody had ever taught anybody
+a warm day and the hole in the wall was on that decrepit old building this is the first
+a thirteen year old school dropout he came there and he started to fiddle around with the
+so he figured that out it took him over two minutes to figure out that he was doing things to the television and then as he was doing that he made an accidental click by hitting the touchpad you'll see him do that
+that and the internet explorer changed page eight minutes later he looked from his hand to the screen
+and he was browsing he was going back and forth when that happened he started calling all the neighborhood children like children would come and see what's happening over here
+and by the evening of that day seventy children were all browsing so eight minutes and an embedded computer seemed to be all that we needed
+so we thought that this is what was happening that children in groups can self instruct themselves to use a computer and the internet
+but under what circumstances at this time there was a the main question was about english people said you know you really ought to have this in
+indian languages so i said have what shall i translate the internet into some indian language that's not possible so it has to be the other way about but let 's see how do the children tackle the
+and i built a similar hole in the wall one big difference in the villages as opposed to the urban slums there were more girls than boys who came to the kiosk in the urban slums
+i left the computer there with lots of cds i didn't have any internet and came back three months later
+so when i came back there i found these two kids eight and twelve year olds who were playing a game
+on the computer and as soon as they saw me they said we need
+so they said well you've left this machine which talks only in english so we had to learn english so then i measured and they were using two hundred english words with each other mispronounced but
+words like exit stop find save that kind of thing not only to do with the computer but in their day to day conversations
+so madantusi seemed to show that language is not a barrier in fact they may be able to teach themselves the language if they really wanted
+finally i got some funding to try this experiment out to see if these results are replicable if they happen everywhere else india is a good place to do such an experiment in because we have all the ethnic diversities all the
+you know the genetic diversity all the racial diversities and also all the socio economic diversities so i could actually choose samples to cover a cross section that would cover practically the whole world
+so i did this for almost five years and this experiment really took us all the way across the length and breadth of india this is the himalayas
+up in the north very cold i also had to check or invent an engineering design which would survive outdoors and i was using regular normal pcs
+so i needed different climates for which india is also great because we have very cold very hot and so on this is the desert to the west
+of one of these villages the first thing that these children did was to find a website to teach themselves the english alphabet
+to central india very warm moist fishing villages where humidity is a very big killer of electronics so we had to solve
+all the problems we had without air conditioning and with very poor power so most of the solutions that came out used little blasts of air put at the right places to keep the machines running
+this short we did this over and over again this sequence is also nice this is a
+a six year old telling his eldest sister what to do and this happens very often with these computers that the younger children are found teaching
+what did we find we found that six to thirteen year olds can self instruct in a connected environment irrespective of anything that we could measure
+so if they have access to the computer they will teach themselves including intelligence i couldn't find a single correlation
+but it had to be in groups and that may be of great you know interest to this group because all of you are talking about groups so here was the power of what
+a group of children can do if you lift the adult intervention just a quick idea of the measurements
+we took standard statistical techniques so i'm going to not talk about that but we got a clean learning curve almost exactly the same as what you would get in a school
+leave it at that because i mean it sort of says it all doesn't it what could they learn to do basic windows functions browsing painting chatting and email
+games and educational material music downloads playing video in short what all of us does and over three hundred children will become computer literate and be able to do all of these things in six months with one
+so how do they do that if you calculated the actual time of access it would work out to minutes per day so that's not how it's happening what you have actually is
+there is one child operating the computer and surrounding him are usually three other children who are advising him on what they should do if you test them all four will get the same scores in whatever you
+around these four are usually a group of about sixteen children who are also advising usually wrongly about everything that's going on on the computer
+and all of them also will clear a test given on that subject so they are learning as much by watching as they learn by doing
+intuitive to adult learning but remember eight year olds live in a society where most of the time they are told don't do this
+don't touch the whiskey bottle so what does the eight year old do observes very carefully how a whiskey bottle should be touched
+and if you tested him he would answer every question correctly on that topic so they seem to be able to acquire very quickly
+so what was the conclusion over the six years of work it was that primary education can happen on its own or parts of it can happen on its own
+it does not have to be imposed from the top downwards it could perhaps be a self organizing system
+so that was and the second bit that i wanted to tell you that children can self organize and attain an educational objective
+the third piece was on values and again to put it very briefly i conducted a test over five hundred children spread across all over india
+and asked them i gave them about sixty eight different values oriented questions and simply asked them
+got all sorts of opinions yes no or i don't know i simply took those questions where i got fifty percent yesses and fifty percent
+so i was able to get a collection of sixteen such statements these were areas where the children were clearly confused because
+a typical example being sometimes it is necessary to tell lies they don't have a way to determine which way to answer this question perhaps none of us
+but at this point in time as far as science goes it's self organization but other examples are traffic jams stock market society and disaster recovery terrorism and insurgency
+and you know about the internet based self organizing systems so here are my four sentences then remoteness affects the quality of education
+acquired doctrine and dogma are imposed the two opposing mechanisms and learning is most likely a self organizing system
+put all the four together then it gives according to me it gives us a goal a vision for educational technology
+and educational technology and pedagogy that is digital automatic fault tolerant minimally invasive connected and self organized
+as educationists we have never asked for technology we keep borrowing it powerpoint is supposed to be considered a great educational technology but it was
+not meant for education it was meant for making board room presentations we borrowed it video conferencing the personal computer itself i think it's time that the educationists made their own specs
+and i have such a set of specs this is a brief look at that and such a set of specs should produce the technology
+to address remoteness values and violence so i thought i'd give it a name why don't we call it out doctrination
+and could this be a goal for educational technology in the future so i want to leave that as a thought with you thank

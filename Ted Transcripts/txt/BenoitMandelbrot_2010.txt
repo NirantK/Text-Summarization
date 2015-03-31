@@ -1,0 +1,82 @@
+well the topic i'm going to discuss is one which is in a certain sense very peculiar because it's very old roughness is part of human life
+different kinds of mess now in fact by a complete fluke i got involved many years ago in a study of this form of complexity
+and to my utter amazement i found traces very strong traces i must say of order in that
+and so today i would like to present to you a few examples of what this represents i prefer the word roughness to the word irregularity because irregularity to someone who had latin
+in my long past youth means the contrary of regularity but it is not so regularity is the contrary of
+because the basic aspect of the world is very rough so let me show you a few objects some of them are artificial others of them are very real in a certain sense
+now this is the real it's a cauliflower now why do i show a cauliflower a very ordinary and ancient vegetable
+because old and ancient as it may be it's very complicated and it's very simple both at the same time
+if you try to weigh it of course it's very easy to weigh it and when you eat it the weight matters but suppose you try to measure its surface
+very interesting if you cut with a sharp knife one of the florets of a cauliflower and look at it separately you think of a whole cauliflower but smaller
+and then you cut again again again again again again again again again and you still get small cauliflowers so the experience of humanity has always been
+that there are some shapes which have this peculiar property that each part is like the whole but smaller
+did humanity do with that very very little so
+what i did actually is to study this problem and i found something
+surprising that one can measure roughness by a number a number two point three one point two and sometimes much more one day a friend of mine to bug me
+brought a picture and said what is the roughness of this curve i said well just short of one point five it was one point
+time i've been looking at these things for so long so these numbers are the numbers which denote the roughness of these surfaces i hasten to say that these surfaces
+and so on the left i took the roughness copied from many landscapes to the right i took a higher roughness so the eye after a while can distinguish these two very well
+to learn about measuring roughness this is very rough and this is sort of smooth and this perfectly smooth very few things are very smooth so then if you
+to ask questions what's the surface of a cauliflower well you measure and measure and measure each time you're closer it gets bigger
+very very small distances what's the length of the coastline of these lakes the closer you measure the longer it
+the concept of length of coastline which seems to be so natural because it's given in many cases is in fact completely fallacy there's no such thing
+you must do it differently what good is that to know these things well surprisingly enough it's good in many ways
+to begin with artificial landscapes which i invented sort of are used in cinema all the time we see mountains in the distance they may be mountains but they may be just
+just cranked on now it's very easy to do it used to be very time consuming but now it's nothing
+something very strange if you take this thing you know very well it weighs very little the volume of a lung is very small but what about the area of
+why so because in fact the area of the lung is something very
+the bronchi branch branch branch and they stop branching not because of
+any matter of principle but because of physical considerations the mucus which is in the lung so what happens is that
+the way you have a much bigger lung but if it branches and branches down to distances about the same for a whale for a man and for
+what good is it to have that well surprisingly enough amazingly enough the anatomists had a very poor idea of the structure of the lung until very recently and i think that my mathematics
+so i found myself in other words constructing a geometry a geometry of things which had no geometry and a surprising aspect of it is that very often the rules of this geometry are extremely short
+it several times sometimes repeatedly again again again the same repetition and at the end you get things like that this cloud is completely one hundred percent artificial
+something so complicated like a cloud so unstable so varying should have a simple rule behind it now this simple rule
+not an explanation of clouds the seer of clouds had to take account of it i don't know how much
+advanced these pictures are they're old i was very much involved in it but then turned my attention to other phenomena now here is another thing which is
+one of the shattering events in the history of mathematics which is not appreciated by many people
+to an extent which was absolutely amazing that man can invent things that nature
+in particular it could invent things like a curve which fills the plane a curve 's a curve a plane 's a plane and the two won 't mix well they do mix
+a man named peano did define such curves and it became an object of extraordinary interest it was very important but mostly interesting because a kind of break a separation between
+the mathematics coming from reality on the one hand and new mathematics coming from pure man 's mind well i was very sorry to point out that the pure man 's mind has in fact
+seen at long last what had been seen for a long time and so here i introduce something the set of rivers of a plane filling curve and well it's a story unto itself
+and the objects which were used as examples when i was a child and a student of the break between mathematics
+and visible reality those objects i turned them completely around i used them for describing some of the aspects of the complexity of nature
+i first told it to my friends in mathematics they said don 't be silly it's just something well actually i was
+painter hokusai knew it very well the things on the ground are algae he did not know the mathematics it didn't yet exist
+and he was japanese who had no contact with the west but painting for a long time had a fractal side i could speak of that for a long time
+has a fractal aspect and i read the book that mister eiffel wrote about his tower and indeed it was astonishing how much
+he understood this is a mess mess mess brownian loop one day i decided
+i was held by so many things in my work i decided to test myself could i just look at something which everybody had been looking at for a long time and find something dramatically new
+then i was telling my assistant i don't see anything can you paint it so he painted it which means he put inside everything he said well this thing came out and i said stop stop stop
+i see it's an island and amazing so brownian motion which happens to have a roughness number of two
+i measured it one point three three again again again long measurements big brownian motions one point three three mathematical problem how to prove it
+it took my friends twenty years three of them were having incomplete proofs they got together and together they had the proof
+so they got the big medal in mathematics one of the three medals that people have received for proving things which i've seen without being able to prove them
+now everybody asks me at one point or another how did it all start what got you in that strange business
+to be at the same time a mechanical engineer a geographer and a mathematician and so on
+well actually i started oddly enough studying stock market prices and so here i had this theory and i wrote books about it
+it was very easy and you can write many books very fast about it there are thousands of books on that
+now compare that with real price increments and where are real price increments well these other lines include some real price increments and some
+forgery which i did so the idea there was that one must able to how do you say model price variation
+and it went really well fifty years ago for fifty years people were sort of pooh poohing me because they could do it much much easier but i tell you at this point people listened to me
+these two curves are averages standard poor the blue one and the red one is standard poor 's from which the five biggest discontinuities are taken out
+now discontinuities are a nuisance so in many studies of prices one puts them aside well acts of
+and you have the little nonsense which is left acts of god in this picture five acts of god are as important as everything
+in other words it is not acts of god that we should put aside that is the meat the problem if you master these you master price and if you don't master these you can master the little noise
+as well as you can but it's not important well here are the curves for it now i get to the final thing which is the set of which my name is attached
+in a way it's the story of my life my adolescence was spent during the german occupation of france and
+since i thought that i might vanish within a day or a week i had very big dreams and
+after the war i saw an uncle again my uncle was a very prominent mathematician and he told me look there's a problem which i could not solve twenty five years ago
+and i went from what's called real numbers which are points on a line to imaginary complex numbers which are points on a plane
+which is what one should do there and this shape came out this shape is of an extraordinary complication
+equation is hidden there z goes into z squared plus c it's so simple so dry it's so uninteresting now you turn the crank once twice twice
+marvels come out i mean this comes out i don't want to explain these things this comes out this comes out shapes which are of such complication such harmony and such beauty
+this comes out repeatedly again again again and that was one of my major discoveries was to find that these islands were
+the same as the whole big thing more or less and then you get these extraordinary baroque decorations all over the place
+all that from this little formula which has whatever five symbols in it and then this one the color was added for two reasons first of all because these shapes are so complicated
+one couldn't make any sense of the numbers and if you plot them you must choose some system and so my principle has been to always
+present the shapes with different colorings because some colorings emphasize that and others it is that or that it's so complicated
+a pilot was flying over the landscape and found this thing so where did this come from obviously from
+so the newspaper in cambridge published an article about that discovery and received the next day five thousand letters from people saying but that's simply a mandelbrot set very
+well let me finish this shape here just came out of an exercise in pure mathematics bottomless wonders spring from simple rules which are repeated without end thank you very much

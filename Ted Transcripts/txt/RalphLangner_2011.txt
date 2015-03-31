@@ -1,0 +1,42 @@
+idea behind the stuxnet computer worm is actually quite simple
+now if we manage to compromise these systems that control drive speeds
+place a good windows virus on a notebook that is used by a maintenance engineer to configure
+i want to tell you how we found that out when we started our research on stuxnet six months ago it was completely unknown what the purpose of this thing was
+the only thing that was known is it 's very very complex on the windows part the dropper part used multiple zero day vulnerabilities
+and it seemed to want to do something with these gray boxes these real time control systems so that got our attention and we started a lab project where we infected our environment with stuxnet and checked this thing out
+program code that it 's trying to infect is actually running on that target and if not
+stuxnet does nothing so that really got my attention and we started to work on this nearly around the clock because i thought well we don 't know what the target is it could be let 's say for example a u s power plant or a chemical plant in germany so we better find out what the target is soon
+so we extracted and decompiled the attack code and we discovered that it 's structured in two digital bombs a smaller one and a bigger one
+and we also saw that they are very professionally engineered by people who obviously had all insider information they knew all the bits and bites that they had to attack
+they probably even know the shoe size of the operator so they know everything and if you have heard that the dropper of stuxnet is complex and high tech let me tell you this the payload is rocket science it 's way above everything that we have ever seen before
+in order to get target theories we remember that it 's definitely hardcore sabotage
+it must be a high value target and it is most likely located in iran because that 's where most of the infections had been reported
+now you don 't find several thousand targets in that area it basically boils down to the bushehr nuclear power plant and to the natanz fuel enrichment plant so i told my assistant get me a list of all centrifuge and power plant experts from our client base
+and i phoned them up and picked their brain in an effort to match
+their expertise with what we found in code and data
+and that worked pretty well so we were able to associate the small digital warhead with the rotor control the rotor is that moving part within the centrifuge that black object that you see
+and if you manipulate the speed of this rotor you are actually able to crack the rotor and eventually even have the centrifuge explode
+what we also saw is that the goal of the attack was really to do it slowly and creepy obviously in an effort to drive maintenance engineers crazy that they would not be able to figure this out quickly
+the big digital warhead we had a shot at this by looking very closely at data and data structures so for example the number one hundred and sixty four really stands out in that code you can 't overlook it
+i started to research scientific literature on how these centrifuges are actually built in natanz and found they are structured in what is called a cascade and each cascade holds one hundred and sixty four centrifuges so that made sense that was a match and it even got better
+these centrifuges in iran are subdivided into fifteen what is called stages
+and guess what we found in the attack code an almost identical structure so again that was a real good match
+anyway so we figured out that both digital warheads were actually aiming at one and the same target but from different angles
+the small warhead is taking one cascade and spinning up the rotors and slowing them down and the big warhead is talking to six cascades and manipulating valves
+so in all we are very confident that we have actually determined what the target is it is natanz and it is only natanz so we don 't have to worry that other targets might be hit by stuxnet here 's some very cool stuff that we saw
+now what this thing does is it intercepts the input values from sensors so for example from pressure sensors and vibration sensors
+and it provides legitimate program code which is still running during the attack with fake input data
+and as a matter of fact this fake input data is actually prerecorded by stuxnet so it 's just like from the hollywood movies where during the heist the observation camera is fed with prerecorded video that 's cool
+that 's cool the
+idea here is obviously not only to fool the operators in the control room it actually is much more dangerous and aggressive the idea is to circumvent a digital safety system
+obviously this cannot be done by a human operator so this is where we need digital safety systems and when they are compromised then real bad things can happen your plant can blow up and neither your operators nor your safety system will notice it that 's scary but it gets worse
+and this is very important what i 'm going to say
+think about this this attack is generic
+is generic it is generic
+and you don 't have as an attacker you don 't have to deliver this payload by a usb stick as we saw it in the case of stuxnet you could also use conventional worm technology for spreading just spread it as wide as possible and if you do that what you end up with is
+that 's the consequence that we have to face so unfortunately
+the biggest number of targets for such attacks are not in the middle east
+so all of the green areas these are your target rich environments
+we have to face the consequences and we better start to prepare right now thanks
+there is only one and that 's the united states fortunately fortunately
+because otherwise our problems would even be bigger

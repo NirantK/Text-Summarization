@@ -1,0 +1,80 @@
+you go from being a healthy robust twenty nine year old male to someone that cannot breathe cannot move cannot speak
+this has actually been to me
+because we began a journey to learn a new way of thinking about life
+and even though steven passed away three years ago
+we had an amazing journey as a family we did not even an incredibly positive way
+i want to talk today about one of the things that we decided to do which was to think about a new way
+of approaching healthcare because as we all know here today it doesn't work very well i want to talk about it in the context of a story this is the story of my brother
+it's just a story and i want to go beyond the story and go to something more
+to achieve and how do i get there is what we are here to do in medicine is what everyone should do and those questions all have variables to them all of our statuses are different
+all of our hopes and dreams what we want to accomplish is different and our paths will be different they are all stories but it's a story until we convert it to data and so what we do
+had was to take steven 's status what is my status and go from man on his icon
+but the rest of them are really what's important here because steven despite the fact that he was paralyzed as he was in that pool he could not walk
+a data point at that one moment in time it's a data point of steven in a context here he is in the pool but here he is healthy as a builder taller stronger got all the women amazing guy
+here he is walking down the isle but he can barely walk now so it's impaired and he could still hold his wife 's hand but he couldn't do buttons on his clothes can't feed
+and here he is paralyzed completely unable to breathe and
+over this time journey these stories of his life converted to data he renovated my carriage house
+when he was completely paralyzed and unable to speak and unable to breathe and he won an award for a historic restoration
+so here is steven alone sharing this story in the world and this is the insight the thing that we are excited about
+because we have gone away from the community that we are the fact that we really do love each other and want to care for each other we need to give to others to be successful so steven is sharing this story
+but he is not alone
+there are so many other people sharing their stories and not stories in words but stories in data and words and we convert that information into this structure
+this understanding this ability to convert those stories into something that is computable to which we can begin to change the way medicine is done
+we did this for als we can do this for depression parkinson 's disease hiv these are not simple they are not internet scalable they require
+this hiv patient down here
+two years of this disease all of the symptoms are
+there but he is working to keep his cd four count high and his viral level low so he can make his life better but you can aggregate this and you can discover things about treatments
+two thousand people almost on copaxone these are patients currently on drugs sharing
+anyone want to run a comparative effectiveness study on prayer against something let 's look at prayer what i love about this just sort of interesting design problems these are why people pray
+or i want to look at anxiety because people are praying for anxiety and here is data on fifteen thousand people 's current anxiety right now
+flash and you can see here as this animates over steven 's actual data against the background of all other patients against this information the blue band is the fiftieth percentile steven is the seventy fifth percentile that he has non genetic
+you scroll down in this profile and you can see all of his prescription drugs but more than that in the new version i can look at this interactively wait
+a great stock program wouldn't it be great if the technology we used to take care of ourselves was as good as the technology we use to make money
+drug integrated into that the stem cell transplant that he had the first in the world shared openly for anyone who wants to see it
+i love here the cyberkinetics implant which was again the only patients data that was online and available you can adjust the time scale you can adjust the symptoms you can look at the interaction
+but i want more i don't want to just look at this cool device i want to take this data and make something even better i want my brother 's center of the universe and his symptoms drugs
+and all of the things that interact among those the side effects to be in this beautiful data galaxy that we can look at in any way we want to understand it so that we can take this information and go beyond
+just this simple model of
+record is i don't even know what a medical record is i want to solve a problem i want an application so
+years after he 's had these drugs i learned that everything he did to manage his excess saliva including some positive side effects that came from other drugs
+making his constipation worse and if anyone 's ever had severe constipation and you don't understand how much of an impact that has on your life yes that was
+so patients have this we're for patients this is all about patient health care there was no doctors on our network this is about the patients so how can we take this and bring them a tool that they can go back and they can engage the medical system
+that is a drug used to treat bipolar disorder that a group in italy found slowed als down in sixteen patients and published it now we'll skip the critiques of the paper
+but the short story is if you're a patient you want to be on the blue line you don't want to be on the red line you want to be on the blue line because the blue line is a better line the red line is way downhill the blue line is a good line
+so you know we said we looked at this and what i love also is that people always accuse these internet sites of promoting bad medicine and having people do things irresponsibly so this is what happened when pnas published this
+ten percent of the people in our system took lithium ten percent of the patients started taking lithium based on sixteen patients of data in a bad publication and they call the internet irresponsible
+and here is the implication of what happens and there is this one guy named humberto from brazil who unfortunately passed away nine months ago
+who said hey listen can you help us answer this question because i don't want to wait for the next trial it's going to be years i want to know now can you help us so we launched some tools we let them track their blood levels we let them share the data and exchange it you know a data network
+a time machine for patients except instead of going backwards we go
+can we find out what's going to happen to you so that you can maybe change
+so we did we took all the patients like humberto that's the apple background we stole that because we didn't have time to build our own this is a real app by the way this is not just graphics and you take those data and we find the patients like him and we bring their data together
+and we bring their histories into it
+how do we line them all up so we line them all up so they go together
+around the meaningful points integrated across everything we know about the patient full information the entire course of their disease and that's what is going to happen to humberto unless he does something
+now the ones that it doesn't work are interesting but almost all the time it works to take
+these are all the patients that started lithium it's the intent to treat curve and you can see here
+you know a lot of people dropped out the trial there is too much drop out can we do the even harder thing can we go to the patients that actually
+lithium because they were so convinced they were getting better and we asked our control algorithm are those sixty nine patients by the way you'll notice that's four times the number of patients in the clinical trial
+can we look at those patients and say can we match them with our time machine to the other patients that are just like them
+what happens and even the ones that believed they were getting better matched the controls exactly exactly
+and those little lines that's the power so we i can't tell you lithium doesn't work i can't tell you that if you did it at a higher dose of if you run the study proper i can tell you that for those sixty nine people that took
+they didn't do any better than the people that were just like them
+my brother 's stem cell transplant
+i put one hundred million cells in his cisterna magna in his lumbar cord and filled out the irbs and did all this work and i never really and how did i
+and how did i this two days ago
+it was that little outliers there you see that guy that lived a long time we have to go talk to him because i'd like to know what happened because something went different but
+my brother went straight down the line
+it only works about twelve months
+it's the first version of the time machine first time we ever tried it
+i look at this and i get really emotional you look at the patients you can drill in all the controls you can look at them you can ask them and i found a woman that
+we found her she was odd because she had data after she died and her husband had come in and entered her last functional scores because he knew how much
+and i am thankful i can't believe that these people
+years after my brother had died helped me answer the question about whether an operation i did and spent millions of dollars on years ago worked or not
+when i'd done it the first time
+and i'm really excited that it's here now because
+the lab that i founded has some data on a drug that might work
+and i'd like to show it i'd like to show it in real time now
+that for all of the diseases that we can do that for
+the forty five thousand people that are doing this social experiment with us
+an amazing journey we are going on to become
+human again to be part of community again to share

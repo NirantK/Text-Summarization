@@ -1,0 +1,57 @@
+exciting that i 'm working on but i think it 's also the simplest it 's a project that has the potential to make a huge impact around the world it addresses one of the biggest health issues on the planet the number one cause of death in children under five which is
+can 't we make cleaner burning cooking fuels can 't we make better stoves how is it that this can lead to over two million deaths every year i know bill joy was talking to you about the wonders of carbon nanotubes so i 'm going to talk to you about the wonders of carbon macro tubes which is charcoal
+so this is a picture of rural haiti haiti is now ninety eight percent deforested you 'll see scenes like this all over the island
+it leads to all sorts of environmental problems and problems that affect people throughout the nation
+a couple years ago there was severe flooding that led to thousands of deaths that 's directly attributable to the fact that there are no trees on the hills to stabilize the soil so the rains come they go down the rivers and the flooding happens
+now one of the reasons why there are so few trees is this people need to cook and they harvest wood and they make charcoal in order to do it
+and make charcoal out of it
+so not surprisingly there 's a lot of effort that 's been done to look at alternative cooking fuels
+about four years ago i took a team of students down to haiti and we worked with peace corps volunteers there this is one such volunteer and this is a device that he had built in the village where he worked and the idea was that you could take waste paper you could compress it and make briquettes that could be used for fuel
+but this device was very slow so our engineering students went to work on it and with some very simple changes they were able to triple the throughput of this device so you could imagine they were very excited about it and they took the briquettes back to mit so that they could test them
+and one of the things that they found was they didn 't burn
+so it was a little discouraging to the students
+and in fact if you look closely
+right here you can see it says u s peace corps
+as it turns out there actually wasn 't any waste paper in this village and while it was a good use of government paperwork for this volunteer to bring it back with him to his village laughter it was eight hundred kilometers away and so we thought perhaps there might be a better way to come up with an alternative cooking fuel
+what we wanted to do is we wanted to make a fuel that used something that was readily available on the local level you see these all over haiti as well they 're small scale sugar mills and the waste product from them after you extract the juice from the sugarcane is called bagasse
+what we wanted to do was we wanted to find a way to harness this waste resource and turn it into a fuel that would be something that people could easily cook with something like charcoal
+so over the next couple of years students and i worked to develop a process
+so you start with the bagasse and then you take a very simple kiln that you can make out of a waste fifty five gallon oil drum after some time after setting it on fire you seal it to restrict the oxygen that goes into the kiln and then you end up with this carbonized material here
+however you can 't burn this it 's too fine and it burns too quickly to be useful for cooking
+and so what we did was we looked and we found that cassava is indeed grown in haiti under the name of manioc
+and in fact it 's grown all over the world yucca tapioca manioc cassava it 's all the same thing a very starchy root vegetable and you can make a very thick sticky porridge out of it which you can use to bind together the charcoal briquettes and these
+now i 'm going to take you to a different continent
+and more than in haiti this produces really smoky fires and this is where you see the health impacts of cooking with cow dung and biomass as a fuel kids and women are especially affected by it because they 're the ones who are around the cooking fires
+so we wanted to see if we could introduce this charcoal making technology there
+well unfortunately they didn 't have sugarcane and they didn 't have cassava but that didn 't stop us what we did was we found what were the locally available sources of biomass and there was wheat straw and there was rice straw in this area and what we could use as a binder was actually small amounts of cow manure which they used ordinarily for their fuel
+and we did side by side tests and here you can see the charcoal briquettes and here the cow dung and you can see that it 's a lot cleaner burning of a cooking fuel and in fact it heats the water a lot more quickly and so we were very happy
+thus far but one of the things that we found was when we did side by side comparisons with wood charcoal it didn 't burn as long and the briquettes crumbled a little bit and we lost energy as they fell apart as they were cooking so we wanted to try to find a way to make a stronger briquette so that we could compete with wood charcoal in the markets in haiti
+so we went back to mit we took out the instron machine and we figured out what sort of forces did you need in order to compress a briquette to the level that you actually are getting improved performance out of it
+and at the same time that we had students in the lab looking at this we also had community partners in haiti working to develop the process to improve it and to make it more accessible to people in the villages there
+and after some time we developed a low cost press that allows you to produce charcoal which actually now burns longer cleaner than wood charcoal
+so now we 're in a situation where we have a product which is actually better than what you can buy in haiti in the marketplace which is a very wonderful place to be
+in haiti alone about thirty million trees are cut down every year there 's a possibility of this being implemented and saving a good portion of those in addition the revenue generated from that charcoal is two hundred and sixty million dollars
+that 's an awful lot for a country of haiti with a population of eight million and an average income of less than four hundred dollars
+so this is where we 're also moving ahead with our charcoal project and
+one of the things that i think is also interesting is i have a friend up at uc berkeley who 's been doing risk analysis and he 's looked at the problem of the health impacts of burning wood versus charcoal and he 's found that worldwide you could prevent a million deaths switching from wood to charcoal as a cooking fuel
+that 's remarkable but up until now there weren 't ways to do it without cutting down trees but now we have a way that 's using an agricultural waste
+actually like nick i brought samples
+and i think one of the things which is also remarkable about this technology is that the technology transfer is so easy compared to the sugarcane charcoal where we actually have to teach people how to form it into briquettes and you have the extra step of cooking the binder this comes
+pre briquetted and this is about the most exciting thing in my life right now which is perhaps a sad commentary on my life
+and this is i think a perfect
+people can make their own cooking fuel from waste products they can generate income from this they can save the money that they were going to spend on charcoal and they can produce excess and sell it in the market to people who aren 't making their own it 's really rare that you don 't have trade offs between health and economics or environment and economics
+so this is a project that i just find extremely exciting and i 'm
+really looking forward to see where it takes us
+so when we talk about now the future we will create one of the things that i think is necessary is to have a very clear vision of the world that we live in and now i don 't actually mean the world that we live in i mean the world
+where women spend two to three hours everyday grinding grain for their families to eat i mean the world where advanced building materials means cement roofing tiles that are made by hand and where when you work ten hours a day you 're still only earning sixty dollars in a month
+i mean the world where women and children spend forty billion hours a year fetching water
+that 's as if the entire workforce of the state of california worked full time for a year doing nothing but fetching water it 's a place where for example if this were india in this room only three of us would have a car
+if this were afghanistan only one person in this room would know how the use the internet
+if this were zambia three
+training our engineers our designers our business people our entrepreneurs to be facing
+these are the solutions that we need to find i have a few areas that i believe are especially important that we address
+one of them is creating technologies to promote micro finance and micro enterprise so that people who are living below the poverty line can find a way to move out and that they 're not doing it using the same traditional basket making poultry rearing etc but there are new technologies and new products that they can make on a small scale
+the next thing i believe is that we need to create technologies for poor farmers to add value to their own crops
+and we need to rethink our development strategies so that we 're not promoting educational campaigns to get them to stop being farmers but rather to stop being poor
+farmers and we need to think about how we can do that effectively we need to work with the people in these communities and give them the resources and the tools that they need to solve their own problems that 's the best way to do it we shouldn 't be doing it from outside so we need to create
+this future and we need to start doing it now thank you

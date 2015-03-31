@@ -1,0 +1,102 @@
+to enlist you in helping reshape the story
+about how humans and other critters get things done here is the old story we have already heard a little bit about it
+in which only the fiercest survive
+businesses and nations succeed only by defeating
+is about your side winning
+at all costs but i think we can see the very beginnings of a new story beginning to emerge it's a narrative spread across
+a number of different disciplines in which
+and complex interdependencies play a more important role and the
+that when i finished the book i kept thinking about it
+in fact if you look back
+human communication media and the ways in which we organize socially have been co evolving for quite a long time
+humans have lived for much much longer than the approximately ten thousand years of settled agricultural civilization in small
+family groups nomadic hunters bring down rabbits gathering food the form of wealth in those days was enough food to stay alive
+but at some point they banded together to hunt bigger game
+and we don't know exactly how they did this although
+they must have solved some collective action problems it only makes sense that you can't hunt mastodons while you're fighting with the other groups
+and again we have no way of knowing but it's clear that a new form of wealth must have emerged more protein than a hunter 's family
+could eat before it rotted so that raised a social question that i believe must have driven new social forms did the people who
+that mastodon meat owe something to the hunters and their families and if so how did they make arrangements again we can't know but
+we can be pretty sure that some form of symbolic communication must have been involved of course with agriculture came the first big civilizations the first cities built of mud
+and brick the first empires and it was the administers of these empires who begin hiring people to keep track of the wheat
+and sheep and wine that was owed and the taxes that was owed on them by making marks marks on clay at that time
+not too much longer after that the alphabet was invented and this powerful tool was really reserved for thousands of years for the elite administrators who kept track
+of accounts for the empires
+and then another communication technology enabled new media the printing press came along and within decades millions of people became
+literate populations new forms of collective action emerged in the spheres of knowledge
+and politics we saw scientific revolutions the protestant reformation constitutional democracies
+possible where they had not been possible before not created by the printing press but enabled by the collective action that emerges from literacy
+and again new forms of wealth emerged now commerce is ancient markets are as old as the crossroads
+but capitalism as we know it is only a few hundred years old enabled by cooperative arrangements
+and technologies such as the joint stock ownership company shared liability insurance double entry book keeping
+now of course the enabling technologies
+are based on the internet and in the many to many era every desktop is now a printing press a broadcasting station a community or a marketplace
+evolution is speeding up more recently that power is untethering and leaping off the desktops
+and very very quickly we are going to see a significant proportion if not the majority human race walking around holding
+carrying or wearing supercomputers linked at speeds greater than what we consider to be broadband today
+now when i started looking into collective action the considerable literature on it is based on what sociologists call social dilemmas
+there are a couple of mythic narratives of social dilemmas i'm going to talk about two of them the prisoner 's dilemma and the tragedy of the commons
+now when i talked about this with kevin kelly he assured me that everybody in this audience pretty much knows the details of the prisoner 's dilemma
+so i'm just going to go over that very very quickly if you have more questions about it ask kevin kelly later
+the prisoner 's dilemma is actually a story that's overlaid on a mathematical matrix that came out of the game theory in the early years of thinking about
+nuclear war two players who couldn't trust each other let me just say that every unsecured transaction is a good example of the prisoner 's dilemma
+person with the goods person with the money because they can't trust each other are not going to exchange neither one wants to be the first one
+or they're going to get the sucker 's payoff but both lose of course because they don't get what they want if they could only
+agree if they could only turn a prisoner 's dilemma into a different payoff matrix called an assurance game they could proceed
+if we are here because our ancestors were such fierce competitors how does cooperation exist at all he
+the first tournament and even after everyone knew it won it won the second tournament that's known as tit for tat
+another economic game that may not be
+as well known as the prisoner 's dilemma is the ultimatum game and it's also a very interesting probe of our assumptions about the way people make economic transactions here 's how the game is played
+there are two players they've never played the game before they will not play the game again they don't know each other and they are in fact in separate rooms first player is offered a hundred dollars and is asked to propose a split
+fifty fifty ninety ten whatever that player wants to propose the second player either accepts the
+both players are paid and the game is over or rejects the split neither player is paid and the game is over
+now the fundamental basis of neoclassical economics would tell you it's irrational to reject a dollar because someone you don't know in another room is going to get ninety
+yet in thousands of trials with american and european and japanese students a significant percentage would reject any offer that's not close to fifty fifty and although
+they were screened and didn't know about the game and had never played the game before proposers seemed to innately know this because the average proposal was surprisingly close to fifty fifty
+now the interesting part comes in more recently when anthropologists began taking this game to other cultures and discovered to their surprise that slash and burn agriculturalists in the amazon
+or nomadic pasturalists in central asia or a dozen different cultures each had radically different ideas of what is fair which suggests that can be influenced by
+our social institutions whether we know that or not the other major narrative of social dilemmas is the tragedy of the commons
+garrett hardin used it to talk about overpopulation in the late nineteen sixties he used the example of a common grazing area in which each person
+by simply maximizing their own flock led to overgrazing and the depletion of the resource he had the rather gloomy conclusion that humans will
+it really true that humans will always despoil commons so she went out and looked at what data she could find she looked at thousands of cases
+of humans sharing watersheds forestry resources fisheries and discovered that yes in case after case humans destroyed the commons that they depended on
+but she also found many instances in which people escaped the prisoner 's dilemma in fact the tragedy of the commons
+is a multi player prisoner 's dilemma and she said that people are only prisoners if they consider themselves to be
+they escape by creating institutions for collective action and she discovered i think most interestingly that among those institutions that worked
+there were a number of common design principles and those principles seem to be missing from those institutions that don't work
+is really no longer any major debate over the fact that cooperative arrangements have moved from
+to a central role in biology from the level of the cell to the level of the ecology
+and again our notions of individuals as economic beings have been overturned rational self interest is not always the dominating factor in fact people
+will act to punish cheaters even at a cost to themselves and most recently neurophysiological measures have shown that people who punish cheaters in economic games
+the glue that holds societies together
+now i've been talking about how new forms of communication and new media in the past have helped create new economic forms
+commerce is ancient markets are very old capitalism is fairly recent socialism emerged as a reaction to that and yet we see very little talk about how the next form may be emerging
+jim surowiecki briefly mentioned yochai benkler 's paper about open source pointing to a new form of production peer to peer production
+i simply want you to keep in mind that if in the past new forms of cooperation enabled by new technologies create new forms of wealth
+we may be moving into yet another economic form that is significantly different from previous ones
+very briefly let 's look at some businesses ibm as you know hp sun some of them most
+fierce competitors in the it world are open sourcing their software are providing portfolios of patents for the commons
+eli lilly in again the fiercely competitive pharmaceutical world has created a market for solutions for pharmaceutical problems toyota
+now none of these companies are doing this out of altruism they're doing it because they're learning that a certain kind of sharing is in their self interest
+open sourced production has shown us that world class software like linux and mozilla can be created
+with neither the bureaucratic structure of the firm nor the incentives of the marketplace as we've know them google enriches itself
+by enriching thousands of bloggers through adsense amazon has opened its applications programming interface to sixty thousand developers
+countless amazon shops they're enriching others not out of altruism but as a way of enriching themselves
+solved the prisoner 's dilemma and created a market where none would have existed by creating a feedback mechanism that turns a prisoner 's dilemma
+into an assurance game instead of neither of us can trust each other so we have to make suboptimal moves it 's you prove to me that you are trustworthy and i will cooperate wikipedia
+a million and a half articles in two hundred languages in just a couple of years we have seen that thinkcycle has enabled
+in developing countries to put up problems to be solved by design students around the world
+bittorrent turns every downloader into an uploader making the system more efficient the more it is used
+millions of people have contributed their desktop computers when they are not using them to link together through the internet into supercomputing collectives
+that help solve the protein folding problem for medical researchers that's folding at home at stanford to crack codes to search for life in outer space
+i don't think we know enough yet i don't think we've even begun to discover what the basic principles are but i think we can begin to think about them and i don't have enough time to talk about all of them but think about self interest
+this is all about self interest that adds up to more in el salvador both sides
+that withdrew from their civil war took moves that had been proven to mirror a prisoner 's dilemma strategy in the us in the philippines in kenya
+around the world citizens have self organized political protests and get out the vote campaigns using mobile devices and sms
+is an apollo project of cooperation possible a transdisciplinary study of cooperation i believe
+that the pay off would be very big i think we need to begin developing maps of this territory so that we can talk about it across disciplines
+and i am not saying that understanding cooperation is going to cause us to be better people
+and sometimes people cooperate to do bad things but i will remind you that a few hundred years ago people saw their loved ones die
+from diseases they thought were caused by sin or foreigners or evil spirits
+what forms of suffering could be alleviated what forms of wealth could be created if we knew a little bit more about cooperation
+i don't think that this transdisciplinary discourse is automatically going to happen it's going to require effort so i enlist you here

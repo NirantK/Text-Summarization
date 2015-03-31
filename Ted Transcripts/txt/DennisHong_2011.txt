@@ -1,0 +1,28 @@
+driving is an activity solely reserved for those who can see a blind person driving a vehicle safely and independently was thought to be an impossible task until now hello my name is dennis hong and we 're bringing freedom and independence to the blind by building a vehicle for the visually impaired
+so before i talk about this car for the blind let me briefly tell you about another project that i worked on called the darpa urban challenge now this was about building a robotic car that can drive itself you press start nobody touches anything and it can reach its destination fully autonomously
+so in two thousand and seven our team won half a million dollars by placing third place in this competition
+so about that time the national federation of the blind or nfb challenged the research committee about who can develop a car that lets a blind person drive safely and independently we decided to give it a try because we thought hey how hard could it be we have already an autonomous vehicle we just put a blind person in it and we 're done right
+and in the summer of two thousand and nine we invited dozens of blind youth from all over the country and gave them a chance to take it for a spin it was an absolutely amazing experience but the problem with this car was it was designed to only be driven in a very controlled environment in a flat closed off parking lot even the lanes defined by red traffic cones
+so with this success we decided to take the next big step to develop a real car that can be driven on real roads
+so how does it work well it 's a rather complex system but let me try to explain it maybe simplify it so we have three steps
+for that we use an initial measurement unit so it measures acceleration angular acceleration like a human ear inner ear we fuse that information with a gps unit to get an estimate of the location of the car
+we also use two cameras to detect the lanes of the road
+and we also use three laser range finders the lasers scan the environment to detect obstacles a car approaching from the front the back and also any obstacles that run into the roads any obstacles around the vehicle
+so all this vast amount of information is then fed into the computer and the computer can do two things one is first of all process this information to have an understanding of the environment these are the lanes of the road there 's the obstacles and convey this information to the driver
+so starting from a three dimensional ping sound system a vibrating vest a click wheel with voice commands a leg strip even a shoe that applies pressure to the foot but today we 're going to talk about three of these non visual user interfaces
+now the first interface is called a drivegrip
+so these are a pair of gloves and it has vibrating elements on the knuckle part so you can convey instructions about how to steer the direction and the intensity
+another device is called speedstrip so this is a chair as a matter of fact it 's actually a massage chair we gut it out and we rearrange the vibrating elements in different patterns and we actuate them to convey information about the speed and also instructions how to use the gas and the brake pedal
+so over here you can see how the computer understands the environment and because you cannot see the vibration we actually put red led 's on the driver so that you can see what 's happening this is the sensory data and that data is transferred to the devices through the computer
+so these two devices drivegrip and speedstrip are very effective but the problem is these are instructional cue devices so this is not really freedom right the computer tells you how to drive turn left turn right speed up stop
+and we 're now focusing more on the informational devices a good example for this informational non visual user interface is called airpix so think of it as a monitor for the blind so it 's a small tablet
+so here you can see the left camera the right camera from the vehicle and how the computer interprets that and sends that information to the airpix
+for this we 're showing a simulator a blind person driving using the airpix this simulator was also very useful for training the blind drivers and also quickly testing different types of ideas for different types of non visual user interfaces so basically that 's how it works
+so just a month ago on january twenty ninth we unveiled this vehicle for the very first time to the public at the world famous daytona international speedway during the rolex twenty four racing event we also had some surprises let 's take a look
+now i understand why there is braille on a drive up atm machine
+but sometimes i also do get i wouldn 't call it hate mail but letters of really strong concern dr hong are you insane trying to put blind people on the road you must be out of your mind
+but this vehicle is a prototype vehicle and it 's not going to be on the road until it 's proven as safe
+but still will the society would they accept such a radical idea how are we going to handle insurance how are we going to issue driver 's licenses there 's many of these different kinds of hurdles besides technology challenges that we need to address before this becomes a reality
+of course the main goal of this project is to develop a car for the blind but
+potentially more important than this is the tremendous value of the spin off technology that can come from this project the sensors that are used can see through the dark the fog and rain and together with this new type of interfaces we can use these technologies and apply them to safer cars for sighted people
+or for the blind everyday home appliances in the educational setting in the office setting

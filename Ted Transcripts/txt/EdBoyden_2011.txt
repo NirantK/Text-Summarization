@@ -1,0 +1,67 @@
+for a second you woke up felt fresh air on your face as you walked out the door encountered new colleagues and had great discussions and felt in awe when you found something new
+but i bet there 's something you didn 't think about today something so close to home that you probably don 't think about it very often at all and that 's that all the sensations feelings decisions and actions are mediated by the computer in your head called the brain
+now the brain may not look like much from the outside a couple pounds of pinkish gray flesh amorphous
+but the last hundred years of neuroscience have allowed us to zoom in on the brain and to see the intricacy of what lies within and they 've told us that this brain is an incredibly complicated circuit made out of hundreds of billions of cells called neurons now
+unlike a human designed computer where there 's a fairly small number of different parts we know how they work because we humans designed them
+is an incredible electrical device
+they receive input from thousands of upstream partners and compute their own electrical outputs which then if they pass a certain threshold will go to thousands of downstream partners and this process which takes just a millisecond or so happens
+thousands of times a minute in every one of your one hundred billion cells as long as you live and think and feel
+so how are we going to figure out what this circuit does ideally we could go through the circuit and turn these different kinds of cell on and off
+and see whether we could figure out which ones contribute to certain functions and which ones go wrong in certain pathologies if we could activate cells we could see what powers they can unleash what they can initiate and sustain if we could turn them off
+to confront some of the issues that face us all as humans now before i tell you about the technology
+the bad news is that a significant fraction of us in this room if we live long enough will encounter perhaps a brain disorder
+already a billion people have had some kind of brain disorder that incapacitates them
+and the numbers don 't do it justice though
+these disorders schizophrenia alzheimer 's depression addiction they not only steal our time to live they change who we are they take our identity and change our emotions and change who we are as people now in the twentieth century
+there was some hope that was generated through the development of pharmaceuticals for treating brain disorders and while many drugs have been developed that can alleviate symptoms
+so when i started in neuroscience eleven years ago i had trained as an electrical engineer and a physicist and the first thing i thought about was if these neurons are electrical devices all we need to do is to find some way of driving those electrical changes at a distance if we could turn on the electricity in one cell but not its neighbors
+that would give us the tool we need to activate and shut down these different cells figure out what they do and how they contribute to the networks in which they 're embedded and also it would allow us to have the ultra precise control we need in order
+if we can install these molecules in neurons somehow then these neurons would become electrically drivable with light and their neighbors which don 't have the molecule would not
+in its membrane or its boundary it contains little proteins
+that indeed can convert light into electricity so these molecules are called channelrhodopsins and each of these proteins acts just like that solar cell that i told you about when blue light hits it it opens up a little hole and allows charged particles to enter the eye spot and that allows this eye spot to have an electrical signal just like a solar cell charging up a battery
+so what we need to do is to take these molecules and somehow install them in neurons and because it 's a protein it 's encoded for in the dna of this organism
+so all we 've got to do is take that dna put it into a gene therapy vector like a virus and put it into neurons
+so it turned out that this was a very productive time in gene therapy and lots of viruses were coming along so this turned out to be
+and the next thing you know you have a neuron which can be activated with light
+so this is very powerful one of the tricks you have to do is to figure out how to deliver these genes to the cells that you want and not all the other neighbors and you can do that you can tweak the viruses so they hit just some cells and not others and there 's other genetic tricks you can play in order to get light activated cells
+and just as one example of the kind of thing you can do you can take a complex network use one of these viruses to deliver the gene just to one kind of cell in this dense network
+and then when you shine light on the entire network just that cell type will be activated so for example lets sort of consider that basket cell i told you about earlier the one that 's atrophied in schizophrenia and the one that is inhibitory if we can deliver that gene to these cells and they 're not going to be altered by the expression of the gene of course
+and then flash blue light over the entire brain network just these cells are going to be driven and when the light turns off these cells go back to normal so they don 't seem to be averse against that not only can you use this to study what these cells do what their power is in computing in the brain but you can also use this
+to try to figure out well maybe we could jazz up the activity of these cells if indeed they 're atrophied now i want to tell you a couple of short stories about how we 're using this
+both at the scientific clinical and pre clinical levels one of the questions we 've confronted is what are the signals in the brain that mediate the sensation of reward because if you could find those
+those would be some of the signals that could drive learning the brain will do more of whatever got that reward and also these are signals that go awry in disorders such as addiction
+so if we could figure out what cells they are we could maybe find new targets for which drugs could be designed or screened against
+or maybe places where electrodes could be put in for people who have very severe disability so to do that we came up with a very simple paradigm in collaboration with the fiorella group where one side of this little box if the animal goes there the animal gets a pulse of light in order to make different cells in the brain sensitive to light so if these cells can mediate reward the animal should go there more and more
+and so that 's what happens this animal 's going to go to the right hand side and poke his nose there and he gets a flash of blue light every time he does that and he 'll do that hundreds and hundreds of times these are the dopamine neurons which some of you may have heard about in some of the pleasure centers in the brain now we 've shown that a brief activation of these is enough indeed to drive learning
+now we can generalize the idea instead of one point in the brain we can devise devices that span the brain that can deliver light into three dimensional patterns arrays of optical fibers each coupled to its own independent miniature light source
+and then we can try to do things in vivo that have only been done to date in a dish like high throughput screening throughout the entire brain for the signals that can cause certain things to happen or that could be good clinical targets for treating brain disorders
+and one story i want to tell you about is how can we find targets for treating post traumatic stress disorder a form of uncontrolled anxiety and fear and one of the things that we did was to adopt a very classical model of fear this goes back to the pavlovian days it 's called pavlovian fear conditioning
+in order to try and figure out which targets can cause the brain to overcome
+used to mean bad news and there 's a little clock in the lower left hand corner so you can see the animal is about two minutes into this
+now over the last couple of years we 've gone back to the tree of life because we wanted to find ways to turn circuits in the brain off if we could do that this could be extremely powerful if you can delete cells just for a few
+let 's give an example of where we think this is going to go consider for example a condition like epilepsy where the brain is overactive now if drugs fail in epileptic treatment one of the strategies is to remove part of the brain but that 's obviously irreversible and there could be side effects what if we could just turn off
+that brain for a brief amount of time until the seizure dies away and cause the brain to be restored to its initial state sort of like a dynamical system that 's being coaxed down into a stable state
+now i want to close on one story which we think is another possibility which is that maybe these molecules if you can do ultra precise control can be used in the brain itself
+to make a new kind of prosthetic an optical prosthetic i already told you that electrical stimulators are not uncommon seventy five thousand people have parkinson 's deep brain stimulators implanted maybe one hundred thousand people have cochlear implants which allow them to hear
+there 's another thing which is you 've got to get these genes into cells and new hope in gene therapy has been developed because viruses like the adeno associated virus which probably most of us around this room have and it doesn 't have any symptoms
+most of us don 't have fungi or algae in our brains so what is our brain going to do if we put that in are the cells going to tolerate it will the immune system react in its early days these have not been done on humans yet but we 're working on a variety of studies to try and examine this and so far we haven 't seen
+overt reactions of any severity to these molecules or to the illumination of the brain with light so it 's early days to be upfront but we 're excited about it
+i wanted to close with one story which we think could potentially be a clinical application
+now there are many forms of blindness
+where the photoreceptors our light sensors that are in the back of our eye are gone and the retina of course is a complex structure now let 's zoom in on it here so we can see it in more detail
+the photoreceptor cells are shown here at the top and then the signals that are detected by the photoreceptors are transformed by various computations until finally that layer of cells at the bottom the ganglion cells relay the information to the brain where we see that as perception
+in many forms of blindness like retinitis pigmentosa or macular degeneration the photoreceptor cells have atrophied or been destroyed
+now how could you repair this it 's not even clear that a drug could cause this to be restored because there 's nothing for the drug to bind to on the other hand light can still get into the eye the eye is still transparent and you can get light in so what if we could just take these channelrhodopsins and other molecules and install them on some of these other spare cells and convert them into little cameras
+and because there 's so many of these cells in the eye potentially they could be very high resolution cameras
+so this is some work that we 're doing it 's being led by one of our collaborators alan horsager at usc and being sought to be commercialized by a start up company eos neuroscience which is funded by the nih
+and what you see here is a mouse trying to solve a maze it 's a six arm maze and there 's a bit of water in the maze to motivate the mouse to move or he 'll just sit there and the goal of course of this maze is to get out of the water and go to a little platform that 's under the lit top port now mice are smart so this mouse solves the maze eventually but he does a brute force search he 's swimming down every avenue until he finally gets to the platform
+so he 's not using vision to do it
+these different mice are different mutations that recapitulate different kinds of blindness that affect humans and so we 're being careful in trying to look at these different models so we come up with a generalized approach
+so how are we going to solve this we 're going to do exactly what we outlined in the previous slide we 're going to take these blue light photosensors and install them on a layer of cells in the middle of the retina in the back of the eye and convert them into a camera just like installing solar cells all over those neurons to make them light sensitive light is converted to electricity on
+of its eyes again and to point out the power of this these animals are able to get to that platform just as fast as animals that have seen their entire lives so this pre clinical study i think bodes hope for the kinds of things we 're hoping to do in the future
+to close i want to point out that we 're also exploring new business models for this new field of neurotechnology we 're developing these tools but we share them freely with hundreds of groups all over the world so people can study and try to treat different disorders and our hope is that by figuring out brain circuits at a level of abstraction that lets us repair them and engineer them
+we can take some of these intractable disorders that i told you about earlier
+practically none of which are cured and in the twenty first century make them history thank you
+some of the stuff is a little dense
+and being able to target those specifically
+the brain in two colors like an on off switch

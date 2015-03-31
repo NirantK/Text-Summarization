@@ -1,0 +1,86 @@
+welcome if i could have the first slide please
+contrary to calculations made by some engineers bees can fly
+what i want to do in the short time i have is to try to allow each of you to experience sort of the thrill of revealing
+the challenge of looking at nature 's designs and i'll tell you the way that we perceive it and the way we've used it the challenge of course is to answer this question what permits this extraordinary performance of animals that allows them basically to go anywhere
+many biologists will tell engineers and others organisms have millions of years to get it right they're spectacular they can do everything wonderfully well
+so the answer is biomimicry just copy nature directly we know from working on animals
+the truth is it's exactly what you don't want to do because evolution works
+natural technologies have incredible constraints think about it if you were an engineer and i told you that you had to build an automobile but it had to start off to be this big then it had to grow to be full size and had to work every step along the way
+because of history and the inherited plan start with a clean slate so organisms have this important history really
+this is a real challenge to do this because animals when you start to really look inside them how they work appear hopelessly complex there's no detailed history of the design plans you can't go look it up anywhere
+they have way too many motions for their joints too many muscles even the simplest animal we think of something like an insect and they have more neurons and connections than you can imagine
+how can you make sense of this well we believed and we hypothesized that one way animals could work simply
+is if the control of their movements tended to be built into their bodies themselves what we discovered was that
+six and eight legged animals all produce the same forces on the ground when they move they all work like this kangaroo they bounce
+works like two legs of a trotting dog or works like three legs together as one of a trotting insect or four legs as one as a trotting crab and then they alternate
+in their propulsion but the patterns are all the same almost every organism we've looked at this way you'll see next week i'll give you a hint there'll be an article coming out that says that really big things
+like t rex probably couldn't do this but you'll see that next week now what's interesting is the animals then we said bounce along the vertical plane this way and in our collaborations with pixar
+the bipedal nature of the characters of the ants and we told them of course they move in another plane as well and they asked us this question they say why model
+just in the sagittal plane or the vertical plane when you're telling us these animals are moving in the horizontal plane this is a good question nobody in biology ever modeled it this way we took their advice
+and we modeled the animals moving in the horizontal plane as well we took their three legs we collapsed them down as one we got some of the best mathematicians in the world from princeton to work on this problem
+and we were able to create a model where animals are not only bouncing up and down but they're also bouncing side to side at the same time and many organisms fit
+this kind of pattern now why is this important to have this model because it's very interesting when you take this model and you perturb it you give it a push as it bumps into something enough
+appear to be self stabilizing like this using basically springy legs that is the legs can do computations on their own the control algorithms in a sense are embedded in the form of the animal itself
+why haven't we been more inspired by nature and these kinds of discoveries well i would argue that human technologies are really different from natural technologies at least they have been so far think about the typical kind of robot that you see
+however what's changing what's really exciting and i'll show you some of that next is that as human technology takes on more of the characteristics of nature then nature really can become a much more useful teacher
+here 's one example that's really exciting this is a collaboration we have with stanford and they developed this new technique called shape deposition manufacturing it's a technique where they can mix materials together and mold any shape that they like and
+for example here 's a leg the clear part is stiff the white part is compliant and you don't need any axles
+there or anything it just bends by itself beautifully so you can put those properties in it inspired them to show off this design by producing a little robot they named sprawl
+our work has also inspired another robot a biologically inspired bouncing robot from the university of michigan and mcgill named rhex for robot hexapod and this one 's autonomous
+let 's go to the video and let me show you some of these animals moving and then some of the simple robots that have been inspired by our discoveries
+this is a death 's head cockroach this is an american cockroach you think you don't have in your kitchen this is an eight legged scorpion six legged ant forty four legged centipede
+i said all these animals are sort of working like pogo sticks they're bouncing along as they move and you can see that in this ghost crab from the beaches of panama and north carolina it goes up to four meters per second when it runs
+actually leaps into the air and has aerial phases when it does it like a horse and you'll see it's bouncing here what we discovered is whether you look at the leg of a human like richard or
+seen so far now what good are springy legs then what can they do well we wanted to see if they allowed the animals to have greater stability and maneuverability so we built a terrain
+here 's the first example of that this is the stanford shape deposition manufactured robot named sprawl it has six legs there are the tuned
+springy legs it moves in a gait that an insect uses and here it is going on the treadmill
+now what's important about this robot compared to other robots
+is that it can't see anything it can't feel anything it doesn't have a brain yet it can maneuver over
+these obstacles without any difficulty whatsoever it's this technique of building the
+into the form this is a graduate student this is what he 's doing to his thesis project very robust if a graduate student does that to his thesis project
+this is from mcgill and university of michigan this is the rhex making its first outing in a demo same principle
+it only has six moving parts
+six motors but it has springy tuned legs it moves in the gait of the insect it has the middle leg moving
+in synchrony with the front and the hind leg on the other side sort of an alternating tripod and they can negotiate obstacles just like the animal oh my
+go on different surfaces here 's sand although we haven't perfected the feet yet but i'll talk about that later here 's rhex entering the the fundamental dynamics
+the fundamental dynamics love him bob here
+said especially with legged robots because they're way too complicated nothing can do that and i talk next i showed them this video with the simple design of rhex here and just to convince them we should go to mars in two thousand and eleven i
+video orange just to give them
+another reason why animals have extraordinary performance and can go anywhere is because they have an effective interaction with the environment the animal i'm going to show you that we studied to look at this
+is the gecko we have one here
+and notice its position it's holding on
+now i'm going to challenge you i'm going show you a video one of the animals is going to be running on the level and the other one 's going to be running up a wall which one 's which
+going at a meter a second how many think the one on the left is running up the wall the point is
+really hard to tell isn't it it's incredible we looked at students do this and it's just phenomenal
+the one on the right was going up the
+this they have bizarre toes they have toes that uncurl like party favors when you blow them out
+and then peel off the surface like tape like if we had a piece of tape now we'd peel it this way they do this with their toes it's
+this peeling inspired irobot that we work with to build mecho geckos here 's a legged version and a tractor version or a bulldozer version
+let 's see some of the geckos move with some video and then i'll show you a little bit of a clip of the robots here 's the gecko running up a vertical surface there it goes in real time
+you can't use regular cameras you have to take one thousand pictures per second to see this and here 's some video at one thousand frames per second
+i want you to look at the animal 's back do you see how much it's bending like that we can't figure that out that's an unsolved mystery we don't know how it works
+it's a see through treadmill with a see through treadmill belt so we can watch the animals feet and video tape them through the treadmill belt to see
+here 's the animal that we have here running on a vertical surface pick a foot and try to watch a toe and see if you can see what the animal 's doing
+see it uncurl and then peel these toes it can do this in fourteen milliseconds
+and here 's the peeling action of the mecho gecko it uses a pressure sensitive adhesive to do it peeling in the
+peeling in the mecho gecko that allows them climb autonomously can go on the flat surface transition to a wall and then go on to a ceiling there's the bulldozer version
+now it doesn't use pressure sensitive glue the animal does not use that but that's what we're limited to at the moment
+what does the animal do the animal has weird toes and if you look at the toes they have these little leaves there
+nine hundred times you see there are hairs there tiny hairs and if you look carefully those tiny hairs have
+and if you zoom in on those thirty thousand times you'll see each hair has split ends
+to get very close to the surface in fact there's the diameter of your hair a gecko has two million of these and each hair has one hundred to one thousand split ends
+think of the contact of that that's possible we were fortunate to work with another group at stanford that built us a special manned sensor that we were able to measure the force of an individual hair
+here 's an individual hair with a little split end there when we measured the forces
+they were so large that a patch of hairs about this size the gecko 's foot could support the weight of a small child about forty pounds easily now how do they do it
+how about wet adhesion or capillary adhesion they don't have any glue and they even stick under water just fine if you put their foot under water they grab on how
+believe it or not they grab on by intermolecular forces by van der waals forces you know you probably had this a long time ago in chemistry where you had these
+what we're doing is we're taking that inspiration of the hairs and with another colleague at berkeley
+we're manufacturing them and just recently we've made a breakthrough where we now believe we're going to be able to create
+are interested in this we also presented to nike even
+see where this goes we were so excited about this that we realized that that small size scale and where everything gets sticky and gravity doesn't matter anymore
+we needed to look at ants and their feet because one of my other colleagues at berkeley has built a six millimeter silicone robot with legs but it gets stuck it doesn't move very well
+the ants do and we'll figure out why so that ultimately we'll make this move and imagine you're going to be able to have swarms of these six millimeter robots available to run around
+this going i think you can see it already clearly the internet is already having eyes and ears you have web cams and so forth
+the beginning of that with his fish
+so in conclusion i think the message is clear if you need a message if nature 's not enough if you care about search and rescue or mine clearance or medicine or the various things we're working on
+we must preserve nature 's designs otherwise these secrets will be lost forever thank you

@@ -1,0 +1,104 @@
+you worry about what is going to kill you heart disease cancer a car accident most of us worry about things we can't control
+like war terrorism the tragic earthquake that just occurred in haiti but what really threatens humanity
+a few years ago professor vaclav smil tried to calculate the probability of sudden disasters large enough to change history
+he called these massively fatal discontinuities meaning that they could kill up to one hundred million people in the next fifty years
+he looked at the odds of another world war of a massive volcanic eruption even of an asteroid hitting the earth
+now you might think of flu as just a really bad cold but it can be a death sentence every year thirty six thousand people in the united states die
+seasonal flu in the developing world the data is much sketchier but the death toll is almost certainly higher
+the problem is if this virus occasionally mutates so dramatically it essentially is a new virus and then we get a pandemic
+are we safer today well we seem to have dodged the deadly pandemic this year that most of us feared but this threat could reappear at any time
+the good news is that we're at a moment in time when science technology globalization is converging to create an unprecedented possibility
+the possibility to make history by preventing infectious diseases that still account for one fifth of all deaths and countless misery on earth
+we can do this we're already preventing millions of deaths with existing vaccines and if we get these to more people we can certainly save more lives
+but with new or better vaccines for malaria tb hiv pneumonia diarrhea flu we could end suffering that has been on the earth since the beginning of time
+so i'm here to trumpet vaccines for you but first i have to explain why they're important because vaccines
+the power of them is really like a whisper when they work they can make history but after awhile you can barely hear them
+now some of us are old enough to have a small circular scar on our arms from an inoculation we received as children
+but when was the last time you worried about smallpox a disease that killed half a billion people last century and no longer is with us
+or polio how many of you remember the iron lung we don't see scenes like this anymore because of vaccines now
+you know it's interesting because there are thirty odd diseases that can be treated with vaccines now but we're still threatened by things like hiv and flu
+why is that well here 's the dirty little secret until recently we haven't had to know exactly how a vaccine worked
+we knew they worked through old fashioned trial and error you took a pathogen you modified it you injected it into a person or an animal and you saw what happened
+this worked well for most pathogens somewhat well for crafty bugs like flu but not at all for hiv for which humans have no natural immunity
+so let 's explore how vaccines work they basically create a cache of weapons for your immune system which you can
+deploy when needed now when you get a viral infection what normally happens is it takes days or weeks for your body to fight back
+at full strength and that might be too late when you're pre immunized what happens is you have forces in your body pre trained to recognize and defeat specific foes
+so that's really how vaccines work now let 's take a look at a video that we're debuting at ted for the first time on how an effective hiv vaccine might work
+a vaccine trains the body in advance how to recognize and neutralize a specific invader after hiv
+the body 's mucosal barriers it infects immune cells to replicate the invader draws the attention of the immune system 's front line troops
+these memory cells immediately deploy the exact weapons needed memory b cells turn into
+which produce wave after wave of specific antibodies that latch on to hiv to prevent it from infecting cells
+while squadrons of killer t cells seek out and destroy cells that are already hiv infected the virus is defeated
+without a vaccine these responses would have taken more than a week by that time the battle against hiv would already have been
+really cool video isn't it
+the antibodies you just saw in this video in action are the ones that make most vaccines work so the real question then is how do we insure that your body makes the exact
+that we need to protect against flu and hiv the principal challenge for both of these viruses is that they're always changing
+so let 's take a look at the flu virus in this rendering of the flu virus these different colored spikes are what is uses to infect you
+and also what the antibodies use is a handle to essentially grab and neutralize the virus when these mutate they change their shape and the antibodies don't know what they're looking at anymore
+so that's why every year you can catch a slightly different strain of flu it's also why
+in the spring we have to make a best guess at which three strains are going to prevail the next year put those into a single vaccine and rush those into production for the fall
+even worse the most common influenza influenza a also infects animals that live in close proximity to humans
+and they can recombine in those particular animals in addition wild aquatic birds carry all known strains of influenza
+so you've got this situation in two thousand and three we had an h five n one virus that jumped from birds into humans in a few isolated cases with an apparent mortality rate of seventy percent
+now luckily that particular virus although very scary at the time did not transmit from person to person very easily
+this year 's h one n one threat was actually a human avian swine mixture that arose in mexico it was easily transmitted but luckily
+was pretty mild and so in a sense our luck is holding out but you know another wild bird could fly over at
+now let 's take a look at hiv as variable as flu is hiv makes flu look like the rock of gibraltar the virus that causes aids is the trickiest pathogen scientists have ever confronted
+it mutates furiously it has decoys to evade the immune system it attacks the very cells that are trying to fight it and it quickly hides itself in your genome
+here 's a slide looking at the genetic variation of flu and comparing that to hiv a much wilder target
+in the video a moment ago you saw fleets of new viruses launching from infected cells now realize that in a recently infected person
+there are millions of these ships each one is just slightly different finding a weapon that recognizes and sinks all of them makes the job that much harder
+now in the twenty seven years since hiv was identified as the cause of aids we've developed more drugs to treat hiv than all other viruses put together
+these drugs aren't cures but they represent a huge triumph of science because they take away the automatic death sentence from a diagnosis of hiv at least for those who can access them
+the vaccine effort though is really quite different large companies moved away from it because they thought the science was so difficult
+and vaccines were seen as poor business many thought that it was just impossible to make an aids vaccine but today evidence tells us otherwise
+in september we had surprising but exciting findings from a clinical trial that took place in thailand for the first time we saw an aids vaccine work in humans albeit
+but in the past few months researchers have also isolated several new broadly neutralizing antibodies from the blood of an hiv infected individual now what does this mean
+we saw earlier that hiv is highly variable that a broad neutralizing antibody latches on and disables multiple
+variations of the virus if you take these and you put them in the best of our monkey models they provide full protection from infection
+in addition these researchers found a new site on hiv where the antibodies can grab onto and what's so special about this spot is that it changes very little as the virus mutates
+it's like as many times as the virus changes its clothes it's still wearing the same socks and now our job is to make sure we get the body to really hate those socks
+so what we've got is a situation the thai results tell us we can make an aids vaccine and the antibody findings tell us how we might do that
+this strategy working backwards from an antibody to create a vaccine candidate has never been done before in vaccine research
+it's called retro vaccinology and its implications extend way beyond that of just hiv so think of it this way
+we've got these new antibodies we've identified and we know that they latch on to many many variations of the virus we know that they have to latch on to a specific part so if we can figure out the precise structure of that part
+present that through a vaccine what we hope is we can prompt your immune system to make these matching antibodies and that would create a universal hiv vaccine
+now it sounds easier than it is because the structure actually looks more like this blue antibody diagram attached to its yellow binding site
+but you know the research that has occurred from hiv now has really helped with innovation for other diseases so for instance
+a biotechnology company has now found broadly neutralizing antibodies to influenza as well as a new antibody target on the flu virus
+currently making a cocktail an antibody cocktail that can be used to treat severe overwhelming cases of flu now in the longer term what they can do is use these tools of retro vaccinology to make a preventive flu vaccine
+now retro vaccinology is just one technique within the ambit of so called rational vaccine design let me give you another example
+we talked about before the h and m spikes on the surface of the flu virus notice these other smaller protuberances these are largely hidden from the immune system now it turns out that these spots
+so far animal tests indicate that such a vaccine could prevent severe disease although you might get a mild case so if this works in humans what we're talking about is a universal flu vaccine
+one that doesn't need to change every year and would remove the threat of death we really could think of flu then as just a bad cold
+of course the best vaccine imaginable is only valuable to the extent we get it to everyone who needs it so to do that we have to combine smart vaccine design with smart production methods and of course smart delivery methods
+so i want you to think back a few months ago in june the world health organization declared
+the first global flu pandemic in forty one years the u s government promised one hundred and fifty million doses of vaccine by october fifteenth for the flu peak
+well we first figured out how to make flu vaccines how to produce them in the early nineteen forties it was a slow cumbersome process that depended on
+chicken eggs millions of living chicken eggs viruses only grow in living things and so it turned out that
+for flu chicken eggs worked really well for most strains you could get one to two doses of vaccine per egg
+luckily for us we live in an era of breathtaking biomedical advances so today we get our flu vaccines from chicken eggs
+hundreds of millions of chicken eggs you know almost nothing has changed you know the system is reliable but the problem is you never know how well a strain is going to grow
+so here 's an alarming thought what if that wild bird flies by again you could see an avian strain that would infect the poultry flocks
+and then we would have no eggs for our vaccines so dan if you want billions of chicken pellets for your fish farm i know where to get them
+so right now the world can produce about three hundred and fifty million doses of flu vaccine for the three strains and we can up that to about
+one point two billion doses if we want to target a single variant like swine flu but this assumes that our factories are humming
+because in two thousand and four the u s supply was cut in half by contamination at one single plant and the process still takes more than half a year
+a company i'm engaged with has found a specific piece of the h spike flu that sparks the immune system
+if you lop this off and attach it to the tail of a different bacterium which creates a vigorous immune response they've created a very powerful flu fighter
+this vaccine is so small it can be grown in a common bacteria e coli now as you know bacteria reproduce quickly it's like making yogurt
+and so we could produce enough swine origin flu for the entire world in a few factories in a few weeks with no eggs for a fraction of the cost of current methods
+so here 's a comparison of several of these new vaccine technologies and aside from the radically increased production and huge cost savings for example the e coli method i just talked about look at the time saved this would be lives saved
+the developing world mostly left out of the current response sees the potential of these alternate technologies and they're leapfrogging the west
+india mexico and others are already making experimental flu vaccines and they may be the first place we see these vaccines in use
+because these technologies are so efficient and relatively cheap billions of people can have access to lifesaving vaccines if we can figure out how to deliver them now think of where this leads us
+new infectious diseases appear or reappear every few years some day perhaps soon we'll have a virus that is going to threaten all of us
+will we be quick enough to react before millions die luckily this year 's flu was relatively mild i say luckily in part because virtually no one in the developing world was vaccinated
+so if we have the political and financial foresight to sustain our investments we will master these and new tools of vaccinology and with these tools we can produce enough vaccine for everyone at low cost and insure healthy productive lives
+no long must flu have to kill half a million people a year no longer does aids need to kill two million a year no longer do the poor and vulnerable need to be threatened by infectious diseases or indeed anybody
+the continuity of life what the world needs now are these new vaccines and we can make it happen thank you very much
+thank you thank you so the science is changing in your mind seth i mean you must dream about this what is the kind of time scale
+on let 's start with hiv for a game changing vaccine that's actually out there and usable
+the game change can come at any time because the problem we have now is we've shown we can get a vaccine to work in humans we just need a better one and with these types of antibodies we know humans can make them so if we can figure out
+how to do that then we have the vaccine and what's interesting is there already is some evidence that we're beginning to crack that
+i think flu is different i think what happened with flu is we've got a bunch i just showed some of this a bunch of really cool and useful technologies that are ready to go now they look good the problem has been that what we did was we invested in traditional technologies because that's what we were comfortable with you

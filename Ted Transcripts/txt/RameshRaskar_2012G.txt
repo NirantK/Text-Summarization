@@ -1,0 +1,32 @@
+but now fifty years later we can go a million times faster and see the world not at a million or a billion but one trillion frames per second i present you
+a new type of photography femto photography a new imaging technique so fast
+and really challenge what we mean by a camera
+now if i take a laser pointer and turn it on and off in one trillionth of a second which is several femtoseconds i 'll create a packet of photons barely a millimeter wide
+and that packet of photons that bullet will travel at the speed of light and again a million times faster than an ordinary bullet
+now if you take that bullet and take this packet of photons and fire into this bottle how will those photons shatter into this bottle how does light look in slow motion now the whole
+now remember the whole event is effectively taking place in less than a nanosecond that 's how much time it takes for light to travel but i 'm slowing down in this video by a factor of ten billion so you can see the light in motion but coca cola did not sponsor this research now
+if you take an ordinary bullet
+and let it go the same distance and slow down the video again by a factor of ten billion do you know how long you 'll have to sit here to watch that movie
+a day a week actually a whole year it 'll be a very boring movie
+you can watch the ripples again washing over the table the tomato and the wall in the back it 's like throwing a stone in a pond of water
+but if you look at this tomato one more time you will notice as the light washes over the tomato it continues to glow it doesn 't become dark why is that because the tomato is actually ripe and the light is bouncing around inside the tomato and it comes out after several trillionths of a second
+so in the future when this femto camera is in your camera phone you might be able to go to a supermarket and check if the fruit is ripe without actually touching it
+so how did my team at mit create this camera
+but we 're going to go a billion times faster than your shortest exposure
+so after our paper was published in nature communications it was highlighted by nature com and they created this animation
+and because the packet of the photons
+and a tiny fraction of the photons will actually come back to the camera but most interestingly they will all arrive at a slightly different time slot
+and it can look at the world at the speed of light
+and this way we know the distances of course to the door but also to the hidden objects but we don 't know which point corresponds to which distance
+which you look on the screen doesn 't really make any sense but then we will take a lot of such pictures dozens of such pictures put them together and try to analyze the multiple bounces
+or we can look for survivors in hazardous conditions by looking at light reflected through open windows
+and also for cardioscopes but of course because of tissue and blood this is quite challenging so this is really a call for scientists to start thinking about femto photography as really a new imaging modality to solve the next generation of health imaging problems
+now like doc edgerton a scientist himself science became art an art of ultra fast photography
+and i realized that all the gigabytes of data that we 're collecting every time is not just for scientific imaging but we can also do a new form of computational photography with time lapse and color coding
+and we look at those ripples remember the time between each of those ripples is only a few trillionths of a second
+but there 's also something funny going on here when you look at the ripples under the cap the ripples are moving away from us the ripples should be moving towards us what 's going on here it turns out because we 're recording nearly at the speed of light
+we have strange effects and einstein would have loved to see this picture
+the order at which events take place in the world appear in the camera with sometimes reversed order so by applying the corresponding space and time warp we can correct for this distortion so whether it 's for photography around corners
+or creating the next generation of health imaging or creating new visualizations
+since our invention we have open sourced all the data and details on our website and our hope is that the diy the creative and the research community will show us that we should stop
+obsessing about the megapixels in cameras

@@ -1,0 +1,65 @@
+powerful even today technology created by innovative companies will set us all free
+fast forward more than two decades apple launches the iphone in china and censors the dalai lama out along with several other politically sensitive applications at the request of the chinese government for its chinese app store
+the american political cartoonist mark fiore also had his satire application censored in the united states because some of apple 's staff were concerned it would be offensive to some groups his app wasn 't reinstated until he won the pulitzer prize
+the german magazine stern a news magazine had its app censored because the apple nannies deemed it to be a little bit too racy for their users
+and despite the fact that this magazine is perfectly legal for sale on newsstands throughout germany and more controversially recently apple censored a palestinian protest app after the israeli government voiced concerns that it might be used to organize violent attacks
+so here 's the thing we have a situation where private companies are applying censorship standards
+that are often quite arbitrary
+and generally more narrow than the free speech constitutional standards that we have in democracies or they 're responding to censorship requests by authoritarian regimes that do not reflect consent of the governed or they 're responding to requests and concerns by governments
+that have no jurisdiction over many or most of the users and viewers who are interacting with the content in question
+was controlled almost entirely by nation states but now we have this new layer of private sovereignty in cyberspace
+and their decisions about software coding engineering design terms of service all act as a kind of law that shapes what we can and cannot do with our digital lives and their sovereignties cross cutting globally interlinked
+can in some ways challenge the sovereignties of nation states in very exciting ways
+but sometimes also act to project and extend it at a time when control over what people can and cannot do with information has more effect than ever on the exercise of power in our physical world
+and these platforms were certainly very helpful to activists in tunisia and egypt this past spring and beyond as wael ghonim the google egyptian executive by day secret facebook activist by night
+famously said to cnn after mubarak stepped down if you want to liberate a society just give them the internet
+but overthrowing a government is one thing and building a stable democracy is a bit more complicated on the left there 's a photo taken by an egyptian activist who was part of the storming of the egyptian state security offices in march
+and many of the agents shredded as many of the documents as they could and left them behind in piles but some of the
+files were left behind intact
+and activists some of them found their own surveillance dossiers full of transcripts of their email exchanges their cellphone text message exchanges even skype conversations and one activist actually found a contract
+from a western company for the sale of surveillance technology to the egyptian security forces and egyptian activists are assuming that these technologies for surveillance are still being used by the transitional authorities running the networks there
+and in tunisia censorship actually began to return in may not nearly as extensively as under president ben ali but you 'll see here a blocked page of what happens when you try to reach certain facebook pages and some other websites that the transitional authorities have determined might incite violence
+in protest over this blogger slim amamou who had been jailed under ben ali and then became part of the transitional government after the revolution he resigned in protest from the cabinet
+but there 's been a lot of debate in tunisia about how to handle this kind of problem in fact on twitter there were a number of people who were supportive of the revolution who said well actually we do want democracy and free expression but there is some kinds of speech that need to be off bounds because it 's too violent and it might be destabilizing for our democracy
+but the problem is how do you decide who is in power to make these decisions and how do you make sure that they do not abuse their power
+as riadh guerfali the veteran digital activist from tunisia remarked over this incident before things were simple you had the good guys on one side and the bad guys on the other today things are a lot more subtle
+welcome to democracy our tunisian and egyptian friends the reality is that
+even in democratic societies today we do not have good answers
+for how you balance the need for security and law enforcement on one hand and protection of civil liberties and free speech on the other in our digital networks
+amazon webhosting dropped wikileaks as a customer after receiving a complaint from u s senator joe lieberman despite the fact that wikileaks had not been charged let alone convicted of any crime
+so we assume that the internet is a border busting technology this is a map of
+social networks worldwide and certainly facebook has conquered much of the world which is either a good or a bad thing depending on how you like the way facebook manages its service but borders do persist in some parts of cyberspace in brazil and japan it 's for unique cultural and linguistic reasons
+but if you look at china vietnam and a number of the former soviet states
+what 's happening there is more troubling you have a situation where the relationship between government and local social networking companies
+is creating a situation where effectively the empowering potential of these platforms is being constrained because of these relationships between companies
+and government now in china you have the great firewall as it 's well known that blocks facebook and
+and that 's done in part with the help from western technology but that 's only half of the story the other part of the story are requirements that the chinese government places on all companies operating on the chinese internet
+presented awards to the top twenty chinese companies that are best
+in russia they do not generally block the internet and directly censor websites but this is a website called rospil that 's an anti corruption site and earlier this year there was a troubling incident where people who had made donations to rospil through
+a payments processing system called yandex money
+suddenly received threatening phone calls from members of a nationalist party who had obtained details about donors to rospil through members of the security services who had somehow obtained this information from people at yandex money
+this has a chilling effect on people 's ability to use the internet to hold government accountable
+so we have a situation in the world today where in more and more countries
+the relationship between citizens and governments is mediated through the internet which is comprised primarily of privately owned and operated services so the important question i think is not this debate over whether the internet is going to help the good guys
+more than the bad guys of course it 's going to empower whoever is most skilled at using the technology and best understands the internet in comparison with whoever their adversary is the most urgent question we need to be asking today is how do we make sure
+that the internet evolves in a citizen centric manner
+because i think all of you will agree that the only legitimate purpose of government is to serve citizens and i would argue that the only legitimate purpose of technology is to improve our lives not to manipulate or enslave us so
+the question is we know how to hold government accountable we don 't necessarily always do it very well but we have a sense of what the models are politically and institutionally to do that
+how do you hold the sovereigns of cyberspace accountable to the public interest when most ceo 's argue that their main obligation is to maximize shareholder profit
+and government regulation often isn 't helping all that much you have situations for instance in france where president sarkozy tells the ceo 's of internet companies we 're the only legitimate representatives of the public interest
+but then he goes and champions laws like the infamous three strikes law that would disconnect citizens from the internet for file sharing which has been condemned
+by the u n special rapporteur on freedom of expression as being a disproportionate
+violation of citizens right to communications and has raised questions amongst civil society groups about whether some political representatives are more interested in preserving the interests of the entertainment industry than they are in defending the rights of their citizens
+and here in the united kingdom there 's also concern over a law called the digital economy act that 's placing more onus
+on private intermediaries to police citizen behavior
+so what we need to recognize is that if we want to have a citizen
+centric internet in the future we need a broader and more sustained internet freedom movement
+after all companies didn 't stop polluting groundwater as a matter of course
+or employing ten year olds as a matter of course just because executives woke up one day and decided it was the right thing to do it was the result of decades of sustained activism shareholder advocacy and consumer advocacy similarly governments don 't enact
+intelligent environmental and labor laws just because politicians wake up one day it 's the result of very sustained and prolonged political activism that you get the right regulations and that you get the right corporate behavior we need to make the same approach with the internet
+we also are going to need political innovation eight hundred years ago approximately the barons of england decided that the divine right of kings was no longer working for them so well and they forced king john to sign the magna carta
+which recognized that even the king who claimed to have divine rule still had to abide by a basic set of rules
+this set off a cycle of what we can call political innovation which led eventually to the idea of consent of the governed which was implemented for the first time by that radical revolutionary government in america across the pond
+so now we need to figure out how to build consent of the networked and what does that look like at the moment we still don 't know but it 's going to require innovation
+that 's not only going to need to focus on politics on geopolitics but it 's also going to need to deal with
+questions of business management investor behavior consumer choice and even software design and engineering

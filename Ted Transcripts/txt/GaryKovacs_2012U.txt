@@ -1,0 +1,27 @@
+why but i 'm continually amazed to think that two and a half billion of us around the world are connected to each other through the internet and that at any point in time more than thirty percent of the world 's population can go online to learn to create and to share
+and the amount of time each of us is spending doing all of this is also continuing to go grow a recent study showed that the young generation alone is spending over eight hours a day online
+as the parent of a nine year old girl that number seems awfully low
+today what many of us would love to believe is that the internet is a private place it 's not and with every click of the mouse and every touch of the screen we are like hansel and gretel leaving breadcrumbs of our personal information everywhere we travel through the digital woods
+we are leaving our birthdays our places of residence
+our interests and preferences our relationships our financial histories and on and on it goes now don 't get me wrong i 'm not for one minute suggesting that sharing data is a bad thing in fact
+when i know the data that 's being shared and i 'm asked explicitly for my consent
+i want some sites to understand my habits it helps them suggest books for me to read or movies for my family to watch or friends for us to connect with but when i don 't know and when i haven 't been asked that 's when the problem arises
+it 's a phenomenon on the internet today called behavioral tracking and it is very big business in fact there 's an entire industry formed around following us through the digital woods and compiling a profile on each of us
+and when all of that data is held they can do almost whatever they want with it this is an area today that has very few regulations and even fewer rules except for some of the recent announcements here in the united states and in europe
+it 's an area of consumer protection that 's almost entirely naked
+so let me expose this lurking industry a little bit further the visualization you see forming behind me is called collusion and it 's an experimental browser add on that you can install in your firefox browser that helps you see where your web data is going and who 's tracking you the red dots you see up there are
+all of them are connected as you can see to form a picture of me on the web and this is my profile so let me go from an example to something very specific and personal
+i installed collusion in my own laptop two weeks ago and i let it follow me around for what was a pretty typical day now like most of you i actually start my day going online and checking email i then go to a news site look for some headlines
+and in this particular case i happened to like one of them on the merits of music literacy in schools and i shared it over a social network our daughter then joined us at the breakfast table and i asked her
+is there an emphasis on music literacy in your school and she of course naturally as a nine year old looked at me and said quizzically what 's literacy so i sent her online of course to look it up
+now let me stop here we are not even two bites into breakfast
+and there are already nearly twenty five sites that are tracking me i have navigated to a total of four
+so let me fast forward through the rest of my day i go to work i check email i log onto a few more social sites i blog i check more news reports i share some of those news reports i go look at some videos
+pretty typical day in this case actually fairly pedantic and at the end of the day as my day winds down
+look at my profile the red dots have exploded the gray dots have grown exponentially all in all there 's over one hundred and fifty sites that are now tracking my personal information most all of them without my consent i look at this picture and it freaks me out
+this is nothing i am being stalked across the web and why is this happening pretty simple it 's huge business the revenue of the top handful of companies in this space is over thirty nine billion dollars today and as adults we 're certainly not alone
+at the same time i installed my own collusion profile i installed one for my daughter and on one single saturday morning over two hours on the internet here 's her collusion profile
+this is a nine year old girl navigating to principally children 's sites i move from this from freaked out to enraged this is no longer me being a tech pioneer or a privacy advocate this is me being a parent
+imagine in the physical world if somebody followed our children around with a camera and a notebook and recorded their every movement
+i can tell you there isn 't a person in this room that would sit idly by we 'd take action it may not be good action but we would take action laughter we can 't sit idly by here either this is happening today privacy is not an option and it shouldn 't be the price we accept for just getting on the internet
+our voices matter and our actions matter even more today we 've launched collusion you can download it install it in firefox to see who is tracking you across the web and following you through the digital woods

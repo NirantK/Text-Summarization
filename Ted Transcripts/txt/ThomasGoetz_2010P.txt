@@ -1,0 +1,83 @@
+talking to you about how we can tap a really underutilized resource in health care which is the patient
+or as i like to use the scientific term people because we are all patients we are all people
+even doctors are patients at some point so i want to talk about that as an opportunity that we really have failed to engage with very well in this country
+and in fact worldwide if you want to get at the big part i mean from a public health level where my training is you're looking at
+those are all behaviors where people know what they're supposed to do they know what they're supposed to be doing but they're not doing it now behavior change is something that is a long standing problem in medicine it goes all the way back to aristotle
+and doctors hate it right i mean they complain about it all the time we talk about it in terms of engagement or non compliance when people don't take their pills when people don't follow doctors orders these are behavior problems
+but for as much as clinical medicine agonizes over behavior change there's not a lot of work done in terms of trying to fix that problem
+so the crux of it comes down to this notion of decision making giving information to people in a form that doesn't just
+educate them or inform them but actually leads them to make better decisions better choices in their lives one part of medicine though has faced
+the problem of behavior change pretty well and that's dentistry dentistry might seem and i think it is many dentists would have to acknowledge it's somewhat of a mundane backwater of medicine not a lot of cool sexy stuff happening in dentistry
+but they have really taken this problem of behavior change and solved it it's the one great preventive health success we have in our health care system
+people brush and floss their teeth they don't do it as much as they should but they do it so i'm going to talk about one experiment that
+in connecticut cooked up about thirty years ago so this is an old experiment but it's a really good one because it was very simple so it's an easy story to tell
+so these connecticut dentists decided that they wanted to get people to brush their teeth and floss their teeth more often and they were going to use one variable they wanted to scare them
+they wanted to tell them how bad it would be if they didn't brush and floss their teeth they had a big patient population they divided them up into two groups they had a low fear population where they basically gave them a thirteen
+minute presentation all based in science but told them that if you didn't brush and floss your teeth you could get gum disease if you get gum disease you will lose your teeth but you'll get dentures and it won 't be that
+that was the low fear group the high fear group they laid it on really thick they showed bloody gums they showed puss oozing out from between their teeth they told them
+that their teeth were going to fall out they said that they could have infections that would spread from their jaws to other parts of their bodies and ultimately yes they would lose their teeth they would get dentures
+was this the upshot of this experiment was that fear was not really a primary driver of the behavior at all the people who brushed and flossed their teeth
+not necessarily the people who were really scared about what would happen it's the people who simply felt that they had the capacity to change their behavior
+so fear showed up as not really the driver it was the sense of efficacy
+it was a notion that really came out of albert bandura 's work who studied whether people
+get a sense of empowerment the notion of efficacy basically boils down to one that if somebody believes that they have the capacity to change their behavior
+better health and that's a very important notion it's an amazing notion
+we don't really know how to manipulate it though that well except maybe we do
+so fear doesn't work right fear doesn't work and this is a great example of how we haven't learned that lesson at all this is a campaign from the american diabetes association this is still the way we're communicating messages about health
+i mean i showed my three year old this slide last night and he 's like papa why is an ambulance in these people 's homes and i had to explain they 're trying to scare people and i don't know if it works
+here 's what does work personalized information works again bandura recognized this years ago decades ago
+when you give people specific information about their health where they stand and where they want to get to where they might get to that
+path that notion of a path that tends to work for behavior change so let me just spool it out
+with personalized data personalized information that comes from an individual
+and then you need to connect it to their lives you need to connect it to their lives hopefully not in a fear based way but one that they understand okay i know where i sit i know where i'm situated
+we need to connect the information always with the action and then that action feeds back into different information
+and it creates of course a feedback loop now this is a very well observed and well established notion for
+the problem is that things in the upper right corner there personalized data it's been pretty hard to come by it's a difficult and expensive commodity
+and here 's how they work in the feedback loop so you start with the personalized data where the speed limit on the road where you are at that point is twenty five
+and of course you're going faster than that we always are we're always going above the speed limit the choice in this case is pretty simple
+we either keep going fast or we slow down we should probably slow down and that point of action is probably now we should take our foot off the peddle right now
+and generally we do these things are shown to be pretty effective in terms of getting people to slow down they reduce speeds by about five to ten percent they last for about five miles
+which case we put our foot back on the peddle but it works and it even has some health repercussions you blood pressure might drop a little bit maybe there's fewer accidents so there's public health benefits but by and large
+this is a feedback loop that's so nifty and too rare because in health care most health care the data is very removed from the action it's very difficult to line things up so neatly
+but we have an opportunity so i want to talk about i want to shift now to think about how we deliver health information in this country how we actually get information
+this is a pharmaceutical ad actually it's a spoof it's not a real pharmaceutical ad nobody 's had the brilliant idea of calling their drug havidol quite yet
+but it looks completely right so it's exactly the way we get health information and pharmaceutical information and it just sounds perfect and then we turn the page of the magazine and we see this right we see this
+now this is the page the fda requires pharmaceutical companies to put into their ads or to follow their ads and to me this is one of the cynical exercises in medicine
+because we know who among us would actually say that people read this and who among us would actually say that people who do try to read this
+actually get anything out of it this is a bankrupt effort at communicating health information
+there is no good faith in
+so this is a different approach this is an approach that has been developed by a couple researchers at dartmouth medical school lisa schwartz and steven
+and saw that what works for cereal works for our food actually helps people understand what's in their food
+god forbid that we should use that same standard that we make cap 'n crunch live by and bring it to drug companies
+so let me just walk through this quickly it says very clearly what the drug is for specifically who is it good for so you can start to personalize your understanding of whether the information is relevant to you or whether the drug is relevant to you
+you can understand exactly what the benefits are it isn't this kind of vague promise that it's going to work no matter what but you get the statistics for how effective it is
+and finally you understand what those choices are you can start to unpack the choices involved because of the side effects every time you take a drug you're walking into a possible side effect so it spells those out in very clean terms and that works
+so i love this i love that drug facts box and so i was thinking about what's an opportunity that i could have to help people understand
+they're just not for us they're not for people they're not for patients
+they go right to doctors and god forbid i think many doctors if you really asked them they don't really understand all this stuff
+this is the worst presented information you ask tufte and he would say yes this is the worst presentation of information possible
+what we did at wired was we went and i got our graphic design department to re imagine these lab reports so that's what i want to walk you through so this is the general blood work before and this is the after this is what we came up with
+the after takes what was four pages that previous slide was actually the first of four pages of data that's just the general blood work it goes on and on and on all these values all these numbers you don't know
+we use the notion of color it's an amazing notion that color could be used so on the top level you have your overall results the things that might jump out at you from the fine print
+then you can drill down and understand how actually we put your level in context and we use color to illustrate exactly where your value falls in this case this patient is slightly at risk of diabetes because
+color and personalized proximity to that information
+all those other values all those pages and pages of values that are full of nothing we summarize
+we tell you that you're okay you're normal but you don't have to wade through it you don't have to go through the
+then we went to crp test in this case it's a sin of omission they have this huge amount of space and they don't use it for anything so we do
+now the crp test is often done following a cholesterol test or in conjunction with a cholesterol test so we take the bold step of putting the cholesterol information on the same page
+which is the way the doctor is going to evaluate it so we thought the patient might actually want to know the context as well it's a protein that shows up when your blood vessels might be inflamed which might be a risk for heart disease
+what you're actually measuring is spelled out in clean language then we use the information that's already in the lab report
+we use the person 's age and their gender to start to fill in the personalized risks so we start to use the data we have to run a very simple calculation that's on all sorts of online calculators to get a sense of what the actual risk is
+the last one i'll show you is a psa test here 's the before
+and here 's the after now a lot of our effort on this one as many of you probably know a psa test is a very controversial test it's used to test for prostate cancer but there are all sorts of reasons why your prostate might be enlarged
+based on that and then again the follow up actions
+so our cost for this was less than dollar ten thousand all right that's what wired magazine spent on this why is wired magazine doing
+last year they made profits of over seven hundred million dollars and over five hundred million dollars respectively
+now this is not a problem of resources this is a problem of incentives we need to recognize that the target of this information should not be the doctor should not be the insurance company it should be the patient
+it's the person who actually in the end is going to be having to change their lives and then start adopting new behaviors this is information that is incredibly powerful it's an incredibly powerful catalyst to change but we're not using it it's just sitting there
+so i want to just offer four questions that every patient should ask because i don't actually expect people to start developing these lab test reports
+but you can create your own feedback loop anybody can create their feedback loop by asking these simple questions can i have my results and the only acceptable answer is
+what does this mean help me understand what the data is what are my options what choices are now on the table and then what's next
+how do i integrate this information into the longer course of my life
+i've been talking today about latent information
+all this information that exists in the system that we're not putting to use but there are all sorts of other bodies of information that are coming online and we need to recognize the capacity of this information to engage people to help people and to change the course of

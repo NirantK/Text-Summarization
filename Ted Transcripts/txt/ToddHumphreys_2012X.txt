@@ -1,0 +1,111 @@
+that had a profound effect on the way our society operates
+ironically hardly anyone noticed at the time the change was silent imperceptible unless you knew exactly what to look for
+on that morning u s president bill clinton ordered that a special switch be thrown in the orbiting satellites of the global positioning system instantaneously
+every civilian gps receiver around the globe went from errors the size of a football field to errors the size of a small room
+it 's hard to overstate the effect that this change in accuracy has had on us
+before this switch was thrown we didn 't have in car navigation systems giving turn by turn directions because back then gps couldn 't tell you what block you were on let alone what street for geolocation accuracy matters
+and things have only improved over the last ten years with more base stations more ground stations better receivers and better algorithms gps can now not only tell you what street you are on
+but what part of the street
+this level of accuracy has unleashed a firestorm of innovation
+in fact many of you navigated here today with the help of your tomtom or your smartphone paper maps are becoming obsolete
+is pathetic compared to what we could be getting
+for some time now it 's been known that if you pay attention to the carrier phase of the gps signal and if you have an internet connection
+so why don 't we have this capability on our phones only i believe
+with geolocation so accurate that you could pinpoint the wrinkles in the palm of your hand
+but you and i and other innovators
+we can see the potential in this next leap in accuracy imagine for example an augmented reality app
+that overlays a virtual world to millimeter level precision on top of the physical world
+i could build for you a structure up here in three d millimeter accurate that only you could see or my friends at home
+so this level of positioning this is what we 're looking for
+and i believe that within the next few years i predict that this kind of hyper precise carrier phase based positioning will become cheap and ubiquitous and the consequences will be fantastic
+the holy grail of course is the gps dot
+here 's professor langdon examining a gps dot which his accomplice tells him is a tracking device accurate within two feet anywhere on the globe
+but we know that in the world of nonfiction the gps dot is impossible right
+for one thing gps doesn 't work indoors
+and for another they don 't make devices quite this small
+especially when those devices have to relay their measurements back over a network
+well these objections were perfectly reasonable a few years ago but things have changed there 's been a strong trend toward miniaturization better sensitivity
+so much so that a few years ago a gps tracking device looked like this clunky box to the left of the keys
+compare that with the device released just months ago that 's now packaged into something the size of a key fob
+and if you take a look at the state of the art for a complete gps receiver which is only a centimeter on a side and more sensitive than ever you realize that the gps dot will soon move from fiction to nonfiction
+imagine what we could do with a world full of gps dots it 's not just that you 'll never lose your wallet or your keys anymore or your child when you 're at disneyland
+you 'll buy gps dots in bulk and you 'll stick them on everything you own worth more than a few tens of dollars
+i couldn 't find my shoes one recent morning and as usual had to ask my wife if she had seen them but i shouldn 't have to bother my wife with that kind of triviality i should be able to ask my house where my shoes
+remember how refreshing it was to go from organizing all of your email
+now of course there is a flip side to the gps dot
+i was in my office some months back and got a telephone call the woman on the other end of the line we 'll call her carol was panicked
+apparently an ex boyfriend of carol 's from california had found her in texas and was following her around
+so you might ask at this point why she 's calling you well so did i but it turned out there was a technical twist to carol 's case
+every time her ex boyfriend would show up at the most improbable times and the most improbable locations
+he was carrying an open laptop
+and over time carol realized that he had planted a gps tracking device on her car so she was calling me for help to disable it well you should go to a good mechanic and have him look at your car i said
+i already have she told me
+he didn 't see anything obvious and he said he 'd have to take the car apart piece by piece
+well then you 'd better go to the police i said
+i already have she replied
+they 're not sure this rises to the level of harassment
+and they 're not set up technically to find the device
+okay what about the fbi i 've talked to them too
+given that some of these devices are configured to only transmit when they 're inside safe zones or when the car is moving
+so there we were carol isn 't the first and certainly won 't be the last to find herself in this kind of fearsome environment
+in fact as i looked into her case i discovered to my surprise that it 's not clearly illegal for you or me to put a tracking device on someone else 's car
+the supreme court ruled last month that a policeman has to get a warrant if he wants to do prolonged tracking but the law isn 't clear about civilians doing this to one another
+so it 's not just big brother we have to worry about but big neighbor
+it 's called the wave bubble
+it 's an open source gps jammer
+developed by limor fried a graduate student at mit and limor calls it a tool for reclaiming our personal space
+with a flip of the switch you create a bubble around you within which gps signals can 't reside they get drowned out by the bubble and limor designed this in part because like carol she felt threatened by gps tracking then she posted her design to the web
+and if you don 't have time to build your own you can buy one chinese manufacturers now sell thousands of nearly identical devices on the internet
+so you might be thinking the wave bubble sounds great i should have one might come in handy if somebody ever puts a tracking device on my car but you should be aware that its use is very much illegal in the united states
+and why is that well because it 's not a bubble at all its jamming signals don 't stop at the edge of your personal space or at the edge of your car they go on to jam innocent gps receivers for miles around you
+it might not feel wrong to turn on a wave bubble
+but in fact the results can be disastrous
+imagine for example you 're the captain of a cruise ship trying to make your way through a thick fog
+and some passenger in the back turns on a wave bubble
+all of a sudden your gps readout goes blank
+and now it 's just you and the fog and whatever you can pull off the radar system if you remember how to work it
+they in fact they don 't update or upkeep lighthouses anymore and loran the only backup to gps was discontinued last year
+our modern society has a special relationship with gps
+we 're almost blindly reliant on it it 's built deeply into our systems and infrastructure some call it the invisible utility
+so turning on a wave bubble might not just cause inconvenience it might be
+at the expense of general gps reliability
+there 's something even more potent and more subversive than a wave bubble
+and that is a gps spoofer
+the idea behind the gps spoofer is simple
+instead of jamming the gps signals you fake them
+you imitate them and if you do it right the device you 're attacking doesn 't even know it 's being spoofed
+so let me show you how this works in any gps receiver there 's a peak inside that corresponds to the authentic signals these three red dots represent the tracking points that try to keep themselves centered on that peak but if you send in a fake gps signal another peak pops up
+and if you can get these two peaks perfectly aligned
+the tracking points can 't tell the difference and they get hijacked by the stronger counterfeit signal with the authentic peak getting forced off
+at this point the game is over the fake signals now completely control this gps receiver
+so is this really possible can someone really manipulate the timing and positioning of a gps receiver just like that with a spoofer
+well the short answer is yes
+the key is that civil gps signals are completely open they have no encryption they have no authentication they 're wide open vulnerable to a kind of spoofing attack even so
+up until very recently nobody worried about gps spoofers people figured that it would be too complex or too expensive for some hacker to build one
+but i and a friend of mine from graduate school we didn 't see it that way
+we knew it wasn 't going to be so hard and we wanted to be the first to build one so we could get out in front of the problem and help protect against gps spoofing
+i remember vividly the week it all came together we built it at my home
+which means that i got a little extra help from my three year old son ramon
+here 's ramon laughter looking for a little attention from dad that week
+at first the spoofer was just a jumble of cables and computers though we eventually got it packaged into a small box
+now the dr frankenstein moment when the spoofer finally came alive and i glimpsed its awful potential
+let me show you some actual footage from that very first experiment i had come to completely trust this little blue dot and its reassuring blue halo they seemed to speak to me they 'd say here you are so
+something felt very wrong about the world it was a sense almost of betrayal
+when this little blue dot started at my house
+and went running off toward the north leaving me behind i wasn 't moving
+what i then saw in this little moving blue dot was the potential for chaos i saw airplanes and ships veering off course with the captain learning only too late that something was wrong
+i saw the gps derived timing of the new york stock exchange being manipulated by hackers you can scarcely imagine the kind of havoc you could cause if you knew what you were doing with a gps spoofer
+it 's the ultimate weapon against an invasion of gps dots
+imagine for example you 're being tracked well you can play the tracker for a fool pretending to be at work when you 're really on vacation or if you 're carol you could lure your ex boyfriend into some empty parking lot where the police are waiting for him
+so i 'm fascinated by this
+conflict a looming conflict between privacy on the one hand and the need for a clean radio spectrum on the other we simply cannot tolerate gps jammers and spoofers and yet
+given the lack of effective legal means for protecting our privacy from the gps dot
+can you really blame people for wanting to turn them on for wanting to use them
+i hold out hope that we 'll be able to reconcile this conflict with some sort of some yet uninvented technology
+but meanwhile grab some popcorn because things are going to get interesting within the next few years many of you will be the proud owner of a gps dot
+maybe you 'll have a whole bag full of them
+you 'll never lose track of your things again the gps dot will fundamentally reorder your life
+but will you be able to resist the temptation to track your fellow man
+or will you be able to resist the temptation to turn on a gps
+spoofer or a wave bubble to protect your own privacy so as usual what we see just beyond the horizon
+is full of promise and peril

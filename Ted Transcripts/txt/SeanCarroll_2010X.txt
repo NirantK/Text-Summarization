@@ -1,0 +1,70 @@
+we live in a galaxy the milky way galaxy there are about a hundred billion stars in the milky way galaxy and if you take a camera and you point it at a random part of the sky and you just keep the shutter open as long as your camera is attached to the hubble space telescope it will see something like this
+every one of these little blobs is a galaxy roughly the size of our milky way a hundred billion stars in each of those blobs there are approximately a hundred billion galaxies in the observable universe one hundred billion is the only number you need to know the age of the universe between now and the big bang is a hundred billion in dog years
+but we would also like to understand it as a cosmologist i want to ask why is the universe like this one big clue we have is that the universe is changing with time if you looked at one of these galaxies and measured its velocity it would be moving away from you
+things were closer together in the past the universe was more dense and it was also hotter if you squeeze things together the temperature goes up that kind of makes sense to us the thing that doesn 't make sense to us as much is that the universe at early times near the big bang was also very very smooth
+you might think that that 's not a surprise the air in this room is very smooth you might say well maybe things just smoothed themselves out
+but the conditions near the big bang are very very different than the conditions of the air in this room in particular things were a lot denser the gravitational pull of things was a lot stronger near the big bang
+what you have to think about is we have a universe with a hundred billion galaxies a hundred billion stars each at early times those hundred billion galaxies were squeezed into a region about this big literally at early times and you have to imagine doing that squeezing without any imperfections
+without any little spots where there were a few more atoms than somewhere else because if there had been they would have collapsed under the gravitational pull into a huge black hole
+keeping the universe very very smooth at early times is not easy it 's a delicate arrangement it 's a clue that the early universe is not chosen randomly there is something that made it that way we would like to know what
+so part of our understanding of this was given to us by ludwig boltzmann an austrian physicist in the nineteenth century and boltzmann 's contribution was that he helped us understand entropy
+boltzmann gave us a formula engraved on his tombstone now that really quantifies what entropy is and it 's basically just saying that entropy is the number of ways we can rearrange the constituents of a system so that you don 't notice
+so that macroscopically it looks the same if you have the air in this room you don 't notice each individual atom a low entropy configuration is one in which there 's only a few arrangements that look that way a high entropy arrangement is one that there are many arrangements that look that way
+this is a crucially important insight because it helps us explain the second law of thermodynamics the law that says that entropy increases in the universe or in some isolated bit of the universe the reason why entropy increases is simply because there are many more ways to be high entropy than to be low entropy
+that 's a wonderful insight but it leaves something out this insight that entropy increases by the way is what 's behind what we call the arrow of time the difference between the past and the future every difference that there is
+between the past and the future is because entropy is increasing
+fifty years ago he gave a series of a bunch of different lectures he gave the popular lectures that became the character of physical law he gave lectures to caltech undergrads that became the feynman lectures on physics he gave lectures to caltech graduate students that became the feynman lectures on gravitation
+in every one of these books every one of these sets of lectures he emphasized this puzzle why did the early universe have such a small entropy so he says i 'm not going to do the accent
+he says for some reason the universe at one time had a very low entropy for its energy content and since then the entropy has increased the arrow of time cannot be completely understood until the mystery of the beginnings of the history of the universe are reduced still further from speculation to understanding
+so that 's our job we want to know this is fifty years ago surely you 're thinking we 've figured it out by now it 's not true that we 've figured it out by now the reason the problem has gotten worse rather than better is because in one thousand nine hundred and ninety eight we learned something crucial about the universe that we didn 't know before we learned that it 's accelerating
+the universe is not only expanding if you look at the galaxy it 's moving away if you come back
+individual galaxies are speeding away from us faster and faster so we say the universe is accelerating
+unlike the low entropy of the early universe even though we don 't know the answer for this we at least have a good theory that can explain it if that theory is right and that 's the theory of dark energy it 's just the idea that empty space itself has energy in every little cubic centimeter of space whether or not there 's stuff
+whether or not there 's particles matter radiation or whatever there 's still energy even in the space itself
+and this energy according to einstein exerts a push on the universe
+it is a perpetual impulse that pushes galaxies apart from each other because dark energy unlike matter or radiation does not dilute away as the universe expands the amount of energy in each cubic centimeter remains the same even as the universe gets bigger and bigger
+this has crucial implications for what the universe is going to do in the future for one thing the universe will expand forever back when i was your age
+we didn 't know what the universe was going to do some people thought that the universe would recollapse in the future einstein was fond of this idea
+but if there 's dark energy and the dark energy does not go away the universe is just going to keep expanding forever and ever and ever fourteen billion years in the past one hundred billion dog years but an infinite number of years into the future
+meanwhile for all intents and purposes space looks finite to us space may be finite or infinite but because the universe is accelerating there are parts of it we cannot see and never will see
+there 's a finite region of space that we have access to surrounded by a horizon so even though time goes on forever space is limited to us
+finally empty space has a temperature in the one thousand nine hundred and seventy s stephen hawking told us that a black hole even though you think it 's black it actually emits radiation when you take into account quantum mechanics the curvature of space time around the black hole brings to life the quantum mechanical fluctuation and the black hole radiates
+a precisely similar calculation by hawking and gary gibbons showed that if you have dark energy in empty space
+then the whole universe radiates
+the energy of empty space brings to life quantum fluctuations and so even though the universe will last forever and ordinary matter and radiation will dilute away there will always be some radiation some thermal fluctuations even in empty space
+so what this means is that the universe is like a box of gas that lasts forever well what is the implication of that that implication was studied by boltzmann back in the nineteenth century he said well
+entropy increases because there are many many more ways for the universe to be high entropy rather than low entropy
+but that 's a probabilistic statement it will probably increase and the probability is enormously huge it 's not something you have to worry about the air in this room all gathering over one part of the room and suffocating us it 's very very unlikely
+except if they locked the doors and kept us here literally forever that would happen
+everything that is allowed every configuration that is allowed to be obtained by the molecules in this room would eventually be obtained so boltzmann says look you could start with a universe
+that was in thermal equilibrium he didn 't know about the big bang he didn 't know about the expansion of the universe he thought that space and time were explained by isaac newton they were absolute they just stuck there forever so his idea of a natural universe was one in which the air molecules were just spread out evenly everywhere the everything molecules
+but if you 're boltzmann you know that if you wait long enough
+the random fluctuations of those molecules will occasionally bring them into lower entropy configurations and then of course in the natural course of things they will expand back so it 's not that entropy must always increase you can get fluctuations into lower entropy more organized situations
+well if that 's true boltzmann then goes onto invent two very modern sounding ideas the multiverse and the anthropic principle
+he says the problem with thermal equilibrium is that we can 't live there remember life itself
+depends on the arrow of time we would not be able to process information metabolize walk and talk if we lived in thermal equilibrium so if you imagine a very very big universe an infinitely big universe with randomly bumping into each other particles there will occasionally be small fluctuations in the lower entropy states and then they relax back
+but there will also be large fluctuations occasionally you will make a planet
+or a star or a galaxy or a hundred billion galaxies
+so boltzmann says we will only live in the part of the multiverse in the part of this infinitely big set of fluctuating particles where life is possible that 's the region where entropy is low maybe our universe is just one of those things that happens from time to time now your homework assignment
+that will happen much more frequently than the random motions of atoms making you an apple orchard and some sugar and an oven and then making you an apple pie
+so this scenario makes predictions and the predictions are that the fluctuations that make us are minimal
+even if you imagine that this room we are in now exists and is real and here we are and we have not only our memories but our impression that outside there 's something called caltech and the united states and the milky way galaxy
+it 's much easier for all those impressions to randomly fluctuate into your brain than for them actually to randomly fluctuate into caltech the united states and the galaxy
+the good news is that therefore this scenario does not work it is not right
+this scenario predicts that we should be a minimal fluctuation even if you left our galaxy out you would not get a hundred billion other galaxies and feynman also understood this feynman says
+from the hypothesis that the world is a fluctuation all the predictions are that if we look at a part of the world we 've never seen before we will find it mixed up and not like the piece we 've just looked at high entropy
+if our order were due to a fluctuation we would not expect order anywhere but where we have just noticed it we therefore conclude the universe is not a fluctuation
+so that 's good the question is then what is the right answer if the universe is not a fluctuation why did the early universe have a low entropy and i would love to tell you the answer but i 'm running out of time
+the stars around us will use up their nuclear fuel they will stop burning they will fall into black holes we will live in a universe with nothing in it but black holes that universe will last ten to the one hundred years a lot longer than our little universe has lived the future is much longer than the past
+but even black holes don 't last forever they will evaporate and we will be left with nothing but empty space
+that empty space lasts essentially forever
+however you notice since empty space gives off radiation there 's actually thermal fluctuations and it cycles around all the different possible combinations of the degrees of freedom that exist in empty space
+so even though the universe lasts forever there 's only a finite number of things that can possibly happen in the universe they all happen over a period of time equal to ten to the ten to the one hundred and twenty years
+so here 's two questions for you number one if the universe lasts for ten to the ten to the one hundred and twenty years why are we born in the first fourteen billion years of it
+in the warm comfortable afterglow of the big bang why aren 't we in empty space you might say well there 's nothing there to be living but that 's not right you could be a random fluctuation out of the nothingness why aren 't you more homework assignment for you
+so like i said i don 't actually know the answer i 'm going to give you my favorite scenario either it 's just like that there is no explanation this is a brute fact about the universe that you should learn to accept and stop asking questions
+maybe the universe comes out of a universal chicken maybe there is something that naturally through the growth of the laws of physics gives rise to universe like ours in low entropy configurations
+if that 's true it would happen more than once we would be part of a much bigger multiverse that 's my favorite scenario
+so the organizers asked me to end with a bold speculation my bold speculation is that i will be absolutely vindicated by history
+and fifty years from now all of my current wild ideas will be accepted as truths by the scientific and external communities
+we will all believe that our little universe is just a small part of a much larger multiverse and even better we will understand what happened at the big bang in terms of a theory that we will be able to compare to observations this is a prediction i might be wrong but we 've been thinking as a human race universe is really big

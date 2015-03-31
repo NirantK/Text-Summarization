@@ -1,0 +1,76 @@
+time flies it's actually almost twenty years ago when i
+to reframe the way we use information the way we work together i invented the world wide web
+now twenty years on at ted i want to ask your help in a new so
+said i could do it on the side as a sort of a play project kick the tires of a new computer we'd got
+and so he gave me the time to code it up
+so i basically roughed out what html should look like hypertext protocol http the idea of urls these names for things which started with http i wrote the code
+and put it out there why did i do it well it was basically frustration i was frustrated i was working as a software engineer in this huge very exciting lab lots of people coming from all over the world
+all sorts of different computers with them they had all sorts of different data formats all sorts all kinds of documentation systems so that
+in all that diversity if i wanted to figure out how to build something out of a bit of this and a bit of this everything i looked into i had to connect to some new machine i had to
+some new program i would find the information i wanted in some new data format
+was just very frustrating the frustration was all this unlocked potential
+in fact on all these discs there were documents so if you just imagined them all being part of some big
+virtual documentation system in the sky say on the internet then life would be so much easier
+well once you've had an idea like that it kind of gets under your skin and even if people don't read your memo actually he did it was found after he died his copy he had written vague but exciting in pencil in the corner
+so things like click didn't have the same meaning i can show somebody a piece of hypertext a page which has got links and we click on the link and bing there'll be another hypertext page
+not impressive you know we've seen that we've got things on hypertext on cd romiss what was difficult was to get them to imagine so
+that is what has made it most fun that has been the most exciting thing not the technology not the things people have done with it but actually the community the spirit of all these people getting together sending emails that's what it was like then do you know what it's funny but
+now it's kind of like that again i asked everybody more or less to put their documents i said could you put your documents on this web thing and
+did thanks it's been a blast hasn't it i mean it has been quite interesting because we've found out that the things that happen with the web
+really sort of blow us away they're much more than we'd originally imagined when we put together the initial website that we started off with now i want you to put your data on the web
+turns out that there is still huge unlocked potential there is still a huge frustration that people have because
+of the great yes a lot of people have seen it one of the great ted talks hans put up this presentation in which he showed
+for various different countries in various different colors he showed income levels on one axis and he showed infant mortality and he shot this thing animated through time
+so he'd taken this data and made a presentation which just shattered a lot of myths that people had about
+the economics in the developing world he put up a slide a little bit like this it had underground all the data ok data is brown and boxy and boring and that's how we think of it
+data you can't naturally use by itself but in fact data drives a huge amount of what happens in our lives and it happen because somebody takes that data and does something with it in this case
+put the data together he had found it from all kinds of united nations websites and things he had put it together combined it into something more interesting than the original pieces and then he'd put it into this
+and produces this wonderful presentation and hans made a point of saying look it's really important to have a lot of
+data and i was happy to see that at the party last night that he was still saying very forcibly it 's really important to have a lot of data
+so i want us now to think about not just two pieces of data being connected or six like he did but i want to think about a world where everybody
+them for people we're using them for places we're using them for your products we're using them for events all kinds of conceptual things they have names now that start with http second rule
+if i take one of these http names and i look it up and i do the web thing with it and i fetch the data using the http protocol from the web i will get back some data in a standard format which is kind of useful data that somebody might like to
+know about that thing about that event who 's at the event whatever it is about that person where they were born things like that so the second rule is i get important information back
+third rule is that when i get back that information it's not just got somebody 's height and weight and when they were born it's got relationships data is relationships interestingly data is relationships this
+one of those names that starts http so i can go ahead and look that thing up so i look up a person i can look up
+the city where they were born i can look up the region it's in and the town it's in and the population of it and so on so i can browse this stuff so that's it really that is linked data
+i wrote an article entitled linked data a couple of years ago and soon after that things started to happen
+the idea of linked data is that we get lots and lots and lots of these boxes that hans had and we get lots and lots and lots of things sprouting it's not just
+a whole lot of other plants it's not just a root supplying a plant but for each of those plants whatever it is a presentation an analysis somebody 's looking for patterns in the data
+get to look at all the data and they get it connected together and the really important thing about data is the more things you have to connect together the more powerful it is
+linked data the meme went out there and pretty soon chris bizer at the freie universitat in berlin who was one of the first people to put interesting things up
+he noticed that wikipedia you know wikipedia the online encyclopedia with lots and lots of interesting documents in it well in those documents
+there are little squares little boxes and in most information boxes there's data so he wrote a program to take the data extract it from wikipedia and put it into a blob of linked data on the web which
+is represented by the blue blob in the middle of this slide and if you actually go and look up berlin you'll find that there are other blobs of data
+and the exciting thing is it's starting to grow this is just the grassroots stuff again ok let 's think about data for
+comes in fact in lots and lots of different forms think of the diversity of the web it's a really important thing that the web allows you to put all kinds of data up there so it is with data i could talk about all kinds of data we could talk about government data enterprise data is really
+all kinds of stuff i'm just going to mention a few of them so that you get the idea of the diversity of it so that you also see how much unlocked potential let 's start with government data
+speech that he american government data would be available on the internet in accessible formats and i hope that they will put it up as linked data
+that's important why is it important not just for transparency yeah transparency in government is important but that data this is the data from all the government departments think about
+how much of that data is about how life is lived in america it's actual useful it's got value i can use it in my company i could use it as a kid to do my homework
+so we're talking about making the world run better by making this data available in fact if you're responsible if you know about some data in a government department often you find that these
+i'd like to suggest that rather yes make a beautiful website who am i to say don't make a beautiful website make a beautiful website
+give us the unadulterated data we want the data we want unadulterated data ok we have to ask for raw data now and i'm going to ask you to practice that
+that it's important because you have no idea the number of excuses people come up with to hang onto their data and not give it to you even though you've paid for it
+as a taxpayer and it's not just america it's all over the world and it's not just governments of course it's enterprises as well so i'm just going to mention a few other
+thoughts on data here we are at ted and all the time we are very conscious of the huge challenges that human society has right now curing cancer
+they try to communicate those over the web but a lot of the state of knowledge of the human race at the moment is on databases often sitting in their computers and actually currently not
+because they had their genomics data in one database in one building and they had their protein data in another now they are sticking it
+data and now they can ask the sort of question that you probably wouldn't ask i wouldn't ask they would what proteins are involved in signal transduction and also related to pyramidal neurons well you take that mouthful and you put it into
+thirty two hits each of which is a protein which has those properties and you can look at the power of being able to ask those questions as a scientist
+i go on like this you'll think that all the data comes from huge institutions
+has nothing to do with you but that's not true in fact
+data is about our lives you just you log on to your social networking site your favorite one you say this is my friend bing relationship data
+you say this photograph it's about it depicts this person bing that's data data data data every time you do things on the social networking site the social networking site
+is taking data and using it re purposing it and using it to make other people 's lives more interesting on the site but
+came down here i looked it up on openstreetmap the openstreetmap 's a map but it's also a wiki zoom in and that square thing is a theater which we're in right now
+the terrace theater it didn't have a name on it so i could go into edit mode i could select the theater i could add down at the bottom the name
+and i could save it back and now if you go back to the openstreetmap org and you find this place you will find that the terrace theater has got a name i did that
+if i that street map is all about everybody doing their bit and it creates an incredible resource because everybody else does theirs and that is what linked data is all about it's about
+doing their bit to produce a little bit and it all connecting that's how linked data works you do your bit
+does theirs you may not have lots of data which you have yourself to put on there but you know
+and we've practiced that so linked data it's huge i've only told you a very small number of things
+there are data in every aspect of our lives every aspect of work and pleasure and it's not just about the number of places where data comes
+it's about connecting it together and when you connect data together you get power in a way that doesn't happen just with the web with documents you get this really huge
+power out of it so
+do it because they're the sort of person who just does things which would be good if everybody else did them ok so it's called linked data i want you to make it i want you to demand it and i think it's an idea worth spreading thanks

@@ -1,0 +1,44 @@
+go to parties it doesn 't usually take very long for people to find out that i 'm a scientist and i study sex and then i get asked questions and the questions usually have a very particular format they start with the phrase
+a friend told me and then they end with the phrase is this true
+and most of the time i 'm glad to say that i can answer them but sometimes i have to say i 'm really sorry but i don 't know because i 'm not that kind of a doctor that is i 'm not a clinician i 'm a comparative biologist who studies anatomy and my job is to look at lots of different species of animals
+and try to figure out how their tissues and organs work when everything 's going right rather than trying to figure out how to fix things when they go wrong like so many of you and what i do is i look for similarities and differences in the solutions that they 've evolved for fundamental biological problems
+so today i 'm here to argue that this is not at all an esoteric ivory tower activity that we find at our universities but that broad study across species tissue types and organ systems can produce insights that have direct implications for human health
+and this is true both of my recent project on sex differences in the brain and my more mature work on the anatomy and function of penises and now you know why i 'm fun at parties
+now i 'm sure as everyone in the audience already knows i did have to explain it to my nine year old late last week penises are structures that transfer sperm from one individual to another
+and the slide behind me barely scratches the surface of how widespread they are in animals there 's an enormous amount of anatomical variation you find muscular tubes modified legs modified fins as well as the mammalian fleshy inflatable cylinder that we 're all familiar with
+and i think we see this tremendous variation because it 's a really effective solution to a very basic biological problem and that is getting sperm in a position to meet up with eggs and form zygotes
+now the penis isn 't actually required for internal fertiliztion but when internal fertilization evolves penises often follow
+and the question i get when i start talking about this most often is what made you interested in this subject
+and the answer is skeletons
+you wouldn 't think that skeletons and penises have very much to do with one another and that 's because we tend to think of skeletons as stiff lever systems that produce speed or power and my first forays into biological research doing dinosaur paleontology as an undergraduate were really squarely in that realm
+but when i went to graduate school to study biomechanics i really wanted to find a dissertation project that would expand our knowledge of skeletal function i tried a bunch of different stuff a lot of it didn 't pan out but then one day i started thinking about the mammalian penis and it 's really an odd sort of structure
+before it can be used for internal fertilization its mechanical behavior has to change in a really dramatic fashion
+most of the time it 's a flexible organ it 's easy to bend but before it 's brought into use during copulation it has to become rigid it has to become difficult to bend
+and moreover it has to work a reproductive system that fails to function produces an individual that has no offspring and that individual is then kicked out of the gene pool and so i thought here 's a problem that just cries out for a skeletal system
+not one like this one
+but one like this one
+because functionally a skeleton is any system that supports tissue and transmits forces
+and i already knew that animals like this earthworm indeed most animals don 't support their tissues by draping them over bones instead they 're more like reinforced water balloons they use a skeleton that we call a hydrostatic skeleton
+and a hydrostatic skeleton uses two elements the skeletal support comes from an interaction between a pressurized fluid and a surrounding wall of tissue that 's held in tension and reinforced with fibrous proteins and the interaction is crucial
+without both elements you have no support if you have fluid with no wall to surround it and keep pressure up you have a puddle
+and if you have just the wall with no fluid inside of it to put the wall in tension you 've got a little wet rag
+when you look at a penis in cross section
+but at the time when i started this project the best explanation i could find for penal erection was that the wall surrounded these spongy tissues and the spongy tissues filled with blood and pressure rose and voila it became erect
+and that explained to me expansion made sense more fluid you get tissues that expand but it didn 't actually explain erection because there was no mechanism in this explanation for making this structure hard to bend
+and no one had systematically looked at the wall tissue so i thought wall tissue 's important in skeletons it has to be part of the explanation and this was the
+so he sat me down and he warned me he was like be careful going down this path i 'm not sure this project 's going to pan out because he was afraid i was walking into a trap i was taking on a socially embarrassing question with an answer that he thought might not be particularly interesting
+and that was because every hydrostatic skeleton that we had found in nature up to that point had the same basic elements it had the central fluid
+it had the surrounding wall and the reinforcing fibers in the wall were arranged in crossed helices around the long axis of the skeleton so the image behind me shows a piece of tissue in one of these cross helical skeletons
+and these skeletons have a particular set of behaviors which i 'm going to demonstrate in a film it 's a model skeleton that i made out of a piece of cloth
+and those fibers can reorient as the skeleton moves which means the skeleton 's flexible it lengthens shortens and bends really easily in response to internal or external forces
+now my adviser 's concern was what if the penile wall tissue is just the same as any other hydrostatic skeleton what are you going to contribute what new thing are you contributing to our knowledge of biology and i thought yeah he does have a really good point here so i spent a long long time thinking about it and one thing kept bothering me and
+i was really surprised at this everyone i showed it was really surprised at this why was everyone surprised at this that 's because we knew theoretically that there was another way of arranging fibers in a hydrostatic skeleton and that was with fibers at zero degrees and ninety degrees to the long axis of the structure
+the thing is no one had ever seen it before in nature and now i was
+and you 'll see that unlike the cross helical model this model resists extension and contraction and resists bending
+now what that tells us is that wall tissues are doing so much more than just covering the vascular tissues they 're an integral part of the penile skeleton if the wall around the erectile tissue wasn 't there
+it 's an observation with obvious medical applications in humans as well but it 's also relevant in a broad sense i think to the design of prosthetics soft robots basically anything where changes of shape and stiffness are important so to sum up
+twenty years ago i had a college adviser tell me when i went to the college and said i 'm kind of interested in anatomy they said anatomy 's a dead science
+he couldn 't have been more wrong i really believe that we still have a lot to learn about the normal structure and function of our bodies not just about its genetics and molecular biology but up here in the meat end of the scale
+we 've got limits on our time we often focus on one disease one model one problem but my experience suggests that we should take the time to apply ideas broadly between systems and just see where it takes us
+after all if ideas about invertebrate skeletons can give us insights about mammalian reproductive systems
+there could be lots of other wild and productive connections lurking out there just waiting to be found thank you

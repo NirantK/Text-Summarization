@@ -1,0 +1,66 @@
+we use the word architect or designer what we usually mean is a professional
+and we tend to assume that it 's those professionals who are going to be the ones to help us solve the really big systemic design challenges that we face like climate change urbanization and social inequality
+the economy ran out of jobs
+and two actually this is a fascinating paradox for architecture which is that as a society we 've never needed design thinking more
+and yet architecture was literally becoming unemployed
+it strikes me that we talk very deeply about design but actually there 's an economics behind architecture that we don 't talk about and i think we need to
+and a good place to start is your own paycheck so as a bottom of the rung architecture graduate i might expect to earn about twenty four thousand pounds that 's about thirty six thousand thirty seven thousand dollars
+now in terms of the whole world 's population that already puts me in the top one point nine five richest people which raises the question of who is it i 'm working for
+the uncomfortable fact is that actually almost everything that we call architecture today is actually the business of designing for about the richest one percent of the world 's population and it always has
+and most recently of course through this inflated real estate bubble
+and all of those booms in their own various ways have now kicked the bucket and we 're back in this situation where
+the smartest designers and architects in the world
+are only really able to work for one percent of the population now it 's not just that that 's bad for democracy though i think it probably is it 's actually not a very clever business strategy actually i think the challenge facing the next generation of architects is how are we going to turn our client from the one percent to the one hundred percent
+and i want to offer three slightly counterintuitive ideas for how it might be done the first is i think we need to question this idea that architecture is about making buildings
+actually a building is about the most expensive solution you can think of to almost any given problem and fundamentally design should be much much more interested in solving problems and creating new conditions so here 's a story
+the office was working with a school and they had an old victorian school building and
+and the team thought about this and they went away and they said actually don 't do that instead get rid of the school bell
+now it looks like you 're doing yourself out of a job but you 're not you 're actually making yourself more useful architects are actually really really good at this kind of resourceful strategic thinking and the problem is that like a lot of design professions we got fixated on the idea of providing a particular kind of consumer product and i don 't think that needs to be the case anymore
+the second idea worth questioning is this twentieth century thing that mass architecture is about big big buildings and big finance
+actually we 've got ourselves locked into this industrial era mindset which says that the only people who can make cities are large organizations or corporations who build on our behalf procuring whole neighborhoods in single monolithic projects and of course form follows finance
+so what you end up with are single monolithic neighborhoods based on this kind of one size fits all model and a lot of people can 't even afford them
+but what if actually it 's possible now for cities to be made not just by the few with a lot but also by the many with a bit
+and when they do they bring with them a completely different set of values about the place that they want to live and it raises really interesting questions about how will we plan cities how will finance development how will we sell design services what would it mean for democratic societies to offer their citizens a right to build and in a way it should be kind of obvious right
+that in the twenty first century maybe cities can be developed by citizens
+and that 's a good thing most of the work takes place outside of the monetary economy in what 's called the social economy or the core economy which is people doing it for themselves
+and the problem is that up until now it was the monetary economy which had all the infrastructure and all the tools
+so the challenge we face is how are we going to build the tools the infrastructure and the institutions for architecture 's social economy and that began with open source software and over the last few years it 's been moving into the physical world with open source hardware which are freely shared blueprints that anyone can download and make for themselves
+and that 's where three d printing gets really really interesting
+a three d printer that was open source the parts for which could be made on another three d printer or the same idea here which is for a cnc machine which is like a large printer that can cut sheets of plywood
+we 're moving into this future where the factory is everywhere
+and increasingly that means that the design team is everyone
+that really is an industrial revolution
+all of us and we were fascinated by what that might mean for architecture
+so about a year and a half ago we started working on a project called wikihouse and wikihouse is an open source construction system
+and the idea is to make it possible for anyone to go online access a freely shared library of three d models which they can download and adapt in at the moment sketchup because it 's free and it 's easy to use
+and almost at the click of a switch
+they can generate a set of cutting files which allow them in effect
+to print out the parts from a house using a cnc machine and a standard sheet material like plywood and the parts are all numbered and basically what you end up with is a really big ikea kit
+they don 't need a huge array of power tools or anything like that and they can build a small house of about this size in about a day
+and what you end up with is just the basic chassis of a house onto which you can then apply systems like windows and cladding and insulation and services based on what 's cheap and what 's available
+of course the house is never finished we 're shifting our heads here so the house is not a finished product with the cnc machine you can make new parts for it over its life or even use it to make the house next door so we can begin to see the seed of a completely open source citizen led urban development model potentially
+and we and others have built a few prototypes around the world now and some really interesting lessons here one of them is that it 's always incredibly sociable people get confused between construction work and having fun
+but the principles of openness go right down into the really mundane physical details like never designing a piece that can 't be lifted up or when you 're designing a piece make sure you either can 't put it in the wrong way round or if you do it doesn 't matter because it 's symmetrical
+probably the principal which runs deepest with us is the principal set out by linus torvalds the open source pioneer which was that idea of be lazy like a fox don 't reinvent the wheel every time take what already works and adapt it for your own needs
+contrary to almost everything that you might get taught at an architecture school copying is good
+which is appropriate because actually this approach is not innovative it 's actually how we built buildings for hundreds of years before the industrial revolution in these sorts of community barn raisings the only difference between traditional vernacular architecture and open source architecture might be a web connection
+but it 's a really really big difference
+we shared the whole of wikihouse under a creative commons license and now what 's just beginning to happen is that groups around the world are beginning to take it and use it and hack it and tinker with it and it 's amazing there 's a cool group over in christchurch in new zealand looking at post earthquake development housing
+and thanks to the ted city prize we 're working with an awesome group in one of rio 's favelas to set up a kind of community factory and micro university these are very very small beginnings and
+but it 's a small answer to a really really big question which is that globally right now the fastest growing cities are not skyscraper cities they 're self made cities in one form or another
+if we 're talking about the twenty first century city these are the guys who are going to be making it you know like it or not welcome to the world 's biggest design team
+so if we 're serious about problems like climate change urbanization
+actually our existing development models aren 't going to do it
+as i think robert neuwirth said there isn 't a bank or a corporation or a government or an ngo who 's going to be able to do it if we treat citizens only as consumers
+how extraordinary would it be though if collectively we were to develop solutions not just to the problem of structure that we 've been working on but to infrastructure problems like solar powered air conditioning
+off grid energy off grid sanitation
+low cost open source high performance solutions that anyone can very very easily make and to put them all into a commons where they 're owned by everyone
+and they 're accessible by everyone
+a kind of wikipedia for stuff
+and once something 's in the commons it will always be there
+how much would that change the rules
+and i think the technology 's on our side
+if design 's great project in the twentieth century
+was the democratization of consumption
+that was henry ford levittown
+coca cola ikea i think design 's great project in the twenty first century is the democratization of production

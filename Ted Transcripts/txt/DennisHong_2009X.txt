@@ -1,0 +1,71 @@
+talk about is called strider it stands for self excited tripedal dynamic experimental robot it's a robot that has three legs which is inspired by nature but have you seen anything in nature an animal that has three legs
+not so why do i call this a biologically inspired robot how would it work but before that let 's look at pop culture so you know h g wells war of the worlds novel and movie and what you see over here is a very popular
+video game in the fiction they describe these alien creatures are robots that have three legs that terrorize earth but
+one hundred and eighty degrees it swings its leg between its two legs to catch the fall so that's how it walks but when you look at us human being bipedal walking what you're doing is you're not really using a muscle to lift your leg and walk like a robot right
+what you're doing is you really swing your leg and catch the fall stand up again swing your leg and catch the fall using your built in dynamics the physics of your body
+just like a pendulum we call that the concept of passive dynamic locomotion what you're doing is
+really we were inspired by biology and applying the principles of walking to this robot thus it's a biologically inspired robot what you see over here this is what we want to do next
+fold up the legs and shoot it up for long range motion and it deploys legs it looks almost like star wars when it lands it absorbs the shock and starts walking
+what you see over here this yellow thing this is not a death ray this is just to show you that if you have cameras or different type of sensors because it is tall it's one point eight meters tall you can see over obstacles like bushes and those kind of things
+it was just too heavy in the body we had so many motors you know aligning the joints and those kinds of things so we decided to
+so with this now the top body is light enough
+the second robot i want to talk about is called impass it stands for intelligent mobility platform with actuated spoke system so it's a wheel leg hybrid robot so think of
+a rimless wheel or a spoke wheel but the spokes individually move in and out of the hub so it's a wheel leg hybrid we are literally re inventing the wheel here
+approach called reactive approach just simply using the tactile sensors on the feet it's trying to walk over a changing terrain a soft terrain where it
+and just by the tactile information it successfully crosses over these type of terrain but when it encounters a
+very extreme terrain in this case
+this obstacle is more than three times the height of the robot then it switches to a deliberate mode where it uses a laser range finder and camera systems
+anything like this out there this is a very high
+when you drive your car
+the front wheels rotate like
+small wheeled robots they use a method called differential steering where the left and right
+we can do many many different type of motion for example in this case even though left and right
+are just some examples of the neat things that
+this robot is called climber cable suspended limbed intelligent matching behavior robot so i've been talking to a lot of nasa jpl scientists at jpl they are famous for the mars rovers and the scientists geologists always tells me that
+the real interesting science the science rich sites are always at the cliffs but the current rovers can not get there so inspired by that we wanted to build a robot
+that can climb a structured cliff environment so this is climber so what it does it has three legs it's probably difficult to see but it has a winch and a cable at the top and it tries to figure out the best place to put its foot
+how much force it needs to exert to the search and
+five years ago i actually worked at nasa jpl during the summer as a faculty fellow and they already had a six legged robot
+so this is actually based on that this robot is called mars multi appendage robotic system so it's a hexapod robot we developed our adaptive gait planner
+we actually have a very interesting payload on there the students like to have fun and here you can see that it's walking over
+model changes so it tries to adapt its gait to successfully cross over these kind of things and also it does some fun stuff as can imagine we get so many visitors visiting our lab so when the visitors come mars walks up to the computer starts typing
+hello my name is mars welcome to romela the robotics mechanisms laboratory at virginia tech
+this robot is an amoeba robot now we don't have enough time to go into technical details i'll just show you some of the experiments so this is some of the early feasibility experiments we store potential energy to the elastic skin to make it move or use
+active tension cords to make it move forward and backward it's called chimera we also have been working with some scientists and engineers from upenn to come up with a and
+you can actually change the force simply just changing the air pressure and it can actually crush an empty soda can it can pick up very delicate objects like a raw egg or in this case a
+arm it's a twelve degrees of freedom robotic arm but the cool part is the user interface the cable over there that's an optical fiber and this student probably the first time using it but she can articulate it many different ways
+in this case it's very intuitive this student probably the first time using it
+now this robot is currently our star robot we actually have a fan club for the robot darwin
+so based on that success the following year we did the proper mechanical design starting from kinematics and thus darwin
+it stands up it walks very impressive
+however still as you can see it has a cord umbilical cord so we're still using external power source and
+it is not remote controlled there is not tethers it looks around searches for the ball looks around searches for the ball and it tries to play a game of soccer autonomously artificial intelligence
+let 's see how it does this was our very first trial
+so there is actually a competition called robocup i don't know how many of you heard about robocup it's
+we want to have full size autonomous humanoid robots play soccer against the human world cup champions and
+it's a true actual goal it's a very ambitious goal but we truly believe that we can do it so this is last year in china we were the very first team in the united states that qualified in the humanoid robot
+the robots track and they play team play research
+research in a more exciting
+what you see over here this is the beautiful louis vuitton cup trophy so this is for the best humanoid and we would like to bring this for the very first time to the united states next year so wish us luck thank you
+and it's trying to show off it's ability i 'm macho i'm strong
+i can also do some jackie chan motion martial art
+walks away so this is darwin iv again you'll be able to see it in the lobby we truly believe this is going to be the very first running humanoid robot in the united states
+so i showed you some of our exciting robots at work so what is the secret of our success where do we come up with these ideas how do we develop these kind of ideas
+we have a fully autonomous vehicle that can drive into an urban environment we won a half a million dollars in darpa urban challenge we also have the world 's very first vehicle that can be driven by the blind we call it the blind driver challenge very exciting and many many other
+talk about these are just the awards that we won in two thousand and seven fall from robotics competition and those kind of things
+so really we have five secrets first is where do we get
+at night when i go to bed three or four am in the morning i lie down close my eyes and i see these lines and circles and different shapes floating around and they assemble and they form these kind of mechanisms
+this is cool so right next to my bed i keep a notebook a journal with a special pen that has a light on it led light because i don't want to turn on the light and wake up my wife so i see this scribble everything down draw things and i go to bed
+every day in the morning the first thing i do before my first cup of coffee before i brush my teeth i open my notebook many times it's empty sometimes i have something there sometimes it's junk but most of the time i can't even read my
+four am in the morning what do you expect right so i need to decipher what i wrote but sometimes i see this ingenious idea in there
+and i have this eureka moment i directly run to my home office sit at my computer i type in the ideas i sketch things out and i keep a database of ideas
+so when we have these call for proposals i try to find a match between my potential ideas and the problem if there is a match we write a research proposal get the research funding in and that's how we start our research programs
+fantastic brainstorming sessions so we gather around and we discuss about problems and social problems and talk about it but before we start we set this golden rule the rule is
+nobody criticizes anybody 's ideas nobody criticizes any opinion this is important because many times students they fear or they feel uncomfortable how others might think about their
+opinions and thoughts so once you do this it is amazing how the students open up they have these whacky cool crazy brilliant ideas the whole room is just electrified with creative energy and this is how we develop our ideas
+ken robinson was it he gave a talk about how education and school kills creativity well actually there is two sides to the story
+so there is only so much one can do with just ingenius ideas and creativity and good engineering intuition if you want to go beyond a tinkering if you want to go beyond a hobby of robotics and
+really tackle the grand challenges of robotics through rigorous research we need more than that this is where school comes in
+also it's not about that only about that you also have to work really really hard so i always tell my students work smart then work hard this picture in the back this is three am in the morning
+i guarantee if you come to your lab at three am four am we have students working there not because i tell them to but because we are having too much fun which leads to the last topic
+do not forget to have fun that's really the secret of our success we're having too much fun i truly believe that highest productivity comes when you're having fun and that's what we're doing there you go thank you so much

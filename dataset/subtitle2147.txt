@@ -1,0 +1,1 @@
+{"0":{"caption":{"duration":7476,"content":"(Music)","startOfParagraph":true,"startTime":2273}},"1":{"caption":{"duration":10193,"content":"(Applause)","startOfParagraph":true,"startTime":562052}},"_meta":{"preroll_offset":11820}}

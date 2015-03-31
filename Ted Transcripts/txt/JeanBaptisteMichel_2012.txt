@@ -1,0 +1,14 @@
+but not that much in the humanities and in history
+i think there 's a belief that it 's just impossible that you cannot quantify the doings of mankind that you cannot measure history
+but i don 't think that 's right i want to show you a couple of examples why so my collaborator erez and i were considering the following fact that two kings separated by centuries will speak a very different language that 's a powerful historical force
+namely if a verb is one hundred times more frequent than another it regularizes ten times slower that 's a piece of history but it comes in a mathematical wrapping
+now in some cases math can even help explain or propose explanations for historical forces
+so here steve pinker and i were considering the magnitude of wars during the last two centuries there 's actually a well known regularity to them where the number of wars that are one hundred times deadlier is ten times smaller
+so steve and i through mathematical analysis
+for instance committing ten thousand soldiers to the next battle sounds like a lot it 's relatively enormous if you 've already committed one thousand soldiers previously
+but it doesn 't sound so much it 's not relatively enough it won 't make a difference if you 've already committed one hundred thousand soldiers previously
+so you see that because of the way we perceive quantities
+as the war drags on the number of soldiers committed to it and the casualties will increase not linearly like ten thousand eleven thousand twelve thousand but exponentially ten thousand later twenty thousand later forty thousand
+and so that explains this pattern that we 've seen before so here mathematics is able to link a well known feature of the individual mind with a long term historical pattern that unfolds over centuries and across continents
+so these types of examples today there are just a few of them but i think in the next decade they will become commonplace the reason for that is that the historical record is becoming digitized at a very fast pace so there 's about one hundred and thirty million books that have been written since the dawn of time
+companies like google have digitized many of them above twenty million actually and when the stuff of history is available in digital form it makes it possible for a mathematical analysis to very quickly and very conveniently review trends in our history and our culture

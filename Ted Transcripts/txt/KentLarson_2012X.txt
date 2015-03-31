@@ -1,0 +1,64 @@
+you needed easy access to the fields
+and for hundreds even thousands of years the home was really the center of life life was very small for most people it was the center of entertainment of energy production of work
+then with industrialization everything started to become centralized you had dirty factories that were moved to the outskirts of cities
+production was centralized in assembly plants you had centralized energy production learning took place in schools health care took place in hospitals
+and then you had networks that developed you had water sewer networks that allowed for this kind of unchecked expansion you had separated functions increasingly you had rail networks that connected residential industrial commercial areas you had auto networks
+in fact the model was really give everybody a car build roads to everything and give people a place to park when they get there it was not a very functional model and we still live in that world and this is what we end up with
+so you have the sprawl of la the sprawl of mexico city
+you have these unbelievable new cities in china which you might call tower sprawl they 're all building cities on the model that we invented in the fifty s and sixty s which is really obsolete i would argue and there are hundreds and hundreds of new cities that are being planned all over the world
+in china alone three hundred million people some say four hundred million people will move to the city over the next fifteen years that means building the entire
+but at the same time it 's where people want to be increasingly
+more than half the people now in the world live in cities and that will just continue to escalate cities are places of celebration personal expression you have the flash mobs of pillow fights that i 've been to a couple they 're quite fun laughter you have
+the home once again because of distributed computation communication is becoming a center of life so it 's a center of production and learning and shopping and health care and all of these things that we used to think of as taking place outside of the home
+and increasingly everything that people buy every consumer product in one way or another can be personalized and that 's a very important trend to think about so this is my image of the city of the future
+this is bangalore it took me a couple of hours to get a few miles in bangalore last year so with cities you also have congestion and pollution and disease and all these negative things how can we have the good stuff without the bad so we went back and started looking at the great cities that evolved before the cars
+and if you look at the data when you have that kind of a structure you get a very even distribution of the shops
+and the physicians and the pharmacies and the cafes in paris and then you look at cities that evolved after the automobile and it 's not that kind of a pattern there 's very little that 's within a five minute walk
+so we said we 'll let 's look at new cities and we 're involved in a couple of new city projects in china so we said let 's start with that neighborhood cell we think of it as a compact urban cell so provide most of what most people want within that twenty minute walk
+this can also be a resilient electrical microgrid community heating power communication networks etc can be concentrated there stewart brand would put a micro nuclear reactor right in the center probably
+pattern so you can have a series of these neighborhoods
+you can dial up the density about twenty thousand people per cell if it 's cambridge go up to fifty thousand if it 's manhattan density you connect everything with mass transit
+and you provide most of what most people
+need within that neighborhood you can begin to develop a whole typology of streetscapes and the vehicles that can go on them i won 't go through all of them i 'll just show one this is boulder it 's a great example of kind of a mobility parkway a superhighway for joggers and bicyclists where you can go from one end of the city to the other without crossing the street
+and they also have bike sharing which i 'll get into in a minute
+the river down below below the street
+and you can go from one end of seoul to the other without crossing a pathway for cars the highline in manhattan is very similar you have these
+rapidly emerging bike lanes all over the world i lived in manhattan for fifteen years i went back a couple of weekends ago took this photograph of these fabulous new bike lanes that they have installed they 're still not to where copenhagen is
+where something like forty two percent of the trips within the city are by bicycle it 's mostly just because they have fantastic infrastructure there we actually did exactly the wrong thing in boston we the big
+and it 's certainly not a mobility pathway for anything other than cars
+mobility on demand is something we 've been thinking about so we think we need an ecosystem of these shared use vehicles connected to mass transit these are some of the vehicles that we 've been working on but shared use is really key if you share a vehicle you can have at least four people use one vehicle as opposed to one
+we have hubway here in boston the velib system in paris
+we 've been developing at the media lab this little city car that is optimized for shared use in cities
+we got rid of all the useless things like engines and transmissions we moved everything to the wheels so you have the drive motor the steering motor the breaking all in the wheel that left the chassis unencumbered so you can do things like fold so you can fold this little vehicle up
+parallel parking you just spin and go directly in laughter so we 've been working with a company to commercialize this my phd student ryan chin presented these early ideas two years ago at a tedx conference
+so what 's interesting is then if you begin to add new things to it like autonomy you get out of the car you park at your destination you pat it on the butt it goes and it parks itself it charges itself and you can get something like seven times as many vehicles
+in a given area as conventional cars and we think this is the future actually we could do this today it 's not really a problem
+we can combine shared use and folding and autonomy and we get something like twenty eight times the land utilization with that kind of strategy one of our graduate students then says well
+how does a driverless car communicate with pedestrians you have nobody to make eye contact with you don 't know if it 's going to run you over so he 's developing strategies so the vehicle can communicate with pedestrians so
+housing is another area where we can really improve mayor menino in boston says lack of affordable housing for young people is one of the biggest problems the city faces
+developers say okay we 'll build little teeny apartments people say we don 't really
+want to live in a little teeny conventional apartment so we 're saying let 's build a standardized chassis much like our car let 's bring advanced technology into the apartment technology enabled infill give people the tools within this open loft
+chassis to go through a process of defining what their needs and values and activities are and then a matching algorithm will match a unique assembly of integrated infill components furniture and cabinetry
+that are personalized to that individual and they give them the tools to go through the process and to refine it and it 's something like working with an architect where the dialogue starts when you give
+an alternative to a person to react to
+have a conventional one bedroom arrangement when you need it maybe that 's most of the time you have a dinner party the table folds out to fit sixteen people in otherwise a conventional one bedroom or maybe you want a dance studio i mean architects have been thinking about these ideas for a long time
+what we need to do now develop things that can scale
+to those three hundred million chinese people that would like to live in the city and very comfortably we think we can make a very small apartment that functions as if it 's twice as big
+by utilizing these strategies i don 't believe in smart homes that 's sort of a bogus concept i think you have to build dumb homes and put smart stuff in it
+you know standardized platform with the motors
+and the battery when it operates little solenoids that will lock it in place and get low voltage power we think this can all be standardized and then people can personalize the stuff that goes into that wall and like the car we can integrate all kinds of sensing to be aware of human activity so if there 's a baby or a puppy in the way
+you won 't have a problem
+that means twice as much parking though parking 's really expensive it 's about seventy thousand dollars per space to build a conventional parking spot inside a building
+so if you can have folding and autonomy you can do that in one seventh of the space that goes down to ten thousand dollars per car just for the cost of the parking you add shared use and you can even go further we can also integrate all kinds of advanced technology through this process there 's a path to market
+for innovative companies to bring technology into the home in this case a project we 're doing with siemens
+we have sensors on all the furniture all the infill that understands where people are and what they 're doing blue light is very efficient so we have these tunable twenty four bit led lighting fixtures it recognizes where the person is what they 're doing fills out the light when necessary to full spectrum white light
+this just shows you the data that comes from the sensors that are embedded in the furniture we don 't really believe in cameras to do things in homes we think these little wireless sensors are more effective
+we think we can also personalize sunlight that 's sort of the ultimate personalization in some ways so we we 've looked at articulating mirrors of the facade that can throw shafts of sunlight
+anywhere into the space therefore allowing you to shade most of the glass on a hot day like today
+in this case she picks up her phone she can map food preparation at the kitchen island to a particular location of sunlight an algorithm will keep it in that location as long as she 's engaged in that activity
+this can be combined with led lighting as well
+we think workplaces should be shared i mean this is really the workplace of the future i think this is starbucks you know laughter maybe a third and you see everybody has their back to the wall and they have food and coffee down the way and they 're in their own little personal bubble we need shared spaces for interaction and collaboration we 're not doing a very good job with that
+at the cambridge innovation center you can have shared desks i 've spent a lot of time in finland at the design factory of aalto university where the they have a shared shop and shared fablab shared quiet spaces electronics spaces recreation places
+we think ultimately all of this stuff can come together
+a new model for mobility a new model for housing a new model for how we live and work a path to market for advanced technologies but in the end the main thing we need to focus on are people cities are all about people
+while at the same time dramatically reducing co two and energy it 's a global imperative we have to get this right thank you

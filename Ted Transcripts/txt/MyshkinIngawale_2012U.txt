@@ -1,0 +1,24 @@
+like to build stuff i 've always liked to build stuff
+i believe this is going to democratize health care
+i had absolutely no idea what was going to happen next i was in fact
+busy trying to finish off my ph d which was in a completely unrelated area of how people interact contributors interact how articles are formed in wikipedia trying to figure out how quality emerges from the system i was also building
+so at that time i was planning a road trip i visited a place called parol about two hours north of mumbai
+he was out there in parol delivering a baby i was waiting and when he did emerge he was ashen faced he told me that there had been two deaths the mother and child both had died the reason he told me was something called post partum hemorrhage
+he explained this meant severe internal bleeding what was really shocking for me was that he said that this is entirely due to undiagnosed anemia
+now anemia i 'm an engineer but even i knew that anemia is something which is not supposed to be fatal it is something which probably the cure is known i mean folic acid iron tablets very cheap affordable cures exist
+five minutes away from there i had the center the medical center which was distributing subsidized iron tablets so
+the whole nature of this thing completely shocked me and i knew that there had to be a way to prevent this
+this struck me as i love to fix things i wanted to fix this i got a friend of mine an engineer and three other doctors abhishek joined the team and we wanted to solve this problem by the time i step down from here there will be ten people who have lost their lives through a completely completely preventable problem
+now let me take you back to parol you saw the woman there the nurse in india this is called an asha worker it 's essentially a village health worker a matron she is really the center of the health care system public health care runs on the asha worker not the doctor
+now we knew we had to design something which she could use we knew it had to be
+these three things that the machine had to have we knew it had to be something which had no needles no pricking so it would have adoption it would not have medical waste all those problems
+it had to be simple enough for that woman asha worker to use and thirdly it had to be something which she could carry in her kit she goes village to village doing screenings we thought we could build it so we built it
+this is a machine called the touchb quik what it does is
+it measures my hemoglobin oxygen and pulse rate i put it on my finger switch it on and in about twenty seconds it 'll give me on the little screen here a value of hemoglobin oxygen saturation and heart rate
+this will help asha workers diagnose anemia at the point of care
+and we essentially pass light right through the tissue and from understanding how much of it is transmitted how much of it is scattered and how much of it is absorbed we can figure out
+how much hemoglobin is there in the blood and this is something which is based on a principle called photoplethysmography we are actually really very excited about what else
+non invasive techniques like this will be able to crack in the future one of the things which my intern here pratesh built is a mobile application which can now send all this data anywhere it wants to go there 's a bunch of very exciting stuff which we are doing i would love to tell you a little bit more about it but fundamentally what i believe is that
+the map behind of me is called basically the map of anemia it 's the death rates caused by anemia globally
+you 'll notice of course that there are hot spots
+south asia africa my business plan is very simple i 'm just going to sell these to every clinic in the world that 's a simple bottom line business plan and by the time i 'm done in two thousand and twenty when the who publishes the data again this is going to be the map of anemia

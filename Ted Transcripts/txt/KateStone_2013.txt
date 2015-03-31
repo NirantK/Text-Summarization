@@ -1,0 +1,38 @@
+and that 's what i say when people ask me what i do but it really confuses most people so really the best way for me to convey it is to take the technology and be creative and create experiences so i tried to think what i could use for here and a couple of weeks ago i had a crazy idea that i wanted to print
+two dj decks and to try and mix some music and i 'm going to try and show that at the end and the suspense will be as much mine if it works and i 'm not a dj and i 'm not a musician so i 'm a little bit scared of that
+so when i was a kid i was obsessed with wires and
+i used to thread them under my carpet and thread them behind the walls and have little switches
+and little speakers and i wanted to make my bedroom be interactive but kind of all hidden away and i was also really interested in wireless as well so i bought one of those
+little kits that you could get to make a radio transmitter and i got an old book and i carved out the inside and i hid it inside there and then i placed it next to my dad and snuck back to my bedroom and tuned in on the radio so i could eavesdrop
+i was not at all interested in what he was saying it 's more that i just liked the idea of an everyday object having something inside and doing something different
+several year later i managed to successfully fail all of my exams
+and didn 't really leave school with much to show for at all and my parents maybe as a reward
+i ended up on a farm
+and on this farm there was the farmer his wife
+and they kind of took me into the farm and showed me what it was like to live and work
+obviously one of the most important things was the sheep and so my job was well pretty much to do everything but it was about
+bringing the sheep back to the homestead and we 'd do that by building fences using motorbikes and horses and the sheep would make their way all the way back to the shearing shed for the different seasons
+and what i learned was although at the time like everyone else i thought sheep were pretty stupid because they didn 't do what we wanted them to do what i realize now probably only just in the last few weeks looking back is the sheep weren 't stupid at all
+we 'd put them in an environment where they didn 't want to be and they didn 't want to do what we wanted them to do
+so the challenge was to try and get them to do what we wanted them to do by listening to the weather the lay of the land and creating things that would let the sheep flow and go where we wanted them to go another bunch of years later i ended up at cambridge university at the cavendish laboratory in the u k doing a ph d in physics
+my ph d was to move electrons around one at a time
+and i realize again it 's kind of these realizations looking back as to what i did i realize now that it was pretty much the same as moving sheep around
+it really is it 's just you do it by changing an environment and that 's kind of been a big lesson to me that you can 't act on any object you change its environment and the object will flow so
+we made it very small so things were about thirty nanometers in size making it very cold so at liquid helium temperatures
+you can die and you know i had seen that sort of thing happen
+so now my obsession is printing and i 'm really fascinated by the idea of using conventional printing processes so the types of print that are used to create many of the things around us to make paper and card interactive
+when i spoke to some printers when i started doing this and told them what i wanted to do which was to print conductive inks onto paper
+very close to bankruptcy really and bought myself this huge printing press which i had no idea how to use at all it was about five meters long and i covered myself and the floor with ink and made a massive mess but i learned to print and then i took it back to the printers and showed them what i 've done and they were like of course you can do that why didn 't you come here in the first place
+so what we do is we take conventional printing presses we make conductive inks and run those through a press and basically just letting hundreds of thousands of electrons flow through pieces of paper so we can make that paper interactive
+and it 's pretty simple really it 's just a collection of things that have been done before but bringing them together in a different way
+so we have a piece of paper with conductive ink on and then add onto that a small circuit board with a couple of chips one to run some capacitive touch software so we know where we 've touched it and the other to run quite often some wireless software so the piece of paper can connect
+so i 'll just describe a couple of things that we 've created there 's lots of different things we 've created this is one of them because i love cake and this one it 's a large poster and you touch it and it has a little speaker behind it and the poster talks to you when you touch it and asks you a series of questions and it works out your perfect cake
+but it doesn 't tell you the cake there and then it uploads a picture and the reason why it chose that cake for you to our facebook page and to twitter so we 're trying to create that connection between the physical and the digital but have it not looking on a screen and just looking like a regular poster
+we 've worked with a bunch of universities on a project looking at interactive newsprint so for example we 've created a newspaper a regular newspaper you can wear a pair of headphones that are connected to it wirelessly and when you touch it you can hear the music that 's described on the top which is something you can 't read
+you can hear a press conference as well as reading what the editor has determined that press conference was about and you can press a facebook like button or you can vote on something as well
+something else that we created and this was an idea that i had a couple of years ago and so we 've done a project on this it was for funding from the government for user centered design for energy efficient buildings difficult to say and something i had no idea what it was when i went into the workshop but quickly learned
+and we wanted to try and encourage people to use energy better and i really liked the idea that instead of looking at dials and reading things to say looking at your energy usage
+i wanted to create a poster that was wirelessly connected and had color changing inks on it and so if your energy usage was trending better than the leaves would appear and the rabbits would appear and all would be good and if it wasn 't then there 'd be graffiti and the leaves would fall off the trees so it was trying to make you
+look after something in your immediate environment which you don 't want to see not looking so good rather than expecting people to do things in the local environment because of the effect that it has a long way off and i think kind of like going back to the farm it 's about how to let people do what you want them to do rather than making people do what you want them to
+things so this one is like a sound board so you can touch it
+and i worked with a friend called elliot to put some beats together so this is my niece charlotte

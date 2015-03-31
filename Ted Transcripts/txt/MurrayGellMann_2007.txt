@@ -1,0 +1,98 @@
+thank you for putting up these pictures of my colleagues over here
+talking about them now i'm going try an experiment i don't do experiments normally i'm a theorist but i'm going see what happens if i press this
+sure enough ok i used to work in this field of elementary particles what happens to matter if you chop it up very fine what is it made of and the laws of these particles
+are valid throughout the universe and they're very much connected with the history of the universe we know a lot about four forces there must be a lot more but those are at very very small distances and we haven't really interacted with them very much yet
+the main thing i want to talk about is this that we have this remarkable experience in this field of fundamental physics that beauty
+is a very successful criterion for choosing the right theory and why on earth could that be
+well here 's an example from my own
+and it was in disagreement with seven seven count them seven experiments
+experiments were all wrong and we published before knowing that because we figured it was so beautiful it's gotta be right
+the experiments had to be wrong and they were now our friend over there albert einstein used to pay very little attention when people said you know
+there's a man with an experiment that seems to disagree with special relativity dc miller what about that and he would say
+stuff like that work that's the
+what do we mean by beautiful that's one thing i'll try to make that clear partially clear why should it work and is this something to do with human beings i'll let you in on the answer to the last one that i offer and that is it has nothing to do with human
+somewhere in some other planet orbiting some very distant star maybe in a another galaxy there could well be
+they could be out there very easily
+and suppose they have you know very different sensory apparatus and so on they have seven tentacles and they have fourteen little funny looking compound eyes and a brain shaped like a pretzel
+would they really have different laws there are lots of people who believe that and i think it is utter baloney
+i think there are laws out there and we of course don't understand them at any given time very well
+but we try and we try to get closer and closer and someday we may actually figure out the fundamental unified theory of the particles and forces
+what i call the fundamental law we may not even be terribly far from it but even if we don't run across it in our lifetimes we can still think there is one out there and we're just trying to get closer and closer to
+i think that's the main point to be made we express these things mathematically and when the mathematics is very simple
+when in terms of some mathematical notation you can write the theory in a very brief space without a lot of complication that's essentially what we mean by beauty or elegance
+here 's what i was saying about the laws they're really there
+newton certainly believed that and
+he said here it is the business of natural philosophy to find out those laws
+the basic law let 's say here 's an assumption the assumption is that the basic law really takes the form of a unified theory of all the particles now some people call that a theory of everything that's wrong
+because the theory is quantum mechanical and i won 't go into a lot of stuff about quantum mechanics and what it's like and so on you've heard a lot of wrong things about it anyway
+there are even movies about it
+stuff but the main thing here is that it predicts probabilities now sometimes those probabilities are
+and in a lot of familiar cases they of course are but other times they're not and you have only probabilities for different outcomes
+so what that means is that the history of the universe is not determined just by the fundamental law
+the fundamental law and this incredibly long series of accidents or chance outcomes that are there in addition
+and the fundamental theory doesn't include those chance outcomes they are in addition
+so it's not a theory of everything and in fact a huge amount of the information in the universe around us comes from those accidents and not just from the fundamental
+now it's often said that
+an onion and we keep doing that and build more powerful machines accelerators for particles
+we look deeper and deeper into the structure of particles and in that way we get probably closer and closer to this fundamental law
+is that as we do that
+as we peel these skins of the onion and we get closer and closer to the underlying law we see that each skin has something in common with the previous one and with the next one
+we write them out mathematically and we see they use very similar mathematics they require very similar mathematics
+that is absolutely remarkable and that is a central feature of what i'm trying to say today
+newton called it that's newton by the way that one this one is albert einstein hi al
+and anyway he said nature conformable to herself and so what
+that the new phenomena the new skins the inner skins of the slightly smaller skins of the onion that we get to resemble the slightly larger ones and
+the kind of mathematics that we had for the previous skin is almost the same as what we need for the next skin and that's why the equations look so simple
+use mathematics we already have
+trivial example is this newton found the law of gravity
+which goes like one over the square of the distance between the things gravitated coulomb in france
+found the same law for electric charges here 's an example of this similarity
+you look at gravity you see a certain law then you look at electricity sure enough the same rule
+it's a very simple example there are lots of more sophisticated examples symmetry is very important in this discussion you know what it means a circle for example is symmetric under rotations about the center of the circle
+you rotate around the center of the circle the circle remains unchanged you take a sphere in three dimensions you rotate around the center of the sphere and all those rotations leave the sphere alone they are symmetries of the sphere
+so we say in general that there's a symmetry under certain operations if those operations leave the phenomenon or its description unchanged
+there's a new notation in the nineteenth century that expressed this
+and if you use that notation the equations get a lot simpler then einstein with his special theory of relativity looked at a whole set of symmetries of maxwell 's equations which are called special relativity
+and those symmetries then make the equations even shorter and even prettier therefore
+let 's look you don't have to know what these things mean doesn't make any difference but you can just look at the form you can look at the form you see above at the top a long list of equations with three components for the three directions of space x y and z
+then using vector analysis you use rotational symmetry and you get this next set
+then you use the symmetry of special relativity and you get an even simpler set down here showing that symmetry exhibits better and better the more and more symmetry you have the better you exhibit the simplicity and elegance
+of the theory the last two the first equation says that electric charges and currents give rise to all the electric and magnetic fields
+the next second equation says that there is no magnetism other than that the only magnetism comes from electric charges and currents someday we may find some slight hole in that argument but for the moment that's the case
+now here is a very exciting development that many people have not heard of they should have heard of it but it's a little tricky to explain in technical detail so i won 't do it i'll just mention
+called by us frank yang and
+bob mills put forward fifty years ago this generalization of maxwell 's equations with a new symmetry a whole new symmetry mathematics very similar but there was a whole new symmetry
+they hoped that this would contribute somehow to particle physics
+it didn 't by itself contribute to particle physics but then some of us generalized it further and then it did and it gave a very beautiful description of the strong force and of the weak force
+so here we say again what we said before that each skin of the onion shows a similarity to the adjoining skins so the mathematics for the adjoining skins is very similar to what we need for the
+and therefore it looks beautiful
+so here are the themes we believe there is a unified theory underlying
+steps toward unification exhibit the simplicity symmetry exhibits the simplicity
+and then there is self similarity across the scales in other words from one skin of the onion to another one proximate self similarity
+and that accounts for this phenomenon that will account for why beauty is a successful criterion for selecting the right theory
+here 's what newton himself said nature is very consonant and conformable to
+one thing he was thinking of is something that most of us take for granted today but in his day it wasn't taken for granted
+the story which is not absolutely
+certain to be right but a lot of people told it four sources told it that when they had the plague in cambridge and he went down to his mother 's farm
+that drew the apple down to the earth could be the same as the force regulating the motions of the planets and the moon
+the same theory of gravity
+this principle of nature being very remote from the conceptions of philosophers i forbore to describe it in that book least i should be accounted an extravagant freak
+and so prejudice my readers against all those things which were the main design of the book now who today would claim that as a mere conceit of the human mind
+that the force that causes the apple to fall to the ground is the same force that causes the planets and the moon to move around and so on everybody knows that it's a property of gravitation
+not something in the human mind the human mind can of course appreciate it and enjoy it use it but it's not it doesn't stem from the human mind it stems from the character of gravity and that's true of all the things we're talking about
+they are properties of the fundamental law the fundamental law is such that the different skins of the onion resemble one another and therefore the math for one skin allows you to express
+simply the phenomenon of the next skin
+i say here that newton did a lot of things that year
+and he could have written quite an essay on what i did over my
+so we don't have to assume these principles as separate metaphysical postulates
+they follow from the fundamental theory
+they are what we call emergent properties you don't need
+you don't need something more to get something more life can emerge from
+physics and chemistry plus a lot of accidents
+the human mind can arise from neurobiology and a lot of accidents
+doesn't diminish the importance of
+to know that they follow from more fundamental things plus accidents that's a general rule
+and it's critically important to realize that you don't need something more in order to get something more people keep asking that
+when they read my book the quark and the jaguar and they say isn 't there something more beyond what you have there presumably they mean something supernatural
+anyway there isn 't you don't need something more
+to explain something more thank you very much

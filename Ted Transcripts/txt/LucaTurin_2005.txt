@@ -1,0 +1,75 @@
+the fragrance that you will
+smell you will never be able to smell this way again it a s a fragrance called beyond paradise which you can find in any store
+i'm most grateful to them for this and it a s been split up in successive bits and a chord so what you a re smelling now is the top note and then will come what they call the heart the lush heart note
+the eden top note is named after the eden project in the u k the lush heart note melaleuca bark note which does not contain any melaleuca bark because it a s totally forbidden
+after that the complete fragrance now what you are smelling is
+a combination of i asked how many molecules there were in there and nobody would tell me so i put it through a gc a gas chromatograph that i have in my office and it a s about four hundred
+so what you a re smelling is several hundred molecules
+do not get the impression that this is very subjective you are all smelling pretty much the same thing ok smell has this reputation of being
+while the smell wafts over you let me tell you the history of an idea
+is made up of atoms that come from what i call the upper east side of the periodic table a nice safe neighborhood you
+want to leave it if you want to have a career in perfumery some people have tried in the nineteen twenties to add things from
+bad parts and it didn a t really work these are the five atoms from which just about everything that you a re going to smell in real life from coffee to fragrance are made of
+the top note that you smelled at the very beginning the cut grass green what we call in perfumery they a re weird terms and this would be called a green note because it smells of something green like cut grass this is cis three hexanol and
+i had to learn chemistry on the fly in the last three years a very expensive high school chemistry education
+this has six carbon atoms so hexa hexanol it has one double bond it has an alcohol on the end so
+if you dress it up with atoms hydrogen atoms that a s what it looks like when you have it on your computer but actually it a s sort of more like this in the sense that the atoms have
+a certain sphere that you cannot penetrate they repel ok now why does this thing smell
+or violets well there are really two theories but the first theory is it must be the shape
+you know the fit between a protein and whatever it is grabbing in this case a smell
+and i will try and explain to you what a s wrong with this notion and the other theory is that we smell molecular vibrations now this is a totally insane idea and when i first came across it
+in the early nineties i thought my predecessor malcolm dyson and bob wright had really taken leave of their senses and i a ll explain to you why this was the case
+in normal receptors you have a molecule coming in it gets into the protein which is schematic here and it causes this thing to switch to turn to move in some way by binding
+in certain parts and the attraction the forces between the molecule and the protein cause the motion this is a shape based idea now
+wrong with shape is summarized in this slide the way
+i expect everybody to memorize these compounds this is one page of work from a chemist a s workbook ok
+two hundred thousand dollars roughly if you keep them on the low salaries with no benefits so this is a profoundly inefficient process
+and my definition of a theory is it a s not just something that you teach people it a s labor saving a theory is something that enables you to do less work i love the idea of doing less work so
+let me explain to you why a very simple fact that tells you why this shape theory really does not work very well
+this is cis three hexanol it smells of cut grass this is
+and this smells of rotten eggs ok now you will have noticed that vodka never smells of rotten eggs if it does you put the glass down you go to a different bar this is
+in other words we never get the o h we never mistake it for an s h ok like
+at no concentration even pure you know if you smelt pure ethanol it doesn a t smell of rotten eggs conversely there is no concentration at which the sulphur compound will smell like vodka
+very hard to explain this by molecular recognition now i showed this to a physicist friend of mine who has a profound distaste for biology and he says that a s easy the things are a different color
+of the o h stretch translated into the audible range
+quite a different frequency now this kind of interesting because it tells you that you should be looking for a particular fact which is this nothing in the world smells like rotten eggs except s h ok now fact b
+nothing in the world has that frequency except s h if you look on this imagine a piano keyboard the s h stretch
+is in the middle of a part of the keyboard that has been so to speak damaged and there are no neighboring notes nothing is close to it you have a unique smell a unique vibration so now
+searching high and low for several months i discovered that there was a type of molecule called a borane which has exactly the same vibration now the good news is so
+this was not what they call a laboratory scale experiment and they wouldn a t have liked it at my college however i managed to hold of a borane eventually and
+and it really does have the same if you calculate if you measure the vibrational frequencies they are the same as s h now
+does it smell of sulphur well if you go back in the literature there a s a man who knew more about boranes than anyone
+alive then or since alfred stock he synthesized all of them and in an enormous forty page paper in german
+he says at one point my wife is german and she translated it for me and at one point he says ganz widerlich geruch an absolutely repulsive smell which is good
+slight fly in the ointment is this that if we smell molecular vibrations we must have a spectroscope in our nose
+now this is a spectroscope ok on my laboratory bench and it a s fair to say that if you look up somebody a s nose you a re unlikely to see anything resembling this and this is the main objection to the theory ok great we smell vibrations how
+when people ask this kind of question they neglect something which is that physicists are really clever unlike biologists
+this is a joke i a m a biologist ok so it a s a joke against myself bob jacklovich and john lamb at ford motor company in the days when ford was spending vast amounts of money on fundamental research discovered
+a way to build a spectroscope that was intrinsically nanoscale in other words no mirrors no lasers no prisms no nonsense just a tiny device and he built this device and this device uses electron tunnelling
+now i could do the dance of electron tunneling but i a ve done a video instead which is much more interesting here a s how it works electrons are fuzzy creatures and they can jump across gaps
+but only at equal energy if the energy differs they can a t jump unlike us they won a t fall off
+now if something absorbs the energy the electron can travel so here you have a system you have something and there a s plenty of that stuff in biology some substance giving an electron
+and the electron tries to jump and only when a molecule comes along that has the right vibration does the reaction happen ok this is the basis for the device
+that these two guys at ford built and every single part of this mechanism is actually plausible in biology
+in other words i a ve taken off the shelf components and i a ve made a spectroscope what a s nice about this idea if you have a philosophical bent of mind is that then it tells you that the nose
+the ear and the eye are all vibrational senses of course it doesn a t matter because it could also be that they a re not but it has a certain
+it has a certain ring to it which is attractive to people who read too much nineteenth century german literature
+and then a magnificent thing happened i left academia and joined the real world of business and
+the first things that happened was we started going around to fragrance companies asking for what they needed because of course if you could calculate smell
+you don a t need chemists you need a computer a mac will do it if you know how to program the thing right ok so you can try a thousand molecules you can try ten thousand molecules in a weekend
+you cannot make a coumarin he says to me i bet you cannot make a coumarin now coumarin is a very common
+a material in fragrance which is derived from a bean that comes from south america and it is the classic synthetic aroma chemical
+the problem is it a s a carcinogen so nobody likes particularly to you know aftershave with carcinogens
+there are some reckless people but it a s not worth it ok so they asked us to make a new coumarin and so we started doing calculations and the first thing you do is you calculate
+the vibrational spectrum of coumarin and you smooth it out so that you have a nice picture of what this sort of chord so to speak of coumarin is
+and then you start cranking the computer to find other molecules related or unrelated that have the same vibrations
+we actually in this case i a m sorry to say
+it happened it was serendipitous because i got a phone call from our chief chemist and he said look i a ve just found this such a beautiful reaction that even if this compound doesn a t smell of coumarin i want to do it it a s just such a nifty
+one step i mean chemists have weird minds one step ninety percent yield you know and you get this lovely crystalline compound let us try it and i said first of all let me do the calculation
+on that compound bottom right which is related to coumarin but has an extra pentagon inserted into the molecule
+a little ten gram vial on the table in front of perfumers and it smells like coumarin and it isn a t coumarin and you a ve found it in three weeks this focuses everybody a s mind wonderfully
+people often ask me is your theory accepted and i said well by whom i mean most you know there a s three attitudes you a re right and i don a t know why which is the most rational one at this point
+right and i don a t care how you do it in a sense you bring me the molecules you know and you a re completely wrong and i a m sure you a re completely wrong
+ok now we a re dealing with people who only want results and this is the commercial world and they tell us that even if we do it by astrology they a re happy
+not actually doing it by astrology but for the last three years i a ve had what i consider to be the best job in the entire universe which is to put my
+hobby which is you know fragrance and all the magnificent things plus a little bit of biophysics a small amount of self taught chemistry at the service of something that actually works thank you very much

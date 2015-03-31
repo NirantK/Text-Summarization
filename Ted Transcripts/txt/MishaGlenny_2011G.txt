@@ -1,0 +1,71 @@
+this is a very un ted like thing to do but let 's kick off the afternoon with a message from a mystery sponsor
+but interestingly they have a sense of humor these guys hacked into fox news twitter account to announce president obama 's assassination
+being a victim of hacking for a change
+you turn on the news and you say is there anyone left to hack sony playstation network
+done the government of turkey tick britain 's serious organized crime agency a breeze the cia falling off a log in fact a friend of mine from the security industry told me the other day that there are two types of companies in the world those that know they 've been hacked and those that don 't i mean
+at protecting our data but there is also a very serious aspect to anonymous they are ideologically driven they claim that they are battling a dastardly
+conspiracy they say that governments are trying to take over the internet and control it and that they anonymous are the authentic voice of resistance be it against middle eastern dictatorships against global media corporations or against intelligence agencies
+or whoever it is and their politics are not entirely unattractive okay they 're a little inchoate there 's a strong whiff of half baked anarchism about them but one thing is true
+we are at the beginning of a mighty struggle
+for control of the internet
+the web links everything and very soon it will mediate most human activity
+because the internet has fashioned a new and complicated environment
+for an old age dilemma that pits the demands of security with
+the desire for freedom now
+this is a very complicated struggle and unfortunately for mortals like you and me we probably can 't understand it very well nonetheless in an unexpected attack of hubris a couple of years ago i decided i would try and do that
+and i sort of get it
+these were the various things that i was looking at as i was trying to understand it but in order to try and explain the whole thing i would need another eighteen minutes or so to do it so you 're just going to have to take it on trust from me on this occasion
+and let me assure you that all of these issues are involved in cybersecurity and control of the internet one way or the other but in a configuration that even stephen hawking would probably have difficulty trying to get
+the hacker is absolutely central to many of the political social and economic issues affecting the net and so i thought to myself well these are the guys who i want to talk to and what do you know
+nobody else does talk to the hackers they 're completely anonymous as it were so despite the fact
+these guys the hackers who are doing
+everything instead we prefer these really dazzling technological solutions which cost a huge amount of money and so nothing is going into the hackers
+well i say nothing but actually there is one teeny weeny little research unit in turin italy called the hackers profiling project
+funding but i think they 're doing very important work because where we have a surplus of technology in the cybersecurity industry we have
+a definite lack of call me
+now so far i 've mentioned the hackers anonymous who are a politically motivated hacking group of course the criminal justice system treats them as common old garden criminals but interestingly anonymous does not make use of its hacked information for financial gain
+but what about the real cybercriminals well
+real organized crime on the internet goes back about ten years when a group of gifted ukrainian hackers developed a website
+this is how they were advertising themselves a decade ago on the net now carderplanet was very interesting cybercriminals would go there to buy and sell stolen credit card details
+to exchange information about new malware that was out there
+and remember this is a time when we 're seeing for the first time so called off the shelf malware this is ready for use out of the box stuff which you can deploy even if you 're not a terribly sophisticated hacker and so
+so the family as the inner core of carderplanet was known came up with this brilliant idea called the escrow system they appointed an officer
+who would mediate between the vendor and the purchaser the vendor say had stolen credit card details the purchaser wanted to get a hold of them the purchaser would send
+the administrative officer some dollars digitally and the vendor would sell the stolen credit card details and the officer would then verify if the stolen credit card worked
+and if they did he then passed on the money to the vendor and the stolen credit card details to the purchaser and it was this which completely revolutionized cybercrime on the web and after that it just went wild we had a champagne
+in new york taking out dollar ten thousand from an atm here dollar thirty thousand from an atm there using cloned credit cards he was making on average a week dollar one hundred and fifty thousand tax free of course
+and he said that he had so much money stashed in his upper east side apartment at one point that he just didn 't know what to do with it and actually fell into a depression but that 's a slightly different story
+which i won 't go into now now the interesting thing about redbrigade is that he wasn 't an advanced hacker he sort of understood the technology and he realized that security was very important if you were going to be a carder but he didn 't spend his days and nights bent over a computer eating pizza
+and this is because hackers are only
+one element in a cybercriminal enterprise and often they 're the most
+vulnerable element of all and i want to explain this to you by introducing you to six characters who i met while i was doing this research dimitry golubov aka script
+what dimitry did was to transfer the gangster capitalism of his hometown onto the worldwide web and he did a great job in it you have to understand though that from his ninth birthday
+founder of darkmarket born in colombo sri lanka as an eight year old he and his parents fled the sri lankan capital because singhalese mobs were roaming the city looking for tamils like renu to murder at eleven he was interrogated by the sri lankan military accused of being a terrorist
+and his parents sent him on his own to britain as a refugee seeking political asylum at thirteen with only little english and being bullied at school he escaped into a world of computers where he showed great technical ability
+and pirated his slide into criminality was incremental and when he finally woke up to his situation and understood the implications he was already in too deep
+max vision aka iceman mastermind of cardersmarket born in meridian idaho max vision was one of the best
+penetration testers working out of santa clara california in the late ninety s for private companies and voluntarily for the fbi now in the late one thousand nine hundred and ninety s he discovered a vulnerability on all u s government networks
+and he went in and patched it up because this included nuclear research facilities
+sparing the american government a huge security embarrassment but also because he was an inveterate hacker he left a tiny digital wormhole through which he alone could crawl but this was spotted by an eagle eye investigator and he was convicted
+at his open prison he came under the influence of financial fraudsters
+and those financial fraudsters persuaded him to work for them on his release
+and this man with a planetary sized brain is now serving a thirteen year sentence
+before arriving in britain in two thousand and five to take a masters in chemical engineering at manchester university
+he impressed in the private sector developing chemical applications for the oil industry while simultaneously running a worldwide bank and credit card fraud operation that was worth millions until his arrest in two thousand
+and eight and then finally cagatay evyapan aka cha zero one of the most remarkable hackers ever from ankara in turkey he combined the tremendous skills of a geek with
+the suave social engineering skills of the master criminal one of the smartest people i 've ever met
+he also had the most effective virtual private network security arrangement the police have ever encountered amongst global cybercriminals now the important thing about all of these people
+is they share certain characteristics despite the fact that they come from very different environments they are all people who learned their hacking skills in their early to mid teens
+they are all people who demonstrate advanced ability in maths and the sciences remember that when they developed those hacking skills their moral compass had not yet developed and most of them with the exception of script and cha zero they did not
+demonstrate any real social skills in the outside world only on the web and the other thing is
+the high incidence of hackers like these who have characteristics which are consistent with asperger 's syndrome now i discussed this with professor simon baron cohen who 's the professor of developmental psychopathology at cambridge and he has done path breaking work on autism
+and confirmed also for the authorities here that gary mckinnon
+who is wanted by the united states for hacking into the pentagon suffers from asperger 's and a secondary condition of depression
+and baron cohen explained that certain disabilities can manifest themselves in the hacking and computing world as tremendous skills and that we should not be throwing in jail people who have such disabilities and skills because they have lost their way socially or been duped
+now i think we 're missing a trick here because i don 't think people like max vision should be in jail and let me be blunt about this in china in russia and in loads of other countries that are developing cyber offensive capabilities this is exactly what they are doing
+they are recruiting hackers both before and after they become involved in criminal and industrial espionage activities are mobilizing them on behalf of the state
+we need to engage and find ways of offering guidance to these young people because they are a remarkable breed
+and if we rely as we do at the moment solely on the criminal justice system and the threat of punitive sentences we will be nurturing a monster we cannot tame thank you very much for
+so your idea worth spreading is hire hackers how
+they 're just relentless and obsessive about what they do
+but all of the people who i 've spoken to who have fallen foul of the law they have all said please please give us a chance to work in the legitimate industry we just never knew how to get there what we were doing we want to work with you

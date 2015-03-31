@@ -1,0 +1,30 @@
+on the ted stage i announced a company i was working with at the time called odeo and because of that announcement we got a big article in the new york times which led to more press which led
+to more attention and me deciding to become ceo of that company whereas i was just an adviser and raising a round of venture capital and ramping up hiring
+one of the guys i hired was an engineer named jack dorsey and a year later we were trying to decide which way to go with
+jack presented an idea he'd been tinkering around with for a number of years that was based around sending simple status updates to friends
+now it's hard to justify doing a side project at a startup where focus is so critical but i had actually launched blogger as a side project to my previous company thinking it was just a little thing we'd do on the side
+so for those of you unfamiliar twitter is based around a very simple now
+is by sharing these moments as they're happening that lets people feel more connected and in touch despite distance and in real time
+that would evolve from this very simple system one of the things we realized was how important twitter could be during real time events
+it wasn't just individuals the l a times actually turned to twitter to dispense information as well and put a twitter feed on the front page and the l a fire department and red cross used it to dispense news and updates as well
+at this event dozens of people are twittering and thousands of people are following along because they want to know what it feels like to be here and what's happening
+among the other interesting things that have cropped up is many things from businesses from marketing and communications and predictable things to an insanely popular korean barbecue taco truck that drives around l a and twitters where it stops causing a line to form around the block
+in this case this guy 's not liking what he 's hearing the president himself is our most popular twitter user although his tweets have dropped off as
+one of the many ways that users shaped the evolution of twitter was by inventing a way to reply to a specific person or a specific
+message so this syntax the at username that shaquille o 'neal 's using here to reply to one of his fans was completely invented by users and we didn't build it into the system until it already became popular and then we made it easier
+this is one of the many ways that users have shaped the system another is via the api we built an application programming interface which basically means
+as well as things like a device that lets an unborn baby twitter when it kicks or a plant twitter when it needs water probably the most important third party development came from a little company in virginia called summize summize built a twitter search engine
+among any topic or event while it's going on this really changed how we perceived twitter for instance here 's what people are saying about ted
+this is another way that our mind was shifted and twitter wasn't what we thought it was we liked this so much we actually bought the company and are folding it into the main product
+this not only lets you view twitters in different ways but it introduces new use cases as well one of my favorite is what happened a few months ago when there was a gas shortage in atlanta
+that they would twitter when they found gas where it was and how much it cost and then appended the keyword atlgas so that other people search for that and find gas themselves
+this trend of people using this communication network to help each other out goes far beyond the original idea of just keeping up with family and friends it's happened more and more lately whether it's raising money for homeless people or to dig wells in africa
+or for a family in crisis people have raised tens of thousands of dollars over twitter in a matter of days on several occasions
+it seems like when you give people
+easier ways to share information more good things happen
+i have no idea what will happen next with twitter but i've learned to follow the hunch but never assume where it will go thanks
+live this is actually the most terrifying thing that any speaker can do after they've been to an event it's
+totally intimidating so this would be the twitter search screen let 's type a couple of random words into example evan williams
+give people more information and follow your hunch at ted currently listening to evan williams oh evan williams is just dying on stage here at ted worst talk ever
+but literally in the eight minutes he was talking there's about fifty tweets that already came on the talk so he'll see every aspect of the reaction the
+is the biggest twitterer the fact that it came out of ted i don't think there's any other way of getting instant feedback that way you have build something very fascinating and it looks like its best times are still ahead of it so thank you very much four years ago

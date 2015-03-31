@@ -1,0 +1,19 @@
+and this gap has become shorter shorter and even shorter and now this gap is shortened down to less than a millimeter the thickness of a touch screen glass and the power of computing has become accessible to everyone
+but i wondered what if there could be no boundary at all i started to imagine what this would look like first
+i created this tool which penetrates into the digital space so when you press it hard on the screen it transfers its physical body into pixels
+now you can lift up your hands from the keyboard and reach inside this three d space
+and grab pixels with your bare hands
+while highlighting the lines words on the virtual touch pad below each floating window architects can stretch or rotate the models with their two hands directly so in these examples we are reaching into the digital world
+i 'm sure many of us have had the experience of buying and returning items online but now you don 't have to worry about it what i got here is an online augmented fitting room this is a view that you get from head mounted or see through display when the system understands the geometry of your body
+taking this idea further i started to think instead of just seeing these pixels in our space how can we make it physical so that we can touch and feel it
+what would such a future look like
+at mit media lab along with my advisor hiroshi ishii and my collaborator rehmi post
+we created this one physical pixel
+which means that both computers and people can move this object to anywhere within this little three d space what we did was essentially canceling gravity
+and controlling the movement by combining magnetic levitation and mechanical actuation and sensing technologies and by digitally programming the object we are liberating the object from constraints of time and space which means that now human motions can be recorded and played back
+and left permanently in the physical world
+so choreography can be taught physically over distance and michael jordan 's famous shooting can be replicated over and over as a physical reality
+students can use this as a tool to learn about the complex concepts such as planetary motion
+and unlike computer screens or textbooks this is a real tangible experience that you can touch and feel and it 's very powerful
+and what 's more exciting
+as you can see the digital information will not just show us something but it will start directly acting upon us as a part of our physical surroundings without disconnecting ourselves from our world

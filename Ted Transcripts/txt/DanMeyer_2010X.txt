@@ -1,0 +1,44 @@
+you also really liked and you anticipated that reaction you waited for it and it came back and the person hated it so by way of introduction that is the exact same state in which i spent every working day of the last six years
+product to a market that doesn't want it but is forced by law to buy it i mean that's kind of it's just a losing proposition so there's a useful stereotype about students that i see
+and both of these facts say less about you or my students than they do about what we call math education in the u s today to start with
+down into two categories one is computation this is the stuff you've forgotten for example factoring quadratics with leading coefficients greater than one
+this is hard to teach this is what we would love students to retain even if they don't go into mathematical fields this is also something that the way we teach it in the u s all but ensures they won 't retain
+you finish your lecture block and immediately you have five hands going up asking you to re explain the entire thing at their desks students lack perseverance
+they lack retention you find yourself re explaining concepts three months later wholesale there's an aversion to word problems which describes ninety nine percent of my students and then the other one percent are eagerly looking for the formula to apply in that situation
+this is really destructive david milch creator of deadwood and other amazing tv shows has a really good description for this he swore off creating
+that they expect simple problems he called it an impatience with irresolution you're impatient with things that don't resolve quickly you expect sitcom sized problems that wrap up in twenty two minutes three commercial breaks and a laugh track
+and i'll put it to all of you what you already know that no problem worth solving is that simple i am very concerned about this because i'm going to retire in a world that my students will run
+i'm doing bad things to my own future and well being when i teach this way i'm here to tell you that the way our textbooks particularly
+mass adopted textbooks teach math reasoning and patient problem solving it's functionally equivalent to turning on two and a half men and calling it a day
+in all seriousness here 's an example from a physics textbook it applies equally to math notice first of all here that you have exactly three pieces of information there
+each of which will figure into a formula somewhere eventually which the student will then compute i believe in real life and ask yourself what problem have you solved ever that was worth solving
+i'm sure we all agree that no problem worth solving is like that and the textbook i think knows how it's hamstringing students because watch this this is the practice problem set when it comes time to do the actually problem set we have
+sample problem you can return to to find the formula you could literally i mean this pass this particular unit without knowing any physics just knowing how to decode a textbook that's a shame
+so i can diagnose the problem a little more specifically in math here 's a really cool problem i like this it's about defining steepness and slope using a ski lift but what you have here is actually four separate layers and
+you have the visual you also have the mathematical structure talking about grids measurements labels points axes that sort of thing you have substeps which all lead to what we really want to talk about which section is the steepest
+so i hope you can see i really hope you can see how what we're doing here is taking a compelling question a compelling answer but we're paving a smooth straight
+from one to the other and congratulating our students for how well they can step over the small cracks in the way that's all we're doing here
+which section is the steepest and this starts conversation because the visual is created in such a way where you can defend two answers so you get people arguing against each other friend versus friend
+in pairs journaling whatever and then eventually we realize it's getting annoying to talk about the skier in the lower left hand side of the screen
+or the skier just above the mid line and we realize how great would it be if we just had some a b c and d labels to talk about them more easily
+and then as we start to define what does steepness mean we realize it 'd be nice to have some measurements to really narrow it down specifically what that means
+and then and only then we throw down that mathematical structure the math serves the conversation the conversation doesn't serve the
+see how this right here compared to that which one creates that patient problem solving that math reasoning it's been obvious in my practice to me and i'll yield the floor here for a second to einstein who i believe has paid his dues
+so ninety percent of what i do with my five hours of prep time per week is to take fairly compelling elements of problems like this from my textbook and rebuild them in a way that supports
+math reasoning and patient problem solving and here 's how it works i like this question it's about a water tank the question is how long will it take you to fill it up
+first things first we eliminate all the substeps students have to develop those they have to formulate those and then notice that all the information written on there is stuff you'll need none of it's a distractor so we lose that
+now we have the real deal how long will it take it to fill it up
+and even better is we take a video a video of someone filling it up and it's filling up slowly agonizingly slowly it's tedious students are looking at their watches rolling their eyes
+that's how you know you've baited the hook right
+off this right here is really fun for me because like the intro i teach kids because of my inexperience i teach the kids that are the most remedial all right and i've got kids who will not join a conversation about math because
+and kids have bought in here and then we follow the process i've described and the best part here or one of the better parts is that we don't get our answer from the answer key in the back of the teacher 's edition we instead just watch the end of the movie
+all right because the theoretical models that always work out in the answer key in the back of a teacher 's edition that's great but
+it's scary to talk about sources of error when the theoretical does not match up with the practical but those conversations have been so valuable among the most valuable
+who now one semester in i can put something on the board totally new totally foreign and they'll have a conversation about it for three or four minutes more than they would have at the start of the year which is just so
+no longer averse to word problems because we've redefined what a word problem is we're no longer intimidated by math because we're slowly redefining what math is this has been a lot of fun
+i encourage math teachers i talk to to use multimedia because it brings the real world into your classroom in high resolution and full color
+to encourage student intuition for that level playing field to ask the shortest question you possibly can and let those more specific questions come out in conversation
+let students build the problem because einstein said so and to finally in total just be less helpful because the textbook is helping you in all the wrong ways it's buying you out of your obligation for patient problem solving and math reasoning
+to be less helpful and why this is an amazing time to be a math teacher right now is because we have the tools to create this high quality curriculum in our front pocket it's ubiquitous and fairly cheap
+and the tools to distribute it freely under open licenses has also never been cheaper or more ubiquitous i put a video series on my blog not so long ago and it got
+i put this problem on my blog recently in a grocery store which line do you get into the one that has one cart and nineteen items or the one with four carts and three five two and one items

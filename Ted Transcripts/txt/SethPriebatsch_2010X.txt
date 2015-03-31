@@ -1,0 +1,51 @@
+and this is sort of a new concept and it's really important because while the last decade was the decade of social and the decade of where the framework in which we connect with other people was built
+this next decade will be the decade where the game framework is built where the motivations that we use to actually influence behavior
+and the framework in which that is constructed is decided upon and that's really important and so i say that i want to build a game layer on top of the world but that's not quite true because
+there are credit card schemes and airline mile programs and coupon cards and all these loyalty schemes that actually do use game dynamics and actually are building the game layer they just suck they're not
+but luckily as my favorite action hero bob the builder says we can do better we can build this better and the tools the resources that we use to build a game layer are game dynamics themselves
+and so the crux of this presentation is going to go through four really important game dynamics really interesting things that if you use consciously you can use to influence behavior
+both for good for bad for in between hopefully for good but this is sort of the important stages in which that framework will get built and so we want to all be thinking about it consciously now
+has been this framework for connections and construction on that layer is over it's finished
+and that's okay right a lot of people are very happy with facebook i like it quite a lot they've created this thing called the open graph and they own
+all of our connections they own half a billion people and so when you want to build on the social layer the framework has been decided it is the open graph api and if you're happy with that fantastic if you're not too bad there's nothing you can do
+but this next decade and that's a real thing i mean we want to build frameworks in a way that makes it acceptable and makes it you know productive down the road
+so the social layer is all about these connections the game layer is all about influence it's not about adding a social fabric to the web
+and connecting you to other people everywhere you are and everywhere you go it's actually about using dynamics using forces to influence the behavior of where you are what you do there how you do it
+we do it in a way that is open that is available and that can be leveraged for good and so that's what i want to talk about for game dynamics because construction has just begun and the more consciously we can think about this the better we'll be able to use it for anything that we want
+so like i said the way that you go through and build on the game layer is not with glass and steal and cement
+and the resources that we use are not this two dimensional swath of land that we have the resources are mindshare and the tools the raw materials are these game dynamics so with that
+so the first one it's a very simple game dynamic it's called the appointment dynamic and this is a dynamic in which to succeed players have to do something at a predefined time generally at a predefined place
+and these dynamics are a little scary sometimes because you think you know other people can be using forces that will manipulate how i interact what i do where i do it when i do it
+one that shows how this is already being used in the real world so you can sort of rationalize it a little bit one that shows it in what we consider a conventional game i think everything is a game this is sort of more of a
+what you would think is a game played on a board or on a computer screen and then one how this can be used for good so we can see that these forces can really be very powerful so the first one the most famous appointment dynamic in the world is something called happy hour
+so i just recently dropped out of princeton and actually ended up for the first time in a bar and i saw these happy hour things all over the place right
+and this is simply an appointment dynamic come here at a certain time get your drinks half off to win all you have to do is show up at the right place at the right time
+this game dynamic is so powerful that it doesn't just influence our behavior it's influenced our entire culture that's a really scary thought that one game dynamic can change things so
+it also exists in more conventional game forms i'm sure you've all heard of farmville by now if you haven 't i recommend playing it you won 't do anything else with the rest of your day
+and this is so powerful that when they tweak their stats when they say your crops wilt after eight hours or after six hours or after twenty four hours it changes the life cycle
+of seventy million some people during the day they will return like clockwork at different times so if they wanted the world to end if they wanted productivity to stop they could make this a thirty minute cycle and no one could do anything else
+that's a little scary but this could also be used for good this is a local company called vitality and they've created a product to help people take their medicine on time
+this is one that isn't a game yet but really should be you should get points for doing this on time you should lose points for not doing this on time they should consciously recognize that they've built an appointment dynamic and leverage the games and then you can really achieve good in some interesting
+in your wallets right now we all want that credit card on the far left because it's black and you see someone at cvs or not cvs at christian dior
+or something and then i don't know i don't have a black card i've got a debit card so
+and you see men they have that black card i want that because that means that they're cooler than i am and i need that and this is used in games as well modern warfare one of the most successful selling games of all time
+i'm only a level four but i desperately want to be a level ten because they've got that cool red badge thing and that means that i am somehow better
+and that's very powerful to me status is really good motivator it's also used in more conventional settings and can be used more consciously in conventional settings school
+and remember i made it through one year so i think i'm qualified to talk on school is a game it's just not a terribly well designed game right there are levels there are c there are b there is a
+there are statuses i mean what is valedictorian but a status if we called valedictorian a white knight paladin level twenty i think people would probably work a lot harder so
+school is a game and there have been lots of experimentations on how we do this properly but let 's use it consciously like why have games that you can lose why go from an a to an f or a b to
+level up and at princeton they've actually experimented with this where they have quizzes where you gain experience points and you level up from b to an a and it's very powerful it can be used in interesting ways
+the third one i want to talk about quickly is the progression dynamic where you have to sort of make progress you have to move through different steps in a very granular fashion this is used all over the place including linkedin where
+i am an un whole individual i am only eighty five percent complete on linkedin and that bothers me and this is so deep seated in our psyche
+that when we're presented with a progress bar and presented with easy granular steps to take to try and complete that progress bar we will do it we will find a way to move that blue line all the way to the right edge of the
+this is used in conventional games as well i mean you see this is a paladin level ten and that's a paladin level twenty and if you were going to fight
+you know orcs on the fields of mordor against the raz al ghul you'd probably want to be the bigger one right i would and so people work very hard to level up
+and here we have a game that people play they go places they do challenges they earn points and we've introduced a
+and this is powerful enough that we can see that it hooks people into these dynamics pulls them back to the same local businesses creates huge loyalty creates engagement
+and is able to drive meaningful revenue and fun and engagement to businesses these progression dynamics are powerful and can be used in the real world
+the final one i want to talk about and it's a great one to end on is this concept of communal discovery a dynamic in which everyone has to work together
+to achieve something and communal discovery is powerful because it leverages the network that is society to solve problems
+this is used in some sort of famous consumer web stories like digg which i'm sure you've all heard of digg is a communal dynamic to try to find and source the best news
+and that really motivated people to find the best stories but it became so powerful that there was actually a cabal a group of people the top
+on the leader board who would work together to make sure they maintained that position and they would recommend other people 's stories and the game became more powerful than the goal
+this next decade is the decade of games we use game dynamics to build on it we build with mindshare we can influence behavior it is very powerful it is very exciting let 's all build it together let 's do it well and have fun

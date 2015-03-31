@@ -1,0 +1,72 @@
+i got my first computer when i was a teenager growing up in accra and it was a really cool device you could
+play games with it you could program it in basic and i was fascinated so i went into the library
+to figure out how did this thing work i read about how the cpu is constantly shuffling data back and forth between the memory the ram and the alu the arithmetic and logic unit
+and i thought to myself this cpu really has to work like crazy just to keep all this data moving through the system
+but nobody was really worried about this when computers were first introduced they were said to be a million times faster than neurons
+people were really excited they thought they would soon outstrip the capacity of the brain
+it's still not true the question is why aren't we really seeing this kind of power in computers that we see in the brain
+what people didn't realize and i'm just beginning to realize right now is that we pay a huge price for the speed that we claim is a big advantage of these computers
+let 's take a look at some numbers this is blue gene the fastest computer in the world it's got one hundred and twenty thousand processors
+they can basically process ten quadrillion bits of information per second that's ten to the
+and they consume one and a half megawatts of power so that would be really great if you could add that to the production capacity in tanzania it would really boost the economy
+this is a picture of actually rory sayres girlfriend 's brain rory is a graduate student at stanford he studies the brain using mri and he claims that this is the most beautiful brain that he has ever scanned
+the question is how much energy or electricity does the brain use and it's actually as much as your laptop computer it's just ten watts
+so what we are doing right now with computers with the energy consumed by one thousand two hundred houses the brain is doing with the energy consumed by your laptop
+the brain able to do this let 's just take a look about how the brain works and then i'll compare that with how computers work
+so this clip is from the pbs series the secret life of the brain it shows you these cells that process information they are called neurons they send little pulses of electricity
+down their processes to each other and where they contact each other those little pulses of electricity can jump from one neuron to the other that process is called
+this huge network of cells interacting with each other about one hundred million of them sending about ten quadrillion of these pulses around every second
+and that's basically what's going on in your brain right now as you're watching this
+how does that compare with the way computers work in the computer you have all the data going through the central processing unit and any piece of data basically has to go through that bottleneck
+it's really a network in the literal sense of the word the net is doing the work in the brain
+if you just look at these two pictures these kind of words pop into your mind this is serial and it's rigid it's like cars on a freeway
+pressing technological problem that we face and i'll just take you through that a little bit in the next few slides
+this is it's actually really this remarkable convergence between the devices that we use to compute
+this electrode here called the gate controls the flow of current from the source to the drain these two electrodes
+and that current electrical current is carried by electrons just like in your house and so on and what
+you have here is when you actually turn on the gate you get an increase in the amount of current and you get a steady flow of current and when you turn off the gate there's no current flowing through the device
+your computer uses this presence of current to represent a one and the absence of current to represent a zero
+now what's happening is that as transistors are getting smaller and smaller and smaller they no longer behave like this
+and this is a little protein molecule i mean neurons have thousands of these and it sits in the membrane of the cell and it's got a pore in it
+and these are individual potassium ions that are flowing through that pore now this pore can open and close
+but when it's open because these ions have to line up and flow through one at a time you get a kind of sporadic not steady it's a sporadic flow of
+and even when you close the pore which neurons can do they can open and close these pores to generate electrical activity
+even when it's closed because these ions are so small they can actually sneak through a few can sneak through at a time so what you have
+is that when the pore is open you get some current sometimes these are your ones but
+you have a zero but you have a few ones thrown in ok now this is starting to happen in transistors and the reason why that's happening is that
+and that means that a transistor corresponds to about twelve ion channels in parallel now in a few years time by two thousand and fifteen we will shrink transistors so much this is what intel does to keep adding more cores
+to allow this to happen and technology has really benefitted from that but what's happening now is that in two thousand and fifteen the transistor is going to become so small
+that it corresponds to only one electron at a time can flow through that channel and that corresponds to a single ion channel and you start having the same kind of traffic jams that you have in the ion channel the current will turn on and off at random
+even when it's supposed to be on and that means your computer is going to get its ones and zeros mixed up and that's going to crash your machine so
+we are at the stage where we don't really know how to compute with these kinds of devices and the only kind of thing the only thing we know right now that can compute with these kinds of devices are the brain
+ok so a computer picks a specific item of data from memory it sends it into the processor or the alu and then it puts the result back into memory that's the red path that's
+the way brains work you have got all these neurons and the way they represent information is they break up that data into little pieces that are represented by pulses and different neurons so you have all these pieces of data distributed throughout the network
+and then the way that you process that data to get a result is that you translate this pattern of activity into a new pattern of activity
+what you see here is that there's these redundant connections so if this piece of data or this piece of the data gets clobbered it doesn't show up over here these two pieces can activate the missing part with these redundant connections
+so even when you go to these crappy devices where sometimes you want a one and you get a zero there's redundancy in the network that can actually
+recover the missing information it makes the brain inherently robust what you have here is a system where you store data locally and it's brittle because at each of these steps has to be flawless otherwise you lose that data
+this is something that we've been working on for the last couple of years and i'm going to show you a system that we designed
+to model the retina which is a piece of brain that lines the inside of your eyeball we
+didn't do this by actually writing code like you do in a computer in fact
+the processing that happens in that little piece of brain is very similar to the kind of processing that computers do when they stream video over the internet
+they want to compress the information they just want to send the changes what's new in the image and so on and that is how your eyeball is able to squeeze all that information down to your optic nerve to send to the rest of the brain
+that piece of brain that's called the retina and they figured out all the different cells and they figured out the network and we just took that network
+and we used it as the blueprint for the design of a silicon chip so now the neurons are represented by little nodes or circuits on the chip and the connections among the neurons
+will give you the same kind of robust architecture that i described here is actually what our artificial eye looks like the retina chip that we designed sits behind this lens here
+and the chip i'm going to show you a video that the silicon retina put out of its output when it was looking at kareem zaghloul who 's the student who designed this
+the retina chip extracts four different kinds of information it extracts regions with dark contrasts which will show up on the video as red
+and it extracts regions with white or light contrast which will show up on the video as green this is kareem 's dark eyes and that's the white background that you see here
+and then it also extracts movement when kareem moves his head to the right you will see this blue activity there it represents regions where the contrast is increasing in the image that's where it's going from dark to light
+and you also see this yellow activity which represents regions where contrast is decreasing it's going from light to dark and these four types of information
+your optic nerve has about a million fibers in it and nine hundred thousand of those fibers send these four types of information
+so we are really duplicating the kind of signals that you have on the optic nerve what you notice here is that these
+and this is the same thing you see when people compress video to send they want to make it very sparse because that file is smaller and this is what the retina is doing and it's doing it just with the circuitry and how this network of neurons that are interacting in there which we've captured on the chip
+the point that i want to make i'll show you up here so this image here is going to look like these ones but here i'll show you that we can reconstruct the image so you know you can almost recognize kareem in that top part there
+yes so that's the idea when you stand still you just see the light and dark contrasts but when it's moving back and forth the retina picks
+these changes and that's why you know when you're sitting here and something happens in your background you merely move your eyes to it there are these cells that detect change and you move your attention to it so those are very important for catching somebody who 's
+let me just end by saying that this is what happens when you put africa in a piano ok this is a steel drum here that has been modified and that's what
+like i said at the beginning i got my first computer when i was a teenager growing up in
+and i had this gut reaction that this was the wrong way to do it it was very brute force it was very inelegant i don't think that
+that reaction if i'd grown up reading all this science fiction hearing about rd two d two whatever it was called
+and just you know buying into this hype about computers i was coming at it from a different perspective where i was bringing that different perspective to bear on the problem and i think a lot of people in africa
+this different perspective and i think that's going to impact technology and that's going to impact how it's going to evolve and i think you're going to be able to see use that infusion to come up with new things

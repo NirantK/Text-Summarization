@@ -1,0 +1,55 @@
+and for a long time it was the gods right the gods are angry with me or the gods are testing me right or god singular more recently is punishing me or judging me
+and as long as we 've looked for explanations we 've wound up with something that gets closer and closer to science which is hypotheses as to why we get sick and as long as we 've had hypotheses about why we get sick we 've tried to treat it as well so this is avicenna he wrote a book over a thousand years ago called the canon of medicine
+and the rules he laid out for testing medicines are actually really similar to the rules we have today that the disease and the medicine must be the same strength the medicine needs to be pure and in the end we need to test it in people and so if you put together these themes of a narrative or a hypothesis in human testing
+but he ran an experiment in people right he had this hypothesis and he tested it in people so he got volunteers to go move to cuba and live in tents and be voluntarily infected with yellow fever so some of the people in some of the tents had dirty clothes and some of the people were in tents that were full of mosquitos that had been exposed to yellow fever
+and it definitively proved that it wasn 't this magic dust called fomites in your clothes that caused yellow fever
+alone and you probably died but people volunteered for this
+and it 's not just a cool example of a scientific design of experiment in theory they also did this beautiful thing they signed this document and it 's called an informed consent document
+it 's something that protects us from harm from hucksters from people that would try to hoodwink us into a clinical study that we don 't understand or that we don 't agree to and so you put together the thread
+of narrative hypothesis experimentation in humans and informed consent and you get what we call clinical study and it 's how we do the vast majority of medical work it doesn 't really matter if you 're in the north the south the east the west clinical studies form the basis of how we investigate
+so if we 're going to look at a new drug right we test it in people we draw blood we do experiments and we gain consent for that study to make sure that we 're not screwing people over as part of it
+but the world is changing around the clinical study which has been fairly well established for tens of years if not fifty to one hundred years so now we 're able to gather data about our genomes but as we saw
+and more importantly we 're able to gather information about our choices because it turns out that what we think of as our health is more like the interaction of our bodies our genomes our choices and our environment
+and the clinical methods that we 've got aren 't very good at studying that because they are based on the idea of person to person interaction you interact with your doctor and you get enrolled in the study so this is my grandfather i actually never met him but he 's holding my mom
+the technology between these two pictures cannot be more different
+but the methodology for clinical studies has not radically changed over that time period we just have better statistics
+the way we gain informed consent was formed in large part after world war ii around the time that picture was taken that was seventy years ago
+and the way we gain informed consent this tool that was created to protect us from harm now creates silos so the data that we collect for prostate cancer or for alzheimer 's trials goes into silos where it can only be used for prostate cancer or for alzheimer 's research
+these are tools that we created to protect us from
+we cannot take the information from past trials and put them together to form statistically significant samples and that sucks right so forty five percent of men develop cancer thirty eight percent of women develop cancer one in four men dies of cancer
+and this is personal to me my sister is a cancer survivor my mother in law is a cancer survivor cancer sucks it 's outrage
+so the cost in blood and treasure of this is enormous two hundred and twenty six billion a year is spent on cancer in the united states fifteen hundred people a day die in the united states and it 's getting worse so the good news is that some things have changed and the most important thing that 's changed is that
+we can now measure ourselves in ways that used to be the dominion of the health system so a lot of people talk about it as digital exhaust i like to think of it as the dust that runs along behind my kid
+right when i got these results i started talking to doctors and they told me not to tell anyone and my reaction is is that going to help anyone
+cure me when i get the disease and no one could tell me yes
+and i live in a web world where when you share things beautiful stuff happens not bad stuff so i started putting this in my slide decks and i got even more obnoxious and i went to my doctor and i said i 'd like to actually get my bloodwork
+please give me back my data so this is my most recent bloodwork as you can see i have high cholesterol i have particularly high bad cholesterol and i have some bad liver numbers but those are because we had a dinner party with a lot of good wine the night before we ran the test laughter right but look at how non
+and there 's been a lot of talk about commonses right here there everywhere right a commons is nothing more than a public good that we build out of private goods we do it voluntarily and we do it through standardized legal tools we do it through standardized technologies
+and a commons of data is something that 's really unique because we make it from our own data
+and although a lot of people like privacy as their methodology of control around data and obsess around privacy at least some of us really like to share as a form of control and what 's remarkable about digital commonses is you don 't need a big percentage if your sample size is big enough to generate something massive and beautiful
+so not that many programmers write free software but we have the apache web server
+not that many people who read wikipedia edit but it works
+so as long as some people like to share as their form of control we can build a commons as long as we can get the information
+and in biology the numbers are even better so vanderbilt ran a study asking people we 'd like to take your biosamples your blood and share them in a biobank and only five percent of the people opted out i 'm from tennessee it 's not the most science positive state in the united states of america
+and the reason that i got obsessed with this besides the obvious family aspects is that i spend a lot of time around mathematicians and mathematicians are drawn to places where there 's a lot of data because they can use it to tease signals out of noise
+and those correlations that they can tease out they 're not necessarily causal agents but math in this day and age is like a giant set of power tools that we 're leaving on the floor not plugged in in health while we use hand saws
+if we have a lot of shared genotypes and a lot of shared outcomes and a lot of shared lifestyle choices and a lot of shared environmental information
+we can start to tease out the correlations between subtle variations in people the choices they make and the health that they create as a result of those choices and there 's open source infrastructure to do all of this sage bionetworks is a nonprofit that 's built a giant math system that 's waiting for data
+but there isn 't any
+so that 's what i do i 've actually started what we think is the world 's first fully digital fully self contributed unlimited in scope
+global in participation ethically approved clinical research study where you contribute the data so if you reach behind yourself and you grab the dust if you reach into your body and grab your genome
+if you reach into the medical system and somehow extract your medical record you can actually go through an online informed consent process because the donation to the commons must be voluntary and it must be informed
+and you can actually upload your information and have it syndicated to the mathematicians who will do this sort of big data research
+and the goal is to get one hundred thousand in the first year and a million in the first five years so that we have a statistically significant cohort that you can use to take smaller sample sizes from traditional research and map it against
+and i 've spent a lot of time around other commons i 've been around the early web i 've been around the early creative commons world and there 's four things that all of these share which is they 're all really simple and so if you were to go to the website and enroll in this study you 're not going to see something complicated but it 's not simplistic
+these things are weak intentionally right because you can always add power and control to a system but it 's very difficult to remove those things if you put them in at the beginning and so being simple doesn 't mean being simplistic and being weak doesn 't mean weakness
+those are strengths in the system and open doesn 't mean that there 's no money closed systems corporations make a lot of money on the open web and they 're one of the reasons why the open web lives is that corporations have a vested interest in the openness of the system
+and the other thing about these systems is that it only takes a small number of really unreasonable people working together to create them it didn 't take that many people to make wikipedia wikipedia or to keep it wikipedia
+and we 're not supposed to be unreasonable in health and so i hate this word patient i don 't like being patient when systems are broken
+and health care is broken i 'm not talking about the politics of health care i 'm talking about the way we scientifically approach health care so i don 't want to be patient and the task i 'm giving to you is to not be patient
+so i 'd like you to actually try when you go home to get your data you 'll be shocked and offended and i would bet outraged at how hard it is to get it
+but it 's a challenge that i hope you 'll take and maybe you 'll share it maybe you won 't if you don 't have anyone in your family who 's sick maybe you wouldn 't be unreasonable
+but if you do or if you 've been sick then maybe you would and we 're going to be able to do an experiment in the next several months that lets us know exactly how many unreasonable people are out there so this is the athena breast health network it 's a study of one hundred and fifty thousand women in california
+and they 're going to return all the data to the participants of the study in a computable form with one clickability to load it into the study that i 've put together so we 'll know exactly how many people are willing to be unreasonable
+so what i 'd end with is
+you just have to be willing to be unreasonable and the risk we 're running is not the risk those fourteen men who got yellow fever ran right it 's to be naked digitally in public so you know more about me and my health than i know about you it 's asymmetric

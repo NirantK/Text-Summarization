@@ -1,0 +1,22 @@
+was offered a position as associate professor of medicine and chief of scientific visualization at yale university in the department of medicine and my job was to write many of the algorithms and code for nasa to do virtual surgery in preparation for the astronauts going into deep spaceflight so they could be kept in robotic pods
+one of the fascinating things about what we were actually working on is that we were seeing
+using new kinds of scanning technologies things that had just never been seen before i mean not only in disease management but also
+things that allowed us to see things about the body that just made you marvel i remember one of the first times we were looking at collagen and your entire body everything your hair skin bone nails everything is made of collagen and it 's a kind of rope like structure that
+so perfectly organized a structure it was hard not to attribute divinity to it because we kept on seeing this over and over and over again
+in different parts of the body one of the opportunities i had was one person was working on a really interesting micromagnetic resonance imaging machine with the nih
+and what we were going to do was scan a new project on the development of the fetus from conception to birth using these kinds of new technologies so i wrote the algorithms in code and he built the hardware
+paul lauterbur then went onto win the nobel prize for inventing the mri i got the data and i 'm going to show you a sample of the piece from conception to birth
+but as you can see when you actually start working on this data it 's pretty spectacular and as we kept on scanning more and more working on this project looking at these two simple cells that have this kind of unbelievable machinery that will become the magic of you and as we kept on working on this data looking at small clusters
+of the body these little pieces of tissue that were a trophoblast coming off of a blastocyst all of a sudden burrowing itself into the side of the uterus saying i 'm here to stay all of a sudden having conversation and communications with the estrogens the progesterones saying i 'm here to stay plant
+building this incredible trilinear fetus that becomes within
+forty four days something that you can recognize and then at nine weeks is really kind of a little human being
+the marvel of this information how do we actually have this biological mechanism inside our body to actually see this information
+cells are developing at one million cells per second at four weeks as it 's just folding on itself within five weeks you can start to see the early atrium and the early ventricles six weeks these folds are now beginning with the papilla on the inside of the heart actually being able to pull down
+each one of those valves in your heart until you get a mature
+heart and then basically the development of the entire human body the magic of the mechanisms inside each genetic structure saying exactly where that nerve cell should go the complexity of these mathematical models of how these things are indeed done are beyond human comprehension even though i am a mathematician
+i look at this with marvel of how do these instruction sets
+not make these mistakes as they build what is us it 's a mystery it 's magic it 's divinity then you start to take a look at adult life
+take a look at this little tuft of capillaries it 's just a tiny sub substructure microscopic but basically by the time you 're nine months and you 're given birth you have almost sixty thousand miles of vessels inside your body
+from the brain to every other part of the body look at the complexity of the folding where does this intelligence of knowing that a fold can actually hold more information
+so as you actually watch the baby 's brain grow and this is one of the things that we 're doing right now we 're actually doing the launch of two new studies of actually scanning babies brains from the moment they 're born every six months until they 're six years old we 're going to be doing actually to about two hundred and fifty children
+our own existence but how does the woman 's body understand to have genetic structure that not only builds her own but then has the understanding that allows her to become a walking immunological cardiovascular system that basically is a mobile system that can actually nurture treat this child

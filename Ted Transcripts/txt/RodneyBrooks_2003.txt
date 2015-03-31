@@ -1,0 +1,72 @@
+other games that came after that and we're starting to see that same sort of thing with robots lego mindstorms furbies who here did anyone here have
+eight million of them sold worldwide they are pretty common and they're a little tiny robot a simple robot with some sensors it's a little bit of processing actuation
+on the right there is another robot doll who you could get a couple of years ago and just as in the early days when there was a lot of sort of amateur
+and on the right there is one that the nec developed the papero which i don't think they're going to release but nevertheless those sorts of things are out there
+and we've seen over the last two or three years lawn mowing robots husqvarna on the bottom friendly robotics on top there an israeli company and then in the last twelve months or so we've started to see a bunch of
+home cleaning robots appear top left one is a very nice home cleaning robot from a company called dyson in the u k except it was so expensive
+five hundred dollars they didn't release it but at the bottom left you see electrolux which is on sale another one from karcher at the bottom right is one that i built in my lab about ten years ago and we finally turned that into
+a product and let me just show you that we're going to give this away i think chris said after the talk this
+it starts off sort of just going around in ever increasing circles if it hits something
+to clean up around me let 's see let 's
+who stole my rice krispies they stole my rice krispies it's a robot it's
+the three year old kids they don't worry about it it's grown ups that get really ok so
+ok so later
+the trick was building a better cleaning mechanism actually the intelligence on board was fairly simple
+and that's true with a lot of robots we've all i think become sort of computational chauvinists and think that computation is everything but the mechanics still matter
+another robot the packbot that we've been building for a bunch of years it's a military surveillance robot to
+go in ahead of troops looking at caves for instance but we had to make it fairly robust
+much more robust than the robots we build in our labs
+that robot is a pc running linux it can withstand a four hundred
+g shock the robot has local intelligence it can flip itself over can get itself into communication range can go upstairs by itself et cetera
+it's doing local navigation there a soldier gives it a command
+to go upstairs and it does that was not a controlled descent now
+head off and the big breakthrough for these robots really was september eleventh we had the robots down at the world trade center late that evening
+and searched for possible survivors in the buildings that were too dangerous to go into let 's run this video one
+one had
+what's going on the robot
+in afghanistan every day and that's one of the reasons they in
+in chris stand up
+yeah okay come over here now notice he thinks robots have to be a bit stiff he sort of
+this robot a task it's a very complex task now notice he nodded there he was giving me some indication he was understanding the flow of communication and if i'd said something completely bizarre he would have looked askance at me and regulated the conversation
+so now i brought this up in front of him i'd looked at his eyes and i saw his eyes looked at this bottle top and i'm doing this task here and he 's checking up his eyes are going back and forth up to me to see what i'm looking at so we've got shared attention
+and so i do this task and he looks and he looks to me to see what's happening next and now i'll give him the bottle and we'll see if he can do the task can you do that
+okay he 's pretty good yeah good good good i didn't show you how to do that now see if you can put it back together
+and he thinks a robot has to be really slow good robot that's good so we saw a bunch of things there
+we saw when we're interacting we're trying to show someone how to do something we direct their visual attention
+shared attention looking at the same sort of thing and recognizing socially communicated reinforcement at the end and we've been trying to put that into our lab
+because we think this is how you're going to want to interact with robots in the future i just want to show you one
+diagram here the most important thing for building a robot that you can interact with socially is its visual attention system because what it pays attention to
+it's seeing and interacting with and what you're understanding what it's doing so in the videos i'm about to show you you're going to see
+it looks for highly saturated colors from toys and it looks for things that move around and it weights those together into an attention window and it looks for the highest scoring place the stuff where the most interesting stuff is happening
+might decide that it's lonely and look for skin tone or might decide that it's bored and look for a toy to play with and so these weights change and over here on the right this is what we call the steven spielberg memorial module
+this is a habituation gaussian that gets negative and more and more intense as it looks at one thing and it gets bored
+you can tell what it's looking at you can estimate its gaze direction from those eyeballs covering its camera and you can tell when it's actually seeing the toy and it's got a little bit of an emotional response here
+kismet has an underlying three dimensional emotional space space it expresses
+basic messages that mothers give their children pre linguistically
+and the robot 's reacting appropriately
+smiles she imitates the smile this happens a lot these are naive subjects here we asked them to get the robot 's attention
+and indicate when they have the robot 's attention the
+the the
+asked to prohibit the robot and this first woman really pushes the robot into an emotional
+we put that together then we put in turn taking when we talk to someone we talk then we sort of
+raise our eyebrows move our eyes give the other person the idea it's their turn to talk and then they talk and then we pass the baton back and forth between each
+other so we put this in the robot we got a bunch of naive subjects in we didn't tell them anything about the robot sat them down in front of the robot and said talk to the robot now what they didn't know was the robot wasn't understanding a word they said
+and that the robot wasn't speaking english it was just saying random english phonemes and i want you to watch carefully at the beginning of this where this person ritchie who happened to talk to the robot for twenty five minutes
+says i want to show you something i want to show you my watch and he brings the watch center in to the robot 's field of vision notice the turn taking
+notice the turn taking a
+and then when christie looks over at this toy the robot estimates her gaze direction and looks at the same thing that she's looking at
+will we accept them will we will they need rights eventually and the other question people ask me is will they want to take over
+and on the first you know this has been a very hollywood theme with lots of movies you probably recognize these characters here where in each of these cases the robots want more respect well do you ever need to give robots respect
+just machines after all but i think you know we have to accept that we are just machines after all that's certainly what modern molecular biology says about us you don't see a description of
+how you know molecule a you know comes up and docks with this other molecule and it's moving forward you know propelled by various charges and then the soul steps in and tweaks those molecules so that they connect
+it's all mechanistic we are mechanism if we are machines then in principle at least we should be able to build machines
+out of other stuff which are just as
+alive as we are but i think for us to admit that we have to give up on our special ness in a certain way and we've had the
+when the earth started to go around the sun one hundred and fifty years ago with darwin we had to give up the idea we were different from animals and to you know imagine
+really have emotions or that robots could be living creatures i think is going to be hard for us to accept but we're going to come to accept it over the next fifty years or so
+the second question is will the machines want to take over and here the standard scenario is that we create these things they grow we nurture them they learn a lot from us and then they start to decide that we're pretty
+boring slow they want to take over from us and for those of you that have teenagers you know what that's like but hollywood extends it to the robots and
+happen and i don't think
+i don't think we're going to deliberately build robots that we're uncomfortable with we'll you know they're not going to have a super bad robot before that has to come to be you know
+a mildly bad robot and before that a not so bad robot and we're just not going to let it go that way so
+i think i'm going to leave it at that the robots are coming we don't have too much to worry about it's going to be a lot of fun and i hope you all enjoy the journey

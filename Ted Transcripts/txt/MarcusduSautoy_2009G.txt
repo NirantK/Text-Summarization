@@ -1,0 +1,71 @@
+thirty two a gunshot was heard ringing out
+was walking to market that morning ran towards where the gunshot had come from and found a young man writhing in agony on the floor clearly shot
+galois was taken to the local hospital where he died the next day in the arms of his brother and the last words he said to his brother
+cry for me alfred i need all the courage i can muster to die at the age of twenty
+in fact revolutionary politics for which galois was famous but a few years earlier while still at school
+this is how he wrote most of his mathematics so the night before that duel he realized this possibly is his last chance to try and explain his great breakthrough
+the next generation maybe the fact that he stayed up all night doing mathematics was the fact that he was such a bad shot that morning and got killed but contained inside those documents
+was a new language a language to understand one of the most fundamental concepts of science namely symmetry
+now symmetry is almost nature 's language it helps us to understand so many different bits of the scientific world for example molecular structure what crystals are possible we can understand through the mathematics of symmetry
+to make predictions about the fundamental particles we might see there it seems that they are all facets of some strange symmetrical shape in a higher dimensional space
+and i think galileo summed up very nicely the power of mathematics to understand the scientific world around us he wrote the universe cannot be read until we have learnt the language and become familiar with the characters in which it is written
+it is written in mathematical language and the letters are triangles circles and other geometric figures without which means that it's humanly impossible to comprehend a single
+and i said to professor kurokawa wow the architects must have really been kicking themselves when they realized that they'd made a mistake and put this one upside down
+he said no no no it was a very deliberate act and he referred me to this lovely quote from the japanese essays in idleness from the fourteenth century in which the
+in everything uniformity is undesirable leaving something incomplete makes it interesting and gives one the feeling that there is room for growth even when building the imperial palace they always leave one place unfinished
+i had to chose one building in the world to be cast out on a desert island to live the rest of my life being an addict of symmetry i would probably chose the alhambra in granada this is a palace celebrating symmetry
+but i wanted to try and enrich him i think one of the problems about school mathematics is it doesn't look at how mathematics is embedded in the world we live in so i wanted to open his eyes up to how much symmetry is running through the alhambra
+art and so what is symmetry the alhambra somehow asks all of these questions what is symmetry when are two of these walls do they have the same symmetries can we say whether they discovered all of the symmetries in the alhambra
+and it was galois who produced a language to be able to answer some of these questions for galois symmetry unlike for thomas mann which was something still and deathly
+for galois symmetry was all about motion what can you do to a symmetrical object move it in some way so it looks the same as before you
+i like to describe it as the magic trick moves what can you do to something you close your eyes i do something put it back down again it looks like it did before it started
+so for example the walls in the alhambra i can take all of these tiles and fix them at the yellow place rotate them by ninety degrees put them all back down again and they fit perfectly down there
+if you open your eyes again you wouldn't know that they'd moved but it's the motion that really characterizes the symmetry inside the alhambra
+so let 's take these two symmetrical objects here let 's take the twisted six pointed starfish what can i do to the starfish which makes it look the same well there i rotated it by a sixth of a turn and still it looks like it did before i started
+i could rotate it by a third of a turn or a half a turn or put it back down on its image or two thirds of a
+and a fifth symmetry i can rotate it by five sixths of a turn and those are things that i can do to the symmetrical object that make it look like it did before i started
+now for galois there was actually a sixth symmetry can anybody think what else i could do to this which would leave it like i did before i started
+i can't flip it because i've put a little twist on it haven't i it's got no reflective symmetry but what i could do is just leave it where it is pick it up and put it down again
+galois this was like the zeroth symmetry actually the invention of the number zero was a very modern concept seventh century a d by the indians it seems
+to talk about nothing and this is the same idea this is a symmetrical so everything has symmetry where you just leave it where it is so this object has six symmetries
+and what about the triangle well i can rotate by a third of a turn clockwise or a third of a turn anticlockwise
+but now this has some reflectional symmetry i can reflect it in the line through x or the line through y or the
+a great believer that mathematics is not a spectator sport and you have to do some mathematics in order to really understand it so here is a little question for you and i'm going to give a prize at the end of my talk for the person who gets closest to the
+the rubik 's cube how many symmetries does a rubik 's cube have how many things can i do to this object and put it down so it still looks like a cube
+but how they interact with each other which really characterizes the symmetry of an object if i do one magic trick move followed by another
+the combination is a third magic trick move and here we see galois starting to develop a language to see the substance of the things unseen the sort of abstract idea of the symmetry underlying this physical
+for example what if i turn the starfish by a sixth of a turn and then a third of a turn so i've given names the capital letters a b c d e f
+are the names for the rotations b for example rotates the little yellow dot to the b on the starfish and so on so what if i do
+which is a sixth of a turn followed by c which is a third of a turn well let 's do that a sixth of a turn followed by a third of a turn the combined effect is as if i had just rotated it by half a turn in one
+so the little table here records how the algebra of these symmetries work i do one followed by another the answer is it's rotation d
+and then the sixth of a turn of course it doesn't make any difference it still ends up at half a turn and there is some symmetry here in the way the symmetries interact with each other
+but this is completely different to the symmetries of the triangle let 's see what happens if we do two symmetries with the triangle one after the other let 's do a rotation by a third of a turn
+now let 's do it in a different order let 's do the reflection in x first followed by the rotation by a third of a turn anticlockwise
+the combined effect the triangle ends up somewhere completely different it's as if it was reflected in the line through y now it matters what order you do the operations in
+and this enables us to distinguish why the symmetries of these objects they both have six symmetries so why shouldn 't we say they have the same symmetries
+but the way the symmetries interact enable us we've now got a language to distinguish why these symmetries are fundamentally different
+you can try this when you go down to the pub later on take a beer mat and rotate it by a quarter of a turn then flip it and then do it in the other order and the picture will be facing in the opposite direction
+now galois produced some laws for how these tables how symmetries interact it's almost like little sudoku tables you don't see any symmetry
+here i've got one two three people sitting on one two three chairs the people on the chairs are very different but the number the abstract idea of the number is the same
+the point where all the triangles meet what about the center of a triangle i can rotate by a third of a turn around the center of the triangle and everything matches up
+now let 's move to the very different looking wall in the alhambra and we find the same symmetries here and the same interaction so there was a sixth of a turn a third of a turn where the z pieces
+and the half a turn is halfway between the six pointed stars and although these walls look very different
+galois has produced a language to say that in fact the symmetries underlying these are exactly the same and it's a symmetry we call six three two
+is another example in the alhambra this is a wall a ceiling and a floor they all look very different but this language allows us to say that they are representations of the same symmetrical abstract object
+which we call four four two nothing to do with football but because of the fact that there are two places where you can rotate by a quarter of a turn and one
+it turns out they almost did you can prove using galois language there are actually only seventeen different symmetries that you can do in the walls in the alhambra
+and they if you try to produce a different wall with this eighteenth one it will have to have the same symmetries as one of these
+but these are things that we can see and the power of galois mathematical language is it also allows us to create symmetrical objects
+the unseen world beyond the two dimensional three dimensional all the way through to the four or five or infinite dimensional space and that's where i work i create
+show you a picture of this symmetrical object but here is the language which describes how the symmetries interact now this new symmetrical object does not have a name yet
+now people like getting their names on things on craters on the moon or new species of animals so i'm going to give you the chance to get your name on a new symmetrical
+which hasn't been named before and this thing species die away and moons kind of get hit by meteors and explode but this mathematical object will live forever it will make you immortal
+this symmetrical object what you have to do is to answer the question i asked you at the beginning how many symmetries does a rubik 's cube
+you out rather than you all shouting out i want you to count how many digits there are in that number okay if you've got it as a factorial you've got to expand the factorials
+now if you want to play i want you to stand up okay if you think you've got an estimate for how many digits right we've already got one competitor here
+down he wins it automatically okay excellent so we've got four here five six great excellent that should get us going all right
+how many digits are there in your number
+so you should have sat down earlier let 's have the other
+during the twenty up again okay if i told you twenty or less stand up because this one i think there were a few here the people who just last sat down okay how many digits do you have in your number
+twenty one okay good how many do you have in
+eighteen so it goes to this lady here twenty one is the closest it actually has the number of symmetries in the rubik 's cube has twenty five digits so now i need to name this object so what is your name g h

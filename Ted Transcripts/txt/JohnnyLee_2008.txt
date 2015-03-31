@@ -1,0 +1,21 @@
+so as researchers something that we often do is use immense resources to achieve certain capabilities or achieve certain goals and this is essential to the progress of science or exploration of what is possible but
+and i'm going to show you two videos that have gotten a lot of attention recently that i think embody this philosophy and they actually use the nintendo wii remote
+now for those of you who aren't familiar with this device it's a forty dollar video game controller and it's mostly advertised for it's motion sensor capabilities so you can swing a tennis racket or hit a baseball bat
+what actually interests me a lot more is the fact that in the tip of each controller is a relatively high performing infrared camera and i'm going to show you two demos of why this is useful
+so here i have my computer setup with the projector and i have a wii remote sitting on top of it and for example if you're in a school that doesn't have a lot money which is probably a lot of schools
+or if you're in an office environment and you want an interactive whiteboard normally these cost about two to three thousand dollars so what i'm going to show you how to do is how to create one with a wii remote
+now this requires another piece of hardware which is this infrared pen you can probably make this yourself for about five dollars with a quick trip
+got a battery a button and an infrared led and it turns on you guys can't see it but it turns on whenever i push the button now what this means is that if i run this piece of software
+the camera sees the infrared dot and i can register the location of the camera pixels to the projector pixels and now this is like a whiteboard surface
+so for about fifty dollars of hardware you can have your own whiteboard this is adobe photoshop
+software for this i've actually put on my website and have let people download it for free and in the three months that this project has been public it's been downloaded over half a million times so teachers and students all around the world
+that although it does do it for fifty dollars there are some limitations of this approach but you get about eighty percent of the way there for about one percent of the cost another nice thing is that a camera can see multiple dots so this is actually a multi touch interactive whiteboard system as well
+for the second demo i have this wii remote that's actually next to the tv so it's pointing away from the display rather than pointing at the display and why this is interesting
+is that if you put on say a pair of safety glasses that have two infrared dots in them what these two dots are essentially going to give you is
+the computer an approximation of your head location and why this is interesting is i have this sort of application running on the computer monitor which has
+three d room with some targets floating in it and you can see that it looks like a three d room if you can see kind of like a video game it sort of looks three d but
+for the most part the image looks pretty flat and bound to the surface of the screen but if we turn on head tracking
+the computer can change the image that's on the screen and make it respond to the head movements so let 's switch back to that
+because this is about ten dollars of additional hardware if you already have a nintendo wii so i'm looking forward to seeing some games and actually louis castle that's him down there last week announced that electronic arts one of the largest game
+but actually to me what's almost more interesting than either of these two products is how people actually found out about them youtube has really changed the way or changed the speed in which a single individual can actually spread an idea around the world
+them using my system or derivatives of this work so i hope to see more of that in the future and hope online video distribution to be embraced by the research community so thank you very much

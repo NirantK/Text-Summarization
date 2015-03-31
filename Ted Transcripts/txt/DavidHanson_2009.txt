@@ -1,0 +1,21 @@
+doctor david hanson and i build robots with character and by that i mean that i develop robots that are characters but also robots that will eventually come to empathize with you
+so we're starting with a variety of technologies that have converged into these conversational character robots that can see faces make eye contact with you
+make a full range of facial expressions understand speech and begin to model how you're feeling and who you are and build a relationship with you
+i developed a series of technologies that allowed the robots to make more realistic facial expressions than previously achieved on lower power which enabled the walking biped
+robots the first androids so it's a full range of facial expressions simulating all the major muscles in the human face running on very small batteries extremely lightweight
+the materials that allowed the battery operated facial expressions is a material that we call frubber and it actually has three major innovations in the material that allow this to happen one is hierarchical pores and the other is a macro molecular
+this is at the korean advanced institute of science and technology i built the head they built the body
+goal here is to achieve sentience in machines and not just sentience but
+we're working with the machine perception laboratory at the u c san diego they have this really remarkable facial expression technology that recognizes facial expressions what facial expressions you're making
+so sad okay so you smile
+so his perception of your emotional states is very important for machines to effectively become empathetic machines are becoming devastatingly
+capable of things like killing right those machines have no place for empathy
+and there is billions of dollars being spent on that character robotics could plant the seed for robots that actually have empathy so if they achieve human level intelligence or
+quite possibly greater than human levels of intelligence this could be the seeds of hope for our future
+so we've made twenty robots in the last eight years during the course of getting my ph d and then i started hanson robotics
+which has been developing these things for mass manufacturing
+this is one of our robots that we showed at wired nextfest a couple of years ago and it sees multiple people in a scene remembers where individual people are and looks from person to person
+so we're involving two things one the perception of people and two the
+so one of my favorite projects was bringing all this stuff together in an artistic display of an android portrait of science fiction writer
+who wrote great works like do androids doctoream of electric sheep which was the basis of the movie bladerunner in these stories robots often think that they're human and they sort of come to life so we put his writings letters
+his interviews correspondences into a huge database of thousands of pages and then used some natural language processing to allow you to actually have a conversation with him and it was kind of spooky because he would say these things that just sounded like they really understood you

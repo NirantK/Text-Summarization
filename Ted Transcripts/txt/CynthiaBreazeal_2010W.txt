@@ -1,0 +1,64 @@
+i 've been fascinated by this idea of personal robots
+and as a little girl i loved the idea of a robot that interacted with us much more like a helpful trusted sidekick
+something that would delight us so twenty years pass
+and i remember thinking about all the reasons why that was the case but one really struck me
+robotics had really been about interacting with things not with people
+certainly not in a social way that would be natural for us and would really help people accept robots into our daily lives
+for me that was the white space that 's what robots could not do yet
+and so that year i started to build this robot kismet the world 's first social robot
+this little robot was somehow able to tap into something deeply social within us and with that the promise of an entirely new way we could interact with robots
+so over the past several years i 've been continuing to explore this interpersonal dimension of robots now at the media lab with my own team of incredibly talented students
+and one of my favorite robots
+can you find cookie monster
+leo cookie monster is very bad
+he 's very bad leo
+cookie monster is very very bad
+he 's a scary monster he wants to get your cookies
+so what i 've learned through building these systems is that robots are actually a really intriguing social technology where it 's actually their ability to push our social buttons and to interact with us like a partner
+that is a core part of their functionality and with that shift in thinking we can now start to imagine new questions new possibilities for robots that we might not have thought about otherwise
+but what do i mean when i say push our social buttons well one of the things that we 've learned is that if we design these robots to communicate with us using the same body language the same sort of non verbal cues that people use like nexi our humanoid robot is doing here
+what we find is that people respond to robots a lot like they respond to people
+it 's turning out now that robots are actually becoming a really interesting new scientific tool to understand human behavior
+mimicry 's believed to play a role
+but with the robot you can and so in this video here
+this is a video taken from david desteno 's lab at northeastern university he 's a psychologist we 've been collaborating with there 's actually a scientist carefully controlling nexi 's cues to be able to study this question
+and the bottom line is the reason why this works is because it turns out people just behave like people even when interacting with a robot
+so given that key insight we can now start to imagine new kinds of applications for robots
+maybe the next best thing to really being there
+did a study where we brought human participants people into our lab to do a collaborative task with a remote collaborator the task involved things like looking at a set of objects on the table discussing them in terms of their importance and relevance to performing a certain task this ended up being a survival task
+and then rating them in terms of how valuable and important they thought they were
+the next was to add mobility so have the screen on a mobile base this is like if you 're familiar with any of the telepresence robots today this is mirroring that situation
+so after the interaction we asked people to rate their quality of interaction with the technology with a remote collaborator through this technology in a number of different ways
+we looked at psychological involvement how much empathy did you feel for the other person we looked at overall engagement we looked at their desire to cooperate and this is what we see when they use just the screen it turns out when you add mobility the ability to roll around the table you get a little more of a boost
+today we know that families are living further and further apart and that definitely takes a toll on family relationships and family bonds over distance
+so i love the idea of thinking about robots as a new kind of distance play technology i imagine a time not too far from now
+i could imagine grandmothers being able to do social plays with their granddaughters with their friends
+so in the united states today over sixty five percent of people are either overweight or obese and now it 's a big problem with our children as well
+and we know that as you get older in life if you 're obese when you 're younger that can lead to chronic diseases that not only reduce your quality of life but are a tremendous economic burden on our health care system
+but if robots can be engaging if we like to cooperate with robots if robots are persuasive maybe a robot can help you maintain a diet and exercise program maybe they can help you manage your weight
+to help you form healthy habits
+so we actually explored this idea in our lab
+this is a robot autom cory kidd developed this robot for his doctoral work and it was designed to be a robot diet and exercise coach
+it had a couple of simple non verbal skills it could do it could make eye contact with you it could share information looking down at a screen you 'd use a screen interface to enter information like how many calories you ate that day how much exercise you got
+and then it could help track that for you and the robot spoke with a synthetic voice to engage you in a coaching dialogue modeled after trainers and patients and so forth and it would build a working alliance with you through that dialogue it could help you set goals and track your progress and it would help motivate you so an interesting question is
+one case was the robot you saw there autom
+and the longer you could interact with one of these interventions well that 's indicative potentially of longer term success
+so the first thing i want to look at is how long how long did people interact with these systems
+it turns out that people interacted with the robot significantly more even though the quality of the advice was identical to the computer
+when it asked people to rate it on terms of the quality of the working alliance people rated the robot higher
+and they trusted the robot more
+they would dress the robots
+and even when we would come up to pick up the robots at the end of the study they would come out to the car and say good bye to the robots they didn 't do this with a computer the last thing i want to talk about today is the future of children 's media
+we know that kids spend a lot of time behind screens today whether it 's television or computer games or whatnot my sons they love the screen they love the screen
+but i want them to play as a mom i want them to play like real world play and so i have a new project in my group i wanted to present to you today called playtime computing that 's really trying to think about how we can take what 's so engaging about digital media and literally bring it off the screen into the real world of the child
+first exploration of this idea where characters can be physical or virtual and where the digital content can literally come off the screen into the world and back
+i like to think of this as the atari pong of this blended reality play
+but we can push this idea further what if
+what if turns out that kids
+when it goes into the virtual world so they are now sending the character back into that world and now it 's got number power
+and then finally what i 've been trying to do here is create a really immersive experience for kids where they really feel like they are part of that story a part of that experience and i really want to spark their imaginations the way mine was sparked as a little girl watching star wars
+but i want to do more than that i actually want them to create those experiences i want them to be able to literally build their imagination into these experiences and make them their own so we 've been exploring a lot of ideas in telepresence and mixed reality to literally allow kids to project their ideas into this space where other kids
+can interact with them and build upon them i really want to come up with new ways of children 's media that foster creativity and learning and innovation i think that 's very very important
+but i can tell you the thing that they love the most is the robot
+what they care about is the robot
+robots touch something deeply human within us and so whether they 're helping us to become creative and innovative

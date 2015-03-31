@@ -1,0 +1,84 @@
+what i'd like to talk a little bit about today are some ideas that i think have just tremendous resonance with all the things that have been talked about the last
+ok so these are lp records and they've been replaced right they've been
+witnessed when thomas was playing the music as we came in the room today what's happened in the music world is there's a culture or an ecosystem that's been created that if you take some words from apple the catchphrase that we create
+rip mix and burn what i mean by that is that anyone in the world is free and allowed to create new music and musical ideas anyone in the world is allowed to rip or copy musical ideas use them in innovative ways
+and the kind of educational materials that we use every day in school has anyone here ever been to school ok does anybody realize there's a crisis in our schools
+around the world i hope ok i'm not going to spend too much time on that but what i want to talk about is some of the
+that appear when an author publishes a book that in fact the publishing process just because of the fact that it's complicated it's heavy
+books are expensive creates a sort of a wall between authors of books and the ultimate users of books be they teachers students
+or just general readers and this is even more true if you happen to speak a language other than one of the world 's major languages and especially english
+right that we've seen in the musical culture and try to bring these towards reinventing the way we think about writing books using them and teaching from them ok
+so that's what i'd like to talk about and really how do we get from where we are now to where we need to go so the first thing i'd like you to do is a little thought experiment so imagine taking all the world 's books ok everybody imagine books
+and imagine just tearing out the pages so liberating these pages and imagine digitizing them right and then storing them in a vast interconnected global repository think of it
+as a massive itunes right for book type content and then take that material and imagine making it all open so that people can modify it play with it improve it
+update this content improve it play with it on a time scale that's more on the order of seconds instead of years ok instead of editions coming out every
+two years of a book imagine it coming out every twenty five seconds so imagine we could do that and imagine we could put people into this
+right so that we could truly build an ecosystem with not just authors but all the people who could be or want to be authors
+in all the different languages of the world and i think if you could do this it would be called well i'm just going to refer to it as a knowledge ecosystem so really this is the dream
+and in a sense what you can think of it is we are trying to enable anyone in the world i mean anyone in the world to be their own educational dj creating educational materials sharing them with the world constantly innovating
+this is the dream in fact this dream is actually being realized right over the last six and a half years
+we've been working really hard at rice university on a project called connexions and so what i'd like to do for the rest of the talk is just tell you a little bit about what people are doing with
+which you can kind of think of as the counterpoint to nicholas negroponte 's talk yesterday where they're working on the hardware of bringing education to the world we're working on the open source tools
+and the content ok so that's sort of to put it in perspective here so create so what are some of the people that are using these kind of tools well the first thing is there's
+a community of engineering professors from cambridge to kyoto who are developing engineering content in electrical engineering to develop what you can think of as a massive super textbook
+right that covers the entire area of electrical engineering and not only that it can be customized for use in each of their own individual institutions
+people like kitty jones right a shut out a private music teacher and mom from champagne illinois who wanted to share her
+a team of volunteers at the university of texas el paso graduate students translating this engineering super textbook ideas and within about a week
+ok what about people who are mixing what does mixing mean mixing means building customized courses means building customized books companies like national instruments who are
+embedding very powerful interactive simulations into the materials so that we can go way beyond our regular kind of textbook
+to an experience that all the teaching materials and things you can actually interact with and play around with and actually learn as you do
+been working with teachers without borders who are very interested in mixing our materials they're going to be using connexions as their platform to develop and deliver teaching materials for teaching teachers how to teach
+in eighty four countries that are around the world twb is currently in iraq training twenty thousand teachers
+if you don't empower people with the ability to re contextualize the material translate it into their own language and take ownership of it it's not good ok
+other organizations we've been working with uc merced people know about uc merced it's a new university in california in the central valley
+a bunch of the projects that are funded by hewlett foundation who have taken a real leadership role in this area of open content ok burn i think this is sort of quite interesting burn is the idea
+trying to create the physical instantiation of one of these courses and i think a lot of you received i think all of you received one of these music books in your
+gift pack a little present for you
+tell you quickly about it this is an engineering textbook it's about three hundred pages long
+hard bound this costs anybody guess
+how much would it cost in a bookstore
+this costs twenty two dollars to the student why does it cost twenty two dollars because it's published on demand
+and it's developed from this repository of open materials if this book were to be published by a regular publisher it would cost at least one hundred and twenty two dollars ok so what we're seeing is moving this burning or publication process
+the regular sort of single author authored book towards community authored materials that are modular that are customized to each individual class
+and published on demand very inexpensively either pushed out through amazon right or published directly through
+on demand press like coop and i think that this is an extraordinarily interesting area because there is tremendous
+area under this long tail in publishing we're not talking about the harry potter end right at the left side we're talking about books on hyper geometric partial differential equations
+right books that might sell one hundred copies a year one thousand copies a year there is tremendous sustaining revenue right
+under this long tail to sustain open projects like ours but also to sustain this new emergence of on demand publishers like coop who produced these two books
+and i think one of the things that you should take away from this talk is that there's an impending cut out the middle man right disintermediation it's going to be happening in the publishing industry
+going to reach a crescendo over the next few years and i think that it's for our benefit really and for the world
+ok so what are the enablers what's really making all of this happen there's tons of technology and the only piece of technology that i really
+well what the xml is going to do is it's going to basically be it's going to turn those pages into lego blocks right xml are the nubs on the lego
+that allow us to combine the content together in myriad different ways and it provides us a framework to share content so it lets you take
+this ecosystem right in its primordial state right of all this content all the pages you've torn out of books and create
+highly sophisticated learning machines right books courses course packs ok it gives you the ability to personalize
+the learning experience to each individual student right so that every student can have a book or a course that's customized to their learning style their context their language
+and the things that excite them it lets you reuse the same materials in multiple different ways and surprising new ways it lets you interconnect ideas
+indicating how fields right relate to each other and i'll just give you my personal story
+we came up with this six and a half years ago because i teach the stuff in the red box and my day job as chris said i'm an electrical engineering professor
+this seemingly dry math is actually the center of this tremendously powerful web that links technology that links really cool applications like music synthesizers to
+new tools to be able to interconnect these ideas and i think that really in a sense what we're trying to do is make minsky 's dream come to a reality
+can imagine all the books in a library actually starting to talk to each other right and people who are teachers out here whoever taught you know this it's the interconnections between ideas that teaching is really all about
+back to math right imagine this is possible that every single equation that you click on in one of your new e texts is something that you're going to be able to explore and experiment with
+like mathml for chemistry imagine chemistry textbooks that actually understand the structure of how molecules are formed imagine music xml
+that actually lets you delve into the semantic structure of music play with it understand it it's no wonder that everybody 's getting into it right even the three wise men
+the second big enabler and this is where i told a big lie the second big enabler is
+right and we would be accused of pirates for doing that right because this music has been propertized it's now owned right much of it by big
+industries so really the key thing here is we can't let this happen we can't let this napster thing happen here so what we have to do is get it right from the very beginning and what we have to do is find
+and the gpl and the ideas the creative commons licenses how many people have heard of creative commons if you have not
+you must learn about it creativecommons org at the bottom of every piece of material in connexions and in lots of other projects
+you can find their logo clicking on that logo takes you to an absolute no nonsense human readable document a deed that tells you exactly what you can do with this content in fact you're free
+right to share it to do all of these things to copy it to change it even to make commercial use of it as long as you attribute the author because in academic publishing and much of educational publishing it's really this idea of
+very carefully construct it and creative commons is taking off right over forty three million things out there licensed with a creative commons license not just
+text but music images video and there's actually a tremendous uptake of the number of people that are actually licensing music
+to make it free for people who do this whole idea of re sampling rip mixing burning and sharing so i'd like to conclude with just
+last few points so we've built this idea of a commons people are using it we get over five hundred thousand unique visitors per month just our particular site mit open courseware
+which is another large open content site gets a similar number of hits but how do we protect this how do we protect it into the future and
+the first thing that people are probably thinking is quality control right because we're saying that anybody can contribute things to this
+anybody can contribute anything so that could be a problem so it didn't take long right
+ok so this is a little bit of a problem so we clearly need some kind of idea of quality control and this is really where the idea of review
+and peer review comes in ok you come to ted why do you come to ted because chris and his team have ensured that things are very very high quality
+right and so we need to be able to do the same thing right and we need to be able to design structures and what we're doing is designing social software
+to enable anyone to build their own peer review process and we call these things lenses and basically what they allow is anyone out there to develop their own peer review process so that they can focus
+on the content in the repository that they think is really important and you can think of ted as a potential lens so i'd just like to end by saying you can really view this as a call to action right
+and open content is all about sharing knowledge all of you here are tremendously

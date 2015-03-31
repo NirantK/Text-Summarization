@@ -1,0 +1,40 @@
+a physical disability isn 't easy anywhere in the world
+but if you live in a country like the united states there 's certain appurtenances available to you that do make life easier so if you 're in a building you can take an elevator
+if you 're crossing the street you have sidewalk cutouts and if you have to travel some distance farther than you can do under your own power there 's accessible vehicles and if you can 't afford one of those there 's accessible public transportation
+but in the developing world things are quite different
+there 's forty million people who need a wheelchair but don 't have one
+and what stood out to me is that there wasn 't a device available that was designed for rural areas that could go fast and efficiently on many types of terrain so being a mechanical engineer being at mit and having lots of resources available to me i thought i 'd try to do something about it
+now when you 're talking about trying to travel long distances on rough terrain i immediately thought of a mountain bike and a mountain bike 's good at doing this because it has a gear train and you can shift to a low gear if you have to climb a hill or go through mud or sand and you get a lot of torque
+that would be difficult to transfer into developing countries because they 're much much too expensive
+and the context i 'm talking about is where you need to have a product that is less than two hundred dollars
+and furthermore if you want it to last a long time out in rural areas it has to be repairable using the local tools materials and knowledge in those contexts
+so the real crux of the problem here is how do you make a system that 's a simple device but gives you a large mechanical advantage how do you make a mountain bike for your arms that doesn 't have the mountain bike cost and complexity
+so as is the case with simple solutions oftentimes the answer is right in front of your face and for us it was levers we use levers all the time in tools
+and effectively get a low gear and as they slide their hand down the lever
+they can push with a smaller effective lever length but push through a bigger angle every stroke which makes a faster rotational speed and gives you an effective high gear so what 's exciting about this system is that it 's really really mechanically simple and you could make it using technology that 's been around for hundreds of years
+so seeing this in practice this is the leveraged freedom chair that after a few years of development we 're now going into production with and this is a full time wheelchair user he 's paralyzed in guatemala and you see he 's able to traverse pretty rough terrain
+now the big important point here
+is that the person is the complex machine in this system it 's the person that 's sliding his hands up and down the levers so the mechanism itself can be very simple and composed of bicycle parts you can get anywhere in the world
+now when you want to use the lfc indoors all you have to do is pull the levers out of the drivetrain stow them in the frame and it converts into a normal wheelchair that you can use just like any other normal wheelchair and we sized it like a normal wheelchair so it 's narrow enough to fit through a standard doorway
+it 's low enough to fit under a table and it 's small and maneuverable enough to fit in a bathroom and this is important so the user can get up close to a toilet and be able to transfer off just like he could in a normal wheelchair
+now there 's three important points that i want to stress that i think really hit home in this project
+the first is that this product works well because we were effectively able to combine rigorous
+engineering science and analysis with user centered design focused on the social and usage and economic factors important to wheelchair users in the developing countries so i 'm an academic at mit and i 'm a mechanical engineer so i can do things like
+look at the parts we have available and mix and match them to figure out what sort of gear trains we can use and then look at the power and force you can get out of your upper body to analyze how fast you should be able to go in this chair as you put your arms up and down the levers so as a wet behind the ears student excited our team made a prototype
+and found it was terrible because we didn 't get enough input from users so because we tested it with wheelchair users with wheelchair manufacturers we got that feedback from them not just articulating their problems but articulating their solutions and worked together to go back to the drawing board and make a new design which we brought back to east africa in nine
+that worked a lot better than a normal wheelchair on rough terrain but it still didn 't work well indoors because it was too big it was heavy it was hard to
+now also being engineering scientists we were able to quantify the performance benefits of the leveraged freedom chair so here are some shots
+of our trial in guatemala where we tested the lfc on village terrain and tested people 's biomechanical outputs their oxygen consumption how fast they go how much power they 're putting out both in their regular wheelchairs and using the lfc and we found that the lfc is about eighty percent faster going on these terrains than a normal wheelchair
+it 's also about forty percent more efficient than a regular wheelchair and because of the mechanical advantage you get from the levers you can produce fifty percent higher torque and really muscle your way through the really really rough terrain
+now the second lesson that we learned in this is that the constraints on this design really push the innovation because we had to hit such a low price point
+because we had to make a device that could travel on many many types of terrain but still be usable indoors and be simple enough to repair we ended up with a fundamentally new product a new product that is an innovation in a space that really hasn 't changed in a hundred years
+and these are all merits that are not just good in the developing world why not in countries like the u s too so we teamed up with continuum a local product design firm here in boston to make the high end version the developed world version that we 'll probably sell primarily in the u s and europe but to higher income buyers
+and the final point i want to make
+is that i think this project worked well because we engaged all the stakeholders that buy into this project and are important to consider in bringing the technology from inception of an idea through innovation validation commercialization
+and dissemination and that cycle has to start and end with end users these are the people that define the requirements of the technology and these are the people that have to give the thumbs up at the end and say yeah it actually works it meets our needs
+so people like me in the academic space we can do things like innovate and analyze and test create data and make bench level prototypes
+but how do you get that bench level prototype to commercialization so we need gap fillers like continuum that can work on commercializing and we started a whole ngo to bring our chair to market global research innovation technology
+and then we also teamed up with a big manufacturer in india pinnacle industries that 's tooled up now to make five hundred chairs a month and will make the first batch of two hundred next month which will be delivered in india and then finally to get this out to the people in scale we teamed up with the largest disability organization in the world jaipur foot
+now what 's powerful about this model is when you bring together all these stakeholders that represent each link in the chain from inception of an idea all the way to implementation in the field
+and then you can also engage the end user in the design process and not just ask him what he needs but ask him how he thinks it can be achieved
+but the day after he got an lfc he hopped in it rode that kilometer opened up his shop and soon after landed a contract to make school uniforms and started making money started providing for his family with

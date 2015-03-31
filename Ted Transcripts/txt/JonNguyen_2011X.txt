@@ -1,0 +1,30 @@
+that inspired me to pursue space exploration as my own personal dream and part of that dream was i always wanted to just fly around the solar system and visit different planets and visit moons and spacecraft
+well a number of years
+now the kicker is everything i 'm about to do here you can do at home
+because we built this for the public for you guys to use so what you 're looking at right now is the earth you can see the united states and california and san diego and you can use the mouse or the keyboard to spin things around
+now this isn 't new anyone who 's used google earth has seen this before
+but one thing we like to say in our group is we do the opposite of google earth google earth goes from this view down to your backyard we go from this view out to the stars
+so the earth is cool but what we really want to show are the spacecraft so i 'm going to bring the interface back up
+and now you 're looking at a number of satellites orbiting the earth these are a number of our science space earth orbiters we haven 't included military satellites and weather satellites and communication satellites and reconnaissance satellites if we did it would be a complete mess because there 's a lot of stuff out there
+and the cool thing is we actually created three d models for a number of these spacecraft so if you want to visit any of these all you need to do is double click on them so i 'm going to find the international space station double click and it will take us all the way down to the iss
+and now you 're riding along with the iss where it is right now
+and the other cool thing is not only can we move the camera
+and they get one every ninety minutes
+and now we 're looking at the rest of the solar system you can see there 's saturn there 's jupiter and while we 're here i want to point out something it 's actually pretty busy here we have the mars science laboratory on its way to mars just launched last weekend here we have juno on its cruise to jupiter
+there we have dawn orbiting vesta
+and we have over here new horizons on a straight shot to pluto
+and i mention this because there 's this strange public perception that
+nasa 's dead that the
+and one of the reasons why we write a program like this is so that people realize that there 's so many other things
+just being able to visit places in different times you can explore this spacecraft outer planet missions
+voyager one and i 'm going to bring up the titan flyby so now we 've gone back in time
+it doesn 't look like anything 's going on it looks like i 've paused the program it 's actually running at real rate right now one second per second and in fact voyager one here is flying by titan at
+i think it 's thirty eight thousand miles per hour
+it only looks like nothing 's moving because well saturn here is seven hundred thousand miles away and titan here is four thousand to five thousand miles away it 's just the vastness of space makes it look like nothing 's happening but to make it more interesting i 'm going to speed up time
+and we can watch as voyager one flies by titan which is a hazy moon of saturn it actually has a very thick atmosphere and i 'm going to recenter the camera on saturn here i 'm going to pull out
+we can not only just say voyager one flew by saturn there 's a whole story to tell here and even better because it 's an interactive application you can tell the story for yourself if you want to pause it you can pause it if you want to keep going if you want to change the camera angle you can do that and because of that
+i can show you that voyager one doesn 't just fly by saturn it actually flies
+underneath saturn now what happens is as it flies underneath saturn saturn grabs it gravitationally and flings it up and out of the solar system so if i just keep letting this go you can see voyager one fly up like that
+and in fact i 'm going to go back to the solar system i 'm going to go back to today now and i want to show you where voyager one is right
+above way above the solar
+well we 're trying to give you the solar system in your grasp laughter and we hope once it 's there you 'll be able to learn for yourself what we 've done out there and what we 're about to do and my personal dream is for kids to take this and explore and see the wonders out there and be inspired as i was

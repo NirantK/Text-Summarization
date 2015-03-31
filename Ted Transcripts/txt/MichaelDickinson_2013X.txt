@@ -1,0 +1,65 @@
+up watching star trek i love star trek star trek made me want to see alien creatures creatures from a far distant world but basically i figured out that i could find those alien creatures right on earth
+and what i do is i study insects i 'm obsessed with insects particularly insect flight i think the evolution of insect flight is perhaps one of the most important events in the history of life without insects there 'd be no flowering plants without flowering plants there would be no clever fruit eating primates giving ted talks
+david and hidehiko and ketaki gave a very compelling story about the similarities between fruit flies and humans and there are many similarities and so you might think that if humans are similar to fruit flies the favorite behavior of a fruit fly might be this for example
+that i think fruit flies excel at doing and so i want to show you a high speed video sequence of a fly shot at seven thousand frames per second in infrared lighting
+and to the right off screen is an electronic looming predator that is going to go at the fly the fly is going to sense this predator it is going to extend its legs out it 's going to sashay away to live to fly another day now i have
+carefully cropped this sequence to be exactly the duration of a human eye blink so in the time that it would take you to blink your eye the fly has seen this looming predator estimated its position
+initiated a motor pattern to fly it away beating its wings at two hundred and twenty times a second as it does so i think this is a fascinating behavior that shows how fast the fly 's brain can process information
+now flight what does it take to fly well in order to fly just as in a human aircraft you need wings that can generate sufficient aerodynamic forces
+you need an engine sufficient to generate the power required for flight and you need a controller and in the first human aircraft the controller was basically the brain of orville and wilbur sitting in the cockpit
+now how does this compare to a fly
+and we tackle this problem by building giant dynamically scaled model robot insects that would flap in giant pools of mineral oil where we could study the aerodynamic forces
+and it turns out that the insects flap their wings
+in a very clever way at a very high angle of attack that creates a structure at the leading edge of the wing a little tornado like structure called a leading edge vortex and it 's that vortex that actually enables the wings to make enough force
+for the animal to stay in the air but the thing that 's actually most so what 's fascinating is not so much that the wing has some interesting morphology what 's clever is the way the fly flaps it which of course ultimately is controlled by the nervous system and this is what enables
+flies to perform these remarkable aerial maneuvers now what about the engine
+the engine of the fly is absolutely fascinating they have two types of flight muscle so called power muscle which is stretch activated which means that it activates itself and does not need to be controlled on a contraction by contraction basis
+but attached to the base of the wing
+is a set of little tiny control muscles that are not very powerful at all but they 're very fast and they 're able to reconfigure
+the hinge of the wing on a stroke by stroke basis and this is what enables the fly to change its wing and generate the changes in aerodynamic forces which change its flight trajectory and of course the role of
+the nervous system is to control all this so let 's look at the controller now flies excel in the sorts of sensors
+that they carry to this problem they have antennae that sense odors and detect wind detection they have a sophisticated eye which is the fastest visual system on the planet they have another set of eyes on the top of their head we have no idea what they do
+they have sensors on their wing their wing is covered with sensors including sensors that sense deformation of the wing they can even taste with their wings
+one of the most sophisticated sensors a fly has is a structure called the halteres the halteres are actually gyroscopes these devices beat
+back and forth about two hundred hertz during flight and the animal can use them to sense its body rotation and initiate very very fast corrective maneuvers but all of this sensory information has to be processed by a brain and yes indeed
+flies have a brain a brain of about one hundred thousand neurons
+now several people at this conference have already suggested that fruit flies could serve neuroscience because they 're a simple model of brain function and the basic punchline of my talk is i 'd like to turn that over on its head i don 't think they 're a simple model of anything
+and i think that flies are a great model they 're a great model for flies laughter and let 's
+but remember that this kind of brain which is much much smaller instead of one hundred billion neurons it has one hundred thousand neurons but this is the most common form of brain on the planet and has been for four hundred million years and is it fair to say that it 's simple well it 's simple in the sense that it has fewer neurons but is that a fair metric
+and i would propose it 's not a fair metric
+the size of the brain
+a mouse has about one thousand times as many neurons as a fly i used to study mice when i studied mice i used to talk really slowly
+and then something happened when i started to work on flies laughter and i think
+if you compare the natural history of flies and mice it 's really comparable they have to forage for food they have to engage in courtship they have sex they hide from predators they do a lot of the similar things but i would argue that flies do more so for example
+i 'm going to show you a sequence and i have to say some of my funding comes from the military so i 'm showing this classified sequence and you cannot discuss it outside of this room
+watch it very closely and you 'll see why my six year old son now wants to be a neuroscientist wait for it
+i want to get across that it 's not just a matter of numbers but also the challenge for a fly to compute
+everything its brain has to compute with such tiny neurons so this is a beautiful image of a visual interneuron from a mouse that came from jeff lichtman 's lab and you can see the wonderful images
+with trying to compute information with tiny tiny neurons how small can neurons get well look at this interesting insect it looks sort of like a fly it has wings it has eyes it has antennae its legs complicated life history it 's a parasite it has to fly around and find caterpillars to parasatize
+and it has a brain of seven thousand neurons that 's so small you know these things called cell bodies you 've been hearing about where the nucleus of the neuron is this animal gets rid of them because they take up too much space so this is a session on frontiers in neuroscience i would posit that one frontier in neuroscience is to figure out how the brain of that thing works
+but let 's think about this how can you make a small number of neurons do a lot and i think from an engineering perspective you think of multiplexing you can take
+a hardware and have that hardware do different things at different times or have different parts of the hardware doing different things and these are the two concepts i 'd like to explore and they 're not concepts that i 've come up with but concepts that have been proposed by others in the past
+and one idea comes from lessons from chewing crabs and i don 't mean chewing the crabs i grew up in baltimore and i chew crabs very very well
+but i 'm talking about the crabs actually doing the chewing crab chewing is actually really fascinating crabs have this complicated structure under their carapace called the gastric mill that grinds their food in a variety of different ways and here 's an endoscopic movie of this structure
+the amazing thing about this is that it 's controlled by a really tiny set of neurons about two dozen neurons
+that can produce a vast variety of different motor
+patterns and the reason it can do this is that this little tiny ganglion in the crab is actually inundated by many many neuromodulators you heard about neuromodulators earlier there are more neuromodulators that alter that innervate this structure than actually neurons in the structure
+and they 're able to generate a complicated set of patterns and this is the work by eve marder and her many colleagues who 've been studying this fascinating system that show how a smaller cluster of neurons can do many many many things
+because of neuromodulation that can take place on a moment by moment basis
+so this is basically multiplexing in time imagine a network of neurons with one neuromodulator you select one set of cells to perform one sort of behavior another neuromodulator another set of cells a different pattern and you can imagine you could extrapolate to a very very complicated system
+is there any evidence that flies do this
+well for many years in my laboratory and other laboratories around the world we 've been studying fly behaviors in little flight simulators you can tether a fly to a little stick
+you can measure the aerodynamic forces it 's creating you can let the fly play a little video game by letting it fly around in a visual display so let me show you a little tiny sequence of this
+here 's a fly and a large infrared view of the fly in the flight simulator and this is a game the flies love to play you allow them to steer towards the little stripe and they 'll just steer towards that stripe forever it 's part of their visual guidance system
+but very very recently it 's been possible to modify these sorts of behavioral arenas for physiologies so this is the preparation that one of my former post docs gaby maimon who 's now at rockefeller developed
+and it 's basically a flight simulator but under conditions where you actually can stick an electrode in the brain of the fly and record from a genetically identified neuron in the fly 's brain
+and this is what one of these experiments looks like it was a sequence taken from another post doc in the lab bettina schnell the green trace at the bottom is the membrane potential of a neuron in the fly 's brain and you 'll see the fly start to fly and the fly is actually controlling the rotation of that visual pattern itself by its own wing motion
+and you can see this visual interneuron respond to the pattern of wing motion as the fly flies so for the first time we 've actually been able to record
+from neurons in the fly 's brain while the fly is performing sophisticated behaviors such as flight and one of the lessons we 've been learning is that the physiology of cells that we 've been studying for many years in quiescent flies is not the same as the physiology of those cells when the flies actually engage in active behaviors
+like flying and walking and so forth
+and why is the physiology different well it turns out it 's these neuromodulators just like the neuromodulators in that little tiny ganglion in the crabs so here 's a picture of the octopamine system octopamine is a neuromodulator that seems to play an important role in flight and other behaviors
+but this is just one of many neuromodulators that 's in the fly 's brain so i really think that as we learn more it 's going to turn out that the whole fly brain is just like a large version of this stomatogastric ganglion and that 's one of the reasons why it can do so much with so few neurons
+and malcolm burrows came up with a pretty interesting idea based on the fact that this neuron from a locust does not fire action potentials it 's a non spiking cell so a typical cell like the neurons in our brain has a region called the dendrites that receives input
+and that input sums together and will produce action potentials that run down the axon and then activate all the output regions of the neuron but non spiking neurons are actually quite complicated because they can have input synapses and output synapses all interdigitated
+and there 's no single action potential that drives all the outputs at the same time so there 's a possibility that you have computational compartments that allow the different parts of the neuron to do different things
+at the same time so these basic concepts of multitasking in time

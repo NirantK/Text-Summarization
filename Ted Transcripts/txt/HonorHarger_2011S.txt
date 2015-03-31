@@ -1,0 +1,31 @@
+we 've been surrounded by images of space our whole lives from the speculative images of science fiction to the inspirational visions of artists to the increasingly beautiful pictures made possible by complex technologies
+but whilst we have an overwhelmingly vivid visual understanding of space we have no sense of what space sounds like
+and indeed most people associate space with silence but the story of how we came to understand the universe is just as much a story of listening as it is by looking
+and yet despite this hardly any of us have ever heard space how many of you here could describe the sound of a single planet or star well in case you 've ever wondered this is what the sun sounds like
+this is the planet jupiter so
+radio astronomers study radio waves from space using sensitive antennas and receivers which give them precise information about what an astronomical object is and where it is in our night sky
+and just like the signals that we send and receive here on earth we can convert these transmissions into sound using simple analog techniques
+now this story doesn 't start with vast telescopes or futuristic spacecraft but a rather more humble technology and in fact the very medium which gave us the telecommunications revolution that we 're all part of today the telephone
+it 's one thousand eight hundred and seventy six it 's in boston and this is alexander graham bell who was working with thomas watson on the invention of the telephone a key part of their technical set up was a half mile long length of wire which was thrown across the rooftops of several houses in boston
+the line carried the telephone signals that would later make bell a household name but like any long length of charged wire it also inadvertently became an antenna
+thomas watson spent hours listening
+so thomas watson wasn 't listening to us we didn 't have the technology to transmit
+as he correctly guessed some of these sounds were caused by activity on the surface of the sun
+it was a solar wind interacting with our ionosphere that he was listening to a phenomena which we can see at the extreme northern and southern latitudes of our planet as the aurora so
+whilst inventing the technology that would usher in the telecommunications revolution watson had discovered that the star at the center of our solar system emitted powerful radio waves he had accidentally been the first person to tune in to them
+fast forward fifty years and bell and watson 's technology has completely transformed global communications
+but going from slinging some wire across rooftops in boston to laying thousands and thousands of miles of cable on the atlantic ocean seabed is no easy matter and so before long bell were looking to new technologies to optimize their revolution
+radio could carry sound without wires but the medium is lossy it 's subject to a lot of noise and interference
+so bell employed an engineer to study those noises to try and find out where they came from with a view towards building the perfect hardware codec which would get rid of them so they could think about using radio for the purposes of telephony
+and it seemed to appear in his radio headset four minutes earlier each day
+now any astronomer will tell you this is the telltale sign of something that doesn 't originate from earth
+jansky had made a historic discovery
+that celestial objects could emit radio waves as well as light waves
+fifty years on from watson 's accidental encounter with the sun jansky 's careful listening ushered in a new age of space exploration the radio astronomy age
+over the next few years astronomers connected up their antennas to loudspeakers and learned about our radio sky about jupiter and the sun by listening
+penzias and robert wilson were using the horn antenna at bell 's holmdel laboratory to study the milky way with extraordinary precision they were really listening to the galaxy in high fidelity
+there was a glitch in their soundtrack a mysterious persistent noise was disrupting their research
+it was in the microwave range and it appeared to be coming from all directions simultaneously now this didn 't make any sense and like any reasonable engineer or scientist they assumed that the problem must be the technology itself it must be the dish
+there were pigeons roosting in the dish and so perhaps once they cleaned up the pigeon droppings get the disk kind of operational again normal operations would resume but the noise didn 't disappear
+the mysterious noise that penzias and wilson were listening to turned out to be the oldest and most significant sound that anyone had ever heard it was cosmic radiation left over from the very birth of the universe
+this was the first experimental evidence that the big bang existed and the universe was born at a precise moment some fourteen point seven billion years ago

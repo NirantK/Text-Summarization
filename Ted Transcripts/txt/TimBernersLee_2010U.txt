@@ -1,0 +1,19 @@
+here at ted i asked you to give me your data to put your data on the web on the basis that if people put data onto the web
+have imagined so today i'm back just to show you a few things to show you in fact that there is an open data
+two days it took the times online to make a map a mashed up map we call these things mash ups a mashed up
+user interface that allows you to go in there and have a look and find out whether your bicycle route to work was affected here 's more data traffic survey data again put out by the u k government
+this data effect things well actually let 's get back to two thousand and eight look at zanesville ohio here is a map a lawyer made he put on it the water
+which houses are there which houses have been connected to the water and he got from other data sources information to show which
+was not impressed either the judge was not impressed to the tune of ten point nine million dollars that's the power of taking one piece of data another piece of data putting it together
+and showing the result let 's look at some data from the u k now this is u k government data a completely independent site where does my money go it allows anybody to go there and burrow down you can burrow down
+by a particular type of spending or you can go through all the different regions and compare them so that's happening in the u k with u k government data yes certainly you can do it over here too here 's a site which allows you to look at recovery spending
+in fact this is the graph of the number of data sets in the repositories of data gov and data gov uk and i'm delighted to see a great competition between the u k in blue and the u s
+in red how can you use this stuff well for example if you have lots of data about places you can take from a postcode which is like a zip code plus four for a specific group of houses you can make paper
+the data which was released about the afghan elections it allows you to set your own criteria for what sort of things you want to look at the red circles are polling stations
+on this visualization put together by ito world shows an edit in two thousand and nine made to the open street map
+the world during the same year every flash is an edit somebody somewhere looking at the open street map and realizing it could be better you can see europe
+some places perhaps not as much as they should be here focusing in on haiti the map of port au prince at the end of two thousand and nine was not all it could be not as good as the map of california fortunately
+just after the earthquake geoeye a commercial company released satellite imagery with a license which allowed the open source community to use it
+this is january in time lapse of people editing that's the earthquake after the earthquake immediately people all over the world mappers who wanted to help and could
+looked at that imagery edited the map quickly building it up we're focusing now on port au prince the light blue is refugee camps these volunteers had spotted from the so now we have immediately a real time map showing where there are
+the map showing on the left hand side that hospital actually that's a hospital ship this is a real time map that shows blocked roads damaged buildings and refugee camps it shows things that are needed so

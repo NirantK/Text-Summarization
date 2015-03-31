@@ -1,0 +1,22 @@
+driving is dangerous it 's one of the things that we don 't like to think about
+but the fact that religious icons and good luck charms show up on dashboards around the world betrays the fact that we know this to be true car accidents are the leading cause of death
+in people ages sixteen to nineteen in the united states leading cause of death and seventy five percent of these accidents have nothing to do with drugs or alcohol
+you can 't really directly sense the world around you
+way to drive why do we do this because we have to we have to make a choice do i look here or do i look here what 's more important and usually we do a fantastic job picking and choosing what we attend to on the road
+but occasionally we miss something occasionally we sense something wrong or too late
+in countless accidents the driver says i didn 't see it coming and i believe that i believe that
+we can only watch so much
+but the technology exists now that can help us improve that
+that have a fixed position and velocity they travel down roads often they travel on pre published routes it 's really not that hard to make reasonable predictions about where a car 's going to be in the near future even if when you 're in your car
+we can start with something as simple as sharing our position data between cars just sharing gps
+if i have a gps and a camera in my car i have a pretty precise idea of where i am and how fast i 'm going with computer vision i can estimate where the cars around me are sort of
+i can tell you exactly what happens both models improve
+professor bob wang and his team have done computer simulations of what happens when fuzzy estimates combine even in light traffic when cars just share gps data
+and we 've moved this research out of the computer simulation and into robot test beds that have the actual sensors that are in cars now on these robots stereo cameras gps and the two dimensional laser range finders that are common in backup systems
+we also attach a discrete short range communication radio and the robots talk to each other when these robots come at each other they track each other 's position precisely and they can avoid each other
+we 're now adding more and more robots into the mix and we encountered some problems one of the problems when you get too much chatter it 's hard to process all the packets
+and you can predict the new trajectory so you don 't only know that he 's going off course you know how and you know which drivers you need to alert to get out of the way and we wanted to do how can we best alert everyone how can these cars whisper you need to get out of the way well it depends on two things one the ability of the car
+they 're not probably in the best position to react in an emergency so we started a separate line of research doing driver state modeling and now using a series of three cameras we can detect if a driver is looking forward looking away looking down on the phone or having a cup of coffee
+we can predict the accident
+and we can predict who which cars are in the best position to move out of the way to calculate the safest route for everyone fundamentally these technologies exist today
+by sharing our data willingly we can do what 's best for everyone so let your car gossip about you it 's going to make the roads a lot safer

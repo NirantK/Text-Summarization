@@ -1,0 +1,43 @@
+progresses and as it advances many of us assume that these advances make us more intelligent make us smarter
+and more connected to the world and what i'd like to argue is that that's not necessarily the case as progress is simply a word for change and with change you gain something but you also lose something
+and to really illustrate this point what i'd like to do is to show you how technology has dealt with a very simple a very common an everyday question and that question is this
+time is it if you glance at your iphone it's so simple to tell the time but
+i'd like to ask you how would you tell the time if you didn't have an iphone how would you tell the time say six hundred years ago how would you do it well
+the way you would do it is by using a device that's called an astrolabe
+so an astrolabe is relatively unknown in today 's world but at the time in the thirteenth century
+it was the gadget of the day it was the world 's first popular computer and it was a device that in fact is a model of the sky
+so the different parts of the astrolabe in this particular type the rete corresponds to the positions of the stars the plate corresponds to a coordinate system and the mater has some scales and puts it all together
+if you were an educated child you would know how to not only use the astrolabe you would know how to make an astrolabe and we know this because the first treatise on the astrolabe the first technical manual in the english language
+and in this book little lewis would know the big idea and the central idea that makes this computer work is this thing called stereographic projection and basically the concept is how do you
+the idea is actually relatively simple imagine that that earth is at the center of the universe and surrounding it is the sky projected onto a sphere
+each point on the surface of the sphere is mapped through the bottom pole onto a flat surface where it is then recorded
+so the north star corresponds to the center of the device the ecliptic which is the path of the sun moon and planets correspond to an offset circle
+the bright stars correspond to little daggers on the rete and the altitude corresponds to the plate system now the real genius of the astrolabe is not just the projection
+the real genius is that it brings together two coordinate systems so they fit perfectly there is the position of the sun moon and planets on the movable rete and then their location on the sky as seen from a certain latitude on the back plate
+okay so how would you use this device me first
+pretty impressive isn't it and so this astrolabe is on loan from us from the oxford school of museum of history and
+you can see the different components this is the mater the scales on the back this is the rete okay do you see that that's the movable part of
+the sky and in the back you can see a spiderweb pattern and that spiderweb pattern corresponds to the local coordinates in the sky
+this is a rule device and on the back are some other devices measuring tools and scales to be able to make some calculations
+you know i've always wanted one of these for my thesis i actually built one of these out of paper and this one this is a replica from a fifteenth century
+device and it's worth probably about three macbook pros but a real one would cost about as much as my house and the house next to it and actually every house on the block
+on both sides of the street maybe a school thrown in and some you know a church they are just incredibly expensive but let me show you how to work this device so let 's go to step one
+its altitude there so i can see it clearly now and then i measure its altitude so it's about twenty six degrees you can't see it from over there step three is identify the star on the front
+of the device deneb is there i can tell step four is i then move the rete move the sky so the altitude of the star corresponds to the scale on the back okay so when that happens
+everything lines up i have here a model of the sky that corresponds to the real sky okay so it is in a sense holding a model of the universe in my hands and then finally i take a rule
+and move the rule to a date line which then tells me the time here
+right so that's how the device is used
+so i know you're thinking that 's a lot of work isn't it isn't it a ton of work to be able to tell the time as you glance at your ipod to just check out the time but there is a difference between the two because with your ipod you can tell
+your iphone you can tell exactly what the time is with precision the way little lewis would tell the time is by a picture of the sky he would know where things would fit in the sky he would not only know
+what time it was he would also know where the sun would rise and how it would move across the sky he would know what time the sun would rise
+what time it would set and he would know that for essentially every celestial object in the heavens so in computer graphics and computer
+user interface design there is a term called affordances so affordances are the qualities of an object that allow us to
+perform an action with it and what the astrolabe does is it allows us it affords us to connect to the night sky to look up into the night sky and be much more to see the visible and the invisible together
+so that's just one use incredible there is probably three hundred and fifty four hundred uses in fact there is a text and that has over a thousand uses
+of this first computer on the back there is scales and measurements for terrestrial navigation you can survey with it the city of baghdad was surveyed with it
+it can be used for calculating mathematical equations of all different types and it would take a full university course to illustrate it
+so what does the astrolabe inspire well i think the first thing is that it reminds us just how resourceful people were our forebears were years and years ago it's an incredible device
+every technology advances every technology is transformed and moved by others and what we gain with a new technology of course is precision and accuracy
+but what we lose i think is accurate a felt sense of the sky a sense of context knowing the sky knowing your relationship with the sky is
+the center of the real answer to knowing what time it is
+so it's i think astrolabes are just remarkable devices and so what can you learn from these devices well primarily that

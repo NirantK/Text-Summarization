@@ -1,0 +1,55 @@
+don 't survive to us in their original form
+they survive because medieval scribes copied them and copied them and copied them and so it is with archimedes the great greek mathematician everything we know about archimedes as a mathematician we know about because of just three books and they 're called a b and c
+now codex c is actually buried in this book it 's buried treasure because this book is actually a prayer book
+it was finished by a guy called johannes myrones on the fourteenth of april one thousand two hundred and twenty nine and to make his prayer book he used parchment but he didn 't use new parchment he used parchment recycled from earlier manuscripts and there were seven of them and archimedes codex c was just one of those seven
+he took apart the archimedes manuscript and the other seven manuscripts
+he erased all of their texts and then he cut the sheets down in the middle he shuffled them up and he rotated them ninety degrees and he wrote prayers on top of these books and essentially these seven manuscripts disappeared for seven hundred years and we have a prayer book
+the prayer book was discovered by this guy
+and it became a world famous manuscript
+now it should be clear by now that this book is in bad condition it got in worse condition in the twentieth century after heiberg saw it forgeries were painted over it and it suffered very badly from mold
+this book is the definition of a write off
+and he wanted to do this as a matter of principle because not many people are really going to read archimedes
+in ancient greek but they should have the chance to do it so he gathered around himself the friends of archimedes and he promised to pay for all the work and it was an expensive job
+but actually it wouldn 't be as much as you think because these people they didn 't come from money they came from archimedes and they came from all sorts of different backgrounds they came from particle physics they came from classical philology
+they came from book conservation they came from ancient mathematics they came from data management they came from scientific imaging and program management and they got together to work on this manuscript
+the first problem was a conservation problem and this is the sort of thing that we had to deal with there was glue on the spine of the book
+and if you look at this photograph carefully the bottom half of this is rather brown and that glue is hide glue now if you 're a conservator you can take off this glue reasonably easily
+the top half is elmer 's wood glue it 's polyvinyl acetate emulsion that doesn 't dissolve in water once it 's dry and it 's much tougher than the parchment that it was written on and so before we could start imaging archimedes we had to take this book apart
+so it took four years to take apart and this is a rare action shot ladies and gentlemen
+another thing is that we had to get rid of all the wax because this was used in the liturgical services of the greek orthodox church and they 'd used candle wax and the candle wax was dirty and we couldn 't image through the wax so very carefully we had to mechanically scrape off all the wax
+it 's hard to tell you exactly how bad this condition of this book is but it came out in little bits very often and normally in a book you wouldn 't worry about the little bits but these little bits might contain unique archimedes text so tiny fragments we actually managed to put back in the right place
+then having done that we started to image the manuscript and we imaged the manuscript in fourteen different wavebands of light because if you look at something in different wavebands of light you see different things and here is an image of a page imaged in fourteen different wavebands of light
+but none of them worked so what we did was we processed the images together and we put two images into one blank screen and here are two different images of the archimedes manuscript
+if you merge them together into one digital canvas the parchment is bright in both images and it comes out bright
+the prayer book is dark in both images and it comes out dark the archimedes text is dark in one image and bright in another and it 'll come out dark but red and then you can start to read it rather clearly and that 's what it looks like
+now that 's a before and after image but you don 't read the image on the screen like that
+you zoom in and you zoom in and you zoom in and you zoom in and you can just read it now
+with this kind of imaging this kind of infrared ultraviolet invisible light imaging we were never going to image through the gold ground forgeries how were we going to do that well we took the manuscript and we decided to image it in x ray fluorescence imaging
+so an x ray comes in in the diagram on the left and it knocks out an electron from the inner shell of an atom and that electron disappears and as it disappears an electron from a shell farther out jumps in and
+and what we wanted to get was the iron
+the image the thing is that you need a very powerful light source to do this so we took it to the stanford synchrotron radiation laboratory
+but as the electrons go round at the speed of light they shed x rays and this is the most powerful light source in the solar system this is called synchrotron radiation and it 's normally used to look at things like proteins and that sort of thing but we wanted it to look at atoms
+so what did we discover well one of the unique texts in archimedes is called the stomachion
+and this didn 't exist in codices a and b and we knew that it involved this square and this is a perfect square and it 's divided into fourteen bits but no one knew what archimedes was doing with these fourteen bits and now we think we know
+he was trying to work out how many ways you can recombine those fourteen bits and still make a perfect square
+anyone want to guess the answer it 's seventeen thousand one hundred and fifty two divided into five hundred and thirty six families and the important point about this is that it 's the earliest study in combinatorics in mathematics and combinatorics is a wonderful and interesting branch of mathematics
+was an athenian orator from the fourth century b c he was an exact contemporary of demosthenes and in three hundred and thirty eight b c he and demosthenes together decided that they wanted to stand up to the military might of philip of macedon
+and this is the speech that he gave when he was on trial and it 's a great speech best of all he says is to win but if you can 't win then you should fight for a noble cause because then you 'll be remembered
+consider the spartans they won enumerable victories but no one remembers what they are because they were all fought for selfish ends the one battle that the spartans fought that everybody remembers is the the battle of thermopylae where they were butchered to a man but fought for the freedom of greece
+it was such a great speech that the
+then the macedonian faction caught up with him they cut out his tongue in mockery of his oratory and no one knows what they did with his body so this is the discovery of a lost voice from antiquity speaking to us not from the grave because his grave doesn 't exist but from the athenian law courts
+now i should say at this point that normally when you 're looking at medieval manuscripts that have been scraped off
+you don 't find unique texts and to find two in one manuscript is really something to find three is completely weird and we found three aristotle 's categories is one of the foundational texts of western philosophy
+and we found a third century a d commentary on it possibly by galen and probably by porphyry
+now all this data that we collected all the images all the raw images all the transcriptions that we made and that sort of thing have been put online under a creative commons license for anyone to use for any commercial purpose
+why did the owner of the manuscript do this
+he did this because he understands data as well as books now the thing to do with books if you want to ensure their long term utility is to hide them away in closets and let very few people look at them the thing to do with data if you want it to survive is to let it out and have everybody have it with as little control
+on that data as possible and that 's what he did and institutions can learn from this
+because institutions at the moment confine their data with copyright restrictions and that sort of thing and if you want to look at medieval manuscripts on the web
+at the moment you have to go to the national library of y 's site or the university library of x 's site which is about the most boring way in which you can deal with digital data what you want to do is to aggregate it all together because the web of the ancient manuscripts of the future isn 't going to be built by institutions
+glorious selection of beautiful things and that is the future of the web and it 's an attractive and beautiful future if only we can make it happen now we at the walters art museum have followed this example
+and we have put up all our manuscripts on the web for people to enjoy all the raw data all the descriptions all the metadata under a creative commons license now the walters art museum is a small museum and it has beautiful manuscripts but the data is fantastic
+and the result of this is that if you do a google search on images right now and you type in illuminated manuscript koran for example twenty four of the twenty eight images you 'll find come from my institution
+let 's think about this for a minute what 's in it for the institution there are all sorts of things that are in it for the institution you can talk about the humanities and that sort of thing but let 's talk about selfish things
+because what 's really in it for the institution is this now why do people go to the louvre they go to see the mona lisa
+why do they go to see the mona lisa because they already know what she looks like and they know what she looks like because they 've seen pictures of her absolutely everywhere the

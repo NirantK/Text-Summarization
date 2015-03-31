@@ -1,0 +1,47 @@
+few things that bring us humans together in the way that an election does we stand in elections we vote in elections we observe elections our democracies rely on elections
+we all understand why we have elections and we all leave the house on the same day to go and vote we cherish the opportunity to have our say
+to help decide the future of the country
+the fundamental idea is that politicians are given mandate to speak for us
+to make decisions on our behalf that affect us all
+without that mandate they would be corrupt well unfortunately power corrupts and so people will do lots of things to get power and to stay in power
+you see even if the idea of the election is perfect running a countrywide election is a big project and big projects are messy
+whenever there is an election it seems like something always goes wrong someone tries to cheat
+or something goes accidentally awry
+a ballot box goes missing here chads are left hanging over here
+to make sure as few things as possible go wrong we have all these procedures around the election so for example you come to the polling station and a poll station worker asks for your id
+voting booth to fill out your vote when you come back out you get to drop your vote into the ballot box where it mixes with all the other votes so that no one knows how you voted
+what i want us to think about for a moment is what happens after that after you drop your vote into the ballot box and most people would go home and feel sure that their vote has been counted because they trust that the election system works
+they trust that election workers and election observers do their jobs and do their jobs correctly
+the ballot boxes go to counting places they're unsealed and the votes are poured out and laboriously counted
+we have to trust a lot of people
+we have to trust a lot of procedures
+and sometimes we even have to trust computers
+so imagine hundreds of millions of voters casting hundreds of millions of votes all to be counted correctly
+and all the things that can possibly go wrong
+causing all these bad headlines
+and you cannot help but feel exhausted at the idea of trying to make
+well in the face of all these bad headlines researchers have taken a step back and thought about how we can do elections differently
+they've zoomed out and looked at the big picture
+and the big picture is this elections should be
+should be able to check that their votes are counted correctly
+without breaking election secrecy which is so very important
+and that's the tough part how do we make an election system completely verifiable while keeping the votes absolutely secret
+well the way we've come up with
+uses computers but doesn't depend on them and the secret is the ballot form
+and if you look closely at these ballot forms you'll notice that the candidate list is in a different order on each one and that means if you mark your choices on one of them
+and then remove the candidate list i won 't be able to tell from the bit remaining what your vote is for
+and on each ballot form there is this
+but what's not complicated is voting with one of these forms so we can let computers do all the complicated cryptography for us and then we'll use the paper
+so this is how you vote you get one of these ballot forms
+at random and then you go into the voting booth and you mark your choices
+and you tear along a perforation
+and you shred the candidate list and the bit that remains the one with your marks this is your encrypted vote so you let a poll station worker scan your encrypted vote
+and displayed on a website for anyone to see including you so
+you take this encrypted vote home as your receipt and after the close of the election you can check that your vote was counted by comparing your receipt to the vote on the website
+if the government wants to find out how you voted they won 't be able to
+no hacker can break in and find out how you voted no hacker can break in and change your vote because then it won 't match your receipt
+because then you won 't find yours when you look for
+but the election magic doesn't stop there
+instead we want to make the whole process so transparent that news media and international observers and anyone who wants to can download all the election data and do the count themselves
+they can check that all the votes were counted correctly
+they can check that the announced result of the election is the correct one

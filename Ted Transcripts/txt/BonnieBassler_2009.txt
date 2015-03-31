@@ -1,0 +1,81 @@
+are the oldest living organisms on the earth they've been here for billions of years and what they are are single celled microscopic organisms
+so they are one cell and they have this special property that they only have one piece of dna they have very few genes and genetic information to encode all of the traits that they carry out
+and one cell becomes two and so on and so on they just grow and divide and grow and divide so a kind of boring life except that what i would argue is that you have an amazing interaction with these critters
+i know you guys think of yourself as humans and this is sort of how i think of you this man is supposed to represent a generic human being and all of the circles in that man are all of the cells that make up your body
+a trillion human cells that make each one of us who we are and able to do all the things that we do
+and of course it's the dna that counts so here 's all the a t gs and cs that make up your genetic code and give you all your charming characteristics
+you have about thirty thousand genes well it turns out you have one hundred times more bacterial genes playing a role in you or on you all of your life
+at the best you're ten percent human but more likely about one percent human depending on which of these metrics you like i know you think of yourself as human beings but i think of you as ninety or ninety nine percent bacterial
+they digest our food they make our vitamins they actually educate your immune system to keep bad microbes out so they do all these amazing things that help us and are vital for keeping us alive
+that have no business being in you or on you at any time and if they are they make you incredibly sick
+so the question for my lab is whether you want to think about all the good things that bacteria do or all the bad things that bacteria do the question we had is how could they do anything at all i mean they're incredibly small you have to have a microscope to see one
+they live this sort of boring life where they grow and divide and they've always been considered to be these asocial reclusive organisms
+what you're looking at on this slide is just a person from my lab holding a flask of a liquid culture of a bacterium a harmless beautiful bacterium that comes from the ocean named
+this bacterium has the special property that it makes light so it makes bioluminescence like fireflies make light we're not doing anything to the cells here we just took the picture by turning the lights off in the room and this is what we see
+was actually interesting to us was not that the bacteria made light but when the bacteria made light what we noticed is when the bacteria were alone so when they were in dilute suspension
+they made no light but when they grew to a certain cell number all the bacteria turned on light simultaneously
+the question that we had is how can bacteria these primitive organisms tell the difference from times when they're alone and times when they're in a community and then all do something together
+when it's alone it doesn't make any light but what it does do is to make and secrete small molecules that you can think of like hormones and these are the red triangles and when the bacteria is alone the molecules just float away and so no light
+but when the bacteria grow and double and they're all participating in making these molecules the molecule the extracellular amount of that molecule increases in proportion to cell number
+and when the molecule hits a certain amount that tells the bacteria how many neighbors there are they recognize that molecule and all of the bacteria turn on light
+in synchrony that's how bioluminescence works they're talking with these chemical words the reason that vibrio fischeri is doing that comes from the biology again another plug for the
+and these house the vibrio fischeri cells they live in there at high cell number that molecule is there and they're making light
+the reason the squid is willing to put up with these shenanigans is because it wants that light the way that this symbiosis works is that this little squid lives just off the coast of hawaii just in sort of shallow knee deep water
+the squid is nocturnal so during the day it buries itself in the sand and sleeps but then at night it has to come out to hunt
+on bright nights when there is lots of starlight or moonlight that light can penetrate the depth of the water the squid lives in since it's just in those couple feet of water
+what the squid has developed is a shutter that can open and close over this specialized light organ housing the bacteria then it has detectors on its back so it can sense how much starlight or moonlight is hitting its back
+and it opens and closes the shutter so the amount of light coming out of the bottom which is made by the bacterium exactly matches how much light hits the squid 's back so the squid doesn't make a shadow
+actually uses the light from the bacteria to counter illuminate itself in an anti predation device so predators can't see its shadow calculate its trajectory and eat it this is like the stealth bomber of the ocean
+but then if you think about it the squid has this terrible problem because it's got this dying thick culture of bacteria and it can't sustain that
+and so what happens is every morning when the sun comes up the squid goes back to sleep it buries itself in the sand and it's got a pump that's attached to its circadian rhythm and when the sun comes up it pumps out like ninety five percent of the bacteria now the bacteria are dilute
+that little hormone molecule is gone so they're not making light but of course the squid doesn't care it's asleep in the sand and as the day goes by the bacteria double they release the molecule and then light comes on at night exactly when the squid wants it
+and what we found so this is supposed to be again my bacterial cell is that vibrio fischeri has a protein that's the red box it's an enzyme that makes that little hormone molecule the red triangle
+and then as the cells grow they're all releasing that molecule into the environment so there's lots of molecule there
+and the bacteria also have a receptor on their cell surface that fits like a lock and key with that molecule these are just like the receptors on the surfaces of your cells when the molecule increases to a certain amount which says something about the number of cells
+it locks down into that receptor and information comes into the cells that tells the cells to turn on this collective behavior of making light
+why this is interesting is because in the past decade we have found that this is not just some anomaly of this ridiculous glow in the dark bacterium that lives in the ocean
+all bacteria have systems like this so now what we understand is that all bacteria can talk to each other they make chemical words they recognize those words
+and they turn on group behaviors that are only successful when all of the cells participate in unison
+we have a fancy name for this we call it quorum sensing they vote with these chemical votes the vote gets counted and then everybody responds to the
+what's important for today 's talk is that we know that there are hundreds of behaviors that bacteria carry out in these collective fashions but the one that's probably the most important to you
+they wait they start growing they count themselves with these little molecules and they recognize when they have the right cell number that if all of the bacteria launch their virulence attack together
+they are going to be successful at overcoming an enormous host bacteria always control pathogenicity with quorum sensing
+that's how it works we also then went to look at what are these molecules these were the red triangles on my slides before this is the vibrio fischeri molecule this is the word that it talks with
+the left hand part of the molecule is identical in every single species of bacteria but the right hand part of the molecule is a little bit different in every single species
+what that does is to confer exquisite species specificities to these languages each molecule fits into its partner receptor and no other so these are private secret conversations
+these conversations are for intraspecies communication each bacteria uses a particular molecule that's its language that allows it to count its own siblings
+we got that far we thought we were starting to understand that bacteria have these social behaviors but what we were really thinking about is that most of the time bacteria don't live by themselves they live in incredible mixtures with hundreds or thousands of other species of bacteria
+so we went back to molecular biology and started studying different bacteria and what we've found now is that in fact bacteria are multilingual
+they all have a species specific system they have a molecule that says me but then running in parallel to that is a second system that we've discovered that's generic so they have a second enzyme that makes a second signal
+and it has its own receptor and this molecule is the trade language of bacteria it's used by all different bacteria and it's the language of interspecies communication
+what happens is that bacteria are able to count how many of me and how many of you
+they take that information inside and they decide what tasks to carry out depending on who 's in the minority and who 's in the majority of any given population
+then again we turn to chemistry and we figured out what this generic molecule is that was the pink ovals on my last slide this is it it's a very small five carbon molecule
+what the important thing is that we learned is that every bacterium has exactly the same enzyme and makes exactly the same molecule so they're all using this molecule for interspecies communication this is the bacterial esperanto
+we got that far we started to learn that bacteria can talk to each other with this chemical language but what we started to think is that maybe there is something practical that we can do here as well i've told you that bacteria do have all these social behaviors they communicate
+with these molecules of course i've also told you that one of the important things they do is to initiate pathogenicity using quorum sensing we thought what if we made these bacteria so they can't talk or they can't hear
+couldn't these be new kinds of antibiotics of course you've just heard and you already know that we're running out of antibiotics bacteria are incredibly multi drug resistant right now and that's because all of the antibiotics that we use
+we kill bacteria with traditional antibiotics and that selects for resistant mutants and so now of course we have this global problem in infectious diseases
+we thought well what if we could sort of do behavior modifications just make these bacteria so they can't talk they can't count and they don't know to launch virulence and so that's exactly what we've done and we've sort of taken two strategies
+the first one is we've targeted the intraspecies communication system so we made molecules that look kind of like the real molecules which you saw but they're a little bit different and so they lock into those receptors and they jam recognition of the real thing
+the hope is that these will be used at broad spectrum antibiotics that work against all bacteria to finish i'll just show you the
+this one i'm just using the interspecies molecule but the logic is exactly the same what you know is that when that bacterium gets into the animal in this case a mouse it doesn't initiate virulence right away
+it gets in it starts growing it starts secreting its quorum sensing molecules it recognizes when it has enough bacteria that now they're going to launch their attack and the animal dies
+what we've been able to do is to give these virulent infections but we give them in conjunction with our anti quorum sensing molecules so these are molecules that look kind of like the real thing but they're a little bit different which i've depicted on this slide
+what we now know is that if we treat the animal with a pathogenic bacterium a multi drug resistant pathogenic bacterium
+in the same time we give our anti quorum sensing molecule in fact the animal lives we think that this is the next generation of antibiotics and it's going to get us around at least initially this big problem of resistance
+what i hope you think is that bacteria can talk to each other they use chemicals as their words they have an incredibly complicated chemical lexicon that we're just now starting to learn about
+of course what that allows bacteria to do is to be multicellular so in the spirit of ted they're doing things together because it makes a difference
+is that bacteria have these collective behaviors and they can carry out tasks that they could never accomplish if they simply acted as individuals
+what i would hope that i could further argue to you is that this is the invention of multicellularity bacteria have been on the earth for billions of years
+humans couple hundred thousand we think bacteria made the rules for how multicellular
+we know that the principles and the rules if we can figure them out in these sort of primitive organisms the hope is that they will be applied to other human diseases and human behaviors as well
+i hope that what you've learned is that bacteria can distinguish self from other by using these two molecules they can say me and they can say you
+again of course that's what we do both in a molecular way and also in an outward way but i think about the molecular stuff this is exactly what happens in your body
+again we think that bacteria invented that and you've just evolved a few more bells and whistles but all of the ideas are in these simple systems that we can study
+the final thing is again just to reiterate that there's this practical part and so we've made these anti quorum sensing molecules that are being developed as new kinds of therapeutics but then to finish with a plug for all the good and miraculous bacteria that live
+the earth we've also made pro quorum sensing molecules so we've targeted those systems to make the molecules work better remember you have these ten times or more bacterial cells in you or on you keeping you healthy what we're also trying to do
+is to beef up the conversation of the bacteria that live as mutualists with you in the hopes of making you more healthy making those conversations better so bacteria can do things that we want them to do better than they would be on their own
+i hope when you learn things like about how the natural world works i just want to say that whenever you read something in the newspaper or you get to hear some talk about something ridiculous in the natural world
+it was done by a child science is done by that demographic all of those people are between twenty and thirty years old and they are the engine
+that drives scientific discovery in this country it's a really lucky demographic to work with i keep getting older and older

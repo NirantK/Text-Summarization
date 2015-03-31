@@ -1,0 +1,35 @@
+for the longest time all i would do is recall the memory of this person over and over again wishing that i could get rid of that gut wrenching visceral blah feeling
+now as it turns out i 'm a neuroscientist so i knew that the memory of that person and the awful emotional undertones that color in that memory are largely mediated by separate brain systems
+and so i thought what if we could go into the brain and edit out that nauseating feeling but while keeping the memory of that person intact
+these ideas probably remind you of total recall eternal sunshine of the spotless mind or of inception but the movie stars that we work with are the celebrities of the lab
+as neuroscientists we work in the lab with mice trying to understand how memory works and today we hope to convince you that now we are actually able to activate a memory in the brain at the speed of light
+to do this there 's only two simple steps to follow first you find and label a memory in the brain and then you activate it with a switch as simple as that
+so turns out finding a memory in the brain isn 't
+all that easy xl indeed this is way more difficult than let 's say finding a needle in a haystack
+because at least you know the needle is still something you can physically put your fingers on but memory is not and also there 's way more cells in your brain than the number of straws in a typical haystack
+so yeah this task does seem to be daunting but luckily we got help from the brain itself
+it turned out that all we need to do is basically to let the brain form a memory and then the brain will tell us which cells are involved in that particular memory
+now one brain region that would be robustly active in particular is called the hippocampus which for decades has been implicated in processing the kinds of memories that we hold near and dear which also makes it an ideal target to go into and to try and find and maybe reactivate a memory
+but we are able to find which cells are involved in a particular memory because whenever a cell is active like when it 's forming a memory it will also leave a footprint that will later allow us to know these cells are recently active sr so
+the same way that building lights at night let you know that somebody 's probably working there at any given moment in a very real sense there are biological sensors within a cell that are turned on only when that cell was just working they 're sort of biological windows that light up to let us know that that cell was just active
+so here is what the hippocampus looks like after forming a fear memory for example the sea of blue that you see here are densely packed brain cells but the green brain cells the green brain cells are the ones that are holding on to a specific fear memory
+so you are looking at the crystallization of the fleeting formation of fear you 're actually looking at the cross section of a memory right now
+so whenever a memory is being formed any active cell for that particular memory will also have this light sensitive switch installed in it so that we can control these cells by the flipping of a laser just like this one you see
+now with our system the cells that are active in the hippocampus in the making of this memory only those cells will now contain channelrhodopsin
+whenever a mouse is in fear it will show this very typical behavior by staying at one corner of the box trying to not move any part of its body and this posture is called freezing
+so if a mouse remembers that something bad happened in this box and when we put them back into the same box it will basically show freezing because it doesn 't want to be detected by any potential threats in this box
+and now those terrifying two seconds where you start thinking what do i do do i say hi do i shake their hand do i turn around and run away do i sit here and pretend like i don 't exist
+those kinds of fleeting thoughts that physically incapacitate you that temporarily give you that deer in headlights look
+but what if we put the mouse in this new box but at the same time we activate the fear memory using lasers just like we did before are we going to bring back the fear memory for the first box into this completely new environment
+so indeed it looks like we are able to bring back the fear memory for the first box in this completely new environment while watching this steve and i are as shocked as the mouse itself
+and then we published our findings in the journal nature ever since the publication of our work we 've been receiving numerous comments from all over the internet maybe we can take a look at some of those
+this also reminds us that although we are still working with mice it 's probably a good idea to start thinking and discussing about the possible ethical ramifications of memory control
+false memory xl so all memory is sophisticated and dynamic but if just for simplicity let 's imagine memory as a movie clip
+so far what we 've told you is basically we can control this play button of the clip so that we can play this video clip any time anywhere but is there a possibility that we can actually get inside the brain and edit this movie clip so that we can make it different from the original yes we can
+if we present new information and allow this new information to incorporate into this old memory this will change the memory it 's sort of like making a remix tape
+now the next day we can take our animals and place them in a red box that they 've never experienced before we can shoot light into the brain to reactivate the memory of the blue box
+so what would happen here if while the animal is recalling the memory of the blue box we gave it a couple of mild foot shocks
+so here we 're trying to artificially make an association between the memory of the blue box and the foot shocks themselves we 're just trying to connect the two so to test if we had done so we can take our animals once again and place them back in the blue box again we had just reactivated the memory of the blue box while the animal got a couple of mild foot shocks
+and now the animal suddenly freezes it 's as though it 's recalling being mildly shocked in this environment even though that never actually happened
+so it formed a false memory because it 's falsely fearing an environment where technically speaking nothing bad actually happened to it
+so everything we 've been talking about today is based on this philosophically charged principle of neuroscience that the mind with its seemingly mysterious properties is actually made of physical stuff that we can tinker with

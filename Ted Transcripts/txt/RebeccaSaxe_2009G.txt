@@ -1,0 +1,83 @@
+today i'm going to talk to you about the problem of other minds and the problem i'm going to talk about is not the familiar one from philosophy which is
+how can we know whether other people have minds that is maybe you have a mind and everyone else is just a really convincing robot
+so that's a problem in philosophy but for today 's purposes i'm going to assume that many people in this audience have a mind and that i don't have to worry about this
+a second problem that is maybe even more familiar to us as parents and teachers and spouses and novelists
+which is why is it so hard to know what somebody else wants or believes or perhaps more relevantly why is it so hard to change what somebody else wants or believes
+think novelists put this best like philip roth who said and yet what are we to do about this terribly significant business of other people so ill equipped are we all to envision one another 's interior workings and invisible aims
+so as a teacher and as a spouse this is of course a problem i confront every day but as a scientist i'm interested in a different problem of other minds and that is the one i'm going to introduce to you today and that problem is how is it so easy to know other minds
+so to start with an illustration you need almost no information one snapshot of a stranger to guess what this woman is thinking or what this man is
+and put another way the crux of the problem is the machine that we use for thinking about other minds our brain is made up of pieces brain cells
+that we share with all other animals with monkeys and mice and even sea slugs and yet you put them together in a particular network and what you get is the capacity to write romeo and juliet
+or to say as alan greenspan did i know you think you understand what you thought i said but i'm not sure you realize that what you heard is not what i meant
+so the job of my field of cognitive neuroscience is to stand with these ideas one in each hand and to try to understand how you can put together
+simple units simple messages over space and time in a network and get this amazing human capacity to think about minds
+to tell you three things about this today obviously the whole project here is huge and i'm going to tell you just our first few steps
+about the discovery of a special brain region for thinking about other people 's thoughts some observations on the slow development of this system as we learn how to do this difficult job
+and then finally to show that some of the differences between people in how we judge others can be explained by differences in this brain system
+so first the first thing i want to tell you is that there is a brain region in the human brain in your brains whose job it is to think about other people 's thoughts this is a picture of it
+it's called the right temporo parietal junction it's above and behind your right ear and this is the brain region you used when you saw the pictures i showed you or when you read romeo and juliet or when you tried to understand alan greenspan
+and you don't use it for solving any other kinds of logical problems so this brain region is called the rtpj and this picture shows the average activation in a group of what we call typical human adults they're mit undergraduates
+the second thing i want to say about this brain system is that although we human adults are really good at understanding other minds we weren't always that way it takes children a long time to break into the system i'm going to show you a little bit of that long extended process
+the first thing i'm going to show you is a change between age three and five as kids learn to understand that somebody else can have beliefs that are different from their own so i'm going to show you a five year old who is getting a standard kind of puzzle that we call the false belief task
+this is the first pirate his name is ivan really like cheese
+yeah so ivan has this cheese sandwich and he says yum yum yum yum yum i really love cheese sandwiches
+and ivan puts his sandwich over here on top of the pirate chest and ivan says
+yum yum yum yum yum i love cheese sandwiches and he puts his cheese sandwich over here on top of the pirate
+so that's a five year old who clearly understands that other people can have false beliefs and what the consequences are for their actions now i'm going to show you a three year old who got the same puzzle
+i want my cheese sandwich which sandwich is he going to take do you think he 's going to take that one let 's see what happens let 's see what he does here comes ivan and he says
+i want my cheese sandwich and he takes this one
+so the three year old does two things differently first he predicts ivan will take the sandwich
+really his and second when he sees ivan taking the sandwich where he left his where we would say he 's taking that one because he thinks it's
+by upping the ante and asking children now not for an action prediction but for a moral judgement so first i'm going to show you the three year old again
+being mean and naughty for taking joshua 's sandwich yeah r s should ivan get in trouble for taking joshua
+maybe not surprising he thinks it was mean of ivan to take joshua 's sandwich since he thinks ivan only took joshua 's sandwich to avoid having to eat his own dirty sandwich
+was ivan being mean and naughty for taking joshua 's sandwich um yeah r s and so it is not until age seven
+that we get what looks more like an adult response r s should ivan get in trouble for taking joshua 's sandwich the
+and now what we've started to do in my lab is to put children into the brain scanner and ask
+what's going on in their brain as they develop this ability to think about other people 's thoughts
+so the first thing is that in children we see this same brain region the rtpj being used while children are thinking about other people but it's not quite like the adult brain
+so where as in the adults as i told you this brain region is almost completely specialized it does almost nothing else except for thinking about other people 's thoughts in children it's much less so when they are age five to eight the age range of the children i just showed you
+and actually if we even look at eight to eleven year olds getting into early adolescence they still don't have quite an adult like brain region
+and so what we can see is that over the course of childhood and even into adolescence both the cognitive system
+our mind 's ability to think about other minds and the brain system that supports it are continuing slowly to develop but of course
+probably aware even in adulthood people differ from one another in how good they are at thinking of other minds how often they do it and how accurately
+so the first thing that we did is we gave adults a version of the pirate problem that we gave to the kids and i'm going to give that to you now
+so grace and her friend are on a tour of a chemical factory and they take a break for coffee and grace 's friend asks for some sugar in her coffee
+grace goes to make the coffee and finds by the coffee a pot containing a white powder which is sugar
+but the powder is labeled deadly poison so grace thinks that the powder is a deadly poison and she puts it in her friend 's coffee
+and her friend drinks the coffee and is fine how many people think it was morally permissible for grace to put the powder in the coffee okay
+so we ask people how much should grace be blamed in this case which we call a failed attempt to harm and we can compare that to another case where everything in the real world is the
+same the powder is still sugar but what's different is what grace thinks now she thinks the powder is sugar and perhaps unsurprisingly if grace thinks the powder is sugar and puts it in her friend 's coffee people say she deserves no blame at all
+and in fact they say she deserves more blame in this case the failed attempt to harm than in another case which we call an accident where grace thought the powder was sugar because it was labeled sugar and by the coffee machine but actually the powder was poison
+so even though when the powder was poison the friend drank the coffee and died people say grace deserves less blame in that case when she innocently thought it was sugar than in the other case where she thought it was poison and no harm occurred
+some people think she should deserve more blame and other people less and what i'm going to show you is what happened when we look inside the brains of people while they're making that judgment
+so what i'm showing you from left to right is how much activity there was in this brain region and from top to bottom how much blame people said that grace deserved
+so that's good but of course what we'd rather is have a way to interfere with function in this brain region and see if we could change people 's moral
+and we do have such a tool it's called trans cranial magnetic stimulation or tms this is a tool that lets us pass a magnetic pulse
+through somebody 's skull into a small region of their brain and temporarily disorganize the function of the neurons in that region
+what happens when you put a quarter on the machine when you hear
+so it causes a small involuntary contraction in my hand by putting a magnetic pulse in my brain and we can use that
+now applied to the rtpj to ask if we can change people 's moral judgments so these are the judgments i showed you before people 's normal moral judgments
+and then we can apply tms to the rtpj and ask how people 's judgments change and the first thing is people can still do this task overall so their
+the case when everything was fine remain the same they say she deserves no blame but in the case of a failed attempt to harm
+where grace thought that it was poison although it was really sugar people now say it was more okay she deserves less blame for putting the powder in the coffee
+and in the case of the accident where she thought that it was sugar but it was really poison and so she caused a death people say that it was less okay she deserves more blame
+so what i've told you today is that people come actually especially well equipped to think about other people 's thoughts we have a special brain system that lets us think about what other people are thinking
+this system takes a long time to develop slowly throughout the course of childhood and into early adolescence and even in adulthood differences in this brain region can explain differences among adults in how we think about and judge other people
+but i want to give the last word back to the novelists and to philip roth who ended by saying the fact remains that getting people right is not what living is all about anyway
+it's getting them wrong that is living getting them wrong and wrong and wrong and then on careful reconsideration getting them wrong again
+when you start talking about using magnetic pulses to change people 's moral judgments that sounds alarming
+i'm not i mean they're calling but i'm not taking the they really are
+you must lie awake at night sometimes wondering where this work leads i mean you're clearly an incredible human being but
+yeah we worry about this so
+so it's not a surreptitious technology it's quite hard actually to get those very small changes the changes i showed you are impressive
+to me because of what they tell us about the function of the brain but they're small on the scale of the moral judgments that we actually make and what we changed was not people 's moral judgments when they're deciding what to do when they're making action choices
+we change their ability to judge other people 's actions and so i think of what i'm doing not so much as studying the defendant in a criminal trial but studying the jury
+is your work going to lead to any recommendations in education to perhaps bring up a generation of kids able to make fairer moral judgments
+that's one of the idealistic hopes the whole research program here of studying the distinctive parts of the human brain is brand new
+until recently what we knew about the brain were the things that any other animal 's brain could do too so we could study it in animal models we knew how brains
+see and how they control the body and how they hear and sense and the whole project of understanding how brains do the uniquely human things
+learn language and abstract concepts and thinking about other people 's thoughts that's brand new and we don't know yet what the implications will be of understanding it
+you can understand why a brain works perhaps but why does anyone have to feel anything why does it seem to require these beings who sense things for us to operate
+a brilliant young neuroscientist i mean what chances do you think there are that at some time in your career someone you or someone else is going to come up with some paradigm shift in understanding what seems an impossible problem
+i hope they do and i think they probably won 't c a why r s it's not called the hard problem of consciousness

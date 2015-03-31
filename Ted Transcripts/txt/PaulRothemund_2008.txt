@@ -1,0 +1,73 @@
+booted up in a cell the program would execute and it could result in this person or with a small change it could result in this person or another small change this person or with a larger change this dog
+or this tree or this whale so now if you take this metaphor as genome as program seriously you have to consider that chris anderson is a computer fabricated artifact
+as is jim watson craig venter as are all of us and in convincing yourself that this metaphor is true there are lots of similarities between genetic programs and computer programs that
+could help to convince you but one to me that is most compelling is the peculiar sensitivity to small changes that can make large changes in biological development the output a small mutation can take a two wing fly and make it a four wing fly or it could take a fly
+legs where its antennae should be or if you're familiar with the princess bride it could create a six fingered man now a hallmark of computer programs is just this kind of sensitivity to small changes if your bank account 's one dollar and you flip a single bit
+you could end up with a thousand dollars so these small changes are things that i think that they indicate to us that a complicated computation in development is underlying these amplified large changes so now
+all of this indicates that there are molecular programs underlying biology and it shows the power of molecular programs biology does and what i want to do is write molecular programs
+so my friends molecular programmers and i have a sort of bio molecule centric approach we're interested in using dna rna and protein and building new
+camera there's the solar panels of the cell some switches that turn your genes on and off the girders of the cell motors that move your muscles my little group of molecular programmers are trying to
+all of these parts from dna we're not dna zealots but dna is the cheapest easiest to understand and easy to program material to do this and as other things become easier to use maybe protein we'll work with
+if we succeed what will molecular programming look like you're going to sit in front of your computer you're going to design something like a
+and in a high level language you'll describe that cell phone then you're going to have a compiler that's going to take that description and it's going to turn it into actual molecules that can be sent to a synthesizer
+i think that life has been about molecular computers building electrochemical computers building electronic computers which together with electrochemical computers will build
+you look at big questions through the eyes of a computer scientist so one big question is how does baby know when to stop growing and for a molecular programmer the question is how does your cell phone know when to stop growing
+or how does a computer program know when to stop running or more to the point how do you know if a program will ever stop there are other questions like this too one of them is craig venter 's question
+turns out i think he 's actually a computer scientist he asked how big is the minimal genome that will give me a functioning micro organism how few genes can i use this is exactly analogous to the question what's the smallest program i can write that will act exactly like microsoft word
+and just as he 's writing you know bacteria that will be smaller he 's writing genomes that will work we could write smaller programs that would do what microsoft word does
+but for molecular programming our question is how many molecules do we need to put in that seed to get a cell phone what's the smallest number we can get away with now
+so this is normal dna what you think of as normal dna it's double stranded it's a double helix has the as ts cs and gs that pair to hold the strands together
+and i'm going to draw it like this sometimes just so i don't scare you we want to look at individual strands and not think about the double helix when we synthesize it it comes single stranded so we can take the blue strand in one
+and make an orange strand in the other tube and they're floppy when they're single stranded you mix them together and they make a rigid double helix now for the last twenty five years
+ned seeman and a bunch of his descendants have worked very hard and made beautiful three dimensional structures using this kind of reaction of dna strands
+you look in his intestines there are billions of bacteria they're no good either double strand again but inside them they're infected with a virus that has a nice long single stranded genome
+that we can fold like a piece of paper and here 's how we do it this is part of that genome we add a bunch of short synthetic dnas that i call staples
+each one has a left half that binds the long strand in one place and a right half that binds it in a different place and brings the long strand together like
+this the net action of many of these on that long strand is to fold it into something like a rectangle now we can't actually take a movie of this process but shawn douglas at harvard has made a nice visualization for us that begins with a long strand and has some short strands in it
+and what happens is that we mix these strands together we heat them up we add a little bit of salt we heat them up
+when you look at dna origami you can see that what it really is even though you think it's complicated is a bunch of double helices that are parallel to each other
+to show that we could make any shape or pattern that we wanted i tried to make this shape i wanted to fold dna into something that goes up over the eye down the nose up the nose around the forehead back down and end in a little loop like this
+and so i thought if this could work anything could work so i had the computer program design the short staples to do this i ordered them they came by fedex i mixed them up heated them cooled them down
+and i got fifty billion little smiley faces floating around in a single drop of water and each one of these is just one
+the width of a human hair ok so they're all floating around in solution and to look at them you have to get them on a surface where they stick so you pour them out onto a surface
+and they start to stick to that surface and we take a picture using an atomic force microscope it's got a needle like a record needle that goes back and forth
+over the surface bumps up and down and feels the height of the first surface it feels the dna origami there's the atomic force microscope working
+zoom in and even see the extra little loop this little nano goatee now what's great about this is anybody can do this and so i got this in the mail about a year after i did this unsolicited anyone know what this is it
+so this works really well and you can make patterns as well as shapes ok and you can make a map of the americas and spell dna with dna and
+so you can put circuit components on the staples like a light bulb and a light switch let the thing assemble and you'll get some kind of a circuit and then you can maybe wash the dna away and have the circuit left over so
+tested it and showed that it is indeed a switch now this is just a single switch and you need half a billion for a computer so
+we have a long way to go but this is very promising because the origami can organize parts just one tenth the size of those in a normal computer so
+so you start with something in the computer you get a high level description of the computer program a high level description of the origami
+you can compile it to molecules send it to a synthesizer and it actually works and it turns out that a company has made a nice program that's much better than my code which was kind of ugly and will allow us to do this in a nice visual computer aided design way
+so now you can say all right why isn't dna origami the end of the story you have your molecular compiler you can do whatever you want the fact is that it does not scale so
+if you want to build a human from dna origami the problem is you need a long strand that's ten trillion trillion bases long that's three light years
+worth of dna so we're not going to do this we're going to turn to another technology called algorithmic self assembly of tiles it was started by erik winfree
+and what it does it has tiles that are a hundredth the size of a dna origami you zoom in there are just four dna strands and they have little single stranded bits on them that can bind to other tiles if they match
+and we like to draw these tiles as little squares and if you look at their sticky ends these little dna bits you can see that they actually form a checkerboard pattern
+so these tiles would make a complicated self assembling checkerboard and the point of this if you didn't catch that is that tiles are a kind of molecular program and they can output
+patterns and a really amazing part of this is that any computer program can be translated into one of these tile programs specifically counting
+so you can come up with a set of tiles that when they come together form a little binary counter rather than a checkerboard so you can read off binary numbers five six and seven
+and in order to get these kinds of computations started right you need some kind of input a kind of seed you can use dna origami for that
+you can encode the number thirty two in the right hand side of a dna origami and when you add those tiles that count they will start to count
+will read that thirty two and they'll stop at thirty two so what we've done is we've figured out a way to have a molecular program know when to stop growing
+it knows when to stop growing because it can count it knows how big it is so that answers that sort of first question i was talking about it doesn't tell us how babies do it however
+so now we can use this counting to try and get at much bigger things than dna origami could otherwise here 's the dna origami and what we can do is we can write thirty two on both edges of the dna origami and we can now use our watering can and water with
+and we can start growing tiles off of that and create a square the counter serves as a template to fill in a square in the middle of this thing
+so what we've done is we've succeeded in making something much bigger than a dna origami by combining dna origami with tiles and the neat thing about it is is that it's also
+you can just change a couple of the dna strands in this binary representation and you'll get ninety six rather than thirty two and if you do that the origami 's the same size but the resulting square that you get is three times bigger
+so this sort of recapitulates what i was telling you about development you have a very sensitive
+now this using counting to compute and build these kinds of things by this kind of developmental process is something that also has bearing on craig venter 's question
+so you can ask how many dna strands are required to build a square of a given size if we wanted to make a square of size ten one hundred or one thousand
+if we used dna origami alone we would require a number of dna strands that's the square of the size of that square so we'd need one hundred ten thousand or a million dna strands that's really not affordable
+but if we use a little computation we use origami plus some tiles that count then we can get away with using one hundred two hundred or three hundred dna
+so if you affix some wires and switches to those tiles rather than to the staple strands you affix them to the tiles then they'll self assemble the somewhat complicated circuits the de multiplexer circuits that you need
+address this memory so you can actually make a complicated circuit using a little bit of computation it's a molecular computer building an electronic computer now you ask me
+how far have we gotten down this path experimentally this is what we've done in the last year here is a dna origami rectangle
+and here are some tiles growing from it and you can see how they count one two three four
+five six nine ten eleven twelve seventeen so it's got some errors but at least it counts up
+so it turns out we actually had this idea nine years ago and that's about the time constant for how long it takes to do these kinds of things so i think we made a lot of progress
+self assembled circuits so now what do i want you to take away from this talk i want you to remember that to create
+life 's very diverse and complex forms life uses computation to do that and the computations that it uses
+they're molecular computations and in order to understand this and get a better handle on it as feynman said you know we need to build something to understand it and so
+we are going to use molecules and refashion this thing rebuild everything from the bottom up using dna in ways that nature never intended using dna origami and dna origami to seed this algorithmic self
+you know so this is all very cool but what i'd like you to take from the talk hopefully from some of those big questions is that this molecular programming isn't just about making gadgets it's not just making about

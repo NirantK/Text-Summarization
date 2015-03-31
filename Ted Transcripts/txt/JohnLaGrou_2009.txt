@@ -1,0 +1,20 @@
+this is a world changing invention the smoke alarm has saved perhaps hundreds of thousands of lives worldwide but smoke alarms don't prevent fires
+every year in the usa over twenty thousand are killed or injured with three hundred and fifty thousand home fires and one of the main causes of all these fires is electricity
+what if we could prevent electrical fires before they start well a couple of friends and i figured out how to do this
+so how does electricity ignite residential fires well it turns out that the main causes are faulty and misused appliances and electrical wiring our invention had to address all of these issues
+and this is a problem because over eighty percent of all home electrical fires start below the safety threshold of circuit breakers
+we considered all of this and we realized that electrical appliances must be able to communicate directly with the power receptacle itself
+any electrical device an appliance an extension cord whatever must be able to tell the power outlet hey power outlet i'm drawing too much current shut me off
+now before i start a fire and the power outlet needs to be smart enough to do it so here is what we did
+we put a ten cent digital transponder a data tag in the appliance plug and we put an inexpensive wireless data reader inside the recepticle so they could communicate
+now every home electrical system becomes and intelligent network the appliance 's safe operating parameters are embedded into its plug if too much current is flowing
+the intelligent receptacle turns itself off and prevents another fire from starting we call this technology efci electrical fault circuit interrupter
+two more points every year in the usa roughly two thousand five hundred children are admitted to emergency rooms for shock and burn injuries related
+to electrical receptacles and this is crazy an intelligent receptacle prevents injuries because the power is always off until an intelligent plug is detected
+of every outlet in every home and business now you can choose to reduce your home energy bill by automatically cycling heavy loads like air conditioners and heaters
+hotels and businesses can shut down unused rooms from a central location or even a cellphone there are ten
+billion electrical outlets in north america alone the potential energy savings is very very significant
+so far we've applied for four hundred and fourteen patent claims of those one hundred and eighty six have been granted two hundred and twenty eight are in process and i'm pleased to announce that just
+three weeks ago we received our first international recognition the two thousand and nine ces innovation award
+so to conclude intelligent power can globally save thousands of lives prevent tens of thousands of injuries and eliminate tens of billions of dollars in property damage every single year
+while significantly reducing global energy consumption in the spirit of this year 's ted conference we think this is a powerful world changing invention and i'd like to thank chris for this opportunity to unveil our technology with you and soon the world thank you

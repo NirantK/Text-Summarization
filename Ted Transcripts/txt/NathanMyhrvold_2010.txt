@@ -1,0 +1,69 @@
+we invent my company invents all kinds of new technology in lots of different areas and we do that for a couple of reasons
+we take some of our best inventors and we say are there problems where we have a good idea for solving a problem the world has and to solve it in
+the way we try to solve problems which is with dramatic crazy out of the box solutions bill gates is one of those smartest guys of ours that work on these problems and he also funds this work so thank you
+vaccination is one of the key techniques in public health a fantastic thing but in the developing world
+last for about four hours with ice in it and we thought well that's not really good enough so we made this thing this lasts six months with no power
+now this is our second generations prototype the third generation prototype is right now in uganda being tested now the reason
+we were able to come up with this is two key ideas one is that this is similar to a cryogenic dewar something you'd keep liquid nitrogen or liquid helium in they have incredible insulation so let 's put some incredible insulation here the other idea is kind of interesting
+which is you can't reach inside anymore because if you open it up and reach inside you'd let let the heat in and the game would be over so the side of this thing actually looks like a coke machine it vends out little individual vials
+so a simple idea which we hope is going to change the way vaccines are distributed in africa and around the world we'll move on to malaria
+malaria is one of the great public health problems esther duflo talked a little bit about this two hundred and fifty million a year
+every forty three seconds a child in africa dies twenty seven will die during my talk and there's no way for us here in this country to grasp really what that means to the people involved
+another comment of esther 's was that we react when there's a tragedy like haiti but that tragedy is ongoing so what can we do about it
+a lot of things people have tried for many years for solving malaria you can spray the problem is there's environmental issues you can try to treat people and create awareness that's great except the places that have malaria really bad they don't have health care
+a vaccine would be a terrific thing only they don't work yet people have tried for a long time there's a couple of interesting candidates it's a very difficult thing to make a vaccine for
+you can distribute bed nets and bed nets are very effective if you use them you don't always use them for that people fish with them
+they don't always get to everyone and bed nets have an effect on the epidemic but you're never going to make it extinct with bed nets
+it's an incredibly complicated disease but that's actually one of the things we find interesting about it and why we work on malaria there's a lot of potential ways in
+one of those ways might be better diagnosis so we hope this year to prototype each of these devices
+one does an automatic malaria diagnosis in the same way that a diabetic 's glucose meter works you take a drop of blood
+you put it in there and it automatically tells you today you need to do a complicated laboratory procedure create a bunch of microscope slides and have a trained person examine it the other thing is you know it 'd be even better if you didn't have to draw the
+and if you look through the eye or you look at the vessels on the white of the eye
+in fact you may be able to do this directly without drawing any blood at all or through your nail beds because as you actually look through your fingernails you can see blood vessels and once you see blood vessels we think we can see the malaria
+and it's a very interesting crystalline substance interesting anyway if you're a solid state physicist there's a lot of cool stuff we can do with it
+this is our femtosecond laser lab so this creates pulses of light that last a femtosecond that's really really really short
+this is a pulse of light that's only about one wavelength of light long so it's a whole bunch of photons all coming and hitting simultaneously it creates a very high peak power it lets you do all kinds of interesting things
+in particular it lets you find hemozoin so here 's an image of red blood cells and now we can actually map where the hemozoin and where the malaria parasites are inside those red blood cells
+in acute cases to actually take the malaria parasite and filter it out of the blood system sort of like doing dialysis but for relieving the parasite load
+this is our thousand core supercomputer we're kind of software guys and so nearly any problem that you pose we like to try to solve with some software
+the problems that you have if you're trying to eradicate malaria or reduce it is you don't know what's the most effective thing to do okay we heard about bed nets earlier you spend a certain amount per bed net
+or you could spray you can give drug administration there's all these different interventions but they have different kinds of effectiveness
+how can you tell so we've created using our supercomputer the world 's best computer model of malaria which we'll show you now
+we picked madagascar we have every road every village every almost square inch of madagascar we have all of the precipitation data
+and the temperature data that's very important because the humidity and precipitation tell you whether you've got standing pools of water for the mosquitoes to breed
+so that sets the stage on which you do this you then have to introduce the mosquitoes and you have to model that and how they come and go
+for the mosquitoes to breed and then of course the next year it come roaring back
+to be able to simulate both the economic trade offs how many bed nets versus how much spraying or the social trade offs what happens if unrest breaks out
+we also try to study our foe
+this is a high speed camera view of a mosquito
+and in a moment we're going to see a view of the airflow
+here we're trying to visualize the airflow around the wings of the mosquito with little particles we're illuminating with a laser by understanding how mosquitoes fly
+so we thought we've done all these things that are focused on the plasmodium the parasite involved what can we do to the mosquito well let 's try to kill it with consumer electronics
+now that sounds silly but each of these devices has something interesting in it that maybe you could use your blu ray player has a very cheap blue laser
+your laser printer has a mirror galvanometer that's used to steer a laser beam very accurately that's what makes those little dots on the page
+of course there's signal processing and digital cameras so what if we could put all that together
+to shoot them out of the sky with lasers
+in our company this is what we call the pinky suck moment
+what if we could do that now
+for a moment and let 's think of what could happen if we could do that
+well we could protect very high value targets like clinics clinics are full of people that have malaria they're sick and so they're less able to defend themselves from the mosquitoes you really want to protect them of course if you do that you could also protect your backyard
+and farmers could protect their crops that they want to sell to whole foods because our photons are one hundred percent organic they're completely natural
+now it actually gets better than this you could if you're really smart you could shine a nonlethal laser on the
+bug before you zap it and you could listen to the wing beat frequency and you could measure the size and then you could decide is this an insect i want to kill or an insect i don't want to kill
+moore 's law made computing cheap so cheap we can weigh the life of an individual insect decide thumbs up
+decide thumbs up or thumbs down
+but the female needs the blood meal
+so this sounds really crazy right
+after thinking about this a little bit we thought you know it probably would be simpler to do this with a nonlethal laser so eric johanson who built the device actually with parts
+and pablos holman over here he 's got mosquitoes in the tank we have the device over here and we're going to show you
+what we have here is a tank on the other side of the stage and we have
+this computer screen can actually see the mosquitoes as they fly around and pablos if he stirs up our mosquitoes a little
+we can see them flying around now that's a fairly straightforward image processing routine and let me show you how it works
+here you can see that the insects are being tracked as they're flying around
+which is kind of fun
+there you can see mosquitoes as they fly around being lit up this is slowed way down so that you have an opportunity to see what's happening here we have it running at high speed mode so this system that was built for ted is
+that it is technically possible to actually deploy a system like this and we're looking very hard at how to make it highly cost effective to use in places like africa and other parts of so
+so is very
+this is one of the first ones we did the energy 's a little bit high here
+we kill them all the time we've never actually gotten the wings to shut off in midair the wing motor is very resilient i mean here we're blowing wings off but the wing motor keeps all the way down
+so that's what i have thanks very much

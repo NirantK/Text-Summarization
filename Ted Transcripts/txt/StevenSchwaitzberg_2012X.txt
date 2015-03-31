@@ -1,0 +1,45 @@
+i want to talk to you about two things tonight
+number one teaching surgery and doing surgery is really hard
+and second that language is one of the most profound things that separate us all over the world and in my little corner of the world these two things are actually related and i want to tell you how tonight
+now nobody wants an operation who here has had surgery
+did you want it keep your hands up if you wanted an operation nobody wants an operation in particular nobody wants an operation with tools like these through large incisions
+that cause a lot of pain that cause a lot of time out of work or out of school that leave a big scar
+but if you have to have an operation what you really want is a minimally invasive operation that 's what i want to talk to you about tonight how doing and teaching this type of surgery led us on a search for a better universal translator
+now this type of surgery is hard and it starts by putting people to sleep
+putting carbon dioxide in their abdomen blowing them up like a balloon sticking one of these sharp pointy things into their abdomen it 's dangerous stuff
+and taking instruments and watching it on a tv screen so let 's see what it looks like
+so this is gallbladder surgery we perform a million of these a year in the united states alone this is the real thing there 's no blood and you can see how focused the surgeons are how much concentration it takes you can see it in their faces it 's hard to teach and it 's not all that easy to learn
+we do about five million of these in the united states and maybe twenty million of these worldwide
+all right you 've all heard the term he 's a born surgeon let me tell you surgeons are not born surgeons are not made either
+one step at a time it starts with a foundation basic skills we build on that and we take people hopefully to the operating room where they learn to be an assistant then we teach them to be a surgeon in training
+and when they do all of that for about five years they get the coveted board certification if you need surgery you want to be operated on by a board certified surgeon you get your board certificate and you can go out into practice and eventually if you 're lucky you achieve mastery
+now that foundation is so important that
+a number of us from the largest general surgery society in the united states sages started in the late one thousand nine hundred and ninety s a training program that would assure that every surgeon who practices minimally invasive surgery would have a strong foundation of knowledge and skills necessary to go on and do procedures
+so we have a problem and one of the problems is distance we can 't travel everywhere we need to make the world a smaller place
+so i was inspired by a friend this is allan okrainec from toronto and he proved
+that you could actually teach people to do surgery using video conferencing so here 's allan teaching an english speaking surgeon in africa these basic fundamental skills necessary to do minimally invasive surgery very inspiring
+but for this examination which is really hard
+we have a problem even people who say they speak english only fourteen percent pass because for them it 's not a surgery test it 's an english test
+and we spend millions of dollars just in our little hospital it 's a big labor intensive effort if you think about the worldwide burden
+of trying to talk to your patients not just teaching surgeons just trying to talk to your patients there aren 't enough translators in the world
+we need to employ technology to assist us in this quest at our hospital we see everybody from harvard professors to people who just got here last week and you have no idea how hard it is to talk to somebody or take care of somebody you can 't talk to and there isn 't always a translator available
+so we need tools we need a universal translator
+one of the things that i want to leave you with as you think about this talk is that this talk is not just about us preaching to the world
+it 's really about setting up a dialogue we have a lot to learn here in the united states we spend more money per person for outcomes that are not better than many countries in the world maybe we have something to learn as well
+so i 'm passionate about teaching these fls skills all over the world this past year i 've been in latin america i 've been in china talking about the fundamentals of laparoscopic surgery and everywhere i go the barrier is we want this
+but we need it in our language
+so here 's what we think we want to do imagine giving a lecture and being able to talk to people in their own native language simultaneously i want to talk to the people in asia latin america africa europe seamlessly
+accurately and in a cost effective fashion using technology and it has to be bi directional they have to be able to teach us something as well it 's a big task
+so we looked for a universal translator i thought there would be one out there your webpage has translation your cellphone has translation but nothing that 's good enough
+to teach surgery because we need a lexicon what is a lexicon a lexicon is a body of words that describes a domain i need to have a health care lexicon and in that i need a surgery
+the translation we get the words up in a window and then apply the magic we work with a fourth technology
+and we currently have access to eleven language pairs more to come as we think about trying to make the world a smaller place and i 'd like to show you our prototype of stringing all of these technologies that don 't necessarily always talk to each other to become something useful
+and out it comes in real time in spanish but if you happen to be sitting in beijing at the same time by using technology in a constructive fashion you could get it in mandarin or you could get it in russian on and on and on simultaneously without the use of human translators
+but that 's the lectures if you remember what i told you about fls at the beginning it 's knowledge and skills the difference in an operation between doing something successfully
+and not may be moving your hand this much so we 're going to take it one step further we 've brought my friend allan back
+it 's important to be accurate
+aim for the black dots
+orient your loop this way
+as we think about intersecting technologies everybody has a cell phone with a camera we could use this everywhere whether it be health care patient care engineering law conferencing translating videos this is a ubiquitous tool
+in order to break down our barriers we have to learn to talk to people to demand that people work on translation
+we need it for our everyday life in order to make the world a smaller place thank you very much

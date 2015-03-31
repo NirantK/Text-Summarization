@@ -1,0 +1,25 @@
+ 
+ 
+ 
+in listdir(mypath) if isfile(join(mypath,f)) ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

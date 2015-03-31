@@ -1,0 +1,101 @@
+so i want to talk today about an idea it's a big idea actually i think it'll eventually be seen as probably the single biggest idea that's emerged in
+it's the idea of computation now of course that idea has brought us all of the computer technology we have today and so on
+well i myself have spent the past thirty years of my life working on three large projects that really try to take the idea of computation seriously
+so i started off at a young age as a physicist using computers as tools then i started sort of drilling down thinking about the computations i might want to do trying to figure out what primitives they could be built up from
+and how they could be automated as much as possible eventually i created a whole structure based on symbolic programming and so on that let me build mathematica
+well i have to admit actually that i also had a very selfish reason for building mathematica i wanted to use it myself a bit like galileo got to use his telescope four hundred years ago
+but i wanted to look not at the astronomical universe but at the computational universe so we normally think of programs as being complicated things that we build for very specific purposes
+so if we run this program
+this is what we get very simple
+so let 's try changing the rule for this program a little bit now we get another result
+try changing it again you get something a little bit more complicated but if we keep running this for awhile we find out that although the pattern we get is very intricate it has a very regular structure
+so the question is can anything else happen
+well we can do a little experiment let 's just do a little mathematical experiment try and find out let 's just run all possible programs of the particular type that we're looking at they're called cellular automata
+you can see a lot of diversity in the behavior here most of them do very simple things but if you look along all these different pictures at rule number thirty you start to see something interesting going on so let 's take a closer look at rule number thirty
+so here it is we're just following this very simple rule at the bottom here but we're getting all this amazing stuff
+it's not at all what we're used to and i must say that when i first saw this it came as a huge shock to my intuition and in fact to understand it i eventually had to create a whole new kind of science
+this science is different more general than the mathematics based science that we've had for the past three hundred or so years
+you know it's always seemed like a big mystery how nature seemingly so effortlessly manages to produce so much that seems to us so complex
+well i think we've found its secret it's just sampling what's out there in the computational universe and quite often getting things like rule thirty or like this
+and knowing that starts to explain a lot of long standing mysteries in science
+it also brings up new issues though like computational irreducibility i mean we're used to having science let us predict things
+but something like this is fundamentally irreducible the only way to find its outcome is effectively just to watch it
+things with rules as simple as these can do it
+this has deep implications about the limits of science about predictability and controllability of things like biological processes or economies
+you know working on this science for many years i kept wondering what will be its first killer app
+i got to thinking this scientific paradigm of mine suggests something different
+and by the way i've now got huge computation capabilities in mathematica and i'm a ceo with some worldly resources to do large seemingly crazy projects
+so i decided to just try to see how much of the systematic knowledge that's out there in the world we can make computable so it's been a big very complex project which i was not sure was going to work at all
+so let 's give it a try let 's start off with something really easy
+very good okay so far so good
+let 's try something a little bit harder
+we could ask it something about the real world let 's say i don't know what's the gdp of spain and it should be able to tell us that
+now we could compute something related to this let 's say the gdp of spain divided by i don't know the hmmm let 's say the revenue of microsoft
+the idea is that we can sort of just type this in this kind of question in however we think of it so let 's try asking a question like a health related question
+so let 's type that in and now wolfram alpha will go and use available public health data and try to figure out what part of the population that corresponds to and so on
+let 's try asking about i don't know the international space station
+and what's happening here is that wolfram alpha is not just looking up something it's computing in real time where the international space station is right now at this moment how fast it's going and so on
+so wolfram alpha knows about lots and lots of kinds of things it's got by now pretty good coverage of everything you might find in a standard reference library and so on
+but the goal is to go much further and very broadly to democratize all of this kind of knowledge
+and to try and be an authoritative source in all areas to be able to compute answers to specific questions that people have not
+by searching what other people may have written down before but by using built in knowledge to compute fresh new answers to specific
+now of course wolfram alpha is a monumentally huge long term project with lots and lots of challenges
+one has to curate a zillion different sources of facts and data and we built quite a pipeline of mathematica automation and human domain experts for doing this
+but that's just the beginning given raw facts or data to actually answer questions one has to compute one has to implement all those methods and models and algorithms
+so far there are about eight million lines of mathematica code in wolfram alpha built by experts from many many different fields
+well a crucial idea of wolfram alpha is that you can just ask it questions using ordinary human language
+and i must say that i thought that step might just be plain impossible two big things happened
+first a bunch of new ideas about linguistics that came from studying the computational universe
+second the realization that having actual computable knowledge completely changes how one can set about understanding language
+and of course now with wolfram alpha actually out in the wild we can learn from its actual usage and in fact there's been an interesting coevolution that's been going on between wolfram alpha and its human
+and it's really encouraging right now if we look at web queries more than eighty percent of them get handled successfully the first time and if you look at things like the iphone app the fraction is considerably larger
+so i'm pretty pleased with it all but in many ways we're still at the very beginning with wolfram alpha i mean everything is scaling up very nicely we're getting
+more confident you can expect to see wolfram alpha technology showing up in more and more places working both with this kind of public data like on the website and with private knowledge for people and companies and so on
+you know i've realized that wolfram alpha actually gives one a sort of whole new kind of computing that one can call knowledge based computing in which one 's starting not just from raw computation
+but from a vast amount of built in knowledge and when one does that one really changes the economics of delivering computational things whether it's on the web or elsewhere
+we have a fairly interesting situation right now on the one hand we have mathematica with its sort of precise formal language
+and a huge network of carefully designed capabilities able to get a lot done in just a few lines let me show you a
+couple of examples here so here 's a trivial piece of mathematica programming here 's something where we're sort of integrating a bunch of different capabilities here
+here we'll just create in this line a little user interface that allows us to do something
+you go on that's a slightly more complicated program that's now doing all sorts of algorithmic things and creating user interface and so on but it's something that's very precise stuff it's a precise specification with a precise formal language that causes
+mathematica to know what to do here well then on the other hand we have wolfram alpha with all the sort of messiness of the world and human language and so on built into it
+so what happens when you put these things together
+i think it's actually rather wonderful with wolfram alpha inside mathematica you can for example make precise programs that call on real world data here 's a really simple example
+you can also just sort of give vague input and then try and have wolfram alpha figure out what you're talking
+but actually i think sort of the most exciting thing about this is that it really gives one the chance to democratize programming i mean anyone will be able to just sort of say what they want in plain language
+then the idea is that wolfram alpha will be able to figure out what precise pieces of code can do what they're asking for and then show them examples that will let them pick what they need to build up bigger and bigger precise programs
+so sometimes wolfram alpha will be able to do the whole thing immediately and just give back a whole big program that you can then compute with so here 's a
+big website where we've been collecting lots of educational and other demonstrations about lots of kinds of things so i don't know i'll show you one example maybe here
+this is just an example of one of these computable documents this is probably a fairly small piece of mathematica code that's able to be
+okay let 's zoom out again so given our new kind of science is there a general way to use it to make technology
+so with physical materials we're used to kind of going around the world and discovering that particular materials are useful for particular technological purposes and so on
+well it turns out we can do very much the same kind of thing in the computational universe there's an inexhaustible supply of programs out there the challenge is to see how to harness them for human purposes
+and for example wolfram alpha and mathematica are actually now full of algorithms that we discovered by searching the computational universe and for example this
+this has become surprisingly popular among composers finding musical forms by searching the computational universe in a sense we can use the computational universe to get mass customized creativity
+i'm hoping we can for example use that even to get wolfram alpha to routinely sort of do invention and discovery on the fly and to find all sorts of wonderful stuff that no engineer and no process of incremental evolution would ever come up with
+well so that leads to sort of an ultimate question could it be that someplace out there in the computational universe we might find our physical universe
+there's even some quite simple rule some simple program for our universe
+well the history of physics would have us believe that the rule for the universe must be pretty complicated
+if the rules for the universe are simple it's kind of inevitable that they have to be very abstract and very low level operating for example far below the level of space or time
+well then the universe has to evolve by applying little rules that progressively update this network and each possible rule in a sense corresponds to a candidate universe
+actually i haven't shown these before but here are a few of the candidate universes that i've looked at
+some of these are hopeless universes completely sterile with other kinds of pathologies like no notion of space no notion of time no matter other problems like that
+the exciting thing that i've found in the last few years is that you actually don't have to go very far in the computational universe before you start finding candidate universes that aren't obviously not our universe
+here 's the problem any serious candidate for our universe is inevitably full of computational irreducibility
+a few years ago i was pretty excited to discover that there are candidate universes with incredibly simple rules that successfully reproduce special relativity and even general relativity and gravitation and at least give hints of quantum mechanics
+so will we find the whole of physics i don't know for sure but i think at this point it's sort of almost embarrassing not to at least try
+not an easy project one has got to build a lot of technology one 's got to build a structure that's probably at least as deep as existing physics
+and i'm not sure what the best way to organize the whole thing is build a team open it up offer prizes and so on but i'll tell you here today that i'm committed to seeing this project
+to see if within this decade we can finally hold in our hands the rule for our universe
+and know where our universe lies in the space of all possible universes and be able to type into wolfram alpha the theory of the universe and have it tell us
+from the foundations of science to the limits of technology to the very definition of the human condition i think computation is destined to be the defining idea of our future thank you
+are you able to say in a sentence or two how this type of thinking
+could integrate at some point to things like string theory or the kind of things that people think of as the fundamental explanations of the universe
+well the parts of physics that we kind of know to be true things like the standard model of physics what i'm trying to do better reproduce the standard model of physics or it's simply wrong
+the things that people have tried to do in the last twenty five years or so with string theory and so on have been an interesting exploration that has tried to get back to the standard model but hasn't quite
+my guess is that some great simplifications of what i'm doing may actually have considerable resonance with what's been done in string theory but that's a complicated math thing that i don't yet know how it's going to work out
+is in the audience he has also shown how complexity can arise from a simple start does your work relate to his
+i think so i view benoit mandlebrot 's work as kind of one of the founding contributions to this kind of area
+has been particularly interested in nested patterns in fractals and so on where the structure is something that's kind of tree like and where there's sort of a big branch that makes little branches and even smaller branches and so on that's kind of
+one of the ways that you get towards true complexity i think things like the rule thirty cellular automaton get us to a different level
+in fact in a very precise way they get us to a different level because they seem to be things that are capable of

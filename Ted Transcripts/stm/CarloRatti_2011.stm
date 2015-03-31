@@ -1,0 +1,47 @@
+CarloRatti_2011 1 CarloRatti_2011 39.56 43.16 <o,f0,male> think about this as a pixel a flying pixel
+CarloRatti_2011 1 CarloRatti_2011 43.16 54.36 <o,f0,male> this is what we call in our lab sensible design let me tell you a bit about it now if you take this picture i 'm italian originally and every boy in italy grows up with this picture on the wall of his bedroom
+CarloRatti_2011 1 CarloRatti_2011 62.24 79.4 <o,f0,male> now some time ago if you wanted to win a formula one race you take a budget and you bet your budget on a good driver and a good car and if the car and the driver were good enough then you 'd win the race now today if you want to win the race actually you need also something like this
+CarloRatti_2011 1 CarloRatti_2011 79.4 96.52 <o,f0,male> something that monitors the car in real time has a few thousand sensors collecting information from the car transmitting this information into the system and then processing it and using it in order to go back to the car with decisions and changing things in real time
+CarloRatti_2011 1 CarloRatti_2011 101.58 109.37 <o,f0,male> real time control system and basically it 's a system made of two components a sensing and an actuating component
+CarloRatti_2011 1 CarloRatti_2011 109.37 129.35 <o,f0,male> what is interesting today is that real time control systems are starting to enter into our lives our cities over the past few years just have been blanketed with networks electronics they 're becoming like computers in open air and as computers in open air they 're starting to respond in a different way to be able to
+CarloRatti_2011 1 CarloRatti_2011 154.81 170.04 <o,f0,male> sensing and actuating is entering our everyday objects that 's from an exhibition that paola antonelli is organizing at moma later this year during the summer it 's called talk to me well our objects our environment is starting to talk back to us
+CarloRatti_2011 1 CarloRatti_2011 170.04 184.39 <o,f0,male> in a certain sense it 's almost as if every atom out there were becoming both a sensor and an actuator and that is radically changing the interaction we have as humans with the environment out there in a certain sense it 's almost as if
+CarloRatti_2011 1 CarloRatti_2011 184.39 194.69 <o,f0,male> the old dream of michelangelo you know when michelangelo sculpted the moses at the end it said that he took the hammer threw it at the moses actually you can still see a small chip underneath
+CarloRatti_2011 1 CarloRatti_2011 209.28 211.28 <o,f0,male> let 's starting with sensing
+CarloRatti_2011 1 CarloRatti_2011 218.34 233.84 <o,f0,male> in italy and what we did there was actually use a new type of network at the time that had been deployed all across the world that 's a cellphone network and use anonymous and aggregated information from that network that 's collected anyway by the operator in order to understand
+CarloRatti_2011 1 CarloRatti_2011 233.84 238.9 <o,f0,male> how the city works the summer was a lucky summer two thousand and six
+CarloRatti_2011 1 CarloRatti_2011 238.9 241.06 <o,f0,male> it 's when italy won the soccer world cup
+CarloRatti_2011 1 CarloRatti_2011 250.26 256.19 <o,f0,male> look at what happened that day just by monitoring activity happening on the network
+CarloRatti_2011 1 CarloRatti_2011 256.83 265.28 <o,f0,male> here you see the city you see the colosseum in the middle the river tiber it 's morning
+CarloRatti_2011 1 CarloRatti_2011 274.66 276.94 <o,f0,male> the match begins silence
+CarloRatti_2011 1 CarloRatti_2011 277.72 290.54 <o,f0,male> france scores italy scores halftime people make a quick call and go to the bathroom second half end of normal time first overtime second zidane the headbutt in a moment
+CarloRatti_2011 1 CarloRatti_2011 291.49 293.17 <o,f0,male> italy wins
+CarloRatti_2011 1 CarloRatti_2011 339.85 358.39 <o,f0,male> mac computer how they came together but we know very little about where things go so in this project we actually developed some small tags to track trash as it moves through the system so we actually started with a number of volunteers who helped us in seattle just over a year ago
+CarloRatti_2011 1 CarloRatti_2011 361.28 363.95 <o,f0,male> different types of things as you can see here
+CarloRatti_2011 1 CarloRatti_2011 364.36 366.41 <o,f0,male> things they would throw away anyway
+CarloRatti_2011 1 CarloRatti_2011 372.85 376.68 <o,f0,male> here are the results we just obtained
+CarloRatti_2011 1 CarloRatti_2011 425.72 442.31 <o,f0,male> but the other thing is that we believe that if we see every day that the cup we 're throwing away it doesn 't disappear it 's still somewhere on the planet and the plastic bottle we 're throwing away every day still stays there and if we show that to people then we can also promote some behavioral change so that was the reason for the project
+CarloRatti_2011 1 CarloRatti_2011 442.31 455.93 <o,f0,male> my colleague at mit assaf biderman he could tell you much more about sensing and many other wonderful things we can do with sensing but i wanted to go to the second part we discussed at the beginning and that 's actuating our environment and the first project is something we did
+CarloRatti_2011 1 CarloRatti_2011 455.93 458.87 <o,f0,male> a couple of years ago in zaragoza spain
+CarloRatti_2011 1 CarloRatti_2011 492.12 498.68 <o,f0,male> and even you can approach it and it will open up to let you jump through as you see in this image
+CarloRatti_2011 1 CarloRatti_2011 545.9 549.27 <o,f0,male> close the building and the whole architecture will disappear
+CarloRatti_2011 1 CarloRatti_2011 559.75 567.46 <o,f0,male> the architecture almost disappears here 's the building working you see the person puzzled about what was going on inside
+CarloRatti_2011 1 CarloRatti_2011 605.56 608.67 <o,f0,male> and that was for us
+CarloRatti_2011 1 CarloRatti_2011 625.35 628.34 <o,f0,male> the pixels made of water and then projections on them
+CarloRatti_2011 1 CarloRatti_2011 675.32 679.06 <o,f0,male> you can have a kind of flexible screen or display like this
+CarloRatti_2011 1 CarloRatti_2011 689.37 695.69 <o,f0,male> or in regular but in three dimensions where the thing that changes is the light not the pixels position
+CarloRatti_2011 1 CarloRatti_2011 706.41 712.83 <o,f0,male> you can play with a different type imagine your screen could just appear in different scales or sizes
+CarloRatti_2011 1 CarloRatti_2011 729.23 734.85 <o,f0,male> cloud of pixels that you can approach and move through it and see from many many directions
+CarloRatti_2011 1 CarloRatti_2011 774.17 781.77 <o,f0,male> you see on the left the pixels the different resolutions being captured it 's both three d scanning in real time and motion capture
+CarloRatti_2011 1 CarloRatti_2011 783.25 785.88 <o,f0,male> so you can reconstruct a whole movement
+CarloRatti_2011 1 CarloRatti_2011 796.64 801.34 <o,f0,male> but then once we have the pixels then you can play with them and play with color and movement
+CarloRatti_2011 1 CarloRatti_2011 804.68 808.42 <o,f0,male> so we want to use this as one of the possible inputs for flyfire
+CarloRatti_2011 1 CarloRatti_2011 827.31 832.37 <o,f0,male> i wanted to show you the last project we are working on it 's something we 're working on for the london olympics
+CarloRatti_2011 1 CarloRatti_2011 832.37 848.54 <o,f0,male> it 's called the cloud and the idea here is imagine again we can involve people in doing something and changing our environment almost to impart what we call cloud raising like barn raising but with a cloud imagine you can have everybody make a small donation for one pixel
+CarloRatti_2011 1 CarloRatti_2011 848.54 852.84 <o,f0,male> and i think what is remarkable that has happened over the past couple of years is that
+CarloRatti_2011 1 CarloRatti_2011 852.84 862.18 <o,f0,male> over the past couple of decades we went from the physical world to the digital one this has been digitizing everything knowledge and making that accessible through the internet
+CarloRatti_2011 1 CarloRatti_2011 862.18 877.79 <o,f0,male> now today for the first time and the obama campaign showed us this we can go from the digital world from the self organizing power of networks to the physical one this can be in our case we want to use it for designing and doing a symbol that means something built in a city
+CarloRatti_2011 1 CarloRatti_2011 877.79 887.45 <o,f0,male> but tomorrow it can be in order to tackle today 's pressing challenges think about climate change or co two emissions how we can go from the digital world to the physical one
+CarloRatti_2011 1 CarloRatti_2011 905.19 914.5 <o,f0,male> you can move inside have different types of experiences you can actually see from underneath sharing the main moments for the olympics in two thousand and twelve and beyond
+CarloRatti_2011 1 CarloRatti_2011 914.5 919.37 <o,f0,male> and really using it as a way to connect with the community so both
+CarloRatti_2011 1 CarloRatti_2011 922.47 927.72 <o,f0,male> and something you can go to the top of like london 's new mountaintop

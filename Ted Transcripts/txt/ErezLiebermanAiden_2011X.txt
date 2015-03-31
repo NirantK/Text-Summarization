@@ -1,0 +1,29 @@
+knows that a picture is worth a thousand words but we at harvard were wondering if this was really true
+and we cogitated about this for about four years
+and we came to a startling conclusion ladies and gentlemen a picture is not worth a thousand words in fact we found some pictures that are worth five hundred billion words
+now of course if there 's a scale for how awesome that is that has to rank extremely extremely high now the problem is there 's an x axis for that which is the practical axis
+so what that means is one could use computational methods to read all of the books in a click of a button that 's very practical and extremely awesome
+to write books and this became considerably easier with the development of the printing press some centuries ago since then the authors have won on one hundred and twenty nine million distinct occasions publishing books now if those books are not lost to history then they are somewhere in a library
+and many of those books have been getting retrieved from the libraries and digitized by google which has scanned fifteen million books to date
+now when google digitizes a book they put it into a really nice format now we 've got the data plus we have metadata we have information about things like where was it published who was the author when was it published and what we do is go through all of those records and exclude everything that 's not the highest quality data what we 're left with
+is a collection of five million books five hundred billion words
+a string of characters a thousand times longer than the human genome a text which when written out would stretch from here to the moon and back ten times over a veritable shard of our cultural genome
+so although that would be really really awesome again that
+again we kind of caved in and we did the very practical approach which was a bit less awesome we said well instead of releasing the full text we 're going to release statistics about the books
+so take for instance a gleam of happiness it 's four words we call that a four gram we 're going to tell you how many times a particular four gram appeared in books in one thousand eight hundred and one one thousand eight hundred and two one thousand eight hundred and three all the way up to two thousand and eight that gives us a time series of how frequently this particular sentence was used over time
+we do that for all the words and phrases that appear in those books and that gives us a big table of two billion lines that tell us about the way culture has been changing
+alternatively i could say yesterday i thrived well which one should i use
+what should i say he 'd say well in my day most people throve
+but some thrived so now what i 'm just going to show you is raw data two rows from this table of two billion entries what you 're seeing is year by year frequency of thrived and throve
+over time now this is just two out of two billion rows so the entire data set is a billion times more awesome than this slide
+graphs were produced and the net result is that we find that the bubble bursts faster and faster with each passing year we are losing interest in the past more rapidly
+so for those of you who seek to be famous we can learn from the twenty five most famous political figures authors actors and so on so if you want to become famous early on you should be an actor because then fame starts rising by the end of your twenty s you 're still young it 's really great now if you can wait a little bit you should be an author because then you rise to very great heights like mark twain for instance extremely famous
+there are more sobering notes among the n grams for instance here 's the trajectory of marc chagall an artist born in one thousand eight hundred and eighty seven and this looks like
+the normal trajectory of a famous person he gets more and more and more famous except if you look in german if you look in german you see something completely bizarre something you pretty much never see in nazi germany
+and we just divide one by the other to produce something we call a suppression index if the suppression index is very very very small then you very well might be being suppressed if it 's very large maybe you 're benefiting from propaganda
+this is distribution as seen in germany very different it 's shifted to the left people talked about it twice less as it should have been
+but much more importantly the distribution is much wider there are many people who end up on the far left on this distribution who are talked about ten times fewer than they should have been but then also many people on the far right who seem to benefit from propaganda this picture is the hallmark of censorship in the book record
+through the lens of digitized pieces of the historical record the great thing about culturomics is that everyone can do it why can everyone do it everyone can do it because three guys jon orwant matt gray and will brockman over at google saw the prototype of the ngram viewer and they said this is so fun
+we have to make this available for people so in two weeks flat the two weeks before our paper came out they coded up a version of the ngram viewer for the general public and so you too can type in any word or phrase that you 're interested in and see its n gram immediately also browse examples of all the various books in which your n gram appears
+now of course google didn 't pick this up at the time so we reported this in the science article that we wrote but it turns out this is just a reminder that although this is a lot of fun when you interpret these graphs you have to be very careful and you have to adopt the base standards in the sciences
+google has started to digitize fifteen million books that 's twelve percent of all the books that have ever been published it 's a sizable chunk of human culture there 's much more in culture there 's manuscripts there newspapers there 's things that are not text like art and paintings

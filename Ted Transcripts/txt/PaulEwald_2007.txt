@@ -1,0 +1,77 @@
+what i'd like to do is just drag us all down into the gutter and actually all the way down into the sewer because i want to talk about diarrhea and in particular i want to talk about
+the design of diarrhea and when evolutionary biologists talk about design they really mean design by natural selection
+and that brings me to the title of the talk using evolution to design disease organisms intelligently and i also have a little bit of a sort of smartass subtitle to this
+but i'm not just doing this to be cute i really think that this subtitle explains what somebody like me who 's sort of a darwin wannabe how they actually look at
+one 's role in sort of coming into this field of health sciences and medicine
+it's really not a very friendly field for evolutionary biologists you actually see a great potential but you see a lot of people who are sort of defending their turf and may actually be very resistant
+when one tries to introduce ideas so all of the the talk today is going to deal with two general questions one is that
+why are some disease organisms more harmful and a very closely related question which is how can we take control of this situation once we understand the answer to the first question how can we make
+the focus when i'm talking about any organisms that cause acute infectious disease is to
+think about the problem from a germ 's point of view germ 's eye view and in particular to think about a fundamental idea which i think makes
+sense out of a tremendous amount of variation in the harmfulness of disease organisms and that idea
+to move them to another host but not always sometimes you get disease organisms that don't rely on host mobility at all for transmission and when you have that then
+the winners of the competition will be the milder organisms so if the pathogen doesn't need the host to be healthy and active and actual selection favors pathogens that take advantage of those hosts the winners in the competition are those that exploit the hosts for their own
+reproductive success but if the host needs to be mobile in order to transmit the pathogen then it's the benign ones that tend to be the winners so i'm going to begin by
+applying this idea to diarrheal diseases diarrheal disease organisms get transmitted in basically three ways they can be transmitted from person to person contact person to food
+then to person contact when somebody eats contaminated food or they can be transmitted through the water and when they're transmitted through the water unlike the first two modes of transmission
+these pathogens don't rely on a healthy host for transmission a person can be sick in bed and still infect tens even hundreds of other individuals to sort of illustrate that this diagram
+when diarrheal disease organisms are transported by water we expect them to be more predator like more harmful and you can test these ideas
+so one way you can test is just look at all diarrheal bacteria and see whether or not the ones that tend to be more transmitted by water tend to be more harmful and the answer is yep they are
+i put those names in there just for the bacteria buffs but the main point here is that there's a lot of them here i can tell
+the main point here is that those data points all show a very strong positive association between the degree to which a disease organism is transmitted by water and how harmful they are how much death
+they cause per untreated infection so this suggests we're on the right track but this to me suggests that we really
+need to ask some additional questions remember the second question that i raised at the outset was how can we use this knowledge to make disease organisms evolve to be mild
+now this suggests that if you could just block water borne transmission you could cause disease organisms to shift from the right hand side of that graph to the left hand side of the graph but it doesn't tell you how long
+i mean if this would require thousands of years then it's worthless in terms of controlling of these pathogens but if it could occur
+in just a few years then it might be a very important way to control some of the nasty problems that we haven't been able to control in other words this suggests that we could domesticate these organisms we could make them evolve to be not so harmful to us and so
+as i was thinking about this i focused on this organism which is the el tor biotype of the organism called vibrio choleri and that is
+the species of organism that is responsible for causing cholera and the reason i thought this is a really great organism to look at is that we understand why it's so harmful it's harmful because
+it produces a toxin and that toxin is released when the organism gets into our intestinal tract it causes fluid to flow from the cells that line our intestine into the lumen
+a million diarrheal organisms if the organism produced a lot of toxin you might find ten million or one hundred million if it didn't produce a lot of this toxin then you might find a smaller number
+so the task is to try to figure out how to determine whether or not you could get an organism like this to evolve towards mildness by blocking water borne transmission thereby allowing the organism only to be transmitted
+by person to person contact or person food person contact both of which would really require that people be mobile and fairly healthy for transmission
+now i can think of some possible experiments one would be to take a lot of different strains of this organism some that produce a lot of toxins some that produce a little and
+take those strains and spew them out in different countries some countries that might have clean water supplies so that you can't get water borne transmission you expect the organism to evolve to mildness there
+other countries in which you've got a lot of water borne transmission there you expect these organisms to evolve towards a high level of harmfulness right
+there's a little ethical problem in this experiment i was hoping to hear a few gasps at least that makes me worry a little bit but anyhow the laughter makes me feel a little bit better
+i don't know how that happened and i didn't have anything to do with it i promise you i don't think anybody knows but i'm not averse to
+that's happened to see whether or not the prediction that we would make that i did make before actually holds up did the organism evolve to mildness in a place like chile
+which has some of the most well protected water supplies in latin america and did it evolve to be more harmful in a place like ecuador which has some of the least well protected and peru 's got something sort of in between and so with
+funding from the bozack kruger foundation i got a lot of strains from these different countries and we measured the toxin production in the lab and we found that in
+within two months of the invasion of peru you had strains entering chile and when you look at those strains in the very far left hand side of this graph you see a lot of variation in the toxin production each dot corresponds to an islet from a different person
+every two years so it's controlled that's how much we have in america cholera that's acquired endemically and we don't think we've got a problem here they didn't they solved the problem in chile
+but before we get too confident we'd better look at some of those other countries and make sure that this organism doesn't just always evolve toward mildness well in peru it didn
+and in ecuador remember this is the place where it has the highest potential water borne transmission it looked like it got more harmful in every case there's a lot of variation but
+so this is very encouraging it suggests that something that we might want to do anyhow if we had enough money could actually give us a much bigger bang for the buck it would make these organisms evolve to mildness so that even though people might be getting infected they'd be infected with mild strains it wouldn't be causing severe disease
+if you could cause an evolutionary decrease in virulence by cleaning up the water supply you should be able to get an evolutionary decrease in
+resistance so we can go to the same countries and look and see did chile avoid the problem of antibiotic resistance whereas did ecuador actually have the beginnings of the problem
+a lot of variation in antibiotic sensitivity in chile peru and ecuador and no trend across the years but if we look at the end of the nineteen nineties just half a decade later
+we see that in ecuador they started having a resistance problem antibiotic sensitivity was going down and in chile you still had antibiotic sensitivity so it looks like chile dodged two bullets they got the organism to evolve to mildness
+and they got no development of antibiotic resistance now these ideas should apply across the board as long as you can figure out why some organisms evolved to virulence
+or the idea i want to deal with the question is what can we do to try to get the malaria organism to evolve to mildness now malaria 's transmitted by a mosquito and normally if you're
+but i think there's a really fascinating example of what one can do experimentally to try to actually demonstrate this in the case of water borne transmission we'd like to clean up the water supplies
+see whether or not we can get those organisms to evolve towards mildness in the case of malaria what we'd like to do
+mosquito proof houses and the logic 's a little more subtle here if you mosquito proof houses when people get sick they're sitting in bed or in mosquito proof hospitals they're sitting in a hospital bed
+and the mosquitoes can't get to them so if you're a harmful variant in a place where you've got mosquito proof housing then you're a loser
+the only pathogens that get transmitted are the ones that are infecting people that feel healthy enough to walk outside and get
+so if you were to mosquito proof houses you should be able to get these organisms to evolve to mildness and there's a really wonderful experiment that was done that suggests that we really should go ahead and do this
+and that experiment was done in northern alabama just to give you a little perspective on this i've given you a star at the intellectual center
+united states which is right there in louisville kentucky and this really cool experiment was done about two hundred miles south of there in northern alabama by the tennessee valley authority they had
+dammed up the tennessee river they'd caused the water to back up they needed electric hydroelectric power and when you get stagnant water you get mosquitoes they found in the late thirties ten years after they'd made these dams that the
+people in northern alabama were infected with malaria about a third to half of them were infected with malaria this shows you the positions of some of these dams
+ok so the tennessee valley authority was in a little bit of a bind there wasn't ddt there wasn't chloroquins what do they do well they decided to mosquito proof every house in northern alabama
+so they did they divided northern alabama into eleven zones and within three years about one hundred dollars per house they mosquito proofed every house and these are the data every row across here represents one of those eleven zones and the asterisks represent the time
+at which the mosquito proofing was complete and so what you can see is that just the mosquito proofing housing and nothing else caused eradication of malaria
+as you get into the malaria zone sub saharan africa but as you move to really intense biting rate areas like nigeria you're certainly not going to eradicate but that's when you should be favoring evolution towards mildness so to me it's
+waiting to happen and if it confirms the prediction then we should have a very powerful tool in a way much more powerful than the kind of tools we're looking at because most of what's being done today is to rely on things like anti malarial drugs and we know that
+although it's great to make those anti malarial drugs available at really low cost and high frequency we know that
+it to go rather than always having to battle evolution as a problem that stymies our efforts to control the pathogen for example with anti malarial drugs
+so this table i've given just to emphasize that i've only talked about two examples but as i said earlier this kind of logic applies across the board for infectious diseases and it ought to
+because when we're dealing with infectious diseases we're dealing with living systems we're dealing with living systems we're dealing with systems that evolve and so
+so i don't really have time to talk about those things but i did want to put them up there just to give you a sense that there really are solutions to controlling the evolution of harmfulness of some of the nasty pathogens that we're confronted with
+and this links up with a lot of the other ideas that have been talked about so for example
+earlier today there was discussion of how do you really lower sexual transmission of hiv what this emphasizes is that
+we need to figure out how it will work will it maybe get lowered if we alter the economy of the area it may get lowered if we intervene in ways that encourage people to stay more faithful to partners and so on
+but the key thing is to figure out how to lower it because if we lower it we'll get an evolutionary change in the virus and the data really do support this that you actually do get the virus evolving towards mildness and that will just
+the effectiveness of our control efforts so the other thing i really like about this besides the fact that it brings a whole new dimension into the study of
+so this is the kind of thing i'm talking about if we know that we're going to get extra bang for the buck from providing clean water then i think that we can say let 's push the effort into that aspect of the control so that we can actually

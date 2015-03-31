@@ -1,0 +1,49 @@
+going to a restaurant and wanted a healthier option which would you choose grilled or fried chicken now most people would answer grilled and it 's true that grilled chicken does contain less fat and fewer calories however grilled chicken poses a hidden danger
+they are also organic compounds in which one or more of the hydrogens in ammonia is replaced with a more complex group
+these here are five different organizations that classify carcinogens
+between the physician 's committee for responsible medicine and seven different fast food restaurants
+they weren 't sued because there was carcinogens in the chicken but they were sued because of california 's proposition sixty five which stated that if there 's anything dangerous in the products then the companies had to give a clear warning
+so my idea was born and i had the project set up and a hypothesis so what was my next step
+well obviously i had to find a lab to work at because i didn 't have the equipment in my school i thought this would be easy but i emailed about two hundred different people within a five hour radius of where i lived and i got one positive response that said that they could work with me most of the others either never responded back
+the second stage was completed at the penn state university main campus lab which is where i extracted the chemicals changed the ph so i could run it through the equipment and separated the compounds i needed from the rest of the chicken
+the final stages when i ran the samples through a high pressure liquid chromatography mass spectrometer which separated the compounds and analyzed the chemicals and told me exactly how much carcinogens i had in my chicken
+so when i went through the data i had very surprising results because i found that four out of the five marinating ingredients actually inhibited the carcinogen formation when compared with the unmarinated chicken which is what i used as my control i found that lemon juice worked by far the best which decreased the carcinogens by about ninety eight percent
+and the soy sauce results were inconclusive because of the large data range but it seems like soy sauce actually increased the potential carcinogens another important factor that i didn 't take into account initially was the time cooked and i found that if you increase the time cooked
+not under cook but definitely don 't over cook and char the chicken and marinate in either lemon juice brown sugar or saltwater
+i want all of you to imagine a little girl holding a dead blue spinach plant and she 's standing in front of you and she 's explaining to you that little kids will eat their vegetables if they 're different colors
+it got a bit more complicated
+from there my older brother panaki bose spent hours of his time explaining atoms to me when i barely understood basic algebra
+my parents suffered through many more of my science fair projects including a remote controlled garbage can
+so armed with all the wisdom of freshman year biology
+i decided i wanted to do cancer research at fifteen good plan so i started emailing
+all of these professors in my area asking to work under their supervision in a lab got rejected by all except one and then went on my next summer to work under dr
+one in one hundred will die from it
+chemotherapy one of the most effective ways used to treat cancer today involves giving patients really high doses of chemicals to try and kill off cancer cells
+so we wanted to figure out how these ovarian cancer cells are becoming resistant to this drug called cisplatin and we wanted to figure this out because if we could figure that out then we might be able to prevent that resistance from ever happening
+so that 's what we set out to do and we thought it had something to do with this protein called amp kinase an energy protein
+so we ran all of these tests blocking the protein and we saw this huge shift i mean on the slide you can see that on our sensitive side these cells that are responding to the drug when we start blocking the protein
+the number of dying cells those colored dots they 're going down
+but then on this side with the same treatment
+those are dots on a screen for you what exactly does that mean well basically that means that this protein is changing from the sensitive cell to the resistant cell and in fact it might be changing the cells themselves to make the cells resistant
+in fact it means that if a patient comes in and they 're resistant to this drug then if we give them a chemical to block this protein then we can treat them again with the same drug and that 's huge for chemotherapy effectiveness possibly for many different types of cancer
+just about the research it was about finding my passion and it was about making my own opportunities when i didn 't even know what i was doing it was about inspiration and determination
+and never giving up on my interest for science and learning and growing after all my story begins with a dried withered spinach plant and it 's only getting better from there
+one point six million deaths worldwide one death every twenty seconds
+people spend over ninety percent of their lives indoors and the economic burden of asthma exceeds that of hiv and tuberculosis combined now these statistics had a huge impact on me but what really sparked my interest in my research was watching both my dad and my brother suffer from chronic allergies year round
+it confused me why did these allergy symptoms persist well past the pollen season
+with this question in mind i started researching and i soon found that indoor air pollutants were the culprit as soon as i realized this i investigated the underlying relationship between four prevalent air pollutants and their affect on the lung health of asthmatic patients
+at first i just wanted to figure out which of these four pollutants have the largest negative health impact on the lung health of asthmatic patients but soon after i developed a novel mathematical model that essentially quantifies the effect of these environmental pollutants on the lung health of asthmatic patients
+and it surprises me that no model currently exists that quantifies the effect of environmental factors on human lung health because that relationship seems so important
+so with that in mind i started researching more i started investigating more and i became very passionate because i realized that if we could find a way to target remediation we could also find a way to treat asthmatic patients more effectively
+these chemical pollutants are currently not a criteria air pollutant as defined by the u s clean air
+and the doctor has her sit down and he takes her peak expiratory flow rate which is essentially her exhalation rate or the amount of air that she can breathe out in one breath
+so that peak expiratory flow rate i 've entered it up into the interactive software model i 've also entered in her age her gender and her height i 've assumed that she lives in an average household with average air pollutant levels
+so what it shows if you want to focus on that top graph in the right hand corner it shows julie 's actual peak expiratory flow rate in the yellow bar this is the measurement that she took in her doctor 's office in the blue bar at the bottom of the graph
+it shows what her peak expiratory flow rate what her exhalation rate or lung health should be based on her age gender and height so the doctor sees this difference between the yellow bar and the blue bar and he says wow we need to give her steroids medication and inhalers
+but i want everyone here to reimagine a world where instead of prescribing steroids inhalers and medication the doctor turns to julie and says why don 't you go home and clean out your air filters clean out the air ducts in your home in your workplace in your school
+stop the use of incense and candles and if you 're remodeling your house take out all the carpeting and put in hardwood flooring
+because these solutions are natural these solutions are sustainable and these solutions are long term investments long term investments that we 're making for our generation and for future generations because these environmental solutions that
+julie can make in her home her workplace and her school
+are impacting everyone that lives around her so i 'm very passionate about this research and i really want to continue it and expand it to more disorders besides asthma more respiratory disorders as well as more pollutants
+but before i end my talk today i want to leave you with one saying and that saying is that genetics loads the gun but the environment pulls the trigger and that made a huge impact on me when i was doing this research because what i feel is a lot of us think that the environment is at a macro level
+and air quality and air pollutants have a huge impact on the lung health a

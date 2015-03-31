@@ -1,0 +1,55 @@
+and now i 've had a little bit of time to think about it
+and that 's in fact probably what i 'm going to try and tell you about so this talk is going to be about how do we make things and what are the new ways that we 're going to make things in the future now ted
+sends you a lot of spam if you 're a speaker about do this do that and you fill out all these forms and you don 't actually know how they 're going to describe you and it flashed across my desk that they were going to introduce me as a futurist and i 've always been nervous about the term futurist because you seem doomed to failure because you can 't really predict it
+headed by drew endy and tom knight and a few other very very bright individuals basically what they 're doing is looking at biology as a programmable system literally think of
+proteins as subroutines that you can string together to execute a program
+now this is actually becoming such an interesting idea this is a state diagram that 's an extremely simple computer this one is a two bit counter so that 's essentially the computational equivalent of two light switches
+and this is being built by a group of students at zurich for a design competition in biology
+this is a pretty interesting trend because we used to live in a world where everyone 's said glibly form follows function but i think i 've sort of grown up in a world you listened to neil gershenfeld yesterday i was in a lab associated with his where it 's really a world where information defines form and function
+and that 's what i thought about for a long time
+the secret to biology is it builds computation into the way it makes things so this little thing here polymerase is essentially a supercomputer designed for
+replicating dna and the ribosome here is another little computer that helps in the translation of the proteins i thought about this in the sense that it 's great to build in biological materials
+but can we do similar things can we get self replicating type behavior can we get complex three d structure automatically assembling
+in inorganic systems because there are some advantages to inorganic systems like higher speed semiconductors etc so this is some of my work on how do you do an autonomously self replicating system
+and this is sort of babbage 's revenge these are little mechanical computers these are five state state machines
+and then from two comes three and so you 've got this sort of replicating system it was work actually by lionel penrose father of roger penrose the tiles guy he did a lot of this work in the sixty s and so a lot of this logic theory lay fallow as we went down the digital
+computer revolution but it 's now coming back so now i 'm going to show you the hands free autonomous self replication
+so why would you want to replicate bit strings well it turns out biology has this other very interesting meme that you can take a linear string which is a convenient thing to copy and you can fold that into an arbitrarily complex three d structure
+so i was trying to you know take the engineer 's version can we build a mechanical system in inorganic materials that will do the same thing so what i 'm showing you here is that we can make
+was that you don 't need digital logic to do computation and that way you can scale things much smaller than microchips so you can literally use these as the tiny components in the assembly process
+so neil gershenfeld showed you this video on wednesday i believe but i 'll show you again this is literally the colored sequence of those tiles each different color has a different magnetic polarity and the sequence is uniquely specifying the structure that is coming out
+now hopefully those of you who know anything about graph theory can look at that and that will satisfy you that that can also do arbitrary three d structure and in fact
+you know i can now take a dog carve it up
+and then reassemble it so it 's a linear string that will fold from a sequence and now i can actually define that three dimensional object as a sequence of bits
+so you know it 's a pretty interesting world when you start looking at the world a little bit differently and the universe is now a compiler and so i 'm thinking about you know what are the programs for programming the physical universe
+and how do we think about materials and structure sort of as an information and computation problem not just where you attach a micro controller to the end point but that the structure
+totally absorbed this philosophy i started looking at a lot of problems a little differently with the universe as a computer you can look at this droplet of water as having performed the computations you set a couple of boundary conditions like gravity the surface tension density etc and then you press execute and magically the universe produces you a perfect ball lens
+so this actually applied to the problem of so there 's a half a billion to a billion people in the world don 't have access to cheap eyeglasses so
+can you make a machine that could make any prescription lens
+very quickly on site this is a machine where you literally define a boundary condition if it 's circular you make a spherical lens if it 's elliptical you can make an astigmatic lens you then put a membrane on that and you apply pressure so that 's part of the extra program
+and literally with only those two inputs so the shape of your boundary condition and the pressure
+you can define an infinite number of lenses that cover the range of human refractive error from minus twelve to plus eight diopters up to four diopters of cylinder and then literally you now pour on a monomer and
+you reverse the pressure on your membrane once you 've cooked it
+pop it out i 've seen this video but i still don 't know if it 's going to end right
+so you reverse this this is a very old movie so with the new prototypes actually both surfaces are flexible but this will show you the point
+so this sort of thinking about structure as computation and structure as information leads to other things like
+this this is something that my people at squid labs are working on at the moment called electronic rope so literally you think about a rope it has very complex structure in the weave and under no load it 's one structure under a different load it 's a different structure
+and you can actually exploit that by putting in a very small number of conducting fibers to actually make it a sensor so this is now a rope
+that knows the load on the rope at any particular point in the rope just by thinking about the physics of the world materials as the computer you can start to do things like this
+i 'm going to segue a little here i guess i 'm just going to casually tell you the types of things that i think about with this one thing i 'm really interested about this right now is how
+how do we make things in a very general sense and how might we share the way we make
+things in a general sense the same way you share open source hardware and a lot of talks here have espoused the benefits of having lots of people look at problems share the information and work on those things together
+so a convenient thing about being a human is you move in linear time and unless lisa randall changes that we 'll continue to move in linear time so that means anything you do or anything you make you produce a sequence of steps and i think lego in the seventy s nailed this and they did it most elegantly but they can show you how to build things
+in sequence so i 'm thinking about how can we generalize the way we make all sorts of things so you end up with this sort of guy right and i think this applies across a very broad
+sort of a lot of concepts you know cameron sinclair yesterday said how do i get everyone to collaborate on design globally to do housing for humanity
+students at mit to work with communities in haiti and i think we have to sort of redefine and rethink how we define structure and materials and assembly things
+so that we can really share the information on how you do those things in a more profound way and build on each other 's source code for structure i don 't know exactly how to do this yet but you know it 's something being actively thought about
+so you know that leads to questions like is this a compiler is this a sub routine interesting things like that maybe i 'm getting a little too abstract but
+you know this is the sort of returning to our comic characters this is sort of the universe or a different universe view that i think is going to be very prevalent in the future from biotech
+to materials assembly it was great to hear bill joy they 're starting to invest in materials science but these are the new things in materials science how do we put real information and real structure into
+new ideas and see the world in a different way and it 's not going to be binary code that defines the computers of the universe it 's sort of an analog computer but it 's definitely an interesting new worldview
+in the introduction so i may have to explain that
+so maybe i 'll do that with this short video so this is actually a three thousand
+square foot kite which also happens to be a minimal energy surface so returning to the droplet again thinking about the universe in a new way this is a kite designed by a guy called dave kulp and why do you want a three thousand square foot kite so that 's a kite the size of your house and so you want that to tow boats very fast
+so i 've been working on this a little also with a couple of other guys but you know this is another way to look at the if you abstract again
+this is a structure that is defined by the physics of the universe you could just hang it as a bed sheet but again the computation of all the physics gives you the aerodynamic shape and so you can actually sort of almost double your boat speed with systems like that so that 's sort of another interesting aspect of the future

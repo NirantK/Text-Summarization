@@ -1,0 +1,99 @@
+i 'm here today to talk about autonomous flying
+beach balls no agile aerial robots like this one i 'd like to tell you a little bit about the challenges in building these and some of the terrific opportunities for applying this technology
+so these robots are related to unmanned aerial vehicles
+however the vehicles you see here are big they weigh thousands of pounds are not by any means agile they 're not even autonomous
+in fact many of these vehicles are operated by flight crews that can include multiple pilots operators of sensors and mission coordinators
+what we 're interested in is developing robots like this and here are two other pictures of robots that you can buy off the shelf
+so these are helicopters with four rotors and they 're roughly a meter or so in scale and weigh several pounds
+and so we retrofit these with sensors and processors and these robots can fly indoors without gps the robot i 'm holding in my hand is this one
+and it 's been created by two students alex and daniel
+so this weighs a little more than a tenth of a pound it consumes about fifteen watts of power and as you can see it 's about eight inches in diameter
+so let me give you just a very quick tutorial on how these robots work so it has four rotors if you spin these rotors at the same speed the robot hovers
+if you increase the speed of each of these rotors then the robot flies up it accelerates up of course if the robot were tilted inclined to the horizontal then it would accelerate in this direction
+so to get it to tilt there 's one of two ways of doing it
+so in this picture you see that rotor four is spinning faster and rotor two is spinning slower and when that happens
+there 's moment that causes this robot to roll
+and the other way around if you increase the speed of rotor three and decrease the speed of rotor one
+then the robot pitches forward
+and then finally if you spin opposite pairs of rotors faster than the other pair then the robot yaws about the vertical axis
+so an on board processor essentially looks at what motions need to be executed and combines these motions and figures out what commands to send to the motors six hundred times a second that 's basically how this thing operates
+so one of the advantages of this design is when you scale things down the robot naturally becomes agile so here r is the characteristic length of the robot it 's actually half the diameter and there are lots of physical parameters that change as you reduce r
+the one that 's the most important is the inertia or the resistance to motion
+so it turns out the inertia which governs angular motion
+scales as a fifth power of r
+so the smaller you make r the more dramatically the inertia reduces
+so as a result the angular acceleration denoted by greek letter alpha here goes as one over r it 's inversely proportional to r the smaller you make it the more quickly you can turn
+so this should be clear in these videos at the bottom right you see a robot
+performing a three hundred and sixty degree flip in less than half a second
+multiple flips a little more time
+so here the processes on board are getting feedback from accelerometers and gyros on board and calculating like i said before commands at six hundred times a second to stabilize this robot
+so on the left you see daniel throwing this robot up into the air and it shows you how robust the control is no matter how you throw it the robot recovers and comes back to him
+so why build robots like this
+well robots like this have many applications you can send them inside buildings like this as first responders to look for intruders maybe look for biochemical leaks gaseous leaks
+you can also use them for
+applications like construction so here are robots carrying beams columns and assembling cube like structures i 'll tell you a little bit more about this
+the robots can be used for transporting cargo
+so one of the problems with these small robots
+is their payload carrying capacity so you might want to have multiple robots carry payloads
+this is a picture of a recent experiment
+we did actually not so recent anymore in sendai shortly after the earthquake
+so robots like this could be sent into collapsed buildings to assess the damage after natural disasters
+or sent into reactor buildings to map radiation levels
+so one fundamental problem that the robots have to solve if they 're to be autonomous is essentially figuring out how to get from point a to point b
+so this gets a little challenging because the dynamics of this robot are quite complicated in fact they live in a twelve dimensional space
+so we use a little trick we take this curved twelve dimensional space
+what we call a minimum snap trajectory
+so to remind you of physics you have position derivative velocity then acceleration
+and then comes jerk and then comes snap
+so this robot minimizes snap
+so what that effectively does is produces a smooth and graceful motion
+and it does that avoiding obstacles
+so these minimum snap trajectories in this flat space are then transformed back
+into this complicated twelve dimensional space which the robot must do for control and then execution
+so let me show you some examples of what these minimum snap trajectories look like
+and in the first video you 'll see the robot going from point a to point b through an intermediate point
+so as an academic we 're always trained to be able to jump through hoops to raise funding for our labs and we get our robots to do that
+learns or is pre programmed so here you see the robot combining a motion that builds up momentum and then changes its orientation and then recovers
+so it has to do this because this gap in the window is only slightly larger than the width of the robot
+so just like a diver stands on a springboard and then jumps off it to gain momentum and then does this pirouette this two and a half somersault through and then gracefully recovers
+this robot is basically doing that so it knows how to combine little bits and pieces of trajectories to do these fairly difficult
+so one difficulty is how do you coordinate lots of these robots
+and so here we looked to nature so i want to show you a clip
+carrying an object so this is actually a piece of fig actually you take any object coated with fig juice and the ants will carry them back to the nest
+they have implicit coordination across the group
+so this is the kind of coordination we want our robots to have
+so when we have a robot which is
+surrounded by neighbors and let 's look at robot i and robot j what we want the robots to do is to monitor the separation between them as they fly in formation and then you want to make sure that this separation is within acceptable levels
+so again the robots monitor this error and calculate the control commands one hundred times a second which then translates to the motor commands six hundred times a second so this also has to be done in a decentralized way again if you have lots and lots of robots it 's impossible to coordinate all this information centrally
+fast enough in order for the robots to accomplish the task plus the robots have to base their actions only on local information what they sense from their neighbors and then finally we insist that the robots be agnostic to who their neighbors are
+so this is what we call anonymity
+so what i want to show you next
+is a video of twenty of these little robots flying in formation
+they 're monitoring their neighbors position they 're maintaining formation the formations can change they can be planar formations they can be three dimensional formations
+as you can see here they collapse from a three dimensional formation into planar formation and to fly through obstacles they can adapt the formations on the fly
+so again these robots come really close together as you can see in this figure eight flight they come within inches of each other and despite the aerodynamic interactions of these propeller blades they 're able to maintain stable flight
+the robot strength by just getting them to team with neighbors as you can see here one of the disadvantages of doing that is as you scale things up so if you have lots of robots carrying the same thing you 're essentially effectively increasing the inertia and therefore you pay a price they 're not as agile
+but you do gain in terms of payload carrying capacity another application i want to show you again this is in our lab
+this is work done by quentin lindsey who 's a graduate student so his algorithm essentially tells these robots how to autonomously build
+cubic structures from truss like elements
+so his algorithm tells the robot what part to pick up when and where to place it so in this video you see and it 's sped up ten fourteen times you see three different structures being built by these robots and again everything is autonomous and all quentin has to do is to get them a blueprint of the design that he wants to build
+so what happens when you leave your lab and you go outside into the real world and what if there 's no gps
+so this robot is actually equipped with a camera
+and a laser rangefinder laser scanner
+are features like doorways windows people furniture and it then figures out where its position is with respect to the features so there is no global coordinate system
+the coordinate system is defined based on the robot where it is and what it 's looking at
+and it navigates with respect to those features
+so i want to show you a clip of algorithms developed by frank shen and professor nathan michael that shows this robot entering a building for the very first time and creating this map on the fly
+so the robot then figures out what the features are it builds the map it figures out where it is with respect
+to the features and then estimates its position one hundred times a second
+allowing us to use the control algorithms that i described to you earlier
+so this robot is actually being commanded remotely by frank
+but the robot can also figure out where to go on its own
+and then come back and tell me what the building looks like so here the robot is not only solving the problem how to go from point a to point b in this map but it 's figuring out
+what the best point b is at every time
+so essentially it knows where to go to look for places that have the least information and that 's how it populates this map
+so i want to leave you with one last application
+and there are many applications of this technology
+i 'm a professor and we 're passionate about education robots like this can really change the way we do k through twelve education
+but we 're in southern california close to los angeles
+so i have to conclude with something focused on entertainment i want to conclude with a music video i want to introduce the creators alex and daniel who created this video

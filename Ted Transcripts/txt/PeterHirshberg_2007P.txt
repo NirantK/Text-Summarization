@@ -1,0 +1,130 @@
+so it's about time that we talked about how the computer ambushed television or why the invention of the atomic bomb unleashed forces
+that lead to the writers strike and it's not just what these are doing to each other but it's what the audience thinks that really frames this matter
+to get a sense of this and it's been a theme we've talked about all week i recently talked to a bunch of tweeners i wrote on cards television radio myspace internet pc and i said just arrange these from
+what's important to you and what's not and then tell me why let 's listen to what happens when they get to the portion of the discussion on television i think it's important
+but like not necessary because you can do a lot of other stuff with your free time than watch programs which is more fun internet or tv
+i think we the reasons one of the reasons we put computer before tv is because nowadays like we have tv shows on the computer oh yes and be so stressful no
+been an uneasy relationship between the tv business and the tech business really ever since they both turned about thirty
+we go through periods of enthrallment followed by reactions in boardrooms in the finance community best characterized as what's the finance term
+citicorp penney rca all getting into this big vision by the way this is about when i enter the picture i'm going to do a summer internship at time warner that summer i'm all i'm at warner that summer i'm all excited to work on convergence
+and in just four years managed to shed about two hundred billion dollars of market capitalization
+one reason that the media and the entertainment communities or the media community is driven so crazy by the tech community is that tech folks talk differently you know
+for fifty years we've talked about changing the world about total transformation for fifty years it's been about hopes and fears and and promises of a better world and i got to
+you know who else talks that way and the answer is pretty clearly it's people in religion and in politics
+and so i realized that actually the tech world is best understood not as a business cycle but as a messianic movement we promise something great we evangelize it we're going to change the world it doesn't work out too well and
+we actually go back to the well and start all over again as the people in new york and l a look on in absolute morbid astonishment
+but it's this irrational view of things that drives us on to the next thing so what i'd like to ask is if the computer is becoming a principal tool of media and entertainment
+how did we get here i mean how did a machine that was built for accounting and artillery morph into media of course the first computer was built just after world war ii to solve
+built at mit 's lincoln lab jay forester was building this for the navy but you can't help but see that the creator of this machine had in mind
+a machine that might actually be a potential media star so take a look at what happens when the foremost journalist of early television meets one of the foremost computer pioneers and the computer begins to express itself
+and this is the oscilloscope of the whirlwind electronic computer would you
+well ed this problem concerns the navy 's viking rocket this rocket goes up one hundred and thirty five miles into the
+i would like to see the computer trace the flight path of this rocket
+and see how it can determine at any
+and as it reaches the peak of its trajectory the velocity you will notice has dropped off to a minimum
+very good to me and before leaving
+we would like to show you another kind of mathematical problem that some of the boys have worked out in their spare time the mit
+you know so much was worked out the first real time interaction the video display pointing a gun it lead to the micro computer but unfortunately
+it was too pricey for the navy and all of this would have been lost if it weren't for a happy coincidence enter the atomic bomb
+they adapt whirlwind to a massive air defense system deploy it all across the frozen north and spend nearly three times as much on this computer as was spent on the
+in a mass raid high speed bombers could be in on us before we could determine their and
+we cannot afford to take that chance it is to meet this threat that the air force has been developing sage the semi automatic ground environment system to strengthen our air defenses
+this new computer built to become the nerve center of a defense network
+able to perform all the complex mathematical problems involved in countering a mass
+it is provided with its own powerhouse containing large diesel driven generators
+a really good example of that this had the first pointing device it was distributed so it worked out distributed computing and modems so all these things could talk to each other
+about twenty percent of all the nation 's programmers were wrapped up in this thing and it led to an awful lot of what we have today
+it also used vacuum tubes you saw how huge it was and to give you a sense for this because we've talked a lot about moore 's law and making things small at this conference so let 's talk about making things large
+if we took whirlwind and put it in a place that you all know say century city it would fit beautifully you'd kind of have to take century city out but it could fit in there
+let 's imagine we took the latest pentium processor the latest core two extreme which is a four core processor that intel 's working
+it will be our laptop tomorrow to build that what we'd do with whirlwind technology is we'd have to take up roughly
+the power would fill up the rest of los angeles that's roughly a third more nuclear power than all of france creates so the next time they tell you they're on to something clearly they're not so
+all this and makes the first mini computer it shows up at places like mit
+and many of the principles of gaming today were worked out dec knew a good think about wasting time it shipped every one of its computers with that game
+a new technology has confounded radio men and movie moguls and they're quite certain that television is about to do them in in fact despair is in the air
+and a quote that sounds largely reminiscent from everything i've been reading all week rca had david sarnoff who basically commercialized radio
+said this i don't say that radio networks must die every effort has been made and will continue to be made
+to find a new pattern new selling arrangements and new types of programs that may arrest the declining revenues it may yet be possible to eke out a poor existence for radio
+but i don't know how and of course as the computer industry develops interactively producers in the emerging tv business actually hit on the same idea and they fake
+you all know how to get your magic windows up on the set you just get them out first of all get your winky dink kits out put out your magic window and your erasing glove and rub it like
+dawn of interactive tv and you may have noticed they wanted to sell you the winky dink kits those are the winky dink crayons i know what you're saying pete i could use any ordinary open source crayon why do i have to buy theirs i assure you that's not the case
+turns out they told us directly that these are the only crayons you should ever use with your winky dink magic window other crayons may discolor or hurt the window this proprietary principle of vendor lock in
+would go on to be perfected with great success as one of the enduring principles of windowing systems everywhere
+it led to lawsuits federal investigations and lots of repercussions and that's a scandal we won 't discuss today
+but we will discuss this scandal because this man jack berry the host of winky dink went on to become the host of twenty one one of the most important quiz shows ever and it was rigged and it became unraveled when this man
+charles van doren was outed after an unnatural winning streak ending berry 's career and actually ending the career of a lot of people at cbs it turns out there was a lot to learn
+the audience can become involved in the actual process of making the ad then it's happy it's like the old quiz shows they were great tv because it gave the audience a role something to do
+they were horrified when they discovered they'd really been left out all the time
+this was a horrible misunderstanding of tv on the part of the
+know mcluhan talked about the global village if you substitute the word blogosphere of the internet today it is very true that his understanding is probably very enlightening now let 's listen in to
+the global village is a world in which you don't necessarily have harmony you have extreme concern with everybody else's business
+much involvement in everybody else's life it's a sort of anne landers column writ large and
+doesn't necessarily mean harmony and peace and quiet but it does mean huge involvement in everybody else's affairs and so the global village is as big as a planet and as small as a
+you know the expression of technology reflects the people and the time of the culture it was built in and when i say that code expresses our hopes and aspirations it's not just a joke about
+it's actually what we do but for this part of the story i'd actually like to throw it to america 's leading technology correspondent john
+in the midst of revolution in the streets and rock and roll concerts in the parks a group of researchers led by people like john mccarthy a computer scientist at the stanford artificial intelligence lab and doug engelbart a computer scientist at sri changed the world
+this was a remarkable place at a remarkable time and into that ferment came the microprocessor i think it was that interaction that led to personal computing
+they saw these tools that were controlled by the establishment as ones that could actually be liberated and put to use by these communities that they were trying to build
+and most importantly they had this ethos of sharing information i think these ideas are difficult to understand because when you're trapped in one paradigm the next paradigm is always like
+a science fiction universe it makes no sense the stories were so compelling that i decided to write a book about them the title of the book is what the dormouse said how the sixties counterculture shaped the personal computer industry
+any kind of picture or piece of text or data across a file system and we had no way of explaining it there was no metaphor was it a database a prototyping tool a scripted language heck it was everything
+so we ended up writing a marketing brochure we asked a question about how the mind works and we let our customers play the role of so many blind men filling out the elephant a few years later we
+we then hit on the idea of explaining to people the secret of how do you get the content you want the way you want it and the easy way here 's the apple marketing video
+you'll be pleased to know i'm sure that there are several ways to create a hypercard interactive video
+the most involved method is to go ahead and produce your own videodisc as well as build your own hypercard stacks by far the simplest method
+is to buy a pre made videodisc and hypercard stacks from a commercial supplier the method we illustrate in this video uses a pre made videodisc but creates custom hypercard stacks
+i hope you realize how subversive that is that's like a dick cheney speech you think he 's a nice balding guy but he 's just declared war on the content business find the commercial stuff
+mash it up tell the story your way now as long as we confine this to the education market and a personal matter between the computer and the file system that's fine
+but as you can see it was about to leap out and upset jack valenti and a lot of other people by the way speaking of the filing system it never occurred to us that these hyperlinks could go beyond the local area network
+a few years later tim berners lee worked that out it became a killer app of links and today of course we call that the world wide web
+he was working on a book and i was working on a video to help him kind of explain where we were all heading and how to popularize all this
+we were plenty aware that we were messing with media and on the surface it looks like we predicted a lot of the right things but we also missed an awful lot let 's take a look
+of the man made world all
+the digital highway arrived in america 's living rooms late in the
+let us recall the pioneers who made this technical marvel possible
+the digital highway would follow the rutted trail first blazed by alexander graham bell
+by the prospects of mass communication and making big bucks on advertising david sarnoff commercializes radio
+never had scientists been put under such pressure and
+thirty nine the radio corporation of america introduced television
+never had scientists been put under such pressure and
+further stimulus came with the de regulation of
+and the re regulation of the cable television industry
+to build this this cable industry now the broadcasters want some of our money i mean it's ridiculous
+once the unwieldy tools of accountants and other geeks escaped the backrooms to enter the media
+world and all its culture reduced to
+finally four great industrial sectors combined telecommunications entertainment computing and everything else
+we'll see channels for the gourmet and we'll see channels for the pet lover next on the gourmet pet channel decorating birthday cakes for
+all of industry was in play as investors and
+you know you missed we missed the internet the long tail the role of the audience open systems social networks it just goes to show how tough it is to come up with the right uses of media thomas edison had the same problem he wrote a list of
+what the phonograph might be good for when he invented it and kind of only one of his ideas turned out to have been the right early idea well you know where we're going on from here
+we come into the era of the dot com the world wide web and i don't need to tell you about that because we all went through that bubble together but
+when we emerge from this and what we call web two point zero things actually are quite different and i think it's the reason that that tv 's so challenging internet one was about pages
+now it's about people it's a customer it's an audience it's a person who 's participating it's the formidable thing that is changing entertainment now
+because it gave the audience a role something to do
+in my own company technorati we see something like sixty seven thousand blog posts an hour come in that's about two thousand seven hundred fresh connective links
+across about one hundred and twelve million blogs that are out there and it's no wonder that as we head into the writers strike odd things happen you know it reminds me of that old saw in hollywood
+a writer i now think a network boss is anyone who has a cable modem but it's not a joke this is a real headline websites attract striking writers operators of sites like
+could benefit from labor disputes meanwhile you have the tv bloggers going out on strike in sympathy with the television writers
+to show you how schizophrenic this all is here 's the head of myspace or fox interactive
+a news corp company being asked well with the writers strike isn't this going to hurt news corp and help you
+yeah i think there's an opportunity as the strike continues there's an opportunity for more people to experience video on places like myspace tv
+but then he remembers he works for rupert murdoch
+one of the great things that's going on here is the globalization of content really is happening here is a clip from the video from a piece of animation
+that was written by a writer in hollywood animation worked out in israel farmed out to croatia and india and it's now an international series
+we get word the terrorist threat is over
+the company that created this aniboom is an interesting example of where this is headed traditional tv animation costs say between eighty thousand and ten thousand dollars a minute
+what the entertainment business is struggling with the world of brands is figuring out for example nike now understands that nike plus
+is not just a device in it's shoe it's a network to hook its customers together and the head of marketing at nike says people are coming to our site an average of three times a week
+head of marketing says we 're not in the business of keeping media companies alive we're in the business of connecting with consumers and media companies realize the audience is important also
+here 's a man announcing the new market watch from dow jones powered one hundred percent by the user experience on the home page user generated content married up with traditional content it turns out you have a bigger audience and more interest if you hook up with them or as geoffrey moore once told me
+it's intellectual curiosity that's the trade that brands need in the age of the blogosphere and i think this is beginning to happen in the entertainment business the
+so to wrap up i'd love to throw it
+to marshall mcluhan who forty years ago was dealing with audiences that were going through just as much change
+and i think that today traditional hollywood and the writers are framing this perhaps in the way that it was being framed before but i don't need to tell you this let 's throw it back to him
+we are in the middle of a tremendous clash between the old and the new the medium does things
+and they are always completely unaware of this
+don't really notice the new medium that is wrapping them up they think of the old medium
+because the old medium is always the content of the new medium
+as movies tend to be the content of tv
+i think it's a great time of enthrallment there's been more raw dna of communications and media thrown out there content is moving from shows
+and whereas television may have gotten beat up what's getting built is a really exciting new form of communication and we kind of have the merger of the two industries and a new way of thinking to look at it thanks very much

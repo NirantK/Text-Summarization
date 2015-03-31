@@ -1,0 +1,25 @@
+this is me being inspired by my first tutor my mom
+and this is me teaching introduction to artificial intelligence to two hundred students at stanford university
+now the students and i enjoyed the class but it occurred to me that while the subject matter of the class is advanced and modern the teaching technology isn 't
+in fact i use basically the same technology as this fourteenth century classroom note the textbook
+the sage on the stage and the sleeping guy in the back
+so my co teacher sebastian thrun and i thought there must be a better way
+we challenged ourselves to create an online class that would be equal or better in quality to our stanford class but to bring it to anyone in the world for free we announced the class on july twenty ninth and within two weeks fifty thousand people had signed up for it
+and that grew to one hundred and sixty thousand students from two hundred and nine countries we were thrilled to have that kind of audience and just a bit terrified that we hadn 't finished preparing the class yet laughter so we got to work we studied what others had done what we could copy and what we could change
+benjamin bloom had showed that one on one tutoring works best so that 's what we tried to emulate like with me and my mom
+even though we knew it would be one on thousands here an overhead video camera is recording me as i 'm talking and drawing on a piece of paper a student said this class felt like sitting in a bar with a really smart friend who 's explaining something you haven 't grasped but are about to and that 's exactly what we were aiming
+now from khan academy we saw that short ten minute videos worked much better than trying to record an hour long lecture and put it on the small format screen we decided to go even shorter and more interactive our typical video is two minutes sometimes shorter never more than six
+and then we pause for a quiz question to make it feel like one on one tutoring here i 'm explaining how a computer uses the grammar of english to parse sentences and here there 's a pause
+and the student has to reflect understand what 's going on and check the right boxes before they can continue students learn best when they 're actively practicing we wanted to engage them to have them grapple with ambiguity and guide them to synthesize the key ideas themselves
+we mostly avoid questions like here 's a formula now tell me the value of y when x is equal to two we preferred open ended questions
+one student wrote now i 'm seeing bayes networks and examples of game theory everywhere i look and i like that kind of response that 's just what we were going for we didn 't want students to memorize the formulas we wanted to change the way they looked at the world and we succeeded or i should say the students succeeded
+and it 's a little bit ironic that we set about to disrupt traditional education and in doing so we ended up making our online class much more like a traditional college class than other online classes most online classes the videos are always available you can watch them any time you want
+but if you can do it any time that means you can do it tomorrow and if you can do it tomorrow well you may not ever get around to it laughter so we brought back the innovation of having due dates laughter you could watch the videos
+any time you wanted during the week but at the end of the week you had to get the homework done this motivated the students to keep going and it also meant that everybody was working on the same thing at the same time so if you went into a discussion forum you could get an answer from a peer within minutes
+now i 'll show you some of the forums most of which were self organized by the students themselves
+from daphne koller and andrew ng we learned the concept of flipping the classroom students watched the videos on their own and then they come together to discuss them
+from eric mazur i learned about peer instruction that peers can be the best teachers because they 're the ones that remember what it 's like to not understand sebastian and i have forgotten
+and finally from teach for america i learned that a class is not primarily about information more important is motivation and determination it was crucial that the students see that we 're working hard for them and they 're all supporting each other
+now the class ran ten weeks and in the end about half of the one hundred and sixty thousand students watched at least one video each week and over twenty thousand finished all the homework putting in fifty to one hundred hours they got this statement of accomplishment
+so what have we learned well we tried some old ideas and some new and put them together
+but there are more ideas to try sebastian 's teaching another class now i 'll do one in the fall stanford coursera udacity mitx and others have more classes coming it 's a really exciting time

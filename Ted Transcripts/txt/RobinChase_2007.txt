@@ -1,0 +1,72 @@
+so i'm going to talk about two stories today one is
+how we need to use market based pricing to affect
+demand and use wireless technologies to dramatically reduce our emissions in the transportation sector
+and the other is that there is an incredible opportunity if we choose the right wireless technologies how we can
+generate a new engine for economic growth and dramatically reduce c two in the other sectors
+i'm really scared we need to reduce c two emissions in ten to fifteen years by eighty percent in order to avert catastrophic effects
+and i'm astounded that i'm standing here to tell you that what are catastrophic effects a three degree centigrade climate change rise that will result in fifty percent species extinction
+it's not a movie this is real life
+and i'm really worried because when people talk about cars which i know something about
+the press and politicians and people in this room are all thinking let 's use fuel efficient cars if we started today
+ten years from now at the end of this window of opportunity
+those fuel efficient cars will reduce our fossil fuel needs
+that is not enough but now i'll talk about some more pleasant things here are some
+ways that we can make some dramatic changes so zipcar is a company that i founded seven years ago but it's an example of something called carsharing
+what zipcar does is we park cars throughout dense urban areas for members to reserve by the hour and by the day instead of using their own car
+it means that i pay only for what i need all these hours for a car sitting idle i'm not paying for it
+it means that i can choose a car exactly for that particular trip so here 's a woman that reserved minimia
+and she had her day i can take a bmw when i'm seeing clients i can
+drive my toyota element when i'm going to go on that surfing trip and the other
+i get all the good stuff and none of the bad so what is the social result of this
+the social result is that today 's zipcar has one hundred thousand members driving three thousand cars parked in three thousand parking spaces instead of driving twelve thousand miles a year which is what the average city dweller does they drive five hundred miles a year
+are they happy the company has been doubling in size every since i founded it or greater
+really want to spend eight dollars to go buy the ice cream or maybe i'll do without maybe i would have bought the ice cream when i did some other errand so people really respond very quickly to it
+to prices and the last point i want to make is zipcar would never be possible without technology it required
+that it was completely trivial that it takes thirty seconds to rent to reserve a car go get it drive it and for me as a service provider i would never be able to provide you a car for an hour
+if the transaction cost was anything so without these wireless technologies this as a concept could never happen
+so here 's another example this company is goloco i'm launching it in three weeks and i hope to do for ridesharing what i did for carsharing this will apply for people across all of america
+today seventy five percent of the trips are single occupancy vehicles yet twelve percent of trips to work are currently carpool and i think that we can apply social networks
+and online payment systems to completely change how people feel about ridesharing and make that trip much more efficient and so when i think about the future
+why would you ever want to go by yourself in your own car how did you go food shopping you went with your neighbor what a great social time you know it's going to really transform how we feel about travel
+and it will also i think enhance our freedom of mobility where can i go today and who can i do it with those are the types of things that you will look at and feel and the social benefits
+the rate of single occupancy vehicles is i told you seventy five percent i think we can get that down to fifty percent the demand for parking of course is down congestion and the co two emissions
+one last piece about this of course is that it is enabled by wireless technologies and it's the cost of driving that's making people want to be able to do this the average american spends
+percent of their income on their car and there's a pressure for them to reduce that cost yet they have no outlet today
+so the last example of this is congestion pricing very famously done in london when you charge a premium for people to drive on congested roads in london the day they turned the congestion pricing on
+there was a twenty five percent decrease in congestion overnight and that's persisted for the four years in which they've been doing congestion pricing and again do people like the outcome ken livingston was reelected
+so again we can see that price plays an enormous role in peoples willingness to reduce their driving behavior
+and what congestion pricing is is that it's a technology trial and a psychological trial for something called road pricing
+and road pricing is where we're all going to have to go because today we pay for our maintenance and wear and tear on our roads with gas taxes and
+as we get our cars more fuel efficient that's going to be reducing the amount of revenue you get off of those gas taxes so we need to charge people by the
+we need to put this better market feedback and if we have it you'll decide how many miles to drive what mode of travel where to live and work and wireless technologies make this real time loop possible so i want to move now to the second part of my story which is
+to be the tool to turn our usage overnight and what kind of wireless technology are we going to use this is my
+big vision there is a tool that can help us bridge the digital divide respond to emergencies get traffic moving provide a new engine for economic growth and dramatically reduce co two emissions in every sector
+and this is a moment from the graduate do you remember this moment you guys are going to be the
+handsome young guy and i'm going to be the wise businessman i want to say one word to you just one word yes sir are you listening
+are you listening yes i am
+ad hoc peer to peer self configuring wireless networks
+these laptops when a child opens them up they communicate with every single child in the classroom within that school within that village and what is the cost of that communication system zero dollars a month
+here 's another example in new orleans video cameras were mesh enabled so they could monitor crime in the downtown french quarter when the hurricane happened
+the only communication system standing was the mesh network volunteers flew in and added a whole bunch of devices and for the next twelve months mesh networks were the only wireless that was happening in
+and be able to see precisely where your bus is on the street and when it's coming and you can buy your tickets in real time again all mesh enabled monthly communication cost zero
+so the beauty of mesh networks you can have these very low cost devices zero ongoing communication costs
+highly scalable you can just keep adding them and as in katrina you can keep subtracting them as long as there's some we can still communicate they're resilient their redundancy is built into this fabulous decentralized design
+the incredible weaknesses there isn't anybody in washington lobbying to make it happen or in those municipalities to build out their cities with these wireless networks because
+zero ongoing communications cost so the examples that i gave you are these islands of mesh networks and networks are interesting only as they are big
+how do we create a
+are you guys ready again the graduate this time you will still play the handsome young thing but i'll be the sexy woman these are the next two lines in the movie where did you do it
+so you know when you stick this idea to think about
+and why's this going to happen because we're going to do congestion pricing we are going to do road tolls gas taxes are going to become road pricing these things are going to happen what is the wireless technology
+maybe we should use a good one when are we going to do it maybe we shouldn 't wait for the ten to fifteen years for this to happen we should pull it forward
+so i'd like us to launch the wireless internet interstate wireless mesh system
+and require that this network be accessible to everyone with open standards right now in the transportation sector
+we're creating these wireless devices i guess you guys might have fastpass here or easylane that are single purpose devices
+so we can provide the lowest cost means of going wireless coast to coast we can have resilient nationwide communication systems
+we have a new tool for creating efficiencies in all sectors imagine what happens when the cost of getting information from anywhere to anywhere is close to zero what you can do with that tool
+we can create an economic engine information should be free and access to information should be free and we should be charging people for carbon
+i think this is a more powerful tool than the interstate highway act and i think this is as important and world changing to our economy as electrification
+and if i had my druthers we would have an open source version in addition to open standards and this open source version means that
+it could be if we did a brilliant job of it it could be used around the world very quickly so going back to one of my earlier thoughts imagine if every one of these buses in lagos were part of the mesh network
+when i went this morning to larry brilliant 's tedtalk prize his fabulous networks imagine if there was an open source mesh communications device that can be put into these networks to make all that happen
+and we can be doing it if we could get over the fact that someone is with this little slice of things is going to be for free and we could make billions of dollars on top of it but this one particular slice of communications needs to be open source
+so let 's take control of this nightmare

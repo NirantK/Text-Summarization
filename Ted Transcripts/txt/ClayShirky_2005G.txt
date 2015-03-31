@@ -1,0 +1,104 @@
+how do groups get anything done right how do you organize a group of individuals so that the output of the group is something coherent and of lasting value instead of just being chaos
+and the economic framing of that problem is called coordination costs and a coordination cost is essentially all of the financial or institutional difficulties in arranging group output
+private or public it can be for profit or not profit it can be large or small but you get these resources together you found an institution and you use the institution to coordinate the activities of the group
+more recently because the cost of letting groups communicate with each other has fallen through the floor and communication costs are one of the big inputs to coordination
+there has been a second answer which is to put the cooperation into the infrastructure to design systems that coordinate the output of the group as a by product of the operating of the system
+without regard to institutional models so that's what i want to talk about today i'm going to illustrate it with some fairly concrete examples but always pointing to the broader themes
+start by trying to answer a question that i know each of you will have asked yourself at some point or other and which the internet is purpose built to answer which is where can i get a picture of a roller skating mermaid
+in new york city on the first saturday of every summer coney island our local charmingly run down amusement park hosts the mermaid parade
+it's an amateur parade people come from all over the city people get all dressed up some people get less dressed up young and old dancing in the streets colorful characters and a good time is had by all
+and the answer is i got them from flickr flickr is a photo sharing service that allows people to take photos upload them share them over the web
+recently flickr has added an additional function called tagging tagging was pioneered by del icio us and joshua schachter del icio us is a social book marking service
+tagging is a cooperative infrastructure answer to classification right if i had given this talk last year i couldn't do what i just did because i couldn't have found those photos
+shown in reverse chronological order and i was then able to go and retrieve them to give you that little slideshow now what hard problem is being solved here
+and it's in the most schematic possible view it's a coordination problem right there are a large number of people on the internet a very small fraction of them have photos of the mermaid parade how do we get those people together to contribute that work
+the classic answer is to form an institution right to draw those people into some pre arranged structure that has explicit goals
+and i want to call your attention to some of the side effects of going the institutional route first of all when you form an institution you take on a management problem
+right no good just hiring employees you also have to hire other employees to manage those employees and to enforce the goals of the institution and so forth
+you have to bring structure into place right you have to have economic structure you have to have legal structure you have to have physical structure
+and that creates additional costs third forming an institution is inherently exclusionary
+you notice we haven't got everybody who has a photo you can't hire everyone in a company right you can't recruit everyone into a governmental organization you have to exclude some people
+and fourth as a result of that exclusion you end up with a professional class look at the change here we've gone from people with photos to photographers right we've created a professional class
+of photographers whose goal is to go out and photograph the mermaid parade or whatever else they're sent out to photograph
+when you build cooperation into the infrastructure which is the flickr answer you can leave the people where they are
+you take the problem to the individuals rather than moving the individuals to the problem you arrange the coordination in the group
+and by doing that you get the same outcome without the institutional difficulties
+you lose the institutional imperative you lose the right to shape people 's work when it's volunteer effort but you also shed the institutional cost which gives you greater flexibility
+what flickr does is it replaces planning with coordination and this is a general aspect of these cooperative systems
+you'll have experienced this in your life whenever you bought your first mobile phone and you stopped making plans you just said i'll call you when i get
+call me when you get off work right that is a point to point replacement of coordination with planning
+now able to do that kind of thing with groups to say instead of we must make an advance plan we must have a five year projection of where the wikipedia is going to be or whatever
+you can just say let 's coordinate the group effort and let 's deal with it as we go because we're now well enough coordinated that we don't have to take on the problems of
+and worst of all that figure at the bottom approximately ten photos per photographer is a
+it's mathematically true but it doesn't really talk about anything important because in these systems the average isn't really what matters what matters is this
+taken per photographer you can see here
+over at the end our most prolific photographer has taken around three hundred and fifty photos and you can see there's a few people who have taken hundreds of photos
+then there's dozens of people who 've taken dozens of photos and by the time we get around here we get ten or fewer photos and then there's this long flat
+is called a power law distribution it appears often in unconstrained social systems where people are allowed to contribute as much or as little as they like this is often what you get
+the math behind the power law distribution is that whatever 's in the nth position is doing about one nth of whatever 's being measured relative to the person in the first position
+so we'd expect the tenth most prolific photographer to have contributed about a tenth of the photos and the one hundredth most prolific photographer to have contributed only about one hundred as many photos as the most prolific photographer
+so the head of the curve can be sharper or flatter but that basic math accounts both for the steep slope and for the long flat tail
+and curiously in these systems as they grow larger the systems don't converge they diverge more in bigger systems
+the head gets bigger and the tail gets longer so the imbalance increases you can see the curve is obviously heavily left weighted here 's how heavily
+you go down to five percent you're still accounting for sixty percent of the photos if you go down to one percent exclude ninety nine percent of the group effort
+is actually here way to the left and that sounds strange to our ears but what ends up happening is that eighty percent of the contributors
+have contributed a below average amount that sounds strange because we expect average and middle to be about the same but they're not at all
+this is the math underlying the eighty twenty rule right whenever you hear anybody talking about the eighty twenty rule this is what's going on
+and the eighty percent zone is a no carrot and no stick zone the costs of running the institution mean that you cannot
+take on the work of those people easily in an institutional frame the institutional model always pushes leftwards
+treating these people as employees the institutional response is i can get seventy five percent of the value for ten percent of the hires great that's what i'll do
+the cooperative infrastructure model says why do you want to give up a quarter of the value if your system is designed so that you have to give up a quarter of the value
+re engineer the system don't take on the cost that prevents you from getting to the contributions of these people
+the system so that anybody can contribute at any amount so the coordination response
+asks not how are these people as employees but rather what is their contribution like right we have over here psycho milt
+flickr user who has contributed one and only one photo titled iraq and here 's the photo right labeled bad day at work right so
+the question is do you want that photo yes or no the question is not is psycho milt a good employee
+and the tension here is between institution as enabler and institution as obstacle
+when you're dealing with the left hand edge of one of these distributions when you're dealing with the people who spend a lot of time producing a lot of the material you want that's an institution as enabler world you can hire those people as employees you can coordinate their work and you can get some
+but when you're down here where the psycho milts of the world are adding one photo at a time that's institution as obstacle
+first goal of the institution immediately shifts from whatever the nominal goal was to self preservation and the actual goal of the institution goes to two through
+right so when institutions are told they are obstacles and that there are other ways of coordinating the value they go through something a little bit like the kubler ross stages of
+to the acceptance phase many many institutions are still in denial but we're seeing recently a lot of both anger and
+right because the fact that they have coordinated themselves to create cooperative value is depriving them of revenue you can follow this in the guardian it's actually quite
+steve ballmer now ceo of microsoft was criticizing linux a couple of years ago and he said oh this business of thousands of programmers contributing to linux this is a myth
+right we've looked at who 's contributed to linux and most of the patches have been produced by programmers who 've only done one thing
+you can hear this distribution under that complaint and you can see why from ballmer 's point of view that's a bad idea right we hired this programmer he came in he drank our cokes and played foosball for three years and he had one idea right
+the psycho milt question is was it a good idea
+what if it was a security patch what if it was a security patch for a buffer overflow exploit of which windows has not some several do you want that patch right
+that a single programmer can without having to move into a professional relation to an institution improve linux once and never be seen from again should terrify ballmer
+because this kind of value is unreachable in classic institutional frameworks but is part of cooperative systems of open source software of file sharing
+of the wikipedia i've used a lot of examples from flickr but there are actually stories about this from all over meetup a service founded so that users could find people in their local area who share their interests and affinities and actually have a real world meeting offline in a cafe or a pub or what have you
+when scott heiferman founded meetup he thought it would be used for you know train spotters and cat fanciers classic affinity groups the inventors don't know what the invention is number one group on meetup right now
+most chapters in most cities with most members most active stay at home moms right in the suburbanized dual income united states
+stay at home moms are actually missing the social infrastructure that comes from extended family and local small scale neighborhoods
+so they're reinventing it using these tools meetup is the platform but the value here is in social infrastructure
+if you want to know what technology is going to change the world don't pay attention to thirteen year old boys pay attention to young mothers because they have got not an ounce of support for technology that doesn't materially make their lives better
+this is so much more important than xbox but it's a lot less glitzy i think this is a revolution i think that this is a
+really profound change in the way human affairs are arranged and i use that word advisedly it's a revolution in that it's a change in equilibrium it's a whole new way of doing things which includes new downsides
+in the united states right now a woman named judith miller is in jail for not having given to a federal grand jury her sources she's a reporter for the new york times her sources in a very abstract and hard to follow case
+and journalists are in the street rallying to improve the shield laws the shield laws are our laws pretty much a patchwork of state laws that prevent a journalist from having to betray a source
+this is happening however against the background of the rise of web logging web logging is a classic example of mass amateurization it has de professionalized publishing want to publish globally anything you think today it
+is a one button operation that you can do for free that has sent the professional class of publishing down into the ranks of mass amateurization
+and so the shield law as much as we want it we want a professional class of truth tellers it is becoming increasingly incoherent
+because the institution is becoming incoherent there are people in the states right now tying themselves into knots trying to figure out whether or not bloggers are journalists
+and the answer to that question is it doesn't matter because that's not the right question journalism was an answer to an even more important question which is how will society be informed how will they share ideas and opinions
+if there is an answer to that that happens outside the professional framework of journalism it makes no sense to take a professional metaphor and apply it to this distributed class so as much as we want the shield laws
+background the institution to which they were attached is becoming incoherent here 's another example pro ana the pro ana groups
+these are groups of teenage girls who have taken on web logs bulletin boards other kinds of cooperative infrastructure and have used it to set up support groups for remaining anorexic by choice
+they post pictures of thin models which they call thinspiration they have little slogans like salvation through starvation they even have lance armstrong style bracelets
+these red bracelets which signify in the small group i am trying to maintain my eating disorder they trade tips like if you feel like eating something clean a toilet or the litter box the feeling will pass
+we're used to support groups being beneficial we have an attitude that support groups are inherently beneficial but it turns out that the logic of the support group is value neutral
+a support group is simply a small group that wants to maintain a way of living in the context of a larger group now when the larger group is a bunch of drunks and the small group wants to stay sober then we think that's a great support group
+when the small group is teenage girls who want to stay anorexic by choice then we're horrified what's happened
+is that the normative goals of the support groups that we're used to came from the institutions that were framing them and not from the infrastructure
+the infrastructure becomes generically available the logic of the support group has been revealed to be accessible to anyone including people pursuing these kind of goals so there are significant downsides to these changes as well as
+of course in the current environment one need allude only lightly to the work of
+non state actors trying to influence global affairs and taking advantage of these this is a social map of the hijackers and their associates who perpetrated the nine eleven attack
+this is the part of the talk where i tell you what's going to come as a result of all of this but i'm running out of time which is good because i don't know
+right as with the printing press if it's really a revolution it doesn't take us from point a to point b it takes us from point a to chaos the printing press precipitated two hundred years of chaos
+moving from a world where the catholic church was the sort of organizing political force to the treaty of westphalia when we finally knew what the new unit was the nation state now i'm not predicting two hundred years of chaos as a result of this
+fifty fifty years in which loosely coordinated groups are going to be given increasingly high leverage
+and the more those groups forego traditional institutional imperatives like deciding in advance what's going to happen or the profit motive the more leverage they'll get
+and institutions are going to come under an increasing degree of pressure and the more rigidly managed and the more they rely on information monopolies the greater the
+the point here is not this is wonderful or we 're going to see a transition from only institutions to only cooperative framework it's going to be much more complicated than that but the point is that it's going to be a massive readjustment and since we can see it in advance and know
+coming my argument is essentially we might as well get good at it thank

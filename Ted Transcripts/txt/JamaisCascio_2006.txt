@@ -1,0 +1,81 @@
+the future that we will create
+can be a future that we'll be proud of
+i think about this every day
+co founder and senior columnist at worldchanging com
+alex steffen and i founded worldchanging in late two thousand and three and since then we and our growing global team of contributors have documented the ever expanding variety of solutions that are out there
+right now and on the near horizon
+in a little over two years we've written up about four thousand items
+our emphasis on solutions is quite intentional there are tons of places to go online and off if what you want to find is the latest bit of news about
+just how quickly our hell bound handbasket is moving we want to offer people an idea of what they can do about it
+we focus primarily on the planet 's environment but we also address issues of global development
+much much more the scope of solutions that we discuss is actually pretty broad but that reflects both the range of challenges that need to be met and the kinds of innovations that will allow us to do so
+a quick sampling really can barely scratch the surface but to give you a sense of what we cover tools for rapid disaster relief such as this inflatable concrete shelter
+ocean power other clean energy sources ultra ultra high efficiency vehicles of the future ultra high efficiency vehicles you can get right now and better urban design so you don't need to drive as much in the first place
+approaches to design that take advantage of the efficiencies of natural models in both vehicles and buildings distributed computing projects that will help us model the future of the climate
+all too quickly to my fortieth birthday i'm naturally inclined to pessimism
+i've come to realize that focusing only on negative outcomes can really blind you to the very possibility of success as norwegian social scientist evelin lindner has observed pessimism
+is a luxury of good times in difficult times pessimism is a self fulfilling self inflicted death sentence
+the truth is we can build a better world and we can do so right now we have the tools we saw a hint of that a moment ago and we're coming up with new ones all the time we have the knowledge and our understanding of the planet improves every day
+we have a world that needs fixing and nobody 's going to do it for us
+many of the solutions that i and my colleagues seek out and write up every day have some important aspects in common
+the majority of models tools and ideas on worldchanging encompass combinations of these characteristics
+we can see world changing values in the emergence of tools to make the invisible visible that is to make apparent the conditions of the world around us that would otherwise be largely imperceptible
+we know that people often change their behavior when they can see and understand the impact of their actions as a small example
+many of us have experienced the change in driving behavior that comes from having a realtime display of mileage showing precisely how one 's driving habits affect the vehicle 's efficiency
+the last few years have all seen the rise of innovations in how we measure and display aspects of the world that can be too big or too intangible or too slippery to grasp easily simple technologies like
+data rich displays like maps of campaign contributions or maps of the disappearing polar ice caps allow us to better understand the context and the flow of processes that affect us all
+we can see world changing values in research projects that seek to meet the world 's medical needs through open access to data and collaborative action
+now some people emphasize the risks of knowledge enabled dangers but i'm convinced that the benefits of knowledge enabled solutions are far more
+open access journals like the public library of science make cutting edge scientific research free to all everyone in the world and actually a growing number of science publishers are adopting this model
+hundreds of volunteer biology and chemistry researchers around the world worked together to sequence the genome
+of the parasite responsible for some of the developing world 's worst diseases african sleeping sickness leishmaniasis and chagas disease
+that genome data can now be found on open access genetic data banks around the world and it's an enormous boon to researchers trying to come up with treatments but my favorite example has to be
+the global response to the sars epidemic in two thousand and three two thousand and four which relied on worldwide access to the full gene sequence of the sars virus
+the us national research council in its follow up report on the outbreak specifically cited this open availability of the sequence as a key reason why the treatment for sars could be developed so quickly and we can see world changing values in something as humble as a cellphone
+i can probably count on my fingers the number of people in this room who do not use a mobile phone and where is aubrey
+for many of us cellphones have really become almost an extension of ourselves and we're really now beginning to see the social changes that mobile phones can bring about
+you may already know some of the big picture aspects globally more camera phones were sold last year than any other kind of camera and a growing number of people live lives mediated through the lens and over the network and sometimes enter history books
+in the developing world mobile phones have become economic drivers a study last year showed a direct correlation
+between the growth of mobile phone use and subsequent gdp increases across africa in kenya mobile phone minutes have actually become an alternative currency
+the political aspects of mobile phones can't be ignored either from text message swarms in korea helping to bring down a government to the blairwatch project in the uk keeping tabs on politicians who try to avoid the press
+long admired the witness project and peter gabriel told us more details about it on wednesday in his profoundly moving presentation
+and i'm just incredibly happy to see the news that witness is going to be opening up a web portal to enable users of digital cameras and camera phones to send in their recordings over the internet rather than just hand carrying the videotape
+it would highlight the changes that are underway but would more importantly give voice to the people who are willing to work to see a new world a better world
+come about it would give everyday citizens a chance to play a role in the protection of the planet it would be in essence
+earth witness project now just to be clear in this talk i'm using the name earth witness as part of the scenario simply as a shorthand for what this imaginary project could aspire to
+not to piggyback on the wonderful work of the witness organization it could just as easily be called environmental transparency project
+smart mobs for natural security
+but earth witness is a lot easier to say
+now many of the people who participate in earth witness would focus on ecological problems human caused or otherwise especially environmental crimes
+and significant sources of greenhouse gases and emissions that's understandable and important we need better documentation of what's happening to the planet if we're ever going to have a chance of repairing the damage
+but the earth witness project wouldn't need to be limited to problems
+in the best worldchanging tradition it might also serve as a showcase for good ideas successful projects and efforts to make a difference that deserve much more visibility
+earth witness would show us two worlds the world we're leaving behind and the world we're building for generations to come
+for a lot of us they're as close as we have yet to always on widely available information tools
+you could even imagine a version of this scenario in which people actually build their own phones over the course of last year open source hardware hackers
+have come up with multiple models for usable linux based mobile phones and the earth phone could spin off from this kind of project
+the other end of the network there'd be a server for people to send photos and messages to accessible over the web combining a photo sharing service
+i mean simply this the online part of the earth witness project would be created by the users working together
+earth witness site could also serve as a collection spot for all sorts of data about conditions around the planet picked up by environmental sensors that attach to your cellphone
+now you don't see these devices as add ons for phones yet but students and engineers around the world have attached atmospheric sensors to bicycles and handheld computers and cheap robots
+and the backs of pigeons that being a project that's actually underway right now at uc irvine using bird mounted sensors as a way of measuring smog forming pollution it's hardly a stretch to imagine putting the same thing on a phone carried by a person
+now the idea of connecting a sensor to your phone is not new phone makers around the world offer phones that sniff for bad breath or tell you to worry about too much sun exposure
+swedish firm uppsala biomedical more seriously makes a mobile phone add on that can process blood tests in the field uploading the
+now there's an enormous variety of tiny inexpensive sensors on the market and you can easily imagine someone
+a phone that could measure temperature co two or methane levels the presence of some biotoxins potentially in a few years
+maybe even h five n one avian flu virus you could see that some kind of system like this would actually be a really good fit with larry brilliant 's instedd project
+all of this data could be tagged with geographic information and mashed up with online maps for easy viewing and analysis
+and that's worth noting in particular the impact of open access online maps over the last year or two has been simply phenomenal developers around the world have come up with an amazing variety of ways to layer useful data on top of the maps from bus routes
+and crime statistics to the global progress of avian flu earth witness would take this further linking what you see with what thousands or millions of other people see
+it would be a collaborative bottom up approach to environmental awareness and protection able to respond to emerging concerns in a smart mobs kind of way and if you need greater sensor density just have more people show up
+most important you can't ignore how important mobile phones are to global youth
+this is a system that could put the next generation at the front lines of gathering environmental data and as we work to figure out ways to mitigate the worst effects of climate disruption
+every little bit of information matters like earth witness
+would be a tool for all of us to participate in the improvement of our knowledge and
+as i suggested at the outset there are thousands upon thousands of good ideas out there so why have i spent the bulk of my time telling you about something that doesn't exist
+because this is what tomorrow could look like
+bottom up technology enabled global collaboration to handle the biggest crisis our civilization has ever faced we can save the planet but we can't do it alone
+we have at our fingertips a cornucopia of compelling models powerful tools
+and innovative ideas that can make a meaningful difference in our planet 's future we don't need to wait for a magic bullet to save us all
+we already have an arsenal of solutions just waiting to be used there's a staggering array of wonders out there across diverse disciplines all telling us the same thing
+success can be ours if we're willing to try and as we say at worldchanging

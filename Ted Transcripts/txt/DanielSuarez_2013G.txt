@@ -1,0 +1,58 @@
+autonomous combat drones now i 'm not referring to predator and reaper drones which have a human making targeting decisions i 'm talking about fully autonomous robotic weapons that make lethal decisions about human beings all on their own
+there 's actually a technical term for this lethal autonomy
+both of these machines are capable of automatically identifying a human target and firing on it the one on the left at a distance of over a kilometer
+now in both cases there 's still a human in the loop to make that lethal firing decision but it 's not a technological requirement it 's a choice
+and it 's that choice that i want to focus on because as we migrate lethal decision making from humans to software we risk not only taking the humanity out of war but also changing our social landscape entirely far from the battlefield
+technological innovation gunpowder cannon and pretty soon armor and castles were obsolete and it mattered less who you brought to the battlefield versus how many people you brought to the battlefield
+and as armies grew in size
+the nation state arose as a political and logistical requirement of defense and as leaders had to rely on more of their populace they began to share power representative government began to form so again the tools we use to resolve conflict shape our social landscape
+autonomous robotic weapons are such a tool except that by requiring very few people to go to war they risk re centralizing power into very few hands possibly reversing a five century trend toward democracy
+now i think knowing this we can take decisive steps to preserve our democratic institutions to do what humans do best which is adapt
+but time is a factor seventy nations are developing remotely piloted combat drones of their own and as you 'll see remotely piloted combat drones are the precursors to autonomous robotic weapons
+that 's because once you 've deployed remotely piloted drones there are three powerful factors pushing decision making away from humans and on to the weapon platform itself the first of these is the deluge of video that drones produce for example in two thousand and four
+the u s drone fleet produced a grand total of seventy one hours of video surveillance for analysis
+by two thousand and eleven this had gone up to three hundred thousand hours outstripping human ability to review it all but even that number is about to go up drastically
+the pentagon 's gorgon stare and argus programs will put up to sixty five independently operated camera eyes on each drone platform and this would vastly outstrip human ability to review it and that means visual intelligence software will need to scan it for items of interest
+and that means very soon drones will tell humans what to look at not the other way around
+but there 's a second powerful incentive pushing decision making away from humans and onto machines and that 's electromagnetic jamming severing the connection between the drone and its operator
+now we saw an example of this in two thousand and eleven when an american rq one hundred and seventy sentinel drone got a bit confused over iran due to a gps spoofing attack but any remotely piloted drone is susceptible to this type of attack
+and that means drones will have to shoulder more decision making they 'll know their mission objective
+and they 'll react to new circumstances without human guidance they 'll ignore external radio signals and send very few of their own which brings us to really the third and most powerful incentive pushing decision making away from humans and onto weapons
+plausible deniability now we live in a global economy
+high tech manufacturing is occurring on most continents
+cyber espionage is spiriting away advanced designs to parts unknown and in that environment it is very likely that a successful drone design will be knocked off in contract factories proliferate in the gray market
+and in that situation sifting through the wreckage of a suicide drone attack it will be very difficult to say who sent that weapon
+this raises the very real possibility of anonymous war
+this could tilt the geopolitical balance on its head make it very difficult for a nation to turn its firepower against an attacker and that could shift the balance in the twenty first century away from defense and toward offense it could make military action a viable option not just for small nations
+it could create a landscape of rival warlords undermining rule of law and civil society now if responsibility and transparency are two of the cornerstones of representative government autonomous robotic weapons could undermine both
+but i think the truth is the exact opposite
+i think citizens of high tech societies are more vulnerable to robotic weapons and the reason can be summed up in one word
+data data powers high tech societies cell phone geolocation telecom metadata social media email text financial transaction data transportation data it 's a wealth of real time data
+on the movements and social interactions of people in short we are more visible to machines than any people in history
+and this perfectly suits the targeting needs of autonomous weapons
+what you 're looking at here is a link analysis map of a social group lines indicate social connectedness between individuals and these types of maps can be automatically generated based on the data trail modern people leave behind
+now it 's typically used to market goods and services to targeted demographics but it 's a dual use technology
+because targeting is used in another context notice that certain individuals are highlighted these are the hubs of social networks these are organizers opinion makers leaders
+and these people also can be automatically identified from their communication patterns now if you 're a marketer you might then target them with product samples try to spread your brand through their social group
+but if you 're a repressive government searching for political enemies you might instead remove them
+eliminate them disrupt their social group and those who remain behind lose social cohesion and organization
+now in a world of cheap proliferating robotic weapons borders would offer very little protection to critics of distant governments or trans national criminal organizations popular movements agitating for change
+could be detected early and their leaders eliminated before their ideas achieve critical mass
+and ideas achieving critical mass is what political activism in popular government is all about anonymous lethal weapons could make lethal action an easy choice for all sorts of competing interests
+and this would put a chill on free speech and popular political action the very heart of democracy
+and this is why we need an international treaty on robotic weapons and in particular a global ban on the development and deployment of killer robots now we already have
+international treaties on nuclear and biological weapons and while imperfect these have largely worked but robotic weapons might be every bit as dangerous because they will almost certainly be used and they would also be corrosive to our democratic institutions
+now in november two thousand and twelve the u s department of defense issued a directive requiring a human being be present in all lethal decisions this temporarily effectively banned autonomous weapons in the u s military
+but that directive needs to be made permanent and it could set the stage for global action
+because we need an international legal framework for robotic weapons and we need it now before there 's a devastating attack
+or a terrorist incident that causes nations of the world to rush to adopt these weapons before thinking through the consequences autonomous robotic weapons concentrate too much power in too few hands and they would imperil democracy itself
+drones and vehicles while still protecting ourselves against illegal robotic weapons
+i think the secret will be transparency
+no robot should have an expectation of privacy in a public place
+each robot and drone should have a cryptographically signed i d burned in at the factory that can be used to track its movement through public spaces we have license plates on cars tail numbers on aircraft this is no different
+and every citizen should be able to download an app that shows the population of drones and autonomous vehicles moving through public spaces around them
+both right now and historically and civic leaders should deploy sensors and civic drones to detect rogue drones and instead of sending killer drones of their own up to shoot them down
+they should notify humans to their presence and in certain very high security areas perhaps civic drones would snare them and drag them off to a bomb disposal facility
+but notice this is more an immune system than a weapons system it would allow us to avail ourselves of the use of autonomous vehicles and drones while still preserving our open civil society
+we must ban the deployment and development of killer robots let 's not succumb to the temptation to automate war
+autocratic governments and criminal organizations undoubtedly will but let 's not join them autonomous robotic weapons would concentrate too much power in too few unseen hands and that would be corrosive to representative government

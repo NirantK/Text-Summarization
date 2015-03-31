@@ -1,0 +1,42 @@
+visions of wireless power actually were thought of by nikola tesla basically about one hundred years ago
+the thought that you wouldn't want to transfer electric power wirelessly no one ever thought of that they thought who would use it if you
+and so in fact he actually set about doing a variety of things built the tesla coil this tower was built on long island back at the beginning of the nineteen hundreds and the idea was it was supposed to be able to transfer power anywhere on earth
+never know if this stuff worked actually i think the federal bureau of investigation took it down for security purposes sometime in the
+early nineteen hundreds but the one thing that did come out of electricity is that we love this stuff so much i mean think about how much we love this
+if you just walk outside there are trillions of dollars that have been invested in infrastructure around the world putting up wires to get power from where it's created to where it's used
+the other thing is we love batteries and for those of us that have an environmental element to us
+something like forty billion disposable batteries built every year for power that generally speaking is used within a few inches or a few feet of where there is very inexpensive power
+so before i sort of got here i thought you know i am from north america we do have a little bit of a reputation in the united states so i thought i'd better look it up first so
+think about it whether that's you in that picture or something under your desk the other thing is batteries suck too and they really really do do you ever wonder what happens to this stuff forty billion of these things built
+this is what happens they fall apart they disintegrate and they end up here so when you talk about expensive power the cost per kilowatt hour
+to supply battery power to something is on the order of two to three hundred pounds think about that
+the most expensive grid power in the world is thousandths of that so fortunately
+one of the other definitions of suck that was in there it does create a vacuum and nature really does abhor a vacuum what happened back a few years ago
+was a group of theoretical physicists at mit actually came up with this concept of transferring power over distance basically they were able to light a sixty watt lightbulb at a distance of about two meters
+they took it got about fifty percent of the efficiency by the way that's still a couple thousand times more efficient than a battery would be to do the same thing but were able to light that and
+do it very successfully this was actually the experiment so you can see the coils were somewhat larger the lightbulb was a fairly simple task from their standpoint this all came from a professor waking up at night
+out there in the walls why couldn't some of that just come into the phone so i could get some sleep and he actually came up with this concept of resonant energy transfer
+but inside a standard transformer are two coils of wire and those two coils of wire are really really close to each other and actually do transfer power
+to a greater distance than the size of those transformers using this technology which is not dissimilar from the way an opera singer shatters a glass on the other side of the room
+and it's a resonant phenomena for which he actually received a macarthur fellowship award which is nicknamed the genius award last september for his discovery so how does it work
+imagine a coil for those of you that are engineers there's a capacitor attached to it too and if you can
+that coil to resonate what will happen is it will pulse at alternating current frequencies at a fairly high frequency by the way
+and if you can bring another device close enough to the source that will only work at exactly that frequency
+you can actually get them to do what's called strongly couple and transfer magnetic energy between them and then what you do is you start out with electricity turn it into magnetic field take that magnetic field turn it back into electricity and then you can use it
+number one question i get asked i mean people are worried about cellphones being safe you know what about safety the first thing is this is not a radiative technology it doesn't radiate
+there aren't electric fields here it's a magnetic field it stays within either what we call the source or within the device and actually the magnetic fields we're using are basically about the same as the earth 's magnetic field we live in a magnetic field
+and the other thing that's pretty cool about the technology is that is only transfers energy to things that work at exactly the same frequency and it's virtually impossible in nature to make that happen
+mobile electronics home electronics those cords under your desk i bet everybody here has something that looks like that or those batteries
+and the car charges itself because there is a mat on the floor that it plugged into the wall and it actually causes your car to charge safely and efficiently
+so what i'd like to do is take a couple minutes and show you actually how it works and what i'm going to do is
+to show you pretty much what's here you've got a coil that coil is connected to an r f amplifier that creates a high frequency oscillating magnetic field
+we put one on the back of the television set by the way i do make it look a little bit easier than it is there is lots of electronics and secret sauce and all kinds of
+and if the demo gods are willing in about ten seconds or so we should see it the ten seconds actually are because we i don't know if any of you have ever thought about plugging a t v in when you so
+i'll plug that in it creates a magnetic field here it causes one to be created out here and as i said in sort of about ten seconds we should start to see this is a commercially
+commercially available color television set imagine you get one of these things you want to hang them on the wall how many people want to hang them on the wall think about it
+it also has coiled electronics that witricity has put into the back of it and if i can get sort of the camera okay great you'll see as i get sort of close
+and i know some of you are apple aficionados so you know they don't make it easy at apple to get inside their phones so we put a little sleeve on the back but we should be able to get this guy to wake up too and those of you that have an iphone recognize the green
+center and nokia as well you'll see that what we did there is put a little thing in the back to do that and it probably beeps actually as it goes on as well but they typically use it to light up the screen
+so imagine these things could go they could go in your ceiling they could go in the floor they could go actually underneath your desktop so that when you walk in or you come in from home
+if you carry a purse it works in your purse you never have to worry about plugging these things in again and think of what that would do for you so i think
+in closing sort of in the immortal visions of the new yorker magazine i thought i'd put up one more slide

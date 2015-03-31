@@ -1,0 +1,22 @@
+the greatest irony in global health is that the poorest countries carry the largest disease burden if we re size the countries of the globe in proportion to the subject of interest
+we see that sub saharan africa is the worst hit region by hiv aids this is the most devastating epidemic of our time
+we also see that this region has the least capability in terms of dealing with the disease there are very few doctors and quite frankly these countries do not have the resources that are needed to cope with such epidemics
+so what the western countries developed countries have generously done is they have proposed to provide free drugs to all people in third world countries who actually can't afford these medications
+and this has already saved millions of lives and it has prevented entire economies from capsizing in sub saharan africa
+but there is a fundamental problem that is killing the efforts in fighting this disease because
+if you keep throwing drugs out at people who don't have diagnostic services you end up creating a problem of drug resistance this is already beginning to happen in sub saharan africa
+the problem is that what begins as a tragedy in the third world could easily become a global problem and the last thing we want to see is drug resistant strains of
+hiv popping up all over the world because it will make treatment more expensive and it could also restore the pre arv carnage of hiv aids
+i experienced this firsthand as a high school student in uganda this was in the nineties during the peak of the
+before there were any arvs in sub saharan africa and during that time i actually lost more relatives as well as the teachers who taught me to hiv aids
+so this became one of the driving passions of my life to help find real solutions that could address these kinds of problems
+the good news is that the same technology that allowed miniaturization of electronics is now allowing us to miniaturize biological
+so right now we can actually miniaturize biological and chemistry laboratories onto microfluidic chips
+i was very lucky to come to the u s right after high school and was able to work on this technology and develop some devices
+this is a microfluidic chip that i developed a close look at how the technology works these are channels that are about the size of a human hair
+so you have integrated valves pumps mixers and injectors so you can fit entire diagnostic experiments onto a microfluidic system
+so what i plan to do with this technology is actually take the current state of the technology and build an hiv kit in a microfluidic system so with one microfluidic chip which is the size of
+you can actually diagnose one hundred patients at the same time for each patient we will be able to do up to one hundred different viral loads per patient and this is only done in four hours
+fifty times faster than the current state of the art at a cost that will be five to five hundred times cheaper than the current options so this will allow us to create
+in the third world at a cost that is actually achievable and make the world a safer place
+as well as your involvement in driving this vision to a point of practical reality thank you very much

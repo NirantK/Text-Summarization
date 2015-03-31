@@ -1,0 +1,62 @@
+admit that i 'm a little bit nervous here because i 'm going to say some radical things about how we should think about cancer differently to an audience that contains a lot of people who know a lot more about cancer than i do but i will also contest that i 'm not as nervous as i should be because i 'm pretty sure i 'm right about this
+in order to talk about cancer i 'm going to actually have to
+first i 'm going to try to give you a different perspective of genomics i want to put it in perspective of the bigger picture of all the other things that are going on and then talk about something you haven 't heard so much about which is proteomics having explained those that will set up for
+so let me start with genomics it is the hot topic it is the place where we 're learning the most this is the great frontier but it has its limitations and in particular you 've probably all heard the analogy that the genome is like the blueprint of your body
+a healthy restaurant and a sick restaurant
+and there probably are special cases of that you could certainly tell the difference between a chinese restaurant and a french restaurant by what they had in a larder so the list of ingredients does tell you something and sometimes it tells you something that 's wrong
+if they have tons of salt you might guess they 're using too much salt or something like that but it 's limited because really to know if it 's a healthy restaurant you need to taste the food you need to know what goes on in the kitchen you need the product of all of those ingredients
+so if i look at a person and i look at a person 's genome
+it 's the same thing the part of the genome that we can read is the list of ingredients
+and so indeed there are times when we can find ingredients that are bad cystic fibrosis is an example of a disease where you just have a bad ingredient and you have a disease and we can actually make a direct correspondence between the ingredient and the disease
+but most things you really have to know what 's going on in the kitchen because mostly sick people used to be healthy people they have the same genome
+so the genome really tells you much more about predisposition so what you can tell is you can tell the difference between an asian person and a european person by looking at their ingredients list but you really for the most part can 't tell the difference between a healthy person and a sick person except in some of these special cases so
+so mendel had this idea of a gene as an abstract thing
+and darwin built a whole theory that depended on them existing
+and then watson and crick actually looked and found one so this happens in physics all the time you predict a black hole and you look out the telescope and there it is just like you said but it rarely happens in biology so this great triumph it 's so good there 's almost a religious experience in biology
+your genome in your kitchen with a few extra ingredients
+so for instance by measuring the genome we 've learned a lot about how we 're related to other kinds of animals
+by the closeness of our genome
+just like genome mixes the study of all the genes proteomics is the study of all the proteins and the proteins are all of the little things in your body that are signaling between the cells actually the machines that are operating that 's where the action is basically a human body
+when you 're sick something 's gone wrong with that conversation
+and it takes a long long time and it matters how much of the protein it is it could be very significant that a protein changed by ten percent so it 's not a nice digital thing
+people have tried very hard to do this i tried this a couple of times and looked at this problem and gave up on it i kept getting this call from this oncologist named david agus
+and applied minds gets a lot of calls from people who want help with their problems and
+i didn 't think this was a very likely one to call back so i kept on giving him to the delay list and then one day i get a call from john doerr bill berkman and al gore on the same day saying
+return david agus 's phone call
+and he took me through specific
+and as we did it we realized this was the basic problem that taking the sip of coffee that there were humans doing this complicated process and that what really needed to be done was to automate this process like an assembly line
+and build robots that would measure proteomics and so we did that and working with david we made a little company called applied proteomics eventually which makes this robotic assembly line which in a very consistent way measures the protein and i 'll show you what that protein measurement looks like
+basically what we do is we take a drop of blood out of a patient
+and we arrange them in an image and so we can look at literally hundreds
+is actually the thing that got me really thrilled about this and made me feel like we were on the right track
+so if i zoom into that picture i can just show you what it means we sort out the proteins from left to right is the weight
+as a different chemical so we 're actually measuring each isotope as a different one
+and so that gives you an idea of how exquisitely sensitive this is so seeing this picture is sort of like getting to be galileo and looking at the stars and looking through the telescope for the first time and suddenly you say wow it 's way more complicated than we thought it was but we can see that stuff out there
+and actually see features of it
+so this is the signature out of which we 're trying to get patterns so what we do with this
+and so we can make these measurements precisely enough that we can overlay two patients the condition
+that allows them to respond to this drug we might not even know what this protein is but we can see it 's a marker for the response to the disease so
+this already i think is tremendously useful in all kinds of medicine
+but i think this is actually just the beginning of how we 're going to treat cancer so let me move to cancer
+we 're treating it as something that got inside of you that we have to kill
+so this is the great paradigm this is another case where a theoretical paradigm in biology really worked was the germ theory of disease so what doctors are mostly trained to do is diagnose that is put you into a category
+and apply a scientifically proven treatment for that diagnosis and that works great for infectious diseases
+so if we put you in the category of you 've got syphilis we can give you penicillin
+but now let 's apply that to systems diseases like cancer
+the problem is that in cancer there isn 't something else that 's inside of you it 's you you 're broken that conversation inside of you got mixed up in some way so how do we diagnose that conversation well right now what we do is we divide it by part of the body
+what actually went wrong and of course it really doesn 't have that much to do with what went wrong because cancer is a failure of the system and in fact i think we 're even wrong when we talk about cancer as a thing
+i think this is the big mistake i think cancer should not be a noun we should talk about cancering
+imagine we didn 't know anything about plumbing
+we might divide it the plumber would say well where 's the water well it 's in the kitchen oh you must have kitchen water
+but i 'm saying that 's not really the problem that 's the symptom of the problem what we really need to get at is the process that 's going on and that 's happening at the level of the proteonomic actions happening at the level of why is your body not healing itself in the way that it normally does
+of what 's actually going on and proteomics actually gives us
+the ability to build a model like that david got me invited to give a talk at national cancer institute and anna barker was there
+because nobody within cancer would look at it this way but what we 're going to do is we 're going to create a program for people outside the field of cancer to get together with doctors who really know about cancer
+to have a research project that will last for five years where we 're really going to try to build a model of cancer like this we 're doing it in mice first
+where we can understand when cancer happens what 's actually happening in there and which treatment will treat that cancer so let me just end with giving you a little picture of what i think cancer treatment will be like in the future
+so i think eventually once we have one of these models for people for your particular cancer
+and this also will be for als or any kind of system neurodegenerative diseases things like that
+we will simulate specifically you not just a generic person but what 's actually going on inside you
+give them a little chemotherapy maybe a little radiation of course we 'll do surgery sometimes and so on but
+design a program of treatments specifically for you and help your body guide back to health guide your body back to health
+and so i believe that this will be the way that cancer will be treated in the future it 's going to require a lot of work a lot of research there will be many teams like our team that work on this but i think eventually

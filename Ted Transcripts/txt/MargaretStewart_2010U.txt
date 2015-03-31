@@ -1,0 +1,22 @@
+so if you're in the audience today or maybe you're watching this talk in some other time or place you are a participant in the digital rights ecosystem
+whether you're an artist a technologist a lawyer or a fan the handling of copyright directly impacts your life now rights management is no longer simply a question of ownership
+it's a complex web of relationships and a critical part of our cultural landscape youtube cares deeply about the rights of content owners
+but in order to give them choices about what they can do with copies mash ups and more we need to first identify when copyrighted material is uploaded to our site
+a fan saw it on tv recorded with her camera phone and uploaded it to youtube now because sony music had registered chris brown 's video in our content id system
+well it starts with content owners delivering assets into our database along with a usage policy that tells us what to do when we find a match
+now this heat map is going to show you how the brain of the system works here we can see the original reference file being compared to the user generated content
+the system compares every moment of one to the other to see if there's a match now this means that we can identify a match even if the copy used is just a portion of the original file plays it in slow motion and has degraded audio and video quality
+and we do this every time that a video is uploaded to youtube and that's over twenty hours of video every minute when we find a match we apply the policy that the rights owner has set down
+and the scale and the speed of this system is truly breathtaking we're not just talking about a few videos
+we're talking about over one hundred years of video every day between new uploads and the legacy scans we regularly do across all of the content on the site
+well most rights owners instead of blocking will allow the copy to be published and then they benefit through the exposure advertising and linked sales
+about this is if the processional of the wedding was this much fun can you imagine how much fun the reception must have been
+i mean who are these people i totally want to go to that wedding
+so their little wedding video went on to get over forty million views
+and instead of sony blocking they allowed the upload to occur and
+eighteen months old went back to number four on the itunes charts so sony is generating revenue from both of these
+it's truly an ecosystem of culture because it's not just amateurs borrowing from big studios but sometimes big studios borrowing back
+so why has no one ever solved this problem before it's because it's a big problem and it's complicated and messy it's not uncommon for a single video to have multiple rights owners
+so we have to manage many claims to the same video youtube 's content id system addresses all of these cases but the system only works through the participation of rights owners
+if you have content that others are uploading to youtube you should register in the content id system and then you'll have the choice about how your content is used
+and think carefully about the policies that you attach to that content by simply blocking all reuse you'll miss out on new art forms new audiences new distribution channels and new revenue streams

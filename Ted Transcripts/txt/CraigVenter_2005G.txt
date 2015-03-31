@@ -1,0 +1,79 @@
+what i'm going to tell you about in my eighteen minutes is how we're about to switch from reading the genetic code to the first stages of beginning to write the code ourselves
+it's only ten years ago this month when we published the first sequence of a free living organism that of haemophilus influenzae that took a genome project from thirteen years down to four months
+we can now do that same genome project in the order of two to eight hours so in the last decade a large number of genomes have been added most human pathogens
+a couple of plants several insects and several mammals including the human genome
+it's on the order of several hundred we just got a grant from the gordon and betty moore foundation to sequence one hundred and thirty genomes this year
+as a side project from environmental organisms so the rate of reading the genetic code has changed
+but as we look what's out there we've barely scratched the surface on what is available on this planet
+and on the order of ten million viruses less than five thousand microbial species have been characterized as of two years ago and so we decided to do something about it and we started the sorcerer ii expedition
+where we were as with great oceanographic expeditions trying to sample the ocean every two hundred miles
+we started in bermuda for our test project then moved up to halifax working down the u s east coast the caribbean sea the panama canal through to the galapagos then across the pacific
+and we're in the process now of working our way across the indian ocean it's very tough duty we're doing this on a sailing vessel in part to help excite young people about going into science
+the experiments are incredibly simple we just take seawater and we filter it and we collect different size organisms on different filters
+and then take their dna back to our lab in rockville where we can sequence a hundred million letters of the genetic code every twenty four hours and with doing this we've made some amazing discoveries
+for example it was thought that the visual pigments that are in our eyes there was only one or two organisms in the environment that had these same pigments
+it turns out almost every species in the upper parts of the ocean in warm parts of the world have these same photo receptors and use sunlight as the source of their energy and communication
+from one site from one barrel of seawater we discovered one point three million new genes and as many as fifty thousand new species
+we've extended this to the air now with a grant from the sloan foundation we're measuring how many viruses and bacteria all of us are breathing in and out every day particularly on airplanes or closed auditoriums
+we filter through some simple apparatuses we collect on the order of a billion microbes from just a day filtering on top of a building in new york city and we're in the process of sequencing all that at the present time
+just on the data collection side just where we are through the galapagos we're finding that almost every two hundred miles we see tremendous diversity in the samples in the ocean
+some of these make logical sense in terms of different temperature gradients so this is a satellite photograph
+based on temperatures red being warm blue being cold and we found there's a tremendous difference between the warm water samples and the cold
+we can predict that based on their amino acid sequence and these vary tremendously from region to region
+maybe not surprisingly in the deep ocean where it's mostly blue the photo receptors tend to see blue light
+just to try and get an assessment of what our gene repertoire was we assembled all the data
+and we tried to put these into gene families to see what these discoveries are are we just discovering new members of known families or are we discovering new families
+and it turns out we have about fifty thousand major gene families but every new sample we take in the environment adds in a linear fashion to these new families so we're at the earliest stages of discovery about
+basic genes components and life on this planet when we look at the so called evolutionary tree
+up on the upper right hand corner with the animals of those roughly twenty nine million genes we only have around twenty four thousand in our genome
+and if you take all animals together we probably share less than thirty thousand and probably maybe a dozen or more thousand different gene families
+i view that these genes are now not only the design components of evolution and we think in a gene centric view
+maybe going back to richard dawkins ideas than in a genome centric view which are different constructs of these gene components
+synthetic dna the ability to synthesize dna has changed at sort of the same pace that dna sequencing has over
+from mycoplasma genitalium and we have really nice t shirts that say you know i heart my genitalium this is actually just a microorganism
+so we started doing transposon mutagenesis transposons are just small pieces of dna that randomly insert in the genetic code and if they insert in the middle of the gene they disrupt its function
+so we made a map of all the genes that could take transposon insertions and we called those non essential genes but it turns out the environment is very critical for this and
+you can only define an essential or non essential gene based on exactly what's in the environment
+and we got these overlapping circles and we found only one hundred and seventy three genes common to all thirteen organisms
+the pool expanded a little bit if we ignored one intracellular parasite it expanded even more when we looked at core sets of genes of three hundred and ten or so
+the only way to prove these ideas was to construct an artificial chromosome with those genes
+and we had to do this in a cassette based fashion we found that synthesizing accurate dna in large pieces was extremely difficult ham smith and clyde hutchison my colleagues on this
+an exciting new method that allowed us to synthesize a five thousand base pair virus in only a two week period that was one hundred percent accurate
+in terms of its sequence and its biology it was a quite exciting experiment when we just took the synthetic piece of dna injected it in the bacteria and all of a sudden that dna started driving
+the production of the virus particles that turned around and then killed the bacteria this was not the first synthetic virus a polio virus had been made a year before
+this is a case where the software now builds its own hardware and that's the notions that we have with biology
+and i think it's important to keep reality in mind versus what happens with people 's imaginations
+basically any virus that's been sequenced today that genome can be made and people immediately freak out about things about ebola or smallpox
+but the dna from this organism is not infective so even if somebody made the smallpox genome that dna itself would not cause infections
+the real concern that security departments have is designer viruses and there's only two countries the u s and the former soviet union that had major efforts on trying to create biological warfare agents
+if that research is truly discontinued there should be very little activity on the know how to make designer viruses in the future i think single cell organisms are possible within two years
+and possibly eukaryotic cells those that we have are possible within a decade so we're now making
+several dozen different constructs because we can vary the cassettes and the genes that go into this artificial chromosome
+the key is how do you put all of the others we start with these fragments and then we have a homologous recombination system that reassembles those into a chromosome
+this is derived from an organism deinococcus radiodurans that can take three million rads of radiation and not be killed
+it reassembles its genome after this radiation burst in about twelve to twenty four hours after its chromosomes are literally blown apart
+this is a glass beaker after about half a million rads of radiation the glass started to burn and crack while the microbes sitting in the bottom just got happier
+and happier here 's an actual picture of what happens the top of this shows the genome after one point seven
+million rads of radiation the chromosome is literally blown apart and here 's that same dna automatically reassembled twenty four hours later it's truly stunning that these organisms can do that
+doing that after these genomes are synthesized the first step is just transplanting them into a cell without a genome
+so we think synthetic cells are going to have tremendous potential not only for understanding the basis of biology but for hopefully environmental
+and society issues for example from the third organism we sequenced methanococcus jannaschii it lives in boiling water temperatures
+its energy source is hydrogen and all its carbon comes from co two it captures back from the environment
+so we know lots of different pathways thousands of different organisms now that live off of co two and can capture that back
+so instead of using carbon from oil for synthetic processes we have the chance of using carbon and capturing it back from the atmosphere converting that into biopolymers or other products
+we have one organism that lives off of carbon monoxide and we use as a reducing power to split water to produce hydrogen and oxygen
+also there's numerous pathways that can be engineered metabolising methane and dupont has a major
+within a short while i think there's going to be a new field called combinatorial genomics because with these new synthesis capabilities
+these vast gene array repertoires and the homologous recombination we think we can design a robot to make maybe a million different chromosomes a day
+and therefore as with all biology you get selection through screening whether you're screening for hydrogen production or chemical production or just viability
+to understand the role of these genes is going to be well within reach we're trying to modify photosynthesis to produce hydrogen directly from sunlight photosynthesis
+by oxygen and we have an oxygen insensitive hydrogenase that we think will totally change this process
+we're also combining cellulases the enzymes that break down complex sugars into simple sugars and fermentation in the same cell for producing ethanol
+future engineered species could be the source of food hopefully a source of energy environmental remediation
+and perhaps replacing the petrochemical industry let me just close with ethical and policy studies we delayed
+every major religion participated in this it was actually a very strange study because the various religious leaders were using their scriptures
+as law books and they couldn't find anything in them prohibiting making life so it must be ok the only ultimate concerns were biological warfare aspects of this
+right now the sloan foundation has just funded a multi institutional study on this to work out what the risk and benefits to society are and the rules that scientific teams such as my own
+should be using in this area and we're trying to set good examples as we go forward these are complex issues except for the threat of bio terrorism
+very simple issues in terms of can we design things to produce clean energy perhaps revolutionizing
+what developing countries can do and provide through various simple processes thank you very much

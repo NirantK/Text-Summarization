@@ -1,0 +1,104 @@
+you're a student in my lab
+you to help me create a fully three d dynamic parameterized contact model
+and it is a true challenge and i do want you to help me of course in the challenge there is a prize
+but it is an exclusive t shirt from our lab so please send me your ideas
+how to design a foot
+the lower extremity of a leg that is in direct contact with the ground in standing or walking that's the traditional definition but if you wanted to really do research what do you have to do you have to go to the literature and look up what's known about feet
+there are many many feet
+need to survey all feet and extract principles of how they work and i want you to help me do that in this next clip as you see this clip look for principles in order to understand
+in order to understand how a foot works
+it's a design inspired by nature but it's not a copy of any specific foot you just looked at
+but it's a synthesis of the
+it turns out that animals can go anywhere they can locomote on substrates that vary as you saw in the probability of contact the movement of that surface
+and the type of footholds that are present if you want to study how a foot works we're going to have to simulate those surfaces or simulate that debris
+when we did that here 's a new experiment that we did
+we put an animal and had it run this grass spider on a surface with ninety nine percent of the contact area removed but it didn't even slow down the animal it's still running at the human equivalent of three hundred miles per hour
+well look more carefully when we slow it down fifty times we see how the leg is hitting that simulated debris the leg is acting as a foot and in fact the animal contacts other parts of its leg
+more frequently than the traditionally defined foot the foot is distributed along the whole leg
+passing some cockroaches around take a look at their feet
+here 's what it does it doesn't even slow
+can run the same speed without even that segment no problem for the cockroach they can grow them back if you care
+very effective now the question we had is how general is a distributed foot
+and the next behavior i'll show you of this animal just
+stunned us the first time that's a bipedal octopus
+that's disguised as a rolling coconut
+it was discovered by christina huffard and filmed by sea studios right here from monterey we've also described
+we've also described another species of
+walks on two legs and it holds the other arms up in the air
+so that it can't be seen to get over
+uses that beautiful distributed foot
+those obstacles are not even there
+he thought he created an animal fantasy
+but we know that art imitates life and it turns out nature three million years ago evolved the next animal it's a shrimp like animal called the stomatopod and here 's how it moves on the beaches of
+if we want to then to our blueprint add the first important feature we want to add distributed foot contact not just with the traditional foot but also the leg and even of the body
+can this help us inspire the design of novel robots we biologically inspired this robot named rhex built by these extraordinary
+engineers over the last few years rhex 's foot started off to be quite simple then it got tuned over time and ultimately resulted in this half circle
+why is that the video will show you watch where the robot now contacts its leg in order to deal with this very difficult terrain
+over this you can see it here well on this
+really simple but beautiful now you might have noticed something else about the animals when they were running over the rough terrain and my assistant 's going to help me here when you touched the cockroach leg can you
+it's spiny right it's really spiny isn't it it sort of hurts maybe we could give it to our curator and see if he'd be brave enough to touch the
+that they have spines and until a few weeks ago no one knew what they did they assumed that they were for protection and for sensory structures we found that they're for something else here 's a segment of
+tuned such that they easily collapse in one direction to pull the leg out from debris but they're stiff in the other direction so they capture disparities in the surface
+now crabs don't miss footholds because they normally move on sand until they come to our lab
+a problem with this kind of mesh because they don't have spines
+the crabs are missing spines so they have a problem in this kind of rough terrain
+but of course we can deal with that
+because we can produce artificial spines we can make spines that catch on simulated debris and collapse on removal to easily pull them out we did that by putting these artificial spines on
+do we really understand that principle of tuning the answer is yes this is slowed down twenty fold and the crab just zooms across that simulated debris
+so to our blueprint we need to add tuned spines
+my colleagues did this at u penn dan koditschek put some steel nails very simple version on the robot and here 's rhex now going over those steel those rails
+no problem how does it do it let 's slow it down and you can see the spines in action watch the leg come around and you'll see it grab on right there
+do that before it would just slip and get stuck and tip over and watch again right there
+just because we have a distributed foot and spines doesn't mean you can climb vertical surfaces
+this is really really difficult
+the animal effectively climbs by slipping and look and doing actually terribly with respect to grabbing on the surface it looks in fact like it's swimming up the surface
+can actually model that behavior better as a fluid if you look at it the distributed foot actually is working more like a paddle
+the same is true when we looked at this lizard running on fluidized sand
+watch its feet it's actually functioning as a paddle even though it's interacting with a surface that we normally think of as a solid
+now converted into an incredibly maneuverable
+at stanford university one of my collaborators is an extraordinary engineer who developed this technique called shape deposition manufacturing where he can imbed claws right into an artificial foot and here 's the simple version
+of a foot for a new robot that i'll show you
+so to our blueprint let 's attach claws
+look at animals though to be really maneuverable in all surfaces the animals use hybrid mechanisms that include claws and spines and
+you see the hairs and the claws and this thing here this is when its foot is is in the air
+pad comes out and that's where the glue is
+here from underneath is an ant foot and when the claws don't dig in that pad automatically comes out without the ant doing anything
+it just extrudes and this was a hard shot to get i think this is
+the ant foot on the superstrings
+this is what it looks like close up here 's the ant foot
+now you might think for smooth surfaces we get inspiration here
+now we have something better here
+the gecko 's a really great example of nanotechnology in nature these are its feet they're almost look alien and the secret which they stick on with
+they can run up a surface at a meter per second take thirty steps in that one second you can hardly see them if we slow it down they attach their feet at eight milliseconds and detach them in sixteen milliseconds
+peel away from the surface like you'd peel away a piece of tape very strange
+if you look at their feet they have leaf like structures called linalae with millions of hairs and each hair has the worst case
+ends possible it has a hundred to a thousand split ends and that's the secret because it allows intimate contact the gecko has a billion of these two hundred nanometer sized split ends
+so to our blueprint we split some hairs
+patent issued we're happy to say and here 's the simplest version in nature and here 's my collaborator ron fearing 's attempt at an artificial version of this dry adhesive made from polyurethane and here 's the first
+have it work on some load there's enormous interest in this in a variety of different fields you could think of a thousand possible uses i'm sure
+lots of people have and we're excited about realizing this as a product we have imagined products for example this one
+we imagined a bio inspired band aid where we took the glue off the band aid we took some hairs from a molting gecko put three rolls of them on here and then made
+this is an undergraduate volunteer we have thirty thousand undergraduates so we can choose among them
+actually just a red pen mark
+i think this is an extraordinary example of how curiosity based research we just wondered how they climbed up something can lead to things that you could never imagine it's just an example of why we need to
+we've redefined now what a foot is
+the question is can we use these secrets then to inspire the design of a better foot better than one we see in nature here 's the new project
+we're trying to create the first
+i call the new robot rise
+it's six legged and has a tail here it is on a fence and a tree
+try to add spines and claws and set it for dry adhesives so the idea is to first get the toes and a foot right attempt to make that climb and ultimately put it on the robot and that's exactly what he 's done he 's built
+so these are tuned toes there are six of them
+and they use the principles that i just talked about collectively
+so this is not using any suction any glue and it will ultimately when it's attached to the robot
+as biologically inspired as the animal hopefully be able to
+climb any kind of a surface
+here you see it next going up the side of a building at stanford
+it's sped up again it's a foot climbing it's not the whole robot yet we're working on it now you can see how it's attaching these tuned structures allow the spines friction pads and ultimately the adhesive hairs to grab on to very challenging difficult surfaces
+ok you can visualize this now it's not impossible it's a very challenging
+but more to come later to finish we've gotten design secrets from nature by looking at how
+learned we should distribute control to smart parts don't put it all in the brain but put some of the control in tuned feet legs and even body
+nature uses hybrid solutions not a single solution to these problems and they're integrated and beautifully robust
+and third we believe strongly that we do not want to mimic nature but instead be inspired by biology and use these novel principles
+the best engineering solutions that are out there to make potentially something better than nature
+so there's a clear message whether you care about
+a fundamental basic research of really interesting bizarre wonderful animals or you want to build a search and rescue robot that can help you in an earthquake or to save someone in a fire or you care about medicine you to imagine

@@ -1,0 +1,6 @@
+this is a work in process based on some comments that were made at ted two years ago about the need for the
+and then as the ammonia re evaporates and combines with the water back on the erstwhile hot side it creates a powerful cooling effect so it was a great idea that didn't work at all it blew up
+because using ammonia you get hugely high pressures if you heated them wrong it topped four hundred psi the ammonia was toxic it sprayed everywhere but it was kind of an interesting thought
+so the great thing about two thousand and six is there's a lot of really great computational work you can do so we
+got the whole thermodynamics department at stanford involved a lot of computational fluid dynamics we proved that most of the ammonia refrigeration tables are wrong we found some non toxic refrigerants that worked at very low vapor pressures
+put it into a container and it will refrigerate for twenty four hours it looks like this this is the fifth prototype it's not quite done weighs about eight pounds

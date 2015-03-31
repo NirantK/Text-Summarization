@@ -1,0 +1,63 @@
+mission is to build a detailed realistic computer model of the human brain and we 've done in the past four years a proof of concept on a small part of the rodent brain and with this proof of concept we are now scaling the project up to reach
+the human brain why are we doing this there are three important reasons the first is it 's essential for us to understand the human brain if we do want to get along in society and i think that it is a key step in evolution
+the second reason is we cannot keep doing animal experimentation forever
+and we have to embody all our data and all our knowledge into a working model it 's like a noah 's ark it 's like an archive
+and the third reason is that there are two billion people on the planet that are affected by mental disorder and the drugs that are used today are largely empirical i think that we can come up with very concrete solutions on how to treat disorders
+one theory of how the brain works
+so this theory is that the brain creates builds a version of the universe and projects this version of the universe like a bubble all around us
+now this is of course a topic of philosophical debate for centuries but for the first time we can actually address this with brain simulation and ask very systematic and rigorous questions whether this theory could possibly be true
+the reason why the moon is huge on the horizon is simply because our perceptual bubble does not stretch out three hundred and eighty thousand kilometers it runs out of space and so what we do is we compare the buildings
+within our perceptual bubble and we make a decision
+we make a decision it 's that big even though it 's not that big and what that illustrates is that decisions are the key things that support
+our perceptual bubble it keeps it alive without decisions you cannot see you cannot think you cannot feel
+and you may think that anesthetics work by sending you into some deep sleep
+or by blocking your receptors so that you don 't feel pain but in fact most anesthetics don 't work that way what they do is they introduce a noise into the brain so that the neurons cannot understand each other they are confused and you cannot make a decision
+so while you 're trying to make up your mind what the doctor the surgeon is doing while he 's hacking away at your body he 's long gone he 's at home having tea
+thousands of decisions about the size of the room the walls the height the objects in this room ninety nine percent of what you see is not what comes in through the eyes
+it is what you infer about that room
+so i can say with some certainty i think therefore i
+but i cannot say you think therefore you are because you are within my perceptual bubble
+is it capable of doing it does it have the substance to do it and that 's what i 'm going to describe to you today
+so it took the universe eleven billion years to build the brain it had to improve it a little bit it had to add to the frontal part so that you would have instincts because they had to cope on land but the real big step
+was the neocortex it 's a new brain you needed it the mammals needed it because they had to cope with parenthood
+social interactions complex cognitive functions so you can think of the neocortex actually as the ultimate solution today of the universe as we know it
+it 's the pinnacle it 's the final product that the universe has produced
+it was so successful in evolution that from mouse to man it expanded about a thousandfold in terms of the numbers of neurons to produce this almost frightening
+organ structure and it has not stopped its evolutionary path in fact the neocortex in the human brain is evolving at an enormous speed
+if you zoom into the surface of the neocortex you discover that it 's made up of little modules g five processors like in a computer but there are about a million of them
+they were so successful in evolution that what we did was to duplicate them over and over and add more and more of them to the brain until we ran out of space in the skull and the brain started to fold in on itself and that 's why the neocortex is so highly convoluted we 're just packing in columns
+so that we 'd have more neocortical columns to perform more complex functions
+it it produces a symphony but it 's not just a symphony of perception it 's a symphony of your universe your reality now of course it takes years to learn how to master a grand piano with a million keys that 's why you have to send your kids to good schools hopefully eventually to oxford
+but it 's not only education it 's also
+genetics you may be born lucky where you know how to master your neocortical column and you can play a fantastic symphony in fact there is a new theory of autism called the intense world theory which suggests that the neocortical columns are super columns
+they are highly reactive and they are super plastic and so the autists are probably capable of building and learning a symphony which is unthinkable for us
+but you can also understand that if you have a disease within one of these columns the note is going to be off the perception the symphony that you create is going to be corrupted and you will have symptoms of disease so the holy grail
+for neuroscience is really to understand the design of the neocoritical column
+and it 's not just for neuroscience it 's perhaps to understand perception to understand reality and perhaps to even also understand physical reality so what we did was
+for the past fifteen years was to dissect out the neocortex systematically it 's a bit like going and cataloging a piece of the rainforest
+but it 's a bit more than cataloging because you actually have to
+describe and discover all the rules of communication the rules of connectivity because the neurons don 't just like to connect with any neuron they choose very carefully who they connect with it 's also more than cataloging because you actually have to build three dimensional digital models of them
+and we did that for tens of thousands of neurons built digital models of all the different types of neurons we came across and once you have
+and here we 're coiling them up but as you do this what you see is that the branches intersect actually in millions of locations
+and at each of these intersections they can form a synapse and a synapse is a chemical location where they communicate with each other
+and these synapses together form the network or the circuit of the brain
+now the circuit you could also think of as the fabric of the brain and when you think of the fabric of the brain the structure how is it built what is the pattern of the carpet
+you realize that this poses a fundamental challenge to any theory of the brain and especially to a theory that says that there is some reality that emerges out of this carpet out of this particular carpet with a particular pattern the reason is because the most important design secret of the brain is diversity
+every neuron is different it 's the same in the forest every pine tree is different you may have many different types of trees but every pine tree is different and in the brain it 's the same so there is no neuron in my brain that is the same as another and there is no neuron in my brain that is the same as in yours
+and your neurons are not going to be oriented and positioned in exactly the same way and you may have more or less neurons so it 's very unlikely that you got the same fabric the same circuitry so how could we possibly create a reality that we can even understand each other
+well we don 't have to speculate we can look at all ten million synapses now we can look at the fabric and we can change neurons we can use different neurons with different variations we can position them in different places orient them in different places we can use less or more of them and when we do that
+what we discovered is that the circuitry does change but the pattern of how the circuitry is designed does not so the fabric
+of the brain even though your brain may be smaller bigger it may have different types of neurons different morphologies of neurons we actually do share
+the same fabric and we think this is species specific which means that that could explain why we can 't communicate across species so let 's switch it on but to do it what you have to do is you have to make this come alive we make it come alive
+with equations a lot of mathematics and in fact the equations that make neurons into electrical generators were discovered by two cambridge nobel laureates so we have the mathematics to make neurons come alive we also have the mathematics to describe how neurons collect information
+but what you do need is a very big computer and in fact you need one laptop to do all the calculations just for one neuron so you need ten thousand laptops so where do you go you go to ibm and you get a supercomputer because they know how to take ten thousand laptops and put it into the size of a refrigerator
+so now we have this blue gene supercomputer we can load up all the neurons each one on to its processor and fire it up and see what happens take the magic carpet for a ride
+here we activate it and this gives the first glimpse of what is happening in your brain when there is a stimulation it 's the first view now when you look at that the first time you think my god how is reality coming out of that but in fact
+you can start even though we haven 't trained this neocortical column to create a specific reality but we can ask where is the rose
+we can ask where is it inside if we stimulate it with a picture where is it inside the neocortex ultimately it 's got to be there if we stimulated it with it
+so the way that we can look at that is to ignore the neurons ignore the synapses and look just at the raw electrical activity because that is what it 's creating it 's creating electrical patterns so when we did this we indeed for the first time saw these ghost like structures
+electrical objects appearing within the neocortical column
+and it 's these electrical objects that are holding all the information about whatever stimulated it and then when we zoomed into this it 's like a veritable universe
+so the next step is just to take these brain coordinates and to project them into perceptual space and if you do that you will be able to step inside the reality that is created by this
+machine by this piece of the brain
+so in summary i think that the universe may have it 's possible evolved a brain to see itself which may be a first step in becoming aware of itself there is a lot more to do to test these theories and to test any other theories

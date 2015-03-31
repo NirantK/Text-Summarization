@@ -1,0 +1,83 @@
+does anybody know when the stethoscope was invented
+and what i can say is in two thousand and sixteen
+has been wireless devices but the future are digital medical
+wireless devices okay so let me give you some examples of this to kind of make this much more concrete this is the first one
+this is an electrocardiogram and as a cardiologist to think that you could see in real time a patient an individual anywhere in the world on your smartphone watching your rhythm that's incredible and it's with us today
+but that's just the beginning
+you check your email while you're sitting here in the future you're going to be checking all your vital signs
+all your vital signs your heart rhythm your blood pressure your oxygen your temperature etc this is already available today this is airstrip
+if you're an expectant parent what about the ability to monitor continuously fetal heart rate or intrauterine contractions and not having to
+they won 't have to be implanted and of course the desired range trying to keep glucose between seventy five and less than two hundred checking it every five minutes in a continuous glucose sensor you'll see how that can impact diabetes
+and what about sleep we're going to zoom in on that a little bit we're supposed to spend a third of our life in sleep what if on your phone which will be available in the next few weeks you had every minute of your sleep displayed
+and this is of course as you can see the awake is the orange the rem sleep rapid eye movement dream state is in light green and light is gray light sleep and deep sleep the best restorative sleep is that dark green
+how about counting every calorie and this is ability in real time to actually take measurements of caloric intake as well as expenditure through
+now what i've talked about are physiologic metrics but what i want to get to the next frontier very quickly and why the stethoscope is on its way out
+is because we can transcend listening to the valve sounds and the breath sounds because now introduced by g e is a handheld ultra sound
+why is this important because this is so much more sensitive here is an example of an abdominal ultrasound and also a cardiac echo
+which can be sent wireless and then there is an example of fetal monitoring on your smartphone so we're not just talking about physiologic metrics the key measurements of vital signs and all those things in physiology but also all the imaging
+that one could look at in your smartphone now this is an example of another obsolete technology soon to be buried the holter monitor twenty four hour recording lots of wires this is now a little tiny patch
+you can put it on for two weeks and send it in the mail
+now how does this work well there is these smart band aids or these sensors that one would put on on a shoe or on the wrist and this sends a signal it creates a body area network
+to a gateway gateway could be a smartphone or it could be a dedicated gateway as today many of these things are dedicated gateways because they are not so well integrated
+that signal goes to the web the cloud and then it can be processed and sent anywhere to a caregiver to a physician back to the patient etc so that's basically very simplistic technology of how this works
+now i have this device on i didn't want to take my shirt off to show you but i can tell you it's on this is a device that not only measures cardiac rhythm as you saw already but it also goes well beyond that
+and you can see the ecg below that is the actual heart rate and the trend to the right of that is a bioconductant that's the fluid status
+and respiration and oxygen and then the position activity so this is really striking because this device measures seven things
+that are very much vital signs for monitoring someone with heart failure
+and why is this important well this is the most expensive bed what if we could reduce the need for hospital beds well we can 't first of all heart failure is the number one
+reason for hospital admissions and readmissions in this country the cost of heart failure is thirty seven billion dollars a year
+which is eighty percent related to hospitalization and in the course of thirty days after a hospital stay for a medicare greater than sixty five years or older
+is twenty seven percent are readmitted in thirty days otherwise over six months over fifty six percent are readmitted so can we improve that well the idea is we take this device
+i'm wearing and we put it on six hundred patients with heart failure randomly assigned versus six hundred patients who don't have active monitoring and see whether we can reduce heart failure readmissions
+and we'll start that trial and you'll hear more about how we're going to do that but that's a type of wireless device trial that could change medicine in the years ahead
+why now why is this all of a sudden become a reality an exciting direction in the future of medicine what we have is in a way a perfect positive storm
+this sets up consumer driven healthcare that's where this is all starting let me just give you specifics about why this is a big movement if you're not aware of it one point two million americans have gotten a nike shoe
+which is a body area network that connects the shoe the sole of the shoe to the iphone or an ipod and this wired magazine cover article really captured a lot of this
+a lot about the nike shoe and how quickly that's been adopted to monitor exercise physiology and energy expenditure here is some things the principles that are guiding principles to keep in mind
+data driven health revolution promises to make us all better faster and stronger living by numbers and this one which was really telling this was from july this cover article
+well i tried this device a lot of you have gotten that phillips direct life i didn't have one of those but i got the fitbit
+but this monitors food it monitors activity and tracks weight however you have to put in most of this stuff the only thing it really tracks by itself is activity and even then it's not complete
+you exercise and it picks up the exercise you put in your height and weight it calculates bmi and
+of course it tells you how many calories you're expending from the exercise and how many you took in if you go in and enter all the foods but it really wants you to enter all your activity
+and so i went to this and of course i was gratified that it picked up the forty two minutes of exercise elliptical exercise i did
+but then it wants more information so it says you want to log sexual activity how long did you do it for
+and it says how hard was it
+to a very nice alarm clock by the way this is the headband that goes with this alarm clock
+okay well this was a week of my life in sleeping and you get a z q score instead of an i q score you get a z q score when you wake up you say oh okay and a z q score is adjusted to age and you want to get as high as you possibly
+and so this is the moment by moment or minute by minute sleep and you see that z q there was eighty odd and the wake time is in orange
+and this can be a problem as i learned because it not only helps you with quantifying your sleep but also tells others you're awake
+so when my wife came in and she could tell you're awake eric i want to talk i want to talk and i'm trying to play possum this thing is very very impressive
+so that's the first night and this one is now sixty seven and that's not a good score and this tells you of course how much you had in rem sleep in deep sleep and all this sort of thing this was really fascinating because this gave that quantitation about all the different phases of sleep
+so it also then tells you how you do compared to your age group it's like a managed competition of sleep
+and really interesting stuff look at this thing and say well i didn't think i was a very good sleeper but actually i did better than average in fifty to sixty year
+and the key thing was what i didn't know was that i was a really good dreamer okay now let 's move from sleep to diseases
+eighty percent of americans have chronic disease or eighty percent of age
+five whatever trillion expenditures are related to chronic disease now diabetes is one of the big ones almost twenty four million people
+have diabetes and here is the latest map it was published just a little more than a week ago in the new york times and it isn't looking good
+that is for men twenty nine percent in the country over sixty have type ii diabetes and women although it's less it's terribly high
+but of course we have a way to measure that now on a continuous basis with a sensor that detects blood glucose i mean it's important because we could detect
+but by continuous monitoring it captures all that vital information the future of this though is being able to move this to a band aid type phenomenon and that's not so far away
+so let me just give you very quickly ten top targets for wireless medicine all these things are possible some of them are very close or already as you heard are available today in some way or form alzheimer 's disease
+five million people affected and you can check vital signs activity balance asthma large number you could detect things like pollen count air quality respiratory rate breast cancer i'll show you an example of that real quickly
+and obesity we already talked about the ways to get to that and sleep disorders this is effective around the world the access to smartphones and cell phones today is extraordinary
+and this article from the economist summed it up beautifully about the opportunities in health across the developing world mobile phones made a bigger difference to the lives of more people more quickly
+than any previous technology and that's before we got going on the m health world
+aging the problem is enormous three hundred thousand broken hips per year but the solutions are extraordinary and they include so many different things
+one of many different techniques using wireless sensors so we can change medicine across the continuum of care across the ages from premies or unborn children to seniors the pharmaceutical arena changes
+the full spectrum of disease i hope i've given you a sense of that across the globe there are two things that can really accelerate this whole process
+one of them we're very fortunate is to develop a dedicated institute and that's work that started with the work that
+with qualcomm and then the great fortune of meeting up with gary and mary west to get behind this wireless health institute
+san diego is an extraordinary place for this there's over six hundred and fifty wireless companies one hundred of which or more are working in wireless health
+the outgrowth of two extraordinary people who are here this evening gary and mary west and i'd like to give it up to them for getting
+to take unmet medical needs to work and innovate and we just appointed the chief engineer mehran mehregany it was announced on monday then to move up with development
+the other big thing besides having this fantastic institute to catalyze this process is
+guidance and that's of course relying on the fact that medicine goes digital if we understand biology
+from genomics and omics and wireless through physiologic phenotyping that's big because what it does is allow a convergence like we've never had before
+when you put that together with for example now an app for the iphone with your genotype to guide drug therapy but the future
+we can now tell who 's going to get type ii diabetes from all the common variants and that's going to get filled in more with low frequency variants in the future we can tell who 's going to get breast cancer
+from the various genes we can also know who 's likely to get atrial fibrillation and finally another example sudden cardiac death each of these has a sensor
+we can give a glucose sensor for diabetes to prevent it we can prevent or have the earliest detection possible for breast cancer with an ultrasound device given to the patient
+for atrial fibrillation and vital signs monitoring to prevent sudden cardiac death we lose seven hundred thousand people a year in the u s from sudden cardiac death
+so i hope i've convinced you of this of the impact on hospital clinic resources is profound and then the impact on diseases is equally impressive
+across all these different diseases and more it's really taking individualized medicine to a new height and it's hyper innovative and i think it represents the black swan
+of medicine thanks for your attention

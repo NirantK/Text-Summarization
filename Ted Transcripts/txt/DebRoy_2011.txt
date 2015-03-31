@@ -1,0 +1,74 @@
+everything you said everything you did available in a perfect memory store at your fingertips so you could go back
+and find memorable moments and relive them
+or sift through traces of time and discover patterns in your own life that previously had gone undiscovered well that 's exactly the journey that my family began five and a half years ago this is my wife and collaborator rupal
+this moment and thousands of other moments special for us were captured in our home because in every room in the house if you looked up you 'd see a camera and a microphone and if you looked down you 'd get this bird 's eye view of the room here 's our living room
+the baby bedroom kitchen dining room and the rest of the house
+and all of these fed into a disc array that was designed for a continuous capture so here we are flying through a day in our home as we move from
+sunlit morning through incandescent evening and finally lights out for the day over the course of three years
+we recorded eight to ten hours a day amassing roughly a quarter million hours of multi track audio and video so you 're looking at a piece of what is by far the largest home video collection ever made
+but there 's also a scientific reason that drove this project which was to use this natural longitudinal data to understand the process of how a child learns language that child being my son and so with many privacy provisions put in place to protect
+everyone who was recorded in the data we made elements of the data available to my trusted research team at mit so we could start
+teasing apart patterns in this massive data set trying to understand the influence of social
+environments on language acquisition so we 're looking here at one of the first things we started to do this is my wife and i cooking
+breakfast in the kitchen and as we move through space and through time a very everyday pattern of life in the kitchen
+in order to convert this opaque ninety thousand hours of video into something that we could start to see we use motion analysis to pull out as we move through space and through time what we call space time worms
+and this has become part of our toolkit for being able to look and see where the activities are in the data and with it trace the pattern of in particular where my son moved throughout the home so that we could focus
+our transcription efforts all of the speech environment around my son
+all of the words that he heard from myself my wife our nanny and over time the words he began to produce
+tour into the data so you 've all i 'm sure seen time lapse videos where a flower will blossom as you accelerate time i 'd like you to now experience the blossoming of a speech form my son soon after his first birthday would say gaga to mean water
+and over the course of the next half year he slowly learned to approximate the proper adult form water so we 're going to cruise through half a year in about forty seconds no video here so you can focus on the sound the acoustics of a new kind of trajectory gaga to water
+and so we started to analyze why why were certain words born before others this is one of the first results that came out of our study a little over a year ago that really surprised us the way to interpret this apparently simple graph is on the vertical
+and the horizontal axis is time and all of the data we aligned
+based on the following idea every time my son would learn a word we would trace back and look at all of the language he heard that contained that word and we would plot
+the relative length of the utterances and what we found was this curious phenomena that caregiver speech would systematically dip to a minimum making language as simple as possible and then slowly ascend back up in complexity
+and the amazing thing was that bounce that dip lined up almost precisely with when each word was born
+word after word systematically so it appears that all three primary caregivers myself my wife and our nanny
+were systematically and i would think subconsciously restructuring our language to meet him at the birth of a word and bring him gently into more complex language and the implications of this there are many but one i just want to point out is that there must be
+amazing feedback loops of course my son is learning from his linguistic environment but the environment is learning from him that environment people are in these tight feedback loops
+and creating a kind of scaffolding that has not been noticed until now
+but that 's looking at the speech context what about the visual context we 're not looking at think of this as a dollhouse cutaway of our house we 've taken those circular fish eye lens cameras and we 've done some optical correction and then we can bring it into three dimensional life so welcome to my home
+this is a moment one moment captured across multiple cameras the reason we did this is to create the ultimate memory machine where you can go back and interactively fly around and then breathe video life into this system what i 'm going to do is give you an accelerated view of thirty minutes again of just
+life in the living room that 's me and my son on the floor and there 's video analytics that are tracking our movements my son is leaving red ink i am leaving green ink we 're now on the couch
+looking out through the window at cars passing by and finally my son playing in a walking toy by himself now we freeze the action thirty minutes we turn time into the vertical axis and we open up for a view of these interaction traces we 've just left behind and we see these amazing structures
+these little knots of two colors of thread we call social hot spots
+the spiral thread we call a solo hot spot and we think that these affect the way language is learned what we 'd like to do is start understanding the interaction between these patterns
+and the language that my son is exposed to to see if we can predict how the structure of when words are heard affects when they 're learned so in other words the relationship between words and what they 're about in the world
+so here 's how we 're approaching this in this video again my son is being traced out he 's leaving red ink behind and there 's our nanny by the door
+and what we 've done is use the word water to tag that moment that bit of activity and now we take the power of data and take every time my son ever heard the word water and the context he saw
+we call these wordscapes this is the wordscape for the word water and you can see most of the action is in the kitchen that 's where those big peaks are over to the left and just for contrast we can do this with any word we can take the word bye as in good bye and we 're now zoomed in over the entrance to the house
+and we look and we find as you would expect a contrast in the landscape where the word bye occurs much more in a structured way so we 're using these structures to start predicting
+the order of language acquisition and that 's ongoing work now in my lab which we 're peering into now at mit this is at the media lab this has become my favorite way of videographing just about any space
+three of the key people in this project philip decamp rony kubat and brandon roy are pictured here philip has been a close collaborator on all the visualizations you 're seeing and michael fleischman
+was another ph d student in my lab who worked with me on this home video analysis and he made the following observation
+that just the way that we 're analyzing how language connects
+to events which provide common ground for language that same idea we can take out of your home deb and we can apply it to the world of public media and so our effort took an unexpected turn think of mass media as providing common ground
+and you have the recipe for taking this idea to a whole new place we 've started analyzing television content using the same principles analyzing event structure of a tv signal
+episodes of shows commercials all of the components that make up the event structure and we 're now with satellite dishes pulling and analyzing a good part of all the tv being watched in the united states
+and you don 't have to now go and instrument living rooms with microphones to get people 's conversations
+you just tune into publicly available social media feeds so we 're pulling in about three billion comments a month and then the magic happens you have the event structure the common ground that the words are about coming out of the television feeds
+you 've got the conversations that are about those topics and through semantic analysis and this is actually real data you 're looking at from our data processing each yellow line is showing a link being made between a comment in the wild
+and a piece of event structure coming out of the television signal and the same idea now can be built up and we get this wordscape except now words are not assembled in my living room instead the context the common ground activities
+the content on television that 's driving the conversations and what we 're seeing here these skyscrapers now are commentary that are linked to content on television same concept but looking at communication dynamics in a very different sphere
+in a family we can now open up the same concepts and look at much larger groups of people this is a subset of data from our database just fifty thousand out of several million and the social graph that connects them through publicly available sources
+and if you put them on one plain a second plain is where the content lives so we have the programs and the sporting events and the commercials and all of the link structures that tie them together make a content graph and then the important third dimension
+each of the links that you 're seeing rendered here is an actual connection made between something someone said and a piece of content
+and there are again now tens of millions of these links that give us the connective tissue
+of social graphs and how they relate to content and we can now start to probe the structure in interesting ways so if we for example trace the path of one piece of content that drives someone
+to comment on it and then we follow where that comment goes and then look at the entire social graph that becomes activated and then trace back to see the relationship between that social graph and content
+clique a virtual living room if you will and there are fascinating dynamics at play it 's not one way a piece of content an event causes someone to talk they talk to other people that drives tune in behavior back into mass media and you have these cycles that drive the overall behavior
+another example very different another actual person in our database and we 're finding at least hundreds if not thousands of these we 've given this person a name this is a pro amateur or pro am media critic
+who has this high fan out rate so a lot of people are following this person very influential and they have a propensity to talk about what 's on tv so this person is a key link in connecting mass media and social media together
+one last example from this data sometimes it 's actually a piece of content that is special so if we go and look at this piece of content president obama 's state of the union address from just a few weeks ago and look at what we find in this same data set at the same scale
+the engagement properties of this piece of content are truly remarkable
+a nation exploding in conversation in real time in response to what 's on the broadcast and of course through all of these lines are flowing unstructured language we can x ray and get a real time pulse of a nation real time sense of the social reactions in the different circuits
+in the social graph being activated by content
+whether it 's for science for commerce for government or perhaps most of all
+for us as individuals and so just to return to my son
+when i was preparing this talk he was looking over my shoulder and i showed him the clips i was going to show to you today and i asked him for permission granted and then i went on to reflect isn 't it amazing this entire
+database all these recordings i 'm going to hand off to you and to your sister who arrived two years later
+and you guys are going to be able to go back and re experience moments that you could never with your biological memory possibly remember the way you can now and he was quiet for a moment and i thought what am i thinking he 's five years old he 's not going to understand this
+and just as i was having that thought he looked up at me and said so that when i grow up i can show this to my kids and i thought wow this is powerful stuff so i want to leave you with one last
+memorable moment from our family
+captured on film and i really want you to focus on something as i take you through it 's a cluttered environment it 's natural life my mother 's in the kitchen cooking and of all places in the hallway i realize he 's about to do it about to take more than two steps and so you hear me encouraging him
+realizing what 's happening and then the magic happens listen very carefully about three steps in he realizes something magic is happening and the most amazing feedback loop of all kicks in and he takes a breath in and he whispers wow
+and instinctively i echo back the same and so let 's fly back in time to that memorable moment

@@ -1,0 +1,9 @@
+i 'm among several other things an electrical engineer and that means that i spend a good amount of time designing and building new pieces of technology and more specifically designing and building electronics
+and what i 've found is that the process
+of designing and building electronics is problematic in all sorts of ways so it 's a really slow process it 's really expensive
+and the outcome of that process namely electronic circuit boards are limited in all sorts of kind of interesting ways so they 're really small generally
+and so what if you could design and build electronics like this
+so what if you could do it extremely quickly extremely inexpensively and maybe more interestingly really fluidly and expressively and even improvisationally wouldn 't that be so cool and that wouldn 't that open up all sorts of new possibilities
+i 'm going to share with you two projects that are investigations along these lines and we 'll start with this
+so the next step for us in this process is now to find a way to let all of you build things like this
+and so the way that we 're approaching

@@ -1,0 +1,20 @@
+in massachusetts and i was cleverly standing in the front yard when one came over the hill after a lamppost flew by my family and i sprinted into the basement trees were thrown against the house the windows exploded when we finally got out the back door transformers were burning in the street
+so i missed her call so i get the call from caitria i hear the news and i start tracking the radar online to call the family back when another supercell was forming in their area and i drove home late that night with batteries and ice
+we live across the street from an historic church that had lost its very iconic steeple in the storm it had become a community gathering place overnight the town hall and the police department had also suffered direct hits and so people wanting to help or needing information went to the church
+fliers for the neighborhoods co yeah but we don 't even know what houses are accepting help at this point we need to canvas and send out volunteers mo we need to tell people what not to bring hey there 's a news truck i 'll tell them
+so this is what filled our days we had to learn how to
+large aid organizations are exceptional at bringing massive resources to bear after a disaster but they often fulfill very specific missions and then they leave this leaves local residents to deal with the thousands of spontaneous volunteers thousands of donations and all with no training and no tools so they use post its or excel or facebook but
+in a disaster however you start with all of the interest and none of the capacity and you 've only got about seven days to capture fifty percent of all of the web searches that will ever be made to help your area
+then some sporting event happens and you 've got only the resources that you 've collected thus far to meet the next five years of recovery needs
+this is the slide for katrina
+this is the curve for joplin and this is the curve for the dallas tornadoes in april where we deployed software there 's a gap here affected households have to wait for the insurance adjuster to visit before they can start accepting help on their properties and you 've only got about four days of interest in dallas
+fema and the state will pay eighty five percent of the cost of a federally declared disaster leaving the town to pay last fifteen percent of the bill now that expense can be huge but if the town can mobilize x amount of volunteers for y hours the dollar value of that labor used goes toward the town 's contribution but who knows that
+now try to imagine the sinking feeling you get when you 've just sent out two thousand volunteers and you can 't prove it
+all in an easy to use website co and we needed help
+alvin our software engineer and cofounder has built these tools chris and bill have volunteered their time to use operations and partnerships and we 've been flying into disaster areas since this past january setting up software training residents and licensing the software to areas that are preparing for disasters
+all of the interest came in the first four days but by the time they lost the news cycle that 's when the needs came in yet they had this massive resource of what people were able to give and they 've been able to meet the needs of their residents
+so that 's what we 're working on we 're working on getting the software to places so people expect it so people know how to use it and so it can be filled ahead of time with that microinformation that drives recovery
+they took to it immediately and now they are forces of nature there are over three volunteer groups working almost every day and have been since june first of last year to make sure that these residents get what they need and get back in their homes
+they have hotlines and spreadsheets and data
+we 've been able to see the same transformation in texas and in alabama because it doesn 't take harvard or mit to fly in and fix problems after a disaster it takes a local no matter how good an aid organization is at what they do they eventually have to go home
+but if you give locals the tools if you show them what they can do to recover they become experts

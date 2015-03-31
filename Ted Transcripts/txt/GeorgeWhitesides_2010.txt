@@ -1,0 +1,99 @@
+most of the talks that you've heard in the last several fabulous days have been from people who have the characteristic that they have thought about something they are experts they know what's going on
+all of you know about the topic that i'm supposed to talk about that is you know what simplicity is you know what complexity is the trouble is i don 't and what i'm going to do is share with you my ignorance on this subject
+i want you to read this because we're going to come back to it in a moment opinion on pornography
+and let me just read it the important details here shorthand description hardcore pornography and perhaps i could never succeed in intelligibly defining it
+i know it when i see it i'm going to come back to that in a moment so what is simplicity it's good to start with some examples
+a coffee cup we don't think about coffee cups but it's much more interesting than one might think a coffee cup is a device yes
+which has a container yes and a handle yes the handle enables you to hold it when the container is filled with hot liquid yeah
+why is that important well it enables you to drink coffee but also by the way the coffee is hot the liquid is sterile you're not likely to get cholera that way
+so the coffee cup or the cup with a handle is one of the tools used by society to maintain public health
+scissors are your clothes glasses enable you to see things and keep you from eaten by cheetahs or run down by automobiles and books are after all your education
+and the two here are just examples one is the cellphone which we use every day and it rests on a complexity
+which in a very simple way fundamentally changed the structure of society by changing the role of women in it by providing to them the opportunity to make reproductive choices
+there are two ways of thinking about this word i think and here i've corrupted the potter stewart quotation
+by saying that we can think about something which spans all the way from scissors to the cellphone internet and birth control pills by saying that they're simple the functions are simple
+and we recognize what that simplicity is when we see it
+there may be another way of doing it which is to think about the problem in terms of what if you associate with
+moral philosophers is called the teapot problem
+the teapot problem i'll pose this way suppose you see a teapot
+you then ask the question why is the water hot
+that's a simple question it's like what is simplicity one answer would be because the kinetic energy of the water molecules is high and they bounce against things rapidly that's a kind of physical science argument
+a second argument would be because it was sitting on a stove with the flame on that's an historical argument a third is that i wanted hot water for
+that's an intentional argument and since this is coming from a moral philosopher the fourth would be that it's part of god 's plan for the universe
+all of these are possibilities the point is that you get into trouble when you ask a single question with a single box for an answer
+in which that single question is actually many questions with quite different meanings but with the same words
+asking what is simplicity i think falls in that category what is the state of science and interestingly complexity
+very highly evolved we have a lot of interesting information about what complexity is simplicity for reasons that are a little bit obscure
+you can write papers about complexity and the nice thing about complexity is it's fundamentally intractable in many ways so you're not responsible for outcomes
+simplicity all of you really would like your waring blender in the morning to make whatever a waring blender does but not explode or play beethoven you're not interested in the limits of these things
+so what one is interested in has a lot to do with the rewards of the system and there's a lot of rewards in thinking about complexity and emergence not so much in thinking about simplicity
+one of the things i want to do is to help you with a very important task which you may not know that you have very often
+which is to understand how to sit next to a physicist at a dinner party and have a conversation and
+the words i would like you to focus on are complexity and emergence because these will enable you to start the conversation and then daydream about other things
+all right what is complexity in this view of things and what is emergence we have actually a pretty good working definition of complexity it is a system like traffic which has components
+the components interact with one another these are cars and drivers they dissipate energy it turns out that whenever you have that system weird stuff happens and you in los angeles probably know this better than anyone
+here 's another example which i put up because it's an example of really important current science
+you can't possibly read that it's not intended that you read it but that's a tiny part of the chemical reactions going on in each of your cells at any given moment
+and it's like the traffic that you see the amazing thing about the cell is that it actually does maintain a fairly stable working relationship with other cells
+and let me reduce this to the simplest level we've heard from bill gates recently all of us to some extent study this thing called a bill gates terrific you learn everything you can about
+and then there's another kind of thing that you might study and you study that hard that's a bono
+but then if you know everything you can know about those two things and you put them together what can you say about this combination the answer is not a lot and that's complexity now imagine building that up to a city
+or to a society and you've got obviously an interesting problem all right so let me give you an example of simplicity of a particular kind
+and then i want to introduce a word that i think is very useful which is stacking and i'm going to use stacking for a kind of simplicity that has the characteristic that it is so
+the internet starts with mathematics it starts with binary and if you look at the list of things on the bottom
+we are familiar with the arabic numbers one to ten and so on in binary one is one seven is one
+the question is why is binary simpler than arabic and the answer is simply that if i hold up three fingers you can count that easily but if i hold up this it's sort of hard to say that i just did seven
+the virtue is that it's the simplest possible way of representing numbers anything else is more complicated
+you can catch errors with it it's unambiguous in its reading there are lots of good things about binary so it is very very simple once you know how to read
+now if you like to represent this zero and one of binary you need a device and think of things in your life that are binary one of them is light switches they can be on and off that's binary
+now wall switches we all know fail but our friends who are condensed matter physicists managed to come up some fifty years ago
+with very nice device shown under that bell jar which is a transistor a transistor is nothing more than a wall switch it turns things on and off
+but it does so without moving parts and it doesn't fail basically for a very long period of time so the second layer of simplicity was the transistor and the internet
+so since the transistor is so simple you can put lots of them together and you put lots of them together and you come with something called integrated circuits
+and a current integrated circuit might have in each one of these chips something like a billion transistors all of which have to work perfectly every time
+so that's the next layer of simplicity and in fact integrated circuits are really simple in the sense that they in general work really well
+with integrated circuits you can build cellphones
+you all are accustomed to having your cellphones work the large majority of the time in boston boston is a little bit like namibia in its cellphone coverage so that we're not accustomed to that all the time but some of the time
+but in fact if you have cellphones you can now go to this nice lady
+who 's somewhere like namibia and who is extremely happy with the fact that although she does not have an master 's degree in electrical engineering from m i t she's nonetheless able to hack her cellphone to get power in some funny way
+and from that comes the internet and this is a map of bitflows across the continent the two blobs that are light in the middle there are the united states and europe
+and then back to simplicity again so here we have what i think is one of the great ideas which is google
+which in this simple portal
+makes the claim that it makes accessible all of the world 's information but the point is that extraordinary simple idea rests on layers of
+simplicity each compounded into a complexity that is itself simple in the sense that it is completely reliable
+and two aphorisms the characteristics which i think are useful to think about for simple things first they are predictable
+their behavior is predictable now one of the nice characteristics of simple things is you know what it's going to do in general so simplicity and predictability are characteristics of simple things
+the second is and this is a real world statement they're cheap if you have things that are cheap enough people will find uses for them even if they seem very primitive
+so for example stones you can build cathedrals out of stones you just have to know what it does you carve them in blocks and then you pile them on top of one another and they support weight
+so there has to be function the function has to be predictable and the cost has to be low
+what that means is that you have to have a high performance or value for cost
+and then i would propose as this last component
+that they serve or have the potential to serve as building blocks that is you can stack them and stack can mean this way or it can mean this way or it can mean some arbitrary n dimensional space
+but if you have something that has a function and it's really cheap people will find new ways of putting it together to make new things cheap functional
+reliable things unleash the creativity of people who then build stuff that you could not imagine there's no way of predicting the internet based on the first transistor it just is not possible
+so these are the components now the example is something that i want to give you from the work that we ourselves do
+we are very interested in delivering health care in the developing world and one of the things we wish to do in this particular business is to find a way of doing medical diagnosis
+at as close to zero cost as we can manage so how does one do that this is a world in which there's no electricity there's no money there's no medical competence
+and i don't want to spend your time in going through the details but in the lower right hand corner you see an example of the kind of thing that we have it's a little paper chip
+it has a few things printed on it using the same technology that you use for making comic books which was the inspiration for this particular idea
+and you put a drop in this case of urine at the bottom it wicks its way up into these little branches you know no power required it turns colors in this particular case you're reading
+kidney function and since the health care worker of much of this part of the world is an eighteen year old with an ak forty seven who happens to be out of work and is willing to go around and do this sort of thing
+he can take a picture of it with his cellphone send the picture back to where there is a doctor and the doctor can look at it so what you've done is to take a technology which is available everywhere
+make a device which is extremely cheap and make it in such a fashion that it is very very reliable if we can pull this off if we can build more function it will be stackable
+that is to say if we can make the basic technology of one or two things work it will be applicable to a very very large variety of human conditions
+how do i put this politely change the way or maybe eviscerate the capital structure of the u s health care system which i think is fundamentally broken so let me close
+let me close with my two aphorisms one of them is from mister einstein and he says everything should be made as simple as possible but not simpler
+and i think that's a very good way of thinking about the problem if you take too much out of something that's simple you lose function you have to have low cost but you also have to have a function so you can't make it too simple
+and the second is a design issue and it's not directly relevant but it's a nice statement this is by de saint exupery and he says you know you've achieved perfection in design
+not when you have nothing more to add but when you have nothing more to take away and that certainly is going in the right direction
+so what i think one can begin to do with this kind of
+the word simplicity which doesn't cover rancuzzi it doesn't answer the question of why mondrian is better or worse or simpler or less simpler than
+and certainly doesn't address the question of whether mozart is simpler than bach
+but it does make a point which is one which in a sense differentiates the real world of people who make things and the world of people who think about things
+which is there is an intellectual merit to asking how do we make things as simple as we can as cheap as we can as functional as we can and as freely interconnectable as we can
+if we make that kind of simplicity in our technology and then give it to you guys you can go off and do all kinds of fabulous things with it thank you very much question so can you
+picture that a science of simplicity might get to the point where you could look out at various systems say a financial system or
+yes i think you could because if you look at the components from which the system is made and examine their fragility or their stability you can probably build a kind of risk assessment based on that basis
+started to do that i mean with the health system you got a sort of radical solution on the cost side but in terms of the system itself well
+how do i put that simply no ca that was a simple powerful answer yes ca so in
+that's coming out soon i mean the systems work and we have to find out how to manufacture them and do things of this kind but the basic technology works

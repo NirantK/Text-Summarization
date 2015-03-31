@@ -1,0 +1,77 @@
+like to learn how to play the lobster we have some here and that's not a joke we really do so come up afterwards and i'll show you how to play a lobster
+so actually i started working on what's called the mantis shrimp a few years ago because they make sound this is a recording i made of a mantis shrimp that's found off the coast of california
+and while that's an absolutely fascinating sound it actually turns out to be a very difficult project and while i was struggling to figure out how and why mantis shrimp or stomatopods make sound i started to think about
+their appendages and mantis shrimp are called mantis shrimp after the praying mantises which also have a fast feeding appendage
+about the extreme stomatopod strike work that i've done in collaboration with wyatt korff and
+so mantis shrimp come in two varieties there are spearers and smashers
+and this is a spearing mantis shrimp or stomatopod and he lives in the sand and he catches things that go by
+so a quick strike like that
+you can see it's just a really spectacular extension of the limbs exploding upward to actually just catch a dead piece of shrimp that i had offered it
+now the other type of mantis shrimp is the smasher stomatopod and these guys open up
+so the smasher raptorial appendage can stab with a point at the end or it can smash with the heel and today i'll talk about the smashing type
+of strike and so the first question that came to mind was well how fast does this limb move because it's moving pretty darn fast on that video
+and i immediately came upon a problem every single high speed video system in the biology department at berkeley wasn't fast enough
+to catch this movement we simply couldn't capture it on video and so this had me stymied for quite a long period of time and then a bbc crew came cruising through the biology department looking for a story
+to do about new technologies in biology and so we struck up a deal i said well if you guys rent the high speed video system that could capture these movements you guys can film
+that allows you to film at extremely high speeds in low light and low light is a critical issue with filming animals
+because if it's too high you fry them so this is a
+mantis shrimp there are the eyes up here and there's that raptorial appendage and there's the heel and that thing 's going to swing around and smash the snail and the snail 's wired to a stick so he 's a little bit easier to set up the shot snail rights activists
+this was filmed at five thousand frames per second and i'm playing it back at fifteen and so this is slowed down three hundred and thirty three times
+and as you'll notice it's still pretty gosh darn fast slowed down three hundred and thirty three times it's an incredibly powerful movement the whole limb extends out the body flexes backwards
+just a spectacular movement and so what we did is we took a look at these videos and we measured how fast the limb was moving to get back to that original question
+for those of you who prefer miles per hour that's over forty five miles per hour in water and this is really darn fast in fact it's so
+we were able to add a new point
+the extreme animal movement spectrum and mantis shrimp are officially the fastest measured feeding strike of any animal system so
+so that was really cool and very unexpected so you might be wondering well how do they do it
+and actually this work was done in the nineteen sixties by a famous biologist named malcolm burrows and what he showed in mantis shrimp is that they use what's called a catch mechanism or click mechanism and what this basically consists
+is a large muscle that takes a good long time to contract and a latch that prevents anything from moving so the muscle contracts and nothing happens and once the muscle 's contracted completely everything 's stored up the latch flies upward and
+you've got the movement and that's basically what's called a power amplification system it takes a long time for the muscle to contract and a very short time for the limb to fly out
+and so i thought that this was sort of the end of the story this was how mantis shrimps make these very fast strikes but then i took a trip to this is serious business
+what i saw on every single mantis shrimp limb whether it's a spearer or a smasher is a beautiful saddle shaped structure right on the top surface of the limb
+and you can see it right here it just looks like a saddle you'd put on a horse it's a very beautiful structure and it's surrounded by membranous areas and those membranous areas suggested to me that maybe this is some kind of dynamically flexible structure
+have to have a spring there needs to be some kind of spring loaded mechanism in order to generate the amount of force that we observe and the speed that we observe and the output of the system
+so we thought ok this must be a spring the saddle could very well be a spring and we went back to those high speed videos again
+and we could actually visualize the saddle compressing and extending and i'll just do that one more time
+bit hard to see it's outlined in yellow the saddle is outlined in yellow you can actually see it extending over the course of the strike and actually hyperextending so we've had very solid evidence showing that that saddle shaped structure
+an anticlastic surface and this is very well known to engineers and architects because it's a very strong surface in
+it has curves in two directions one curve upward and opposite transverse curve down the other so any kind of perturbation spreads the forces over the surface of
+this type of shape so it's very well known to engineers not as well known to biologists it's also known to quite a few
+the most famous architects is eduardo catalano who popularized this structure and what's shown here is a saddle shaped roof
+that he built that's eighty seven and a half feet spanwise it's two and a half inches thick and supported at two points
+and one of the reasons why he designed roofs this way is because it's he found it fascinating that you could build such a strong structure that's made of so few materials and can be supported by so few points and all of these are
+the same principles that apply to the saddle shaped spring in stomatopods in biological systems it's important not to have a whole lot of extra material requirements for building it
+so very interesting parallels between the biological and the engineering worlds and interestingly this turns out the stomatopod saddle turns out to be the first described biological hyperbolic paraboloid spring that's a bit long but it is sort of interesting
+so the next and final question was well how much force does a mantis shrimp produce if they're able to break open snails
+and so i wired up what's called a load cell a load cell measures forces and this is actually a piezoelectronic load cell that has a little crystal in it and when this crystal is squeezed the electrical properties change and it which in proportion to the forces that go in
+so these animals are wonderfully aggressive and are really hungry all the time and so all i had to do was actually put a little shrimp paste on the front of the load cell and they'd smash away at it and so this is
+of the animal just smashing the heck out of this
+were able to get some force measurements out and again we were in for a surprise i purchased a one hundred pound load cell thinking no animal could produce more than one hundred pounds at this size of an animal
+time is on the x axis and the force is on the y axis and you can see two peaks and that was what really got me puzzled
+the first peak obviously is the limb hitting the load cell but there's a really large second peak half a millisecond later
+and i didn't know what that was so now you'd expect a second peak for other reasons but not half a millisecond later again going back to those high speed videos there's a pretty good hint of what might be going on
+here 's that same orientation that we saw earlier there's that raptorial appendage there's the heel and it's going to swing around and hit the load cell and what i'd like you to do in this shot is keep your eye on this on the surface of the load cell as the limb comes
+flying through and i hope what you are able to see is actually a flash of light
+and so if we just take that one frame what you can actually see there at the end of that yellow arrow is a vapor bubble and what that is is cavitation
+and cavitation is an extremely potent fluid dynamic phenomenon which occurs when you have areas of water moving at extremely different speeds
+when this happens it can cause areas of very low pressure which results in the water literally vaporizing
+and when that vapor bubble collapses it emits sound light and heat and it's a very destructive process and so here it is in the
+so this is a potent in fluid systems
+and just to sort of take it one step further i'm going to show you the mantis shrimp approaching the snail this is taken at twenty thousand frames per second
+and i have to give full credit to the bbc cameraman tim green for setting this shot up because i could never have done this in a million years one of the benefits of working with professional cameramen
+so really just an amazing image slowed down extremely to extremely slow speeds
+and again we can see it in slightly different form there with the bubble forming and collapsing between those two surfaces in fact you might have even seen some cavitation going up the edge of the
+so to solve this quandary of the two force peaks what i think was going on is that first impact is actually the limb hitting the load cell and the second impact is actually the collapse of the cavitation bubble and these animals may very well be making use of not only the force
+so really fascinating double whammy so to speak from these animals
+so one question i often get after this talk so i figured i'd answer it now is well what happens to the animal because obviously if it's breaking snails the poor limb must be disintegrating and indeed it does
+is that you have to molt and every three months or so these animals molt and they build a new limb and it's no problem very very convenient solution to that particular problem
+like to end on sort of a wacky note
+maybe this is all wacky to folks like you
+so the saddles that saddle shaped spring has actually been well known to biologists for a long time not as a spring but as a visual signal
+of visual signals on what's really in all species their spring and i think one explanation for this could be going back to the molting phenomenon
+so these animals go into a molting period where they're unable to strike their bodies become very soft and they're literally unable to strike or they'll self destruct this is for real
+and what they do is up until that time period when they can't strike they become really obnoxious and awful and they strike everything in sight it doesn't matter who or what and the second they get into that time point when they can't strike any more
+just signal they wave their legs around and it's one of the classic examples in animal behavior of bluffing it's a well established fact of these animals that they actually bluff they can't actually strike but they pretend to
+very curious about whether those colored dots in the center of the saddles are conveying some kind of information about their ability to strike or their strike force and something about the time period in the molting cycle
+so sort of an interesting strange fact to find a visual structure right in the middle of their spring
+so to conclude i mostly want to acknowledge my two collaborators wyatt korff and roy caldwell who worked closely with me on this
+and also the miller institute for basic research in science which gave me three years of funding to just do science all the time and for that i'm very grateful thank you very much

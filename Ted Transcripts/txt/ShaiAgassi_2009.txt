@@ -1,0 +1,92 @@
+so how would you run a whole country without oil
+never left my brain and i started playing with it more like a puzzle the original thought i had this must be ethanol so i went out and researched ethanol and found out you need the amazon in your backyard in every country
+about six months later i figured out it must be hydrogen until some scientist told me the unfortunate truth which is you actually use more clean electrons than the ones you get inside
+a car if you use hydrogen so that is not going to be the path to go and then sort of through a process of wandering around i got to the
+thought that actually if you could convert an entire country to electric cars in a way that is convenient and affordable you could get to a solution
+now i started this from a point of view that it has to be something that scales en masse not how do you build one car but how do you scale this so that it can become something that is used by ninety nine percent of the population
+the thought that came to mind is that it needs to be as good as any car that you would have today so one it has be more convenient than a car and two it has be more affordable
+than today 's cars affordable is not a forty thousand dollar sedan alright that's not something that we can finance or buy today and convenient is not something that you drive for an hour and charge for eight
+so we're bound with the laws of physics and the laws of economics and so the thought that i started with was how do you do this
+still within the boundary of the science we know today no time for science fair no time for playing around with things or waiting for the magic battery to show up how do you do it within the economics that we have today how do you do it from the power of the consumer up and not from the power of an edict down
+on a random visit to tesla on some afternoon i actually found out that the answer comes from separating between the car ownership and the battery ownership in a sense if you want to think about it this is the classic batteries not included
+now if you separate between the two you could actually answer the need for
+first component is you charge the car whenever you stop ends up that cars are these strange beasts that drive for about two hours and park for about twenty two hours
+if you drive a car in the morning and drive it back in the afternoon the ratio of charge to drive is about a minute for a minute
+and so the first thought that came to mind is everywhere we park
+we have electric power now it sounds crazy but in some places around the world like scandinavia you already have that if you park your car and didn't plug in the heater when you come back you don't have a car it just doesn't work
+now that last mile last foot in a sense is the first step of the infrastructure the second step of the infrastructure needs to take care
+of the range extension see we're bound by today 's technology on batteries which is about one hundred and twenty miles if you want to stay within reasonable
+space and weight limitations one hundred and twenty miles is a good enough range for a lot of people but you never want to get stuck so what we added as a second element to our network is a battery swap system you drive
+you take your depleted battery out a full battery comes on and you drive on you don't do it as a human being you do it as a machine it looks like a car wash you come into your
+we said that if you stop to swap your battery more than fifty times a year we start paying you money because it's an inconvenience then we looked
+at the question of the affordability we looked at the question what happens when the battery is disconnected from the car what is the cost of that battery everybody tells us batteries are so expensive
+what we found out when you move from molecules to electrons something interesting happens we can go back to the original economics of the car and look at it again
+the battery is not the gas tank in a sense remember in your car you have a gas tank you have the crude oil and you have refining and delivery of that crude oil as what we call petrol or gasoline
+the battery in this sense is the crude oil we have a battery bay it costs the same hundred dollars as the
+but the crude oil is replaced with a battery just it doesn't burn it consumes itself step after step after step it has two thousand life cycles these days
+in a sense what we've done is we've created a new consumable you today buy gasoline miles and we created electric miles and the price of electric miles ends up being a very interesting number
+today two thousand and ten in volume when we come to market it is eight cents a mile
+those of you who have a hard time calculating what that means in the average consumer environment we're in in the u s twenty miles per gallon that's a buck fifty a buck sixty
+a gallon that's cheaper than today 's gasoline even in the u s in europe where taxes are in place that's the equivalent to a minus sixty dollar barrel
+but e miles follow moore 's law they go from eight cents a mile in two thousand and ten
+why because batteries life cycle improve a bit of improvement on energy density which reduces the price and these prices are actually with clean electrons we do not use any electrons that come from coal
+so in a sense this is an absolute zero carbon zero fossil fuel
+eighty cent gallon means if the entire pacific would convert to crude oil and we'd let any oil company bring it out and refine it they still can't compete with two cents a mile
+until i got to the true young global leader shimon peres president of israel and he ran a
+first he let me go to the prime minister of the country who told me if you can find the money you need for this network two hundred million dollars and if you can find a car company
+peres thought that was a great idea so we went out and we looked at all the car companies we sent letters to all the car companies three of them never showed up one of them asked us if we would stay with hybrids and they would give us a discount
+but one of them carlos ghosn ceo of
+when asked about hybrids said something very fascinating he said hybrids are like mermaids
+when you want a fish you get woman and when you need a woman you get a fish
+and ghosn came up and said i have the car mister peres i will build you the cars and actually true
+renault has put a billion and a half dollars in building nine different types of cars that fit this kind of model that will come into the market in mass volume mass volume being the first year one hundred thousand cars
+it's the first mass volume electric car zero emission electric car in the market i was running as chris said to be the ceo of a
+you have to explain to me what is more important than saving your country and saving the world that you would go and do and i had to quit and come and do this thing called a better place we then decided to scale it up we went to other countries as i said we went to denmark
+on gasoline cars and zero tax on zero emission cars
+so if you want to buy a gasoline car in denmark it costs you about sixty thousand euros if you buy our car it's about twenty thousand euros if you fail the iq test they ask you to leave the country
+we then were sort of coined as the guys who run only in small islands i know most people don't think of israel as a small island but israel is an island it's a transportation island if your car is driving outside israel it's been stolen if
+you're thinking about it in terms of islands we decided to go to the biggest island that we could find and that was australia
+the third country we announced was australia it's got three centers in brisbane in melbourne in sydney and one freeway one electric freeway that connects them
+the second one was the san francisco bay area where gavin newsom created a beautiful policy across all the mayors he decided that he 's going to take over the state unofficially and then officially and then created this beautiful region one policy
+in the san fransisco bay area not only do you have the highest concentration of priuses but you also have the perfect range extender it's called the other car
+as we stared scaling it up we looked at what is the problem to come up to the u s why is this a big issue
+and the most fascinating thing we've learned when you have small problems on the individual level like the price of gasoline to drive every morning you don't notice it but when the aggregate comes up you're dead
+so the price of oil much like lots of other curves that we've seen
+goes along a depletion curve the foundation of this curve is that we keep losing the wells that are close to the ground and we keep getting wells that are farther away from the ground it becomes more and more and more expensive to dig them out
+you think well it's been up it's been down its been up it's going to keep on going up and down here is the problem at one hundred and forty seven dollars a barrel which we were in six months ago the u s spent a ton of money to get
+oil then we lost our economy and we went back down to forty seven sometimes it's forty sometimes it's fifty
+now we're running a stimulus package it's called the trillion dollar stimulus package we're going to revive the economy hopefully it happens between now and two thousand and fifteen somewhere in that space what happens when the economy recovers
+by two thousand and fifteen we would have had at least two hundred and fifty million new cars even at the pace we're going at right now that's another thirty percent demand on oil that is another twenty five million barrels a day that's all the u s usage
+in other words at some point when we've recovered we go up to the peak and then we do the opec stimulus package also known as two hundred dollars a barrel
+it's going to go up and down and the downs are going to be much longer and the ups are going to be much shorter and that's the difference between problems that are additive like co two which we go slowly up and then we tip
+we actually looked at what the answer would be right remember in the campaign one million hybrid cars by two thousand and fifteen
+that is zero point five percent of the u s oil consumption that is oh point oh well
+that won 't do much difference we looked at an mit study ten million electric cars on the global roads
+ten million out of five hundred million we will add between now and then
+that is the most pessimistic number you can have it's also the most optimistic number because it means we will scale this industry from one hundred thousand cars is two thousand and eleven to ten million cars by two thousand and sixteen one hundred x growth
+in less than five years
+you have to remember that the world today is bringing in so many cars we have ten million cars by region that's an enormous amount of cars
+china is adding those cars india
+russia brazil we have all these regions europe has solved it they just put tax on gasoline they'll be the first in line to get off because their prices are high china solves it by an edict at some point they'll just declare that no gasoline car will come into a city and that will be it
+the indians don't even understand why we think of it as a problem because most people in india fill two or three gallons every time for them to get a battery that goes one hundred and twenty miles is an extension on range not a reduction
+we're the only ones who don't have the price set right we don't have the industry set right we don't have any incentive to go and resolve it across the
+a whole new market a whole new business model the business model in which the money that is actually coming in to drive the car the minutes the miles if you want
+that you are all familiar with
+just like cellphones you'll pay for the miles and some of it will go back to the car maker some of it will go back to your own pocket but our cars are actually going to be cheaper than gasoline cars you're looking at a world where cars are
+with windmills in denmark we will drive all the cars in denmark
+from windmills not from oil in israel we've asked to put a solar farm in the south of israel
+we tried there isn't any we said no no but what if we prove it and they said well you can dig and we decided to dig up instead of digging down
+these are perfect matches to one another now
+all you need is about ten percent of the electricity generated think of it as a project that spans over about ten years that's one percent
+the two numbers are zero as in zero footprint or zero oil and scale it infinity
+and when we go to cop fifteen at the end of this year we can't stop thinking of padding co two we have to start thinking about giving kickers to countries who are willing to go to this kind of scale
+one car emits four tons and actually seven hundred and change million cars today emit two point eight billion tons of co two that's in the additive about twenty five percent of our problem cars and trucks add up to about twenty five percent of the world 's co two emissions
+we have to come and attack this problem with
+with an effort that actually says we're going to go to zero before the world ends i actually shared that with some legislators here in the u s i shared it with
+a gentleman called bobby kennedy jr who is one of my idols i told him one of the reasons that his uncle was
+he actually shared with me another story which is from about two hundred years ago
+two hundred years ago in parliament in great britain there was a long argument
+over economy versus morality twenty five percent just like twenty five percent emissions today comes from cars twenty five percent
+of their energy for the entire industrial world in the u k came from a source of energy that was immoral
+to make the right moral decision we have to make it
+not within twenty years or fifty years but thank you

@@ -1,0 +1,65 @@
+a researcher every once in a while you encounter something a little disconcerting and this is something that changes your understanding of the world around you and teaches you that you're very wrong about something that you really believed firmly in
+and these are unfortunate moments because you go to sleep that night dumber than when you woke up so that's really the goal of my talk is to a communicate the moment to you and
+really began with some diarrhea now we've known for a long time the cause of diarrhea that's why there is a glass of water up there
+for us it's a problem the people in this room for babies it's deadly they lack nutrients and diarrhea dehydrates them and so as a result there is a lot of death a lot of death
+now there was a big effort to solve this problem and there was actually a big solution and this solution has been called by some potentially the most important
+oral rehydration salts many of you have probably used this it's brilliant it's a way to get sodium and glucose together so that when you add it to water the child is able to absorb it even during situations of diarrhea remarkable impact on mortality
+it looks like the technological problem is solved but if you look even today there are about four hundred thousand diarrhea related deaths in india alone
+what's going on here well the easy answer is we just haven't gotten those salts to those people
+is a biological answer maybe these are the deaths that simple rehydration alone doesn't solve that's not true either many of these deaths were completely preventable
+and this what i want to think of as the disconcerting thing what i want to call the last mile problem you see we spent a lot of energy in many domains
+but a big part of the problem still remains nine hundred and ninety nine miles went well the last mile is proving incredibly stubborn now
+that's for oral rehydration therapy maybe this is something unique about diarrhea well it turns out and this is where things get really disconcerting it's not unique to diarrhea it's not even unique to poor people in india here 's an example from
+a variety of contexts i've put up a bunch of examples up here i'll start with insulin diabetes medication in the u s okay
+massive technological advance took an incredibly deadly disease made it solvable adherence rates how many people are taking their insulin every day
+on average a typical person is taking it seventy five percent of the time as a result twenty five thousand people a year go blind
+hundreds of thousands lose limbs every year for something that's solvable here i have a bunch of other examples all suffer from the last mile problem it's not just medicine here is another example from technology agriculture
+we think there is a food problem so we create new seeds we think there is an income problem so we create new ways of farming that increase income well look at some old ways some ways that we'd already cracked intercropping
+this machine is really strange and one of the consequences is that people are
+they do lots of inconsistent things
+they do lots of inconsistent things and the inconsistencies create fundamentally this last mile problem see when we were dealing with our biology bacteria the genes the things inside here
+the blood that's complex but it's manageable when we're dealing with people like this the mind is more complex that's not as manageable and that's what we're struggling with should you increase maintain
+now diarrhea is interesting because it's been around for thousands of years ever since humankind really lived side by side enough to have really polluted water
+one roman strategy that was very interesting was that and it really gave them a comparitive advantage they made sure their soldiers didn't drink even remotely muddied waters because if some of your troops get diarrhea they're not that effective on the battlefield
+how do they answer this question in india thirty five to fifty percent say reduce think about what that means for a second thirty five to fifty percent of women
+how is that possible well
+one possibility i think that's how most people respond to this is to say that 's just stupid i don't think that's stupid i think there is something very profoundly right in what these women are doing
+and that is you don't put water into a leaky bucket so think of the mental model that goes behind reducing the intake mile
+this first challenge is what i refer to as the persuasion challenge convincing people to do something take oral rehydration therapy intercrop whatever it might be is not an act of information let 's give them the
+how much does the ball cost
+so somebody out there says five a lot of you said ten let 's think about ten for a second if the ball costs ten the
+that produces something that is actually you got this thing wrong how is that possible let 's go to something else
+i know algebra can be complicated so let 's dial this back that's what fifth grade fourth grade let 's go back to kindergarten
+a great show on american television that you have to watch it's called are you smarter than a fifth grader i think we've learned the answer to that here let 's move to kindergarten let 's see if we can beat five year olds here is what i'm going to do i'm going to put objects on the screen
+black now the next ones i want you to do quickly
+almost out of kindergarten what is all this telling us you see what's going on here and in the bat and ball problem is that you have some intuitive ways of interacting with the world some models that you use to understand the world
+these models like the leaky bucket work well in most situations i suspect most of you i hope that's true for the rest of you actually do pretty well with addition and subtraction in the real world
+i found a problem a specific problem that actually found an error with that diarrhea and many last mile problems are like that they are situations where the mental model doesn't match the reality
+same thing here you had an intuitive response to this that was very quick you read blue and you wanted to say blue even though you knew your task was red now i do this stuff because it's fun but
+more profound than fun i'll give you a good example of how it actually effects persuasion bmw is a pretty safe car
+and it doesn't look like a hummer so what i want you to think about for a few minutes is how would you convey safety of the bmw okay so now while you're thinking about that let 's move to a second task the second task is fuel efficiency okay here is another puzzle for all of you
+you have a mental model fifty versus thirty five that's a big move eleven versus nine come on turns out go home and do the math the nine to eleven is a bigger change that person has saved more gallons why because we don't care about miles per gallon we care about gallons per mile
+the problem bwm faces is this car looks safe this car which is my mini doesn't look that safe
+you survive or you can be safe because you avoid accidents remarkably successful campaign but notice the power of it it harnesses something you already believe now even if i persuaded you to do something it's hard sometimes to actually
+get action as a result
+you all probably intended to wake up
+six thirty seven am this is a battle we all fight every day along with trying to get to the gym now this is an example of that battle
+so far i've been pretty negative i've been trying to show you the oddities of human behavior and i think maybe i'm being too negative maybe it's the diarrhea
+maybe the last mile problem really should be thought of as the last mile opportunity let 's go back to diabetes this is a typical
+carrying this thing around is complicated
+the bottle you gotta carry the syringe it's also
+now you may think to yourself well if my eyes depended on it you know i would obviously use it every day but the pain the discomfort you know paying attention remembering to put it in your purse when you go on a long trip these are the day to day of life
+pose problems here is an innovation a design innovation this is a pen it's called an insulin pen preloaded the needle is particularly sharp you just gotta carry this thing
+but the human innovation the human problem still remains and that's a great frontier that we have left
+this isn't about the biology of people this is now about the brains the psychology of people and innovation needs to continue all the way through to the last mile here is another example of this
+this is from a company called positive energy this is about energy efficiency we're spending a lot of time on fuel cells right now
+this company does is they send a letter to households that say here is your energy use here is your neighbor 's energy use you're doing well smiley face you 're doing worse frown
+we're getting a big bang in behavior so how do we tackle the last mile so i think this tells us there is an opportunity
+and i think to tackle it we need to combine psychology marketing art we've seen that but you know what we need to combine it with we need to combine this with the scientific method see what's really
+we have testing we go to the lab we try it again we have refinement but you know what we do on the last mile oh this is a good idea people will like this let 's put it out there
+the amount of resources we put in are disparate we put billions of dollars into fuel efficient technologies how much are we putting into energy behavior change in a credible systematic testing way
+this whole area is so fascinating i mean it sometimes feels listening to behavioral economists that they are kind of
+so in some sense a lot of marketing is about convincing a ceo this is a good ad campaign so there is a little bit of slippage
+how you take your insights here and actually get them integrated into working business models on the ground in indian villages for
+so the scientific method i alluded to is pretty important we work closely with companies that have operational capacity or nonprofits that have operational capacity and then we say well you want to get this behavior change let 's come up with a few ideas test them
+see which is working go back synthesize and try to come up with a thing that works and then we're able to scale with partners it's kind of the model that has worked in other contexts if you have biological problems

@@ -1,0 +1,72 @@
+and i lead a research team we investigate materials and technologies that have unexpected properties
+over the last three years we found over two hundred of these things and so we looked back into our library and selected six we thought would be most surprising for ted
+of these six the first one that we're going to talk about is in the black envelope you're holding it comes from a company in japan called geltech now go
+be sure and take the two pieces apart
+when we see something unexpected it changes our understanding of the way things work as you're seeing this gel magnet for the first time if you assume that all magnets had to be hard then seeing this surprised you and it changed your understanding of the way magnets could work
+now it's important to understand what the unexpected properties are but to really think about the implications of what this makes possible we found that it helps to think about how it could be applied in the world
+so first idea is to use it on cabinet doors if you line the sides of the cabinets using the gel material if a cabinet slams shut it wouldn't make a loud noise and in addition the magnets would draw the cabinets closed
+this way you could go to the container store and buy one of those metal sheets that they hang on the back of your door in your closet and you could literally stick
+shoes up instead of using as shelf for me
+i really love this idea
+come to my apartment and see my closet i'm sure you'd figure out why it's a
+it was like six months ago that keith and i were out in la and we were at starbucks having coffee with roman coppola he works on mostly music videos and commercials with his company the directors bureau
+but like as we were talking roman told us that he 's kind of an inventor on the side and we were showing him the same gel magnet that you're holding in your hand and you know we shared the same ideas
+and you could see it in his face roman starts to get really excited and he whips out this manila folder he opens it up and keith and i look in
+just like whoa this guy 's good because like the way that he presented the concept his approach was totally different than ours he sold it to you
+as if it was for sale right now when we were going in the car back to the airport we were thinking like why was this so powerful
+so for ted we decided to take our favorite idea for the gel magnet and work with roman and his team at the directors bureau to create a commercial for a product from the future the
+we showed the concept to a few people before this and they asked us when it's coming out so i just wanted to let you know it's not actually coming out just the
+so now when we dream up these concepts it's important for us to make sure that they work from a technical standpoint so i just want to quickly explain how this would work
+in addition you can see from the diagram on the right the under part of the slide would be an electromagnet so this would actually repel the rider a little bit as you're going down
+the force of the water rushing down in addition to that repulsion force would make this slide go faster than any slide on the market it's because of this that you need the magnetic braking system when you
+get to the very bottom
+so i'm sure all you engineers know that even though aluminum is a metal it's not a magnetic material
+i'm not going to get into the physics of it
+but all you need to know is that the faster the magnet 's falling the greater the stopping force
+next technology is actually a ten foot pole and i have it right here in my pocket
+now as we were talking to the vendor to try to learn about how you could apply these or how they're being applied currently he was telling us that in the military
+they use this one so soldiers can keep it on their chests very concealed and then when they're out on the field erect it as an antenna to clearly send signals back to the base
+so we decided to go out onto the streets of chicago and ask a few people on the streets what they thought you could do with this
+my ceiling fans with that and i get the spider webs off my house i do it that way
+i'd make my very own walking stick i would create a ladder to use to get up on top of
+that when you went deep sea diving you could catch the fish really fast and then roll it back up and you could swim easier
+now for our next technology we're going to do a little demonstration and so we need a volunteer from the audience you sir come on up
+we need you to stand right in front of the ted sign and hold onto this
+and hold onto this now
+right so now if you'll see here
+so describe to the audience
+now the reason it's cold is that's it's not actually water loaded into these squirt guns it's a dry liquid developed by three m it's perfectly clear it's odorless it's colorless
+it's so safe you could drink this
+it feels cold is because it evaporates twenty five times faster than water coming up
+coming up a big
+the significance of this dry liquid early versions of the fluid were actually used on a cray supercomputer
+now the unexpected thing about this is that zach could stand up on stage and drench a perfectly innocent member of the audience without any concern that we'd damage the electronics that we'd get him wet that we'd hurt the books or the computers
+it works because it's non conductive so you can see here you can immerse a whole circuit board in this and it wouldn't cause any damage you can circulate it to draw the heat away
+our next technology comes to us from a company in japan called sekisui chemical
+one of their r d engineers was working on a way to make plastic stiffer
+while he was doing this he noticed an unexpected thing we have a video to show you
+you see there it didn't bounce back
+this was an unintended side effect of some experiments they were doing it's technically called shape retaining property now think about your interactions with aluminum foil
+shape retaining is common in metal you bend a piece of aluminum foil and it holds its place and contrast that with like a plastic garbage can and you can push in the sides and it always bounces back
+for example you could make a watch that wraps around your wrist but doesn't use a
+taking it a little further if you wove those strips together kind of like a little basket you could make a shape retaining sheet and then you could embed it in a cloth so you could make a picnic table that wraps around the table so that way on a windy day it wouldn't blow away
+as this paper is bending the resistance of the ink changes so with simple electronics you can detect how much the page is being bent
+now to think about the potential for this
+think of all the places ink is supplied on business cards on the back of cereal boxes board games any place you use ink you could change the way you interact with it
+so my favorite idea for this is to apply the ink to a book this could totally change the way that you interface with paper you see the dark line on the side and the top as you turn the pages of the book the book can actually detect what page you're on based on the curvature of the pages
+in addition if you were to fold in one of the corners then you could program the book to actually email you the text on the page for your notes
+for our last technology we worked again with roman and his team at the directors bureau to develop a commercial from the future to explain how it works
+oh yeah it smells good
+now the way it works there's a matrix of color dyes
+these dyes change color in response to odors so the smell of vanilla that might change the four on the left brown and the one on the right yellow
+so that this matrix can produce thousands of different color combinations to represent thousands of different smells but like in the milk commercial if you know what odor you want to detect then they can formulate a specific dye to detect just that odor
+right it was that started a conversation with professor suslick and myself and he was explaining to me the things that this is making possible beyond just detecting spoiled food is really where the significance of it lies
+his company actually did a survey of firemen all across the country to try to learn how are they currently testing the air when they respond to an emergency scene and
+i mean this is a true story they're using policemen as canaries
+but more seriously they determined that you could develop a device that can smell better than the humans and say if it's safe or the firemen
+in addition he 's spun off a company from the university called chemsensing where they're working on medical equipment so a patient can come in and actually blow into their device by detecting the odor of particular bacteria or or even lung cancer
+the dots will change and they can use software to analyze the results this can radically improve the way that doctors diagnose patients currently they're using a method of trial and error but this could tell you precisely what disease you have
+this is something that keith and i really enjoy doing i'm sure it's obvious to you now but it was actually yesterday that i was reminded of why
+i was having a conversation with steve jurvetson over downstairs by the escalators and he was telling me that when chris sent out that little box
+one of the items in it was the hydrophobic sand the sand that doesn't get wet he said that he was playing with it with his son and you know his son was mesmerized because he would dunk it in the water he would take it out and it was bone dry
+a few weeks later he said his son was playing with a lock of his mother 's hair and he noticed that there were some drops of water on the hair and he took the thing and he looked up to steve and he said

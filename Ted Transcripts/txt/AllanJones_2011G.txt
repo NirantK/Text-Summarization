@@ -1,0 +1,62 @@
+most people when they first look at a fresh human brain they say it doesn 't look what you 're typically looking at when someone shows you a brain typically what you 're looking at is a fixed brain it 's gray and this outer layer this is the vasculature which is incredible around a human brain this is the blood vessels
+twenty percent of the oxygen coming from your lungs twenty percent of the blood pumped from your heart is servicing this one organ that 's basically if you hold two fists together it 's just slightly larger than the two fists
+scientists sort of at the end of the twentieth century learned that they could track blood flow to map non invasively where activity was going on in the human brain
+so for example they can see in the back part of the brain which is just turning around there there 's the cerebellum that 's keeping you upright right now it 's keeping me standing it 's involved in coordinated movement
+on the side here this is temporal cortex this is the area where primary auditory processing so you 're hearing my words
+you 're sending it up into higher language processing centers towards the front of the brain is the place in which all of the more complex thought decision making it 's the last to mature in late adulthood this is where all your decision making processes are going on it 's the place where you 're deciding right now you probably aren 't going to order the steak for dinner
+so if you take a deeper look at the brain one of the things if you look at it in cross section what you can see is that you can 't really see a whole lot of structure there but there 's actually a lot of structure there it 's cells and it 's wires all wired together so about a hundred years ago some scientists invented a stain that would stain cells and that 's shown here in the the very light blue
+you can see areas where neuronal cell bodies are being stained and what you can see is it 's very non uniform you see a lot more structure there so the outer part of that brain is the neocortex it 's one continuous
+processing unit if you will but you can also see things underneath there as well and all of these blank areas are the areas in which the wires are running through they 're probably less cell dense so there 's about eighty six billion neurons in our brain and as you can see they 're very non uniformly distributed
+and how they 're distributed really contributes to their underlying function and of course as i mentioned before since we can now start to map brain function we can start to
+tie these into the individual cells so let 's take a deeper look let 's look at neurons so as i mentioned there are eighty six billion neurons there are also these smaller cells as you 'll see these are support cells astrocytes glia
+and the nerves themselves are the ones who are receiving input they 're storing it they 're processing it each neuron is connected via synapses
+to up to ten thousand other neurons in your brain and each neuron itself is largely unique the unique character of both individual neurons and neurons within a collection of the brain are driven by fundamental properties of their underlying biochemistry
+these are proteins they 're proteins that are controlling things like ion channel movement they 're controlling who nervous system cells partner up with and they 're controlling basically everything that the nervous system has to do so if we zoom in to an even deeper level
+all of those proteins are encoded by our genomes we each have twenty three pairs of chromosomes we get one from mom one from dad and on these chromosomes are roughly twenty five thousand genes they 're encoded in the dna and
+so in order to undertake such a project we obviously need brains so we sent our lab technician out we were seeking
+normal human brains what we actually start with is a medical examiner 's office this a place where the dead are brought in we are seeking normal human brains there 's a lot of criteria by which we 're selecting these brains we want to make sure that we have normal humans between the ages of twenty to sixty they died a somewhat natural death with no injury to the brain
+no history of psychiatric disease no drugs on board we do a toxicology workup
+and we 're very careful about the brains that we do take
+we 're also selecting for brains in which we can get the tissue we can get consent to take the tissue
+which is the readout from our genes is very labile and so we have to move very quickly one side note on the collection of brains because of the way that we collect and because we require consent we actually have a lot more male brains
+the large cabling in the brain and again you can think of this as almost mapping our interstate highways if you will
+the brain is removed from the skull and then it 's sliced into one centimeter slices
+and those are frozen solid and they 're shipped to seattle and in seattle we take these this is a whole human hemisphere and we put them into what 's basically a glorified meat slicer there 's a blade here that 's going to cut across a section of the tissue and transfer it to a microscope slide we 're going to then apply one of those stains to it
+and we scan it and then what we get is our first mapping so this is where experts come in and they make basic anatomic assignments you could consider this state boundaries if you will those pretty broad outlines
+from this we 're able to then fragment that brain into further pieces
+which then we can put on a smaller cryostat and this is just showing this here this frozen tissue and it 's being cut this is twenty microns thin so this is about a baby hair 's width and remember it 's frozen and so you can see here old fashioned technology of the paintbrush being applied we take a microscope slide
+and our anatomists are going to go in and take a deeper look at this so again this is what they can see under the microscope you can see collections and configurations of large and small cells in clusters and various places and from there it 's routine they understand where to make these assignments and they can make basically what 's a reference atlas this is a more detailed map
+our scientists then use this to go back to another piece of that tissue and do what 's called laser scanning microdissection so the technician takes the instructions they scribe along a place there and then the laser actually cuts you can see that blue dot there cutting
+and that tissue falls off you can see on the microscope slide here that 's what 's happening in real time there 's a container underneath that 's collecting that tissue
+we take that tissue we purify the rna out of it using some basic technology
+and then we put a florescent tag on it
+we take that tagged material and we put it on to something called a microarray
+now this may look like a bunch of dots to you but each one of these individual dots is actually a unique piece of the human genome that we spotted down on glass this has roughly sixty thousand elements on it so we repeatedly measure various genes of the twenty five thousand genes in the genome
+and when we take a sample and we hybridize it to it we get a unique fingerprint if you will
+quantitatively of what genes are turned on in that sample now we do this over and over again this process for any given brain we 're taking over a thousand samples for each brain this area shown here is an area called the hippocampus it 's involved in learning and memory
+and it contributes to about seventy samples of those thousand samples
+so each sample gets us about
+fifty thousand data points with repeat measurements a thousand samples so roughly we have fifty million data points for a given human brain we 've done right now two human brains worth of data
+we 've put all of that together into one thing and i 'll show you what that synthesis looks like it 's basically a large data set of information that 's all freely available to any scientist around the world they don 't even have to log in to come use this tool mine this data find interesting things out with this
+so here 's the modalities that we put together you 'll start to recognize these things from what we 've collected before here 's the mr it provides the framework there 's an operator side on the right that allows you to turn it allows you to zoom in it allows you to highlight individual structures but most importantly
+we 're now mapping into this anatomic framework which is a common framework for people to understand
+where genes are turned on so the red levels are where a gene is turned on to a great degree green is the sort of cool areas where it 's not turned on and each gene gives us a fingerprint and remember that we 've assayed all the twenty five thousand genes in the genome and have all of that data available
+so what can scientists learn about this data we 're just starting to look at this data ourselves
+there 's some basic things that you would want to understand two great examples are drugs prozac and wellbutrin these are commonly prescribed antidepressants now remember we 're assaying genes genes send the instructions to make proteins
+that no one has ever looked at before and we see these genes turned on there it 's as interesting a side effect as it could be
+one other thing you can do with such a thing is you can because it 's a pattern matching exercise because there 's unique fingerprint we can actually scan through the entire genome and find other proteins
+that show a similar fingerprint so if you 're in drug discovery for example you can go through an entire listing of what the genome has on offer to find perhaps better drug targets and optimize
+most of you are probably familiar with genome wide association studies in the form of people covering in the news saying scientists have recently discovered the gene or genes which affect x and so these kinds of studies are routinely published by scientists
+but what you get out of such an exercise is simply a list of genes it tells you the what but it doesn 't tell you the where
+and so it 's very important for those researchers that we 've created this resource now they can come in and they can start to get clues about activity they can start to look at common pathways other things that they simply haven 't been able to do before
+so i think this audience in particular can understand the importance of individuality
+and i think every human we all have different genetic backgrounds we all have lived separate lives but the fact is our genomes are greater than ninety nine percent similar we 're similar at the genetic level
+and what we 're finding is actually even at the brain biochemical level we are quite similar
+and so this shows it 's not ninety nine percent but it 's roughly ninety percent correspondence at a reasonable cutoff so everything in the cloud is roughly correlated and then we find some outliers some things that lie beyond the cloud
+and those genes are interesting but they 're very subtle so i think it 's an important message to take home today that even though
+we celebrate all of our differences we are quite similar even at the brain level
+this is an example of a study that we did to follow up and see what exactly those differences were and they 're quite subtle these are things where genes are turned on in an individual cell type these are two genes that we
+but they do show some population variation and so what you 're looking at here in donor one and donor four which are the exceptions to the other two that genes are being turned on in a very specific subset of cells it 's this dark purple precipitate within the cell that 's telling us a gene is turned on there
+whether or not that 's due to an individual 's genetic background or their experiences we don 't know those kinds of studies require much larger populations
+so i 'm going to leave you with a final note about the complexity of the brain and how much more we have to go i think these resources are incredibly valuable they give researchers a handle on where to go but we only looked at a handful of individuals at this point we 're certainly going to be looking at
+i 'll just close by saying that the tools are there and this is truly an unexplored undiscovered continent this is the new frontier if you will and so for those who are undaunted but humbled by the complexity of the brain the future awaits

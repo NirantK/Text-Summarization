@@ -1,0 +1,23 @@
+thousand year old drawing of the brain
+and if we compare this to more recent representations of the visual system you 'll see that things have gotten substantially more complicated over the intervening thousand years and that 's because today we can see what 's inside of the brain rather than just looking at its overall shape imagine you wanted to understand how a computer works
+and all you could see was a keyboard a mouse a screen
+you really would be kind of out of luck you want to be able to open it up crack it open look at the wiring inside and up until a little more than a century ago nobody was able to do that with the brain nobody had had a glimpse of the brain 's wiring and that 's because if you take
+a brain out of the skull and you cut a thin slice of it put it under even a very powerful microscope there 's nothing there
+it 's gray formless there 's no structure it won 't tell you anything and this all changed in the late nineteenth century suddenly
+new chemical stains for brain tissue were developed and they gave us our first glimpses at brain wiring the computer was cracked open so what really launched modern neuroscience was a stain called the golgi stain and it works in a very particular way instead of staining all of the cells inside of a tissue
+it somehow only stains about one percent of them it clears the forest
+reveals the trees inside if everything had been labeled nothing would have been visible so somehow it shows what 's there spanish neuroanatomist santiago ramon y cajal who 's widely considered the father of modern neuroscience applied this golgi stain which yields data which looks like this and really gave us
+the modern notion of the nerve cell the neuron and if you 're thinking of the brain as a computer this is the transistor
+and very quickly cajal realized that neurons don 't operate alone but rather make connections with others that form circuits just like in a computer
+now green fluorescent protein which oddly enough comes from a bioluminescent jellyfish is very useful because if you can get the gene for green fluorescent protein and deliver it to a cell that cell will glow green or any of the many variants now of green fluorescent protein you get a cell to glow many different colors
+and so coming back to the brain this is from a genetically engineered mouse called brainbow and it 's so called of course because all of these neurons are glowing different colors
+now sometimes neuroscientists need to identify individual molecular components of neurons molecules rather than the entire cell and there 's several ways of doing this but one of the most popular ones involves using antibodies
+and you 're familiar of course with antibodies as the henchmen of the immune system but it turns out that they 're so useful to the immune system because they can recognize specific molecules like for example the code protein of a virus that 's invading the body
+and researchers have used this fact in order to recognize specific molecules inside of the brain recognize specific substructures of the cell and identify them individually and a lot of the images i 've been showing you here are very beautiful but they 're also very powerful they have great explanatory power
+this for example is an antibody staining against serotonin transporters in a slice of mouse brain
+and you 've heard of serotonin of course in the context of diseases like depression and anxiety you 've heard of ssris which are drugs that are used
+to treat these diseases and in order to understand how serotonin works it 's critical to understand where the serontonin machinery is and antibody stainings like this one can be used to understand that sort of question
+i 'd like to leave you with the following thought
+green fluorescent protein and antibodies are both totally natural products at the get go
+they were evolved by nature in order to get a jellyfish to glow green for whatever reason or in order to detect the code protein of an invading virus for example and only much later did scientists come onto the scene and say hey these are tools these are functions that we could use in our own research tool palette
+and instead of applying feeble human minds to designing these tools from scratch there were these ready made solutions right out there in nature developed and refined steadily for millions of years by the greatest engineer of all thank you

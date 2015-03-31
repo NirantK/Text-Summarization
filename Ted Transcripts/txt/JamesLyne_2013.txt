@@ -1,0 +1,71 @@
+it 's a pretty accurate description this is what someone that specializes in malware and hacking looks like
+so today computer viruses and trojans designed to do everything from stealing data to watching you in your webcam to the theft of billions of dollars some malicious code today goes as far as targeting power utilities and infrastructure
+let me give you a quick snapshot of what malicious code is capable of today right now every second eight new users are joining the internet
+today we will see two hundred and fifty thousand individual new computer viruses
+we will see thirty thousand new infected websites and just to kind of tear down a myth here lots of people think that when you get infected with a computer virus it 's because you went to a porn site right well actually statistically speaking if you only visit porn sites you 're safer
+people normally write that down by the way
+today 's cybercriminal what do they look like well many of you have the image don 't you of the spotty teenager sitting in a basement hacking away for notoriety but actually today cybercriminals are wonderfully professional and organized in fact they have product adverts
+you can go online and buy a hacking service to knock your business competitor offline check out this one i found
+if you want your business competitors to go down well they can if you want your rivals to go offline well they will not only that we are providing a short term to long term ddos service or scheduled attack starting five dollars per hour for small personal websites to ten to fifty dollars per hour
+which enables the cybercriminals to test the quality of their viruses before they release them on the world
+for a small fee they can upload it and make sure everything is good but it goes further cybercriminals now have crime packs with business intelligence reporting dashboards to manage the distribution of their malicious code
+this is the market leader in malware distribution the black hole exploit pack responsible for nearly one third of malware distribution in the last couple of quarters it comes with technical installation guides video setup routines and get this technical support
+you can email the cybercriminals and they 'll tell you how to set up your illegal hacking server
+so let me show you what malicious code looks like today
+what i 've got here is two systems an attacker which i 've made look all matrix y and scary and a victim which you might recognize from home or work now normally these would be on different sides of the planet or of the internet but i 've put them side by side because it makes things much more interesting
+now there are many ways you can get infected you will have come in contact with some of them maybe some of you have received an email that says something like hi i 'm a nigerian banker and i 'd like to give you fifty three billion dollars because i like your face
+now how do you get a usb key to run in a business well you could try looking really cute
+so let 's have a look here on my victim computer what i 'm going to do is plug in the usb key
+after a couple of seconds things start to happen on the computer on their own usually a bad sign
+this would of course normally happen in a couple of seconds really really quickly but i 've kind of slowed it down so you can actually see the attack occurring malware is very boring otherwise
+so this is writing out the malicious code and a few seconds later on the left hand side you 'll see the attacker 's screen get some interesting new text
+your documents your data you can turn on the webcam that can be very embarrassing or just to really prove a point we can launch programs like my personal favorite the windows calculator
+so isn 't it amazing how much control the attackers can get with such a simple operation let me show you how most malware is now distributed today
+many of you will have used something a bit like this before unfortunately when this was implemented the developer was slightly inebriated and managed to forget all of the secure coding practices he had learned so let 's imagine that our attacker
+this is a virus pretending to look like antivirus software
+and it will go through and it will scan the system have a look at what its popping up here it creates some very serious alerts oh look a child porn proxy server we really should clean that up what 's really insulting about this is not only does it provide the attackers with access to your data
+but when the scan finishes they tell you in order to clean up the fake viruses you have to register the product now i liked it better when viruses were free
+chasing two hundred and fifty thousand pieces of malware a day is a massive challenge and those numbers are only growing directly in proportion to the length of my stress line you 'll note here
+so i want to talk to you briefly about a group of hackers we tracked for a year and actually found and this is a rare treat in our job
+so here we have a couple of documents which our cybercriminals had uploaded to a cloud service kind of like dropbox or skydrive like many of you might use at the top you 'll notice a section of source code
+what this would do is send the cybercriminals a text message every day telling them how much money they 'd made that day so a kind of cybercriminal billings report if you will
+if you look closely you 'll notice a series of what are russian telephone numbers
+now that 's obviously interesting because that gives us a way of finding our cybercriminals down below highlighted in red in the other section of source code is this bit leded leded that 's a username kind of like you might have on twitter
+so let 's take this a little further there are a few other interesting pieces the cybercriminals had uploaded
+lots of you here will use smartphones to take photos and post them from the conference
+an interesting feature of lots of modern smartphones is that when you take a photo it embeds gps data about where that photo was taken in fact i 've been spending a lot of time on internet dating sites recently obviously for research purposes
+and i 've noticed that about sixty percent of the profile pictures on internet dating sites contain the gps coordinates of where the photo was taken
+which is kind of scary because you wouldn 't give out your home address to lots of strangers but we 're happy to give away our gps coordinates to plus or minus fifteen meters
+and our cybercriminals had done the same thing
+so here 's a photo which resolves to st petersburg we then deploy the incredibly advanced hacking tool we used google using the email address the telephone number and the gps data on the left you see an advert for a bmw that one of our cybercriminals is selling
+on the other side an advert for the sale of sphynx kittens one of these was more stereotypical for me a little more searching and here 's our cybercriminal
+imagine these are hardened cybercriminals sharing information scarcely imagine what you could find about each of the people in this room a bit more searching through the profile and there 's a photo of their office they were working on the third floor
+our friends our families and our colleagues can break our security even when we do the right things this is mobsoft one of the companies that this cybercriminal gang owned and an interesting thing about mobsoft is the fifty percent owner
+of this posted a job advert and this job advert matched one of the telephone numbers from the code earlier this woman was maria
+and maria is the wife of one of our cybercriminals and it 's kind of like she went into her social media settings and clicked on every option imaginable to make herself really really insecure
+by the end of the investigation where you can read the full twenty seven page report at that link we had photos of the cybercriminals even the office christmas party when they were out on an outing that 's right cybercriminals do have christmas parties as it turns out
+now you 're probably wondering what happened to these guys let me come back to that
+in just a minute i want to change pace to one last little demonstration a technique that is wonderfully simple and basic but is interesting in exposing how much information we 're all giving away and it 's relevant because it applies to us as a ted audience
+this is normally when people start kind of shuffling in their pockets trying to turn their phones onto airplane mode desperately
+but what you might not know is that you 're also beaming out a list of networks you 've previously connected to even when you 're not using wireless actively so i ran a little scan
+i was relatively inhibited compared to the cybercriminals who wouldn 't be so concerned by law
+and here you can see my mobile device okay so you can see a list of wireless networks tedattendees hyattlb where do you think i 'm staying
+we called it that at one of our conferences because we thought that would freak people out which is quite fun this is how geeks party
+so let 's make this a little bit more interesting let 's talk about you
+twenty three percent of you have been to starbucks recently and used the wireless network things get more interesting forty six percent of you i could link to a business xyz employee network this isn 't an exact science but it gets pretty accurate
+seven hundred and sixty one of you i could identify a hotel you 'd been to recently absolutely with pinpoint precision somewhere on the globe
+two hundred and thirty four of you well i know where you live
+your wireless network name is so unique that i was able to pinpoint it using data available openly on the internet with no hacking or clever clever tricks
+and i should mention as well that some of you do use your names james lyne 's iphone for example and two percent of you have a tendency to extreme profanity
+so something for you to think about as we adopt these new applications and mobile devices as we play with these shiny new toys how much are we trading off convenience for privacy and security
+next time you install something look at the settings and ask yourself is this information that i want to share would someone be able to abuse it
+we also need to think very carefully about how we develop our future talent pool you see technology 's changing at a staggering rate and that two hundred and fifty thousand pieces of malware won 't stay the same for long
+there 's a very concerning trend that whilst many people coming out of schools now are much more technology savvy they know how to use technology
+fewer and fewer people are following the feeder subjects to know how that technology works under the covers in the u k a sixty percent reduction since two thousand and three and there are similar statistics all over the world we also need to think about the legal issues in this area
+the cybercriminals i talked about despite theft of millions of dollars actually still haven 't been arrested and at this point possibly never will
+most laws are national in their implementation despite cybercrime conventions where the internet is borderless and international by definition countries do not agree which makes this area exceptionally challenging from a legal perspective
+but my biggest ask is this you see you 're going to leave here and you 're going to see some astonishing stories in the news you 're going to read about malware doing incredible and terrifying scary things
+however ninety nine percent of it works because people fail to do the basics
+so my ask is this go online find these simple best practices find out how to update and patch your computer get a secure password make sure you use a different password on each of your sites and services online find these resources
+apply them the internet is a fantastic resource for business for political expression for art and for learning
+help me and the security community make life much much more difficult for cybercriminals thank you

@@ -1,0 +1,75 @@
+reshaped digitally all of the
+contours of the mountains to follow the vicissitudes of the dow jones index so what you see that precipice that high precipice with the valley is the two thousand and eight
+financial crisis the photo was made when we were deep in the valley over there i don 't know where we are now this is the hang seng index for hong kong and
+similar topography i wonder why
+extract and derive from the world to something that actually starts to shape it
+the world around us and the world inside us and it 's specifically algorithms which are basically the math that computers use to decide stuff
+they acquire the sensibility of truth because they repeat over and over again and they ossify and calcify and they become real
+and i was thinking about this
+of all places on a transatlantic flight a couple of years ago because i happened to be seated next to a hungarian physicist about my age and we were talking about
+what life was like during the cold war for physicists in hungary and i said so what were you doing and he said well we were mostly breaking stealth and i said that 's a good job that 's interesting how does that work and to understand that you have to understand a little bit about how stealth works and so
+this is an over simplification but basically it 's not like you can just pass a radar signal right through one hundred and fifty six tons of steel in the sky it 's not just going to disappear
+but if you can take this big massive thing and you could turn it into
+a million little things something like a flock of birds well then the radar that 's looking for that has to be able to see every flock of birds in the sky
+and if you 're a radar that 's a really bad job
+and he said yeah he said but that 's if you 're a radar so we didn 't use a radar we built a black box that was looking for electrical signals electronic communication
+and whenever we saw a flock of birds that had electronic communication we thought probably has something to do with the americans and i said yeah that 's good so you 've effectively negated sixty years of aeronautic research what 's your
+and it 's also sometimes called algo trading algorithmic trading
+and algorithmic trading evolved in part because institutional traders have the same problems that the united states air force had which is that they 're moving these positions whether it 's proctor gamble or accenture whatever they 're moving a million shares of something through the market
+and if they do that all at once it 's like playing poker and going all in right away you just tip your hand
+and so they have to find a way and they use algorithms to do this to break up that big thing into a million little transactions and the magic and the horror
+of that is that the same math
+that you use to break up the big thing into a million little things can be used to find a million little things and sew them back together and figure out what 's actually happening in the market so if you need to have some image of what 's happening in the stock market right now what you can picture is a bunch of algorithms
+that are basically programmed to hide and a bunch of algorithms that are programmed to go find them and
+and that 's seventy percent of the united states stock market seventy percent of the operating system formerly known as your pension your mortgage
+and what could go wrong what could go wrong is that a year ago nine percent of the entire market just disappears in five minutes and they called it the flash crash of two forty five
+because nobody ordered it nobody asked for it nobody had any control over what was actually happening all they had
+was just a monitor in front of them
+that had the numbers on it and just a red button that said stop
+and that 's the thing is that we 're writing things we 're writing these things that we can
+no longer read and we 've rendered something illegible
+and we 've lost the sense of what 's actually happening in this world that we 've made and we 're starting to make our way there 's a company in boston called nanex
+and they use math and magic and i don 't know what and they reach into all the market data and they find actually sometimes some of these algorithms and when they find them they pull them out and they pin them to the wall like butterflies
+and they do what we 've always done when confronted with huge amounts of data that we don 't understand which is that they give them a name and a story so this is one that they found they called the knife
+the carnival the boston shuffler twilight
+and the gag is that of course
+these aren 't just running through the market you can find these kinds of things wherever you look once you learn how to look for them you can find it here this book about flies that you may have been looking at on amazon you may have noticed it when its price started at one point seven million dollars it 's out of print still
+twenty three point six million dollars plus shipping and handling
+and the question is nobody was buying or selling anything what was happening and you see this behavior on amazon as surely as you see it on wall street and when you see this kind of behavior what you see is the evidence of algorithms in conflict algorithms locked in loops with each other without any human oversight
+without any adult supervision to say actually one point seven million is plenty
+has gone through several different algorithms over the years they started with cinematch and they 've tried a bunch of others there 's dinosaur planet there 's gravity they 're using pragmatic chaos now pragmatic chaos
+is like all of netflix algorithms trying to do the same thing it 's trying to get a grasp on you on the firmware inside the human skull so that it can recommend what movie you might want to watch next which is a very very difficult problem
+but the difficulty of the problem and the fact that we don 't really quite have it down
+it doesn 't take away from the effects pragmatic chaos has pragmatic chaos like all netflix algorithms determines in the end sixty percent
+of what movies end up being rented so one piece of code with one idea about you
+is responsible for sixty percent of those movies
+but what if you could rate those movies before they get made
+through there and they can tell you quantifiably that that 's a thirty million dollar movie or a two hundred million dollar movie and the thing is is that this isn 't google this isn 't information these aren 't financial stats this is culture
+and what you see here or what you don 't really see normally is that these are the physics of culture
+and they 're sort of like secret architects in your bedroom and the idea that architecture itself is somehow subject to algorithmic optimization is not far fetched it 's super real and it 's happening around you you feel it most when you 're in a sealed metal box
+a new style elevator they 're called destination control elevators these are the ones where you have to press what floor you 're going to go to before you get in the elevator and it uses what 's called a bin packing algorithm so none of this mishegas of letting everybody go into whatever car they want
+everybody who wants to go to the tenth floor goes into car two and everybody who wants to go to the
+and this is what we 're designing for we 're designing for this machine dialect and how far can you take that how far can you take it you can take it really really far so let me take it back
+to wall street because the algorithms of wall street are dependent on one quality above all else which is speed
+and they operate on milliseconds and microseconds and just to give you a sense of what microseconds are it takes you five hundred thousand microseconds just to click a mouse but if you 're a wall street algorithm and you 're five microseconds behind
+you 're a loser so if you were an algorithm you 'd look for an architect like the one that i met in frankfurt who was hollowing out a skyscraper throwing out all the furniture all the infrastructure for human use and just running steel on the floors to get ready for the stacks of servers to go in
+to the internet and you think of
+the internet as this kind of distributed system and of course it is but it 's distributed from places in new york this is where it 's distributed from the carrier hotel located on hudson street and this is really where the wires come right up into the city
+and the reality is that the further away you are from that you 're a few microseconds behind every time these guys down on wall street marco polo and cherokee nation they 're eight microseconds behind all these guys going into the empty buildings being hollowed out
+up around the carrier hotel
+and that 's going to keep happening
+we 're going to keep hollowing them out because you inch for inch and pound for pound and dollar for dollar
+none of you could squeeze revenue out of that space like the boston shuffler could
+but if you zoom out if you zoom out
+you would see an eight hundred and twenty five mile trench between new york city and chicago that 's been built over the last few years by a company called spread networks this is a fiber optic cable that was laid between those two cities to just be able to traffic one signal
+thirty seven times faster than you can click a mouse just for these algorithms just for the
+carnival and the knife and when you think about this that we 're running through the united states with dynamite and rock saws so that an algorithm can close the deal three microseconds faster all for a communications framework that no human will ever know
+that 's a kind of manifest destiny and we 'll always look for a new frontier
+unfortunately we have our work cut out for us
+this is just theoretical this is some mathematicians at mit and the truth is i don 't really understand a lot of what they 're talking about
+and what this map says is that if you 're trying to make money on the markets where the red dots are that 's where people are where the cities are you 're going to have to put the servers where the blue dots are to do that most effectively and the thing that you might have noticed about those blue dots is that a lot of them are in the middle of the ocean
+if you 're an algorithm
+with this kind of algorithmic efficiency and in that light
+you go back and you look at michael najjar 's photographs and you realize that they 're not metaphor they 're prophecy
+that we 're making and the landscape was always made by this sort of weird uneasy collaboration between nature and man but now there 's this third co evolutionary force algorithms the boston shuffler the carnival
+and we will have to understand those as nature

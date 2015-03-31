@@ -1,0 +1,69 @@
+i do two things i design mobile computers and i study brains and today 's talk is about brains and yay somewhere i have a brain fan out there
+i can have my first slide up here and you'll see the title of my talk and my two affiliations so what i'm going to talk about is why we don't have a good brain theory why it is important that we should develop one and what we can do about it
+i have one slide on my other life the computer life and that's the slide here these are some of the products i've worked on over the last twenty years starting back from the very original laptop to some of the first tablet computers and so on and ending up most recently with the
+to do this and i've done this because i really believe that mobile computing is the future of personal computing and i'm trying to make the world a little bit better by working on these things
+but this was i have to admit all an accident i really didn't want to do any of these products and very early in my career
+i decided i was not going to be in the computer industry and before i tell you about that i just have to tell you this one little picture of graffiti there i picked off the web the other day i was looking for a picture of graffiti
+so what happened was when i was young and got out of engineering school cornell in seventy nine i decided i went to work for intel i was in the computer industry and three months into that
+i fell in love with something else and i said i made the wrong career choice here and i fell in love with brains
+and he wrote a story basically saying well this is all well and good but you know what we don't know diddley squat about brains and no one has a clue how these things work so don't believe what anyone tells you
+this is a quote from that article he said what is conspicuously lacking he 's a very proper british gentleman so
+what is conspicuously lacking is a broad framework of ideas in which to interpret these different approaches i thought the word framework was great he didn't say we didn't even have a theory he says we don't even know how to begin to think about it we don't even have a framework
+how hard can it be and this is something we can work on my lifetime i felt i could make a difference and so i tried to get out of the computer business into the brain business
+first i went to mit the ai lab was there and i said well i want to build intelligent machines too but the way i want to do it is to study how brains work first and they said oh you don't need to do that
+but i was a little disappointed
+so i said oh my gosh i was very depressed i said but i can make a difference in this field so what i did is i went back in the computer industry and said well i'll have to work here for a while do something that's when i designed all those computer products and
+i said i want to do this for four years make some money like i was having a family and i would mature a bit and maybe the business of neuroscience would mature a bit
+well it took longer than four years it's been about sixteen years but i'm doing it now and i'm going to tell you about it so why should we have a good brain theory
+well there's lots of reasons people do science one is the most basic one is people like to know things we're curious and we just go out and get knowledge you know why do we study ants well it's interesting maybe we'll learn something really useful about it but it's interesting and fascinating
+but sometimes a science has some other attributes which makes it really really interesting sometimes a science will tell something about ourselves it'll tell us who we are rarely you know evolution did this and copernicus did this where we have a new understanding of who we are
+we're going to be able to build intelligent machines and i think that's actually a good thing on the whole and it's going to have tremendous benefits to society just like a fundamental technology so why don't we have a good theory of brains and
+hundred years well let 's first take a look at what normal science looks like this is normal science normal science is a nice balance between theory and
+which is anatomy physiology and behavior you can't imagine how much detail we know about brains there were twenty eight thousand people who went to the neuroscience conference this year and every one of them is doing research
+a lot of data but there's no theory there's a little wimpy box on top there and theory has not played a role in any sort of grand way
+in the neurosciences and it's a real shame now why has this come about if you ask neuroscientists why is this the state of affair they'll first of all admit it
+but if you ask them they'll say well there's various reasons we don't have a good brain theory some people say well we don't still have enough data we need to get more information there's all these things we don't know
+be lucky and discover some magic thing but i don't think so this is actually a symptom of the fact that we just don't have a theory we don't need more data we need a good theory about
+you're more complicated than your brain you've got a brain and it's also although the brain looks very complicated things look complicated until you understand them
+it looks like it's the same thing repeated over and over and over again it's not as complex as it looks that's not the issue some people say brains can't understand brains very zen like
+sounds good but why i mean what's the point it's just a bunch of cells you understand your liver it's got a lot of cells in it too right so you know i don't think there's anything to that and
+say well you know i don't feel like a bunch of cells you know i'm conscious i've got this experience i'm in the world
+be just a bunch of cells well you know people used to believe there was a life force to be living and we now know that's really not true at all
+and there's really no evidence that says well other than people just have disbelief that cells can do what they do and so if some people have fallen into the pit of metaphysical dualism some really smart people too but we can reject
+tell you there's something else and it's really fundamental and this is what it is there's another reason why we don't have a good brain theory and it's because we have an intuitive strongly held but incorrect assumption
+all have a lot in common with brain science first of all they had a lot of unexplained data a lot of it but it got more manageable once they had a theory the best minds were stumped really really smart people we're not smarter now than they were then
+and now it's not that hard you know here 's the apple here 's the orange you know the earth goes around that kind of stuff finally another thing is the answer was there all along but we kind of ignored it because of this obvious thing and
+it was an intuitive strong held belief that was wrong in the case of the solar system the idea that the earth is spinning and the surface of the earth is going like a thousand miles an hour and the earth is going through the solar system about a million miles an hour
+floating around on top of the earth you know it's like it doesn't make any sense so
+the intuitive but obvious thing is that somehow intelligence is defined by behavior that we are intelligent because of the way that we do things and the way we behave intelligently and i'm going to tell you that's wrong
+system engineers like to look at systems like this scientists like to look at systems like this they say well we have a thing in a box and we have its inputs and its outputs the ai people said well the thing in the box is a programmable computer because that's equivalent to a brain and we'll feed it some inputs and we'll get it to do something
+store them and we recall them and when we recall them we match them up against reality and we're making predictions all the time
+there's an eternal metric about us sort of saying do we understand the world am i making predictions and so on you're all being intelligent right now but you're not doing anything maybe you're scratching yourself or picking your nose i don't know but
+you're not doing anything right now but you're being intelligent you're understanding what i'm saying because you're intelligent and you speak english you know what word is at the end of this
+the word came into you and you're making these predictions all the time and then what i'm saying is is that the eternal prediction is the output in the neocortex and that somehow prediction leads to intelligent behavior and here 's how that happens
+let 's start with a non intelligent brain well i'll argue a non intelligent brain we got hold of an old brain and we're going to say it's like a non mammal like a reptile so i'll say an alligator we have an alligator and
+some very sophisticated senses it's got good eyes and ears and touch senses and so on a mouth and a nose it has very complex behavior
+it can run and hide it has fears and emotions it can eat you you know it can attack it can do all kinds of stuff
+but we don't consider the alligator very intelligent not like in a human sort of way but it has all this complex behavior already now in evolution what happened
+it's your emotional brain it's all those things and all those gut reactions you have and on top of it we have this memory system called the neocortex and the memory system is sitting over
+the sensory part of the brain and so as the sensory input comes in and feeds from the old brain it also goes up into the neocortex and the neocortex is just memorizing it's sitting there saying
+to memorize all the things that are going on where i've been people i've seen things i've heard and so on and in the future when it sees something similar to that again
+so in a similar environment or the exact same environment it'll play it back it'll start playing it back oh i've been here before and when you've been here before this happened next it allows you to predict the future
+it allows you to literally it feeds back the signals into your brain they'll let you see what's going to happen next will let you hear the word sentence before i said
+it and it's this feeding back into the old brain that'll allow you to make very more intelligent decisions this is the most important slide of my talk so i'll dwell on it a little bit
+and so all the time you say oh i can predict the things and if you're a rat and you go through a maze and then you learn the maze the next time you're in a maze you have the same behavior
+in humans we actually developed the front part of the neocortex called the anterior part of the neocortex and nature did a little trick it copied the posterior part the back part which is sensory and put it in the front part and humans uniquely have the same mechanism on the front but we use it for
+when she sings them the next note pops into your head already you anticipate it as you're going if it was an album of music the end of one
+i could make it a lever i can change your door put colors on i can put windows in i can change a thousand things about your door and in the two seconds you take to open your door you're going to notice that something has changed now the engineering approach to this the ai approach to this is to build a door database
+vision here briefly this is a picture of a woman and when you look at people your eyes are caught over at two to three times a second you're not aware of this but your eyes are always moving
+know there's something wrong about this person
+what is the recipe for brain theory first of all we have to have the right framework and the framework is a memory framework not a computation or behavior framework it's a memory framework how do you store and recall these sequences or patterns
+patterns then if in that framework you take a bunch of theoreticians now biologists generally are not good theoreticians it's not always true
+but in general there's not a good history of theory in biology so i found the best people to work with are physicists engineers and mathematicians who tend to think algorithmically
+then they have to learn the anatomy and they've got to learn the physiology you have to make these theories very realistic in anatomical
+terms anyone who gets up and tells you their theory about how the brain works and doesn't tell you exactly how it's working in the brain and how the wiring works in the brain it is not a theory
+so what will brain theory look like first of all it's going to be a theory about memory not like computer memory it's not at all like computer memory it's very very different
+so one more slide here what is this going to result in are we going to really build intelligent machines absolutely and it's going to be different than people think no doubt that it's going to happen in my mind
+first of all it's going to be built up we're going to build the stuff out of silicon the same techniques we use for building silicon computer memories we can use for here but they're very different types of
+really hard the new brain is actually kind of easier than the old brain so the first thing we're going to do are the things that don't require a lot of robotics so you're not going to see c three
+and if you talk to them they knew what they were doing was really significant but they didn't really know what was going to happen they couldn't anticipate cell phones and the internet and all this kind of stuff they just knew like

@@ -1,0 +1,37 @@
+talk to you about today is
+what it means is the web is going to become an exciting place again it's going to become super exciting as we transform to this highly immersive and interactive world
+with graphics computing power low latencies these types of applications and possibilities are going to stream rich data into your lives
+so the virtual earth initiative and other
+of these initiatives are all about extending you know our current search metaphor
+when you think about it we're so constrained by browsing the web remembering urls saving favorites
+as we move to search we rely on the relevance rankings the web matching the index crawling but we want to use our brain we want to navigate explore
+so what better way to put you back in the driver 's seat than to put you in the real world that you interact in every day why not leverage the learnings
+that you've been learning your entire life
+so virtual earth is about you know starting off creating the first digital representation comprehensive of the entire world what we want to do is mix in all types of data
+tag it attribute it metadata get the community to add local depth global perspective local knowledge
+so when you think about this problem this process is
+you know it's an engineering problem a mechanical problem a logistical problem an operational
+here is an example of our aerial camera this is panchromatic it's actually four color cones in addition it's multi spectral we collect
+four gigabits per second of data if you can imagine that kind of data stream coming down that's equivalent to a constellation of twelve satellites at highest res capacity
+we fly these airplanes at five thousand feet in the air you can see the camera on the front we collect multiple view points vantage points angles textures we bring all that data back in
+we sit here you know the thing about the ground vehicles the human scale what do you see in person we need to capture that up close to establish that what it's like type experience
+kind of poking at the pc for of course their brilliance and simplicity
+so a little unknown secret is did you see the one with the
+guy he 's got the web cam the poor pc guy they're duct taping his head they're just wrapping it on him well a little unknown secret is his brother
+they've got a little bit of a sibling rivalry thing going on here but let me tell you it doesn't affect his day job
+we think a lot of good can come from this technology this was after katrina we were the first commercial fleet of airplanes to be cleared into the disaster impact zone
+we flew the area we imaged it we sent in people we took pictures of interiors disaster areas we helped with the first responders the search and rescue often the first time anyone saw what happened to their house
+was on virtual earth we made it all freely available on the web just to you know it was obviously our chance of helping out with the cause when we think about you know how all this
+comes together it's all about software algorithms and math you know we capture this imagery but to build the three d models
+we need to do geo positioning we need to do geo registering of the images we have to bundle adjust them find tie points extract geometry from the images
+this process is a very calculated process in fact it was always done manual hollywood would spend millions of dollars to do a small urban corridor for a movie because they'd have to do it manually
+drive the streets with lasers called lidar they'd collected information with photos they'd manually build each building we do this all through software algorithms and math a highly automated pipeline creating these cities
+we took a decimal point off what it cost to build these cities and that's how we're going to be able to scale this out and make this reality a dream
+we think about the user interface what does it mean to look at it from multiple perspectives an ortho view a nadir view how do you keep the precision of the fidelity of the imagery while maintaining the fluidity of the model
+up by showing you the this is a brand new peek i haven't really shown into the lab area of virtual earth what we're doing is people like this
+a lot this bird 's eye imagery we work with it's this high resolution data but what we've found is they like the fluidity of the three d model
+a child can navigate with an xbox controller or a game controller so here what we're trying to do is we bring the picture and project it into the three d model space you can see all types of resolution from here i can slowly pan the image
+over i can get the next image i can blend and transition by doing this i don't lose the original detail in fact i might be recording history the freshness the capacity i can turn this image i can look at it from multiple viewpoints and angles
+what we're trying to do is build a virtual world
+we hope that we can make computing a user model you're familiar with
+and really derive insights from you from all different directions i thank you very much

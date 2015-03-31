@@ -1,0 +1,64 @@
+about resilience and technology it's actually much easier you're going to see some other speakers today i already know who are going to talk about breaking bones stuff and
+of course with technology it never is so it's very easy comparatively speaking to be resilient if we look at what
+such an incredible last half a dozen years that it's hard to even get the right analogy for it a lot of how we decide
+how we're supposed to react to things and what we're supposed to expect about the future depends on how we bucket things and how we categorize them and so i think the tempting analogy for the boom bust that we just went through with
+gold rush it's easy to think of this analogy as very different from some of the other things you might pick for one thing
+big deal huge boom huge boom huge bust huge bust you keep going
+both things are lots of hype i don't have to remind you of all the hype that was involved with the internet like getrich com but you had the same thing with the gold rush gold gold gold sixty eight rich men on the steamer portland stacks of yellow metal
+more a few bring out dollar one hundred thousand each people would get very excited about this when they read these articles
+the eldorado of the united states of america the discovery of inexhaustible gold mines in california
+on earth by not rushing to california and they start to decide they are these are community affairs by the way local communities on the east coast would get together and whole teams of
+this guy on the left doctor richard beverley cole he lived in philadelphia and he took the panama route they would take a ship down to panama across the
+then take another ship north this guy doctor toland went by covered wagon
+this has its parallels too doctors leaving their practices these are both very successful a physician in one case a surgeon in the other
+in the gold rush people literally jumped ship the san francisco harbor was clogged with
+six hundred ships at the peak because ships would get there and the crews would abandon to go search for gold so there were literally six hundred captains and six hundred ships they turned the ships into hotels because they couldn't sail them anywhere
+had dotcom fever and you had gold fever
+half of them deserted to go look for gold and they wouldn't let the other half out to go look for the first half because they were afraid they wouldn't come back
+and one of the soldiers wrote home
+this is the sentence that he put the struggle between right and dollar six a month and wrong and dollar seventy five a day is a rather severe one
+burn rate in the gold rush a very bad burn rate this is actually from the klondike gold rush this is the white pass trail they loaded up their mules and their
+the dead horse trail and the canadian minister of the interior wrote this at the time thousands of pack horses lie dead along the way
+sometimes in bunches under the cliffs with pack saddles and packs where they've fallen from the rock above sometimes in tangled masses filling the mud holes and furnishing the only footing for our poor pack animals on the march
+often i regret to say exhausted but still alive a fact we were unaware of until after the miserable wretches turned beneath the hooves of our cavalcade
+eyeless sockets of the pack animals everywhere account for the myriads of ravens along the road the inhumanity which this trail has been witness to the heartbreak and suffering which so many have undergone cannot be imagined they certainly cannot be
+and you know without the smell that would have accompanied that
+we had the same thing on the internet very bad burn rate calculations i'll just play one of these and you'll remember it this is a commercial
+very difficult to figure out what that ad is for
+with the gold rush starts to diverge and i think rather severely and that is in a gold rush when it's over it's over here 's this guy there are many men
+the entire american river region within two years every stone had been turned and after that only big companies who used more sophisticated mining technologies started to take gold out of is the
+electric industry and there are a lot of similarities between the internet and the electric industry with the electric industry you actually have to one of them is that they're both
+thin horizontal enabling layers that go across lots of different industries it's not a specific thing
+but electricity is also very very broad so you have to sort of narrow it down you know it can be used as an incredible means of transmitting power it's an incredible means of
+and the part of the electric revolution that i want to focus on is sort of the golden age of appliances the killer app that got the world ready for appliances was the
+so the light bulb is what wired the world and they weren't thinking about appliances when they wired the world they were really thinking about they
+build out all the streets had to be torn up this is work going on down in lower
+where they built some of the first electric power generating stations and they're tearing up all the streets the edison electric company
+which became edison general electric which became general electric paid for all of this digging up of the streets it was incredibly expensive
+that is not the and that's not the part that's really most similar to the web because remember the web got to stand on top of all this heavy infrastructure that had been put in place because of the long distance phone network
+and the electric fan was a big success the electric iron also very big by the way this is the beginning of the asbestos lawsuit
+there's asbestos under that handle there
+not all these things were highly successful this is the electric tie press which never really did catch on not wrinkle their ties
+these never really caught on either the electric shoe warmer and drier never a big seller
+sometimes it's just not the right time for an invention maybe it's time to give this one another shot so i thought we could build a super bowl
+really i thought that would really work
+to give that another shot now the toaster was huge because they used to make toast on open fires and
+it took a lot of time and attention i want to point out one thing
+this is you guys know what this is they hadn't invented the electric socket yet
+so this was remember they didn't wire the houses for electricity they wired them for lighting so your your appliances would plug in they would each room typically had
+the next thing that really was a big big deal was the washing machine now this was an object of much envy and lust everybody wanted one of these
+take the clothes out of here put them in here and then you'd run the clothes through this electric ringer
+and this was a big deal you'd keep this on your porch it was a little bit messy and kind of a pain and you'd run a long cord into the house where you could screw it into your light socket and
+actually kind of an important point in my presentation because they
+off switch that was to come much later the off switch on appliances because it didn't make any sense
+so the washing machine was a particularly dangerous device and there are when you research this there are gruesome
+there was no off switch so it wasn't
+very good and you might think that that was incredibly stupid of our ancestors to be plugging things into a light socket like this but you know before i get too far into condemning our ancestors i thought i'd show you this is
+my conference room this is a total kludge if you ask me first of all this got installed upside down this light socket and so the cord keeps falling out so i taped it in
+this is supposed don't even get me started but that's not the worst one
+this is what it looks like under my desk i took this picture just two days ago so we really haven't progressed that much since
+i challenge you to try it's very hard i know phds in computer science this process has brought them to tears absolute tears
+get there and have to wait but then the engineers when they finally did get there
+there so we're not we're pretty kludge y ourselves by the way dsl is a kludge i mean this is a twisted pair of copper that was never designed for the purpose it's being put to you know it's the whole thing we're very very primitive
+but the good thing is with innovation there isn't a last nugget every new thing creates two new questions and two new opportunities and if you believe
+you believe that where we are this is what i think i believe that where we are with the incredible kludge and i haven't even talked about user interfaces on the web

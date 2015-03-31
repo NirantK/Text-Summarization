@@ -1,0 +1,44 @@
+i 'm not able to tell you what is moral or immoral because we 're living in a pluralist society my values can be radically different from your values which means that what i consider moral or immoral based on that might not necessarily be what you consider moral or immoral
+but i also realized that there is one thing that i could give you and that is what this guy behind me gave the world socrates it is questions what i can do and what i would like to do with you is give you like that initial question a set of questions to figure out for yourself layer by layer
+like peeling an onion getting at the core of what you believe is moral or immoral persuasion and i 'd like to do that with a couple of examples of technologies where people have used game elements to get people to do things
+so effective that they motivate people to engage in unsafe driving behaviors like not stopping on a red headlight because that way you have to stop and restart the engine and that would use
+quite some fuel wouldn 't it so despite this being a very well intended application obviously there was a side effect of that and here 's another example for one of these side effects commendable
+a site that allows parents to give their kids little badges for doing the things that parents want their kids to do like tying their shoes and at first that sounds very nice very benign well intended
+but it turns out if you look into research on people 's mindset
+that caring about outcomes caring about public recognition caring about these kinds of public tokens of recognition is not necessarily very helpful for your long term psychological well being it 's better if you care about learning something it 's better when you care about yourself than how you appear in front of other people
+so that kind of motivational tool that is used actually in and of itself
+so that 's a second very obvious question what are the effects of what you 're doing the effects that you 're having with the device like less fuel
+as well as the effects of the actual tools you 're using to get people to do things public recognition
+now is that all intention effect
+well there are some technologies which obviously combine both
+and i think most of us will agree well that 's something well intended and also has good consequences in the words of michel foucault it is a technology of the self it is a technology that empowers the individual to determine its own life course to shape itself
+but the problem is as foucault points out that every technology of the self has a technology of domination as its flip side as you see in today 's modern liberal democracies
+the society the state not only allows us to determine our self to shape our self it also demands it of us
+it demands that we optimize ourselves that we control ourselves that we self manage continuously because that 's the only way in which such a liberal society works these technologies want us to stay in the game that society has devised for us
+they want us to fit in even better they want us to optimize ourselves to fit in
+even something we consider as well intended and as good in its effects like stutzman 's freedom comes with certain values embedded in it
+and we can question these values we can question is it a good thing that all of us continuously self optimize ourselves to fit better into that society or to give you another example what about a piece of persuasive technology that
+convinces muslim women to wear their headscarves is that a good or a bad technology in its intentions or in its effects well that basically depends on the kind of values that you bring to bear to make these kinds of judgments so that 's
+a third question what values do you use to judge and speaking of values i 've noticed that in the discussion about moral persuasion online and when i 'm talking with people more often than not there is a weird bias
+and that bias is that we 're asking is this or that still ethical is it still permissible
+we 're asking things like is this oxfam donation form where the regular monthly donation is the preset default and people maybe without intending it are that way encouraged or nudged into giving a regular donation instead of a one time donation is that still permissible is it still ethical we 're fishing at the low end
+but in fact that question is it still ethical is just one way of looking at ethics because if you look at the beginning of ethics in
+and he put that in the word arete which we from the ancient greek translate as virtue but really it means excellence it means living up to your own full potential as a human being
+and that is an idea that i think that paul richard buchanan nicely put in a recent essay where he said products are vivid arguments about how we should live our lives our designs are not ethical or unethical in that they 're using ethical or unethical means of persuading us
+they have a moral component just in the kind of vision and the aspiration of the good life that they present to us
+and if you look into the designed environment around us with that kind of lens asking what is the vision of the good life that our products our design present to us
+then you often get the shivers because of how little we expect of each other of how little we actually seem to expect of our life and what the good life looks like
+and speaking of design you notice that i already broadened the discussion
+i don 't know whether you know the great communication researcher paul watzlawick who back in the sixty s made the argument we cannot not communicate even if we choose to be silent we chose to be silent we 're communicating something by choosing to be silent
+and in the same way that we cannot not communicate we cannot not persuade whatever we do or refrain from doing whatever we put out there as a piece of design into the world
+which is what peter paul verbeek the dutch philosopher of technology says no matter whether we as designers intend it or not we materialize morality we make certain things harder and easier to do we organize the existence of
+people we put a certain vision of what good or bad or normal or usual is in front of people by everything we put out there in the world even something as innocuous
+as a set of school chairs is a persuasive technology
+because it presents and materializes a certain vision of the good life the good life in which teaching and learning and listening is about one person teaching the others listening in which it is about learning is done while sitting
+in which you learn for yourself in which you 're not supposed to change these rules because the chairs are fixed to the ground
+and even something as innocuous as a single design chair like this one by arne jacobsen is a persuasive technology because again it communicates an idea of the good life a good life a life that you say you as a designer consent to by saying in the good life goods are produced as sustainably or unsustainably as this chair
+and where there is something as conspicuous consumption where it is okay and normal to spend a humungous amount of money on such a chair to signal to other people what your social status
+and how does that apply not just to persuasive technology but to everything you design
+why when the question of what the good life is informs everything that we design should we stop at design and not ask ourselves how does it apply to our own life why should the lamp or the house be an art object but not our life as michel foucault puts it
+just to give you a practical example of buster benson this is buster setting up a pull up machine at the office of his new startup habit labs where they 're trying to build up other applications like health month for people and why is he building a thing like this
+well here is the set of axioms that habit labs buster 's startup put up for themselves on how they wanted to work together as a team when they 're building these applications

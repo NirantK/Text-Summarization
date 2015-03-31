@@ -1,0 +1,18 @@
+so i'm here to tell you a story of success from africa a year and a half ago
+a year ago in kenya we had post election violence and in that time we prototyped and built in about three days a system that would allow
+we got reports like this
+this is just a couple of them from january seventeenth last year
+very basic it was a mash up that used data that we collected from people and we put it on our map
+we're building for smartphones so that it can be used in the developed world as well as the developing world we are realizing that this is true if it works in africa then it will work anywhere
+and so we build for it in africa first and then we move to the edges it's now been deployed in the democratic republic of the congo it's being used by ngos all over east africa small ngos doing their own little projects
+but that's actually not what i'm here to talk about i'm here to talk about the next big thing because what we're finding out is that we have this capacity to report
+where it's so much easier to report now than it is to consume it there is so much information what do you do this is the twitter reports for over three days just covering mumbai
+how do you decide what is important what is the veracity level of what you're looking at
+so what we find is that there is this great deal of wasted crisis information because there is just too much information for us to actually do anything with right now
+what we're actually really concerned with is this first three hours what we are looking at is the first three hours how do we deal with that information that is coming in
+you can't understand what is actually happening on the ground and around the world people are still curious and trying to figure out what is going on but they don't know
+so what we built of course ushahidi is crowdsourcing this information you see this with twitter too you get this information overload so you've got a lot of information that's great but now what
+so we think that there is something interesting we can do here and we have a small team who is working on this we think that we can actually create a crowdsourced filter take the crowd and apply them to the information
+and by rating it and by rating the different people who submit information we can get refined results and weighted results so that we have a better understanding of the probability of something being true or not
+this is the kind of innovation that is quite frankly it's interesting that it's coming from africa it's coming from places that you wouldn't expect
+from young smart developers and it's a community around it that has decided to build this so thank you very much and we are very happy to be part of the ted

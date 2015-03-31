@@ -1,0 +1,46 @@
+RalphLangner_2011 1 RalphLangner_2011 16.16 20.57 <o,f0,male> idea behind the stuxnet computer worm is actually quite simple
+RalphLangner_2011 1 RalphLangner_2011 35.5 41.49 <o,f0,male> now if we manage to compromise these systems that control drive speeds
+RalphLangner_2011 1 RalphLangner_2011 53.12 61.83 <o,f0,male> place a good windows virus on a notebook that is used by a maintenance engineer to configure
+RalphLangner_2011 1 RalphLangner_2011 84.87 93.81 <o,f0,male> i want to tell you how we found that out when we started our research on stuxnet six months ago it was completely unknown what the purpose of this thing was
+RalphLangner_2011 1 RalphLangner_2011 93.81 101.72 <o,f0,male> the only thing that was known is it 's very very complex on the windows part the dropper part used multiple zero day vulnerabilities
+RalphLangner_2011 1 RalphLangner_2011 101.72 116.38 <o,f0,male> and it seemed to want to do something with these gray boxes these real time control systems so that got our attention and we started a lab project where we infected our environment with stuxnet and checked this thing out
+RalphLangner_2011 1 RalphLangner_2011 147.46 152.88 <o,f0,male> program code that it 's trying to infect is actually running on that target and if not
+RalphLangner_2011 1 RalphLangner_2011 153.14 172.36 <o,f0,male> stuxnet does nothing so that really got my attention and we started to work on this nearly around the clock because i thought well we don 't know what the target is it could be let 's say for example a u s power plant or a chemical plant in germany so we better find out what the target is soon
+RalphLangner_2011 1 RalphLangner_2011 172.36 182.65 <o,f0,male> so we extracted and decompiled the attack code and we discovered that it 's structured in two digital bombs a smaller one and a bigger one
+RalphLangner_2011 1 RalphLangner_2011 182.65 194.37 <o,f0,male> and we also saw that they are very professionally engineered by people who obviously had all insider information they knew all the bits and bites that they had to attack
+RalphLangner_2011 1 RalphLangner_2011 194.37 213.11 <o,f0,male> they probably even know the shoe size of the operator so they know everything and if you have heard that the dropper of stuxnet is complex and high tech let me tell you this the payload is rocket science it 's way above everything that we have ever seen before
+RalphLangner_2011 1 RalphLangner_2011 247.67 253.75 <o,f0,male> in order to get target theories we remember that it 's definitely hardcore sabotage
+RalphLangner_2011 1 RalphLangner_2011 253.75 262.98 <o,f0,male> it must be a high value target and it is most likely located in iran because that 's where most of the infections had been reported
+RalphLangner_2011 1 RalphLangner_2011 262.98 276.73 <o,f0,male> now you don 't find several thousand targets in that area it basically boils down to the bushehr nuclear power plant and to the natanz fuel enrichment plant so i told my assistant get me a list of all centrifuge and power plant experts from our client base
+RalphLangner_2011 1 RalphLangner_2011 276.73 279.69 <o,f0,male> and i phoned them up and picked their brain in an effort to match
+RalphLangner_2011 1 RalphLangner_2011 279.69 283.82 <o,f0,male> their expertise with what we found in code and data
+RalphLangner_2011 1 RalphLangner_2011 283.82 296.35 <o,f0,male> and that worked pretty well so we were able to associate the small digital warhead with the rotor control the rotor is that moving part within the centrifuge that black object that you see
+RalphLangner_2011 1 RalphLangner_2011 296.35 305.79 <o,f0,male> and if you manipulate the speed of this rotor you are actually able to crack the rotor and eventually even have the centrifuge explode
+RalphLangner_2011 1 RalphLangner_2011 305.79 320.45 <o,f0,male> what we also saw is that the goal of the attack was really to do it slowly and creepy obviously in an effort to drive maintenance engineers crazy that they would not be able to figure this out quickly
+RalphLangner_2011 1 RalphLangner_2011 320.45 333.8 <o,f0,male> the big digital warhead we had a shot at this by looking very closely at data and data structures so for example the number one hundred and sixty four really stands out in that code you can 't overlook it
+RalphLangner_2011 1 RalphLangner_2011 333.8 351.08 <o,f0,male> i started to research scientific literature on how these centrifuges are actually built in natanz and found they are structured in what is called a cascade and each cascade holds one hundred and sixty four centrifuges so that made sense that was a match and it even got better
+RalphLangner_2011 1 RalphLangner_2011 351.08 357.11 <o,f0,male> these centrifuges in iran are subdivided into fifteen what is called stages
+RalphLangner_2011 1 RalphLangner_2011 357.11 364.66 <o,f0,male> and guess what we found in the attack code an almost identical structure so again that was a real good match
+RalphLangner_2011 1 RalphLangner_2011 381.61 389.8 <o,f0,male> anyway so we figured out that both digital warheads were actually aiming at one and the same target but from different angles
+RalphLangner_2011 1 RalphLangner_2011 389.8 401.61 <o,f0,male> the small warhead is taking one cascade and spinning up the rotors and slowing them down and the big warhead is talking to six cascades and manipulating valves
+RalphLangner_2011 1 RalphLangner_2011 401.61 418.16 <o,f0,male> so in all we are very confident that we have actually determined what the target is it is natanz and it is only natanz so we don 't have to worry that other targets might be hit by stuxnet here 's some very cool stuff that we saw
+RalphLangner_2011 1 RalphLangner_2011 424.47 433.66 <o,f0,male> now what this thing does is it intercepts the input values from sensors so for example from pressure sensors and vibration sensors
+RalphLangner_2011 1 RalphLangner_2011 433.66 440.88 <o,f0,male> and it provides legitimate program code which is still running during the attack with fake input data
+RalphLangner_2011 1 RalphLangner_2011 441.07 451.88 <o,f0,male> and as a matter of fact this fake input data is actually prerecorded by stuxnet so it 's just like from the hollywood movies where during the heist the observation camera is fed with prerecorded video
+RalphLangner_2011 1 RalphLangner_2011 451.88 453.7 <o,f0,male> that 's cool
+RalphLangner_2011 1 RalphLangner_2011 454.57 456.1 <o,f0,male> the
+RalphLangner_2011 1 RalphLangner_2011 456.1 470.37 <o,f0,male> idea here is obviously not only to fool the operators in the control room it actually is much more dangerous and aggressive the idea is to circumvent a digital safety system
+RalphLangner_2011 1 RalphLangner_2011 483.87 502.42 <o,f0,male> obviously this cannot be done by a human operator so this is where we need digital safety systems and when they are compromised then real bad things can happen your plant can blow up and neither your operators nor your safety system will notice it that 's scary but it gets worse
+RalphLangner_2011 1 RalphLangner_2011 502.5 505.51 <o,f0,male> and this is very important what i 'm going to say
+RalphLangner_2011 1 RalphLangner_2011 506.25 508.67 <o,f0,male> think about this this attack
+RalphLangner_2011 1 RalphLangner_2011 509.01 510.88 <o,f0,male> is generic
+RalphLangner_2011 1 RalphLangner_2011 527.97 529.67 <o,f0,male> it is generic
+RalphLangner_2011 1 RalphLangner_2011 529.67 548.31 <o,f0,male> and you don 't have as an attacker you don 't have to deliver this payload by a usb stick as we saw it in the case of stuxnet you could also use conventional worm technology for spreading just spread it as wide as possible and if you do that what you end up with is
+RalphLangner_2011 1 RalphLangner_2011 554.77 559.55 <o,f0,male> that 's the consequence that we have to face
+RalphLangner_2011 1 RalphLangner_2011 559.55 562.23 <o,f0,male> so unfortunately
+RalphLangner_2011 1 RalphLangner_2011 562.23 566.89 <o,f0,male> the biggest number of targets for such attacks are not in the middle east
+RalphLangner_2011 1 RalphLangner_2011 571.03 574.87 <o,f0,male> so all of the green areas these are your target rich environments
+RalphLangner_2011 1 RalphLangner_2011 575.65 582.66 <o,f0,male> we have to face the consequences and we better start to prepare right now thanks
+RalphLangner_2011 1 RalphLangner_2011 616.99 620.71 <o,f0,male> there is only one and that 's the united states
+RalphLangner_2011 1 RalphLangner_2011 621.5 623.61 <o,f0,male> fortunately fortunately
+RalphLangner_2011 1 RalphLangner_2011 624.12 627.15 <o,f0,male> because otherwise our problems would even be bigger

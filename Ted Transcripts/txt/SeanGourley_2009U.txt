@@ -1,0 +1,37 @@
+around the media as we see on the news from iraq afghanistan sierra leone and the conflict seems incomprehensible to us and that's certainly how it seemed to me when i started this project
+but as a physicist i thought well if you give me some data i could maybe understand this you know give us a go so as a naive new zealander i thought well i'll go to the pentagon can you get me some information
+so i had to think a little harder
+and i was watching the news one night in oxford and i looked down at the chattering heads on my channel of choice and i saw that there was information there
+so what i started thinking was perhaps there is something like open source intelligence here if we can get enough of these streams of information together
+we can perhaps start to understand the
+so this is exactly what i did we started bringing a team together an interdisciplinary team of scientists of economists mathematicians
+that database contained the timing of attacks the location the size and the weapons used
+it's all in the streams of information we consume daily we just have to know how to pull it out and once we had this we could start doing some cool stuff what if we were to look at the distribution of the sizes of attacks what would that tell us
+so we started doing this and you can see here on the horizontal axis you've got the number of people killed in an attack or the size of the attack and on the vertical axis you've got the number of attacks
+we plot data for sample on this you see some sort of random distribution perhaps sixty seven attacks one person was killed or forty seven attacks where seven people were killed
+we did this exact same thing for iraq and we didn't know for iraq what we were going to find it turns out what we found was pretty surprising
+you take all of the conflict all of the chaos all of the noise
+why should a conflict like iraq have this as its fundamental signature why should there be order in war we didn't really understand that we thought maybe there is something special about
+we looked at a few more conflicts we looked at colombia we looked at afghanistan and we looked at senegal and the same pattern emerged in each conflict this wasn't supposed to happen
+these are different wars with different religious factions different political factions and different socioeconomic problems and yet the fundamental patterns underlying them are the a little
+we looked around the world at all the data we could get our hands on from peru to
+we studied this same pattern again and we found that not only were the distributions these straight lines but the slope of these lines they clustered around this value of alpha equals two point five
+and we could generate an equation that could predict the likelihood of an attack what we're saying here
+is the probability of an attack killing x number of people in a country like iraq is equal to a constant times the size of that attack raised to the power of negative alpha
+this is data statistics what does it tell us about these conflicts that was a challenge we had to face as physicists how do we explain this
+of the group strength carrying out the attacks so we look at a process of group dynamics coalescence and fragmentation
+we can run these simulations we can recreate this using a process of group dynamics
+to explain the patterns that we see all around
+the conflicts around the world
+is going on is that
+the insurgent forces they evolve over time they adapt
+it turns out there is only one solution to fight a much stronger enemy and if you don't find that solution as an insurgent force
+you don't exist so every insurgent force that is ongoing every conflict that is ongoing it's going to look something like this
+but perhaps you can sit and talk to them
+so this graph here i'm going to show you now
+stuff that we've come through
+and we see the evolution of alpha through time
+we see it start and we see it grow up to the stable
+the wars around the world look like and it stays there through the invasion of
+until the samarra bombings in the iraqi elections of six
+moving out i don't know what the answer is to that but i know that we should be looking at the structure of the insurgency to answer that question thank you

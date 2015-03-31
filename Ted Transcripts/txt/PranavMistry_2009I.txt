@@ -1,0 +1,51 @@
+when you talk about objects one other thing automatically comes attached to that thing and that is gestures how we manipulate these objects how we use these objects in everyday life
+in india i don't need to teach a kid that this means four runs in cricket it comes as a part of our everyday learning
+so i am very interested from the beginning that how how our knowledge about everyday objects and gestures and how we use these objects can be leveraged to our interactions with the digital world
+rather than using a keyboard and mouse why can i not use my computer in the same way that i interact in the physical world
+so i started this exploration about eight years back and it literally started with a mouse on my desk rather than using it for my computer i actually opened it
+and i actually wanted more so i borrowed another mouse from a friend never returned to him and i now had four rollers
+what i did with these rollers is basically i took them off of these mouses and then put them in one line
+it had some strings and pulleys and some springs what i got is basically a gesture interface device that actually acts as a motion sensing device made for two
+so here whatever movement i do in my physical world is actually replicated inside the digital world just using this small device that i made around eight years back in two thousand
+a message written on a sticky note to my mom on paper can come to an sms or maybe a meeting reminder automatically syncs with my digital
+to do list that automatically syncs with you but you can also search in the digital world
+or maybe you can write a query saying what is doctor smith 's address and this small system actually prints it out so it actually acts like a paper input output system just made out of paper
+in another exploration i thought of making a pen that can draw in three dimensions so i implemented this pen that can help designers and architects not only think in three dimensions but they can actually draw so that it's more intuitive to use that
+a coffee cup will show where you can find more coffee or where you can trash the cup so these were some of the earlier explorations i did because the goal was to connect these two
+among all these experiments there was one thing in common i was trying to bring a part of the physical world
+to the digital world i was taking some part of the objects or any of the intuitiveness of real life and bringing them to
+what we are interested in is information we want to know about things we want to know about dynamic things going
+maybe how about i take my digital world and paint the physical world with that digital information
+because pixels are actually right now confined in these rectangular devices that fit in our pockets why can i not
+and take that to my everyday objects everyday life so that i don't need to learn the new language for interacting with
+i took it very literally and took my bike helmet put a little cut over there so that the projector actually fits nicely so now what i can do i can augment the world around me with this digital information
+moved to a much better consumer oriented pendant version of that that many of you now know as the sixthsense device
+but the most interesting thing about this particular technology is that you can carry your digital world with you
+we are giving you the freedom of using all of both of your hands so you can actually use both of your hands to zoom into or zoom out of a map just by pinching
+but i'm more excited that you can actually take it outside rather than getting your camera out of your pocket you can just do the gesture of taking a photo and it takes a photo for you thank you
+i can find a wall anywhere and start browsing those photos or maybe ok i want to modify this photo a little bit and send it as an email to a friend
+so we are looking for an era where computing will actually merge with the physical world and of course if you don't have any surface you can start using your palm for simple operations here i'm dialing a phone number just using my hand
+not only understanding your hand movements but interestingly is also able to understand what objects you are holding in your hand
+what we're doing here is actually for example in this case the book cover is matched with so many thousands or maybe millions of books
+famous talk at harvard university
+this was obama 's visit last week
+was seeing the live of his talk outside on just a newspaper your newspaper will show you live weather information rather than having it updated like you have to check your computer in order to do that
+i'm going back i can just use my boarding pass to check how much my flight has been delayed because at that particular time i'm not feeling like opening my iphone and checking out
+and i think this technology will not only change the way yes it will change the way we interact with people also not only the physical world the fun part is i'm going to the boston metro and playing a pong game inside the train
+on the ground right and i think the
+is the only limit of what you can think of when this kind of technology merges with real life but many of you argue actually that
+all of our work is not only about physical objects we actually do lots of accounting and paper editing and all those kinds of things what about that
+and many of you are excited about the next generation tablet computers to come out in the market so rather than waiting for that i actually made my own just using a piece of paper
+and then just pinched that like i just made a clip out of the microphone and clipped that to a piece of paper any paper that you found
+so now the sound of the touch is getting me when exactly i'm touching the paper but the camera is actually tracking where my fingers are moving
+you can of course watch movies good afternoon my name is russell and i am a games
+i can use my full size computer
+and putting over here a second part from a second place and i'm actually modifying the information that i have over there
+and i say ok this looks nice let me print it out that thing so i now have a print out of that thing and now the workflow is more intuitive the way we used to do
+but will also help us in some way to stay human to be more connected to our physical world
+and it will help us actually not be machines sitting in front of thank you
+thinking why can we only have sixth sense we should have a fifth sense for missing sense people who cannot speak this technology can be used for them to speak out in a different way with maybe a speaker system
+i'm trying to make this more available to people so that anyone can develop their own sixthsense device because the hardware is actually not that
+to manufacture or hard to make your own we will provide all the open source software for them maybe starting next month to
+is a lot of energy here lots of learning all of this work that you have seen is all about my learning in india and now if you see more about the cost effectiveness the
+i would say you're truly one of the two or three best inventors in the world right now it's an honor to have you at ted

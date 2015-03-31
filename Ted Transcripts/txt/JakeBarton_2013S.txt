@@ -1,0 +1,58 @@
+in the one thousand nine hundred and thirty s roosevelt put thousands and thousands of americans back to work by building bridges and infrastructure and tunnels but he also did something interesting which was to hire a few hundred writers to scour america to capture the stories of ordinary americans charley williams a poor sharecropper
+of his life make up one of the crown jewels of histories of human lived experiences filled with ex slaves anna deavere smith famously said that there 's a literature inside of each of us
+and three generations later i was part of a project called storycorps which set out to capture the stories of ordinary americans
+because when you think about it it 's actually not really about the stories that are being told it 's about listening and it 's about the questions that you get to ask questions that you may not have permission to on any other day i 'm going to play you just a couple of quick excerpts from the project
+before we had leveled off our level off point was forty five thousand feet so before we had leveled off pedro began
+so that he could be with us for this also
+so i 'm going to share a mic with you right now debora where 's the right finger
+and that motion of building an institution out of a moment of conversation and listening is actually a lot of what my firm local projects is doing with our engagements in general so we 're a media design firm and we 're working with a broad array of different institutions
+building media installations for museums and public spaces our latest engagement is the cleveland museum of art which we 've created an engagement called gallery one for
+and gallery one is an interesting project because it started with this massive dollar three hundred and fifty million expansion for the cleveland museum of art and we actually brought in this piece specifically to grow new capacity new audiences at the same time that the museum itself is growing
+glenn lowry the head of moma put it best when he said we want visitors to actually cease being visitors
+visitors are transient we want people who live here people who have ownership
+and so what we 're doing is making a broad array of different ways for people to actually engage with the material inside of these galleries so you can still have a traditional gallery experience but if you 're interested you can actually engage with any individual artwork and see the original context from where it 's from or manipulate the work itself
+so for example you can click on this individual lion head and this is where it originated from one thousand three hundred b c
+or this individual piece here
+you can see the actual bedroom it really changes the way you think about this type of a tempera painting
+this is one of my favorites because you see the studio itself this is rodin 's bust you get the sense of this incredible factory for creativity and it makes you think about literally the hundreds or thousands of years of human creativity and how each individual artwork stands in for part of that story
+this is picasso of course embodying so much of it from the twentieth century
+and so our next interface which i 'll show you actually leverages that idea of this lineage of creativity it 's an algorithm that actually allows you to browse the actual museum 's collection using facial recognition so this person 's making different faces and it 's actually drawing forth different objects from the collection that connect with exactly how she 's looking
+and so you can imagine that as people are
+performing inside of the museum itself you get this sense of this emotional connection this way in which our face connects with the thousands and tens of thousands of years
+this is an interface that actually allows you to draw and then draws forth
+objects using those same shapes so more and more we 're trying to find ways for people to actually author things inside of the museums themselves to be creative even as they 're looking at other people 's creativity and understanding them
+so in this wall the collections wall you can actually see all three thousand artworks all at the same time and you can actually author your own individual walking tours of the museum so you can share them
+and someone can take a tour with the museum director or a tour with their little cousin
+but all the while that we 've been working on this engagement for cleveland
+we 've also been working in the background on really our largest engagement to date and that 's the nine eleven memorial and museum so we started in two thousand and six as part of a team with thinc design to create the original master plan for the museum
+and almost archaeological and of course the event itself is so recent somewhere between history and current events it was a huge challenge to imagine how do you actually live up to a space like this an event like this to actually tell that story
+and so what we started with was really a new way of thinking about building an institution through a project called make history which we launched in two thousand and nine
+so it 's estimated that a third of the world watched nine eleven live
+and a third of the world heard about it within twenty four hours making it really by nature of when it happened this unprecedented moment of global awareness
+and so we launched this to capture the stories from all around the world through video through photos through written history and so people 's experiences on that day which was in fact this huge risk for the institution to make its first move this open platform
+but that was coupled together with this oral histories booth really the simplest we 've ever made where you locate yourself on a map it 's in six languages and you can tell your own story about what happened to you on that day and when we started seeing the incredible images and stories that came forth from all around the world this is obviously part of the landing gear
+shot from the brooklyn battery tunnel there 's a firefighter that 's stuck actually in traffic and so the firefighters themselves are running a mile and a half to the site itself with upwards of seventy pounds of gear on their back
+and we got this amazing email that said while viewing the thousands of photos on the site i unexpectedly found a photo of my son
+it was a shock emotionally yet a blessing to find this photo and he was writing because he said i 'd like to personally thank the photographer for posting the photo as it meant more than words can describe to me to have access to what is probably the last photo ever taken of my son
+and it really made us recognize
+what this institution needed to be in order to actually tell that story we can 't have just a historian or a curator narrating objectively in the third person about an event like that when you have the witnesses to history who are going to make their way through the actual museum itself
+and so we started imagining the museum along with the creative team at the museum and the curators thinking about how the first voice that you would hear inside the museum would actually be of other visitors and so we created this idea of an opening gallery called we remember
+and you move from there into that open cavernous space this is the so called slurry wall it 's the original excavated wall at the base of the world trade center that withstood the actual pressure from the hudson river for a full year after the event itself
+and so we thought about carrying that sense of authenticity of presence of that moment into the actual exhibition itself and we tell the stories of being inside the towers through that same audio collage so you 're hearing people literally talking about seeing the planes as they make their way into the building or making their way down the stairwells
+and so you can hear oral histories so people who were actually working the so called bucket brigades as you 're seeing literally the thousands of experiences from that moment
+we then turn the museum back into a moment of listening and actually talk to the individual visitors and ask them their own experiences about nine eleven and we ask them questions that are actually not really answerable the types of questions that nine eleven itself draws forth for all of us and so these are questions like how can a democracy balance freedom and security
+already for years are then mixed together with interviews that we 're doing with people like
+donald rumsfeld bill clinton rudy giuliani and you mix together these different players and these different experiences these different reflection points about nine eleven and suddenly the institution once again turns into a listening experience so i 'll play you just a short excerpt
+of a mockup that we made of a couple of these voices but you really get a sense of the poetry of everyone 's reflection on the event
+and we actually got involved in the memorial after we 'd done the museum for a few years the original designer of the memorial michael arad had this image in his mind of all the names appearing undifferentiated almost random
+really a poetic reflection on top of the nature of a terrorism event itself but it was a huge challenge for the families for the foundation certainly for the first responders and there was a negotiation that went forth and a solution was found
+to actually create not an order in terms of chronology or in terms of alphabetical but through what 's called meaningful adjacency so these are groupings of the names themselves which appear undifferentiated but actually have an order
+and we along with jer thorp created an algorithm to take massive amounts of data to actually start to connect together all these different names themselves
+so this is an image of the actual algorithm itself with the names scrambled for privacy but you can see that these blocks of color are actually the four different flights the two different towers the first responders and you can actually see within that different floors and then the green lines are the interpersonal connections
+that were requested by the families themselves
+and you can search for an individual name or in this case an employer cantor fitzgerald and see the way in which all of those names those hundreds of names are actually organized onto the memorial itself
+and use that to navigate the memorial and more importantly when you 're actually at the site of the memorial you can see those connections you can see the relationships between the different names themselves so suddenly what is this undifferentiated anonymous group of names springs into reality as an individual life in this case
+harry ramos who was the head trader at an investment bank
+who stopped to aid victor wald on the fifty fifth floor of the south tower and ramos told wald according to witnesses
+i 'm not going to leave you and wald 's widow requested that they be listed next to each other
+three generations ago we had to actually get people to go out and capture the stories for common people today of course there 's an unprecedented amount of stories for all of us that are being captured for future generations and this is our hope that 's there 's poetry inside of each of our stories thank you very much

@@ -1,0 +1,123 @@
+great way to start i think
+with my view of simplicity is to
+take a look at ted here you are understanding why we're here what's going on with no difficulty at all
+the best ai in the planet would find it complex and confusing and my little dog watson would find it simple and understandable but would miss the point
+have a great time and of course if you're a speaker like hans rosling
+a speaker finds this complex tricky but in hans rosling 's case he had a secret weapon yesterday literally
+in his sword swallowing act and i must say i thought of quite a few objects that i might try to swallow today and finally gave up
+he just did it and that was
+wonderful thing so puck meant
+not only are we fools in the pejorative sense but that we're easily fooled in fact what shakespeare was pointing out is we go to the theater in order to be fooled so we're actually looking forward to it
+we go to magic shows in order to be fooled and this makes
+many things fun but it makes it difficult
+to actually get any kind of picture on the world we live in or on ourselves
+the problem you have with
+to draw is not that you can't move your hand but that the way your brain perceives images is faulty
+trying to perceive images into objects rather than seeing what's there and to prove it she says the exact size and shape of these tabletops
+is the same and i'm going to prove it to you
+she does this with cardboard but since i have an expensive computer here
+rotate this little guy around and
+now having seen that and i've seen it hundreds of times because i use this in every talk i give i still can't see that they're the same size and shape and i doubt that you can either
+measure very very carefully and if you measure very very carefully with a stiff arm
+a straight edge you'll see that those two shapes are exactly
+same size and the talmud
+saw this a long time ago saying we see things not as they are but as we are i certainly would like to know what happened to the person who had that insight
+back then if they actually followed it to its ultimate conclusion
+what we call reality is a kind of hallucination happening inside here it's a waking dream
+and understanding that that is what we actually exist in
+one of the biggest epistemological barriers in human history and what that means simple and understandable might not be actually simple or understandable and things we think are complex might be made simple and understandable
+somehow we have to understand ourselves to get around our flaws we can think of ourselves as kind of a noisy channel
+the way i think of it is we can't learn to see until we admit we're blind
+finding ways to see things and
+little additional parts for our brain made out of powerful ideas that help us see the world in different ways and
+these are in the form of sensory apparatus
+most importantly in the ability to change perspective on things
+i'll talk about that a little bit it's this change in perspective and what it is we think we're perceiving
+that has helped us make more
+not taught in any k through twelve curriculum in america that i'm aware of
+one of the things that goes from simple to complex is when we do more
+and in fact we can keep on doing it for a very long time
+but murray gell mann yesterday talked about emergent properties
+another name for them could be architecture as a metaphor
+for taking the same old material and
+non obvious non simple ways of combining it
+what murray was talking about yesterday in the fractal beauty of nature of having the descriptions at various levels be rather
+similar all goes down to the idea that the elementary particles are both sticky and stand offish
+and they're in violent motion
+those three things give rise to all the different levels
+so when i saw the roslings
+in conveying complex ideas simply but then i had a thought of boy maybe it's too simple
+and i put some effort in to try and check to see how well these simple portrayals of trends over time actually matched up with
+some ideas and investigations from the side and i found that they matched up very well so the roslings have been able to do simplicity
+without removing what's important about the data whereas the
+film yesterday that we saw of the simulation of the inside of a cell as a former molecular biologist i didn't like that at all
+not because it wasn't beautiful or anything but because it misses the thing that most students fail to understand about molecular biology and that is why is there
+any probability at all of two complex shapes finding each other just the right way so they combine together and be catalyzed
+and what we saw yesterday was every reaction was fortuitous they just swooped in the air and bound and something
+those molecules are spinning at the rate of about a million revolutions per second
+agitating back and forth their size every two nanoseconds
+they're completely crowded together they're jammed they're bashing up against each other and if you don't understand that in your mental model of this stuff
+what happens inside of a cell seems completely mysterious and fortuitous and i think that's exactly the wrong image for when you're trying to teach science
+so another thing that we do is to confuse adult sophistication with the actual understanding of some principle
+so a kid who 's fourteen in high school this version of the
+direct one one that gives you more of the feeling
+of math is something closer to pythagoras own proof which goes like this
+so here we have this triangle and if we surround that
+c square with three more triangles
+and we copy that notice that we can
+that is all you have to do
+and this kind of proof is the kind of proof
+now let 's go to young children
+this is a very unusual teacher who
+was a kindergarten and first grade teacher but was a natural mathematician so she was like that jazz musician friend you have who never studied music but is a terrific musician she just had a feeling for math and
+here are her six year olds and she's got them
+making shapes out of a shape
+and this teacher did on every project was to have the children act like first it was a creative arts project and then something like science so they'd created these artifacts now she had them look at them
+and do this laborious which i thought
+for a long time until she explained to me was to slow them down
+so they'll think so they're cutting out the
+but the whole point of this thing is
+them to look at this chart and fill it out
+what have you noticed about what you did and so six year old lauren there noticed that the first one took one
+and the second one took three more
+and the total was four on that one the third one took five more
+and the total was nine on that one and then the next one so she saw right away that
+the additional tiles that you had to add around the edges was always going to grow by two
+so she was very confident about how she made those numbers there and she could see that these were the square numbers up until about six
+so that's what lauren did and then the teacher
+gillian ishijima had the kids bring all of their projects up to the front of the room and put them on the floor and everybody went batshit
+no matter what the shapes were the growth law is the same
+and the mathematicians and scientists in the crowd will recognize these two progressions as a first order discrete differential equation and a second order discrete by six year olds
+so let 's take a look now
+how we might use the computer for some of this
+and so the first idea here is just to show you the kind of things that children
+do i'm using the software that we're putting on the one hundred dollar laptop
+so i'd like to draw a little
+and here 's a little behavior car forward
+each time i click it car turn if i want to make a little script to do this over and over again i just drag these guys out
+goes straight that's a bit of a revelation for nine year olds
+a little bit like kissing your sister as far as driving a car so the kids want to do a steering wheel
+so they draw a steering wheel we'll
+there and to just drop it into the script here and now i can steer the car with the steering wheel
+we get a visual pattern of what these nine year olds called acceleration
+so how did the children do science to the
+to the not
+because of course he didn't bother doing the experiment and neither did st thomas aquinas and it was not until galileo actually did it that an adult thought like a child
+only four hundred years ago
+we get one child like that about every classroom of thirty kids
+will actually cut straight to the chase now what if we want to look at this more closely we can take a movie
+of what's going on but even if we single stepped this movie it's tricky to see what's going on and so what we can do is we can lay out the frames side by side or stack them up so when the children see this they say ah acceleration
+so what i'm doing is measuring from the bottom of one image to the bottom of the next image about a fifth of a second later
+like that and they're getting faster and faster each time and if i stack these guys
+then we see the differences the increase in the speed
+is constant and they say oh yeah constant acceleration we've done that already and how shall we
+and verify that we actually
+the ball and run the movie at the same time
+very cleverly by running a ball down backwards down the strings of his lute
+i pulled out those apples to remind myself to tell you that this is actually this stuff works here
+gravity here 's this increase the speed by something increase the ship 's speed if i start the little game here that the kids have done it'll crash the
+but if i oppose gravity here we
+but in fact if you think of it children are the future we send to the future forget about messages children are the future
+this summer we're going to build five million of these one hundred dollar laptops and maybe fifty million next year but we
+that means that we once again have a thing where we can put technology out but the mentoring that is required to go from
+dollars so this is actually cheap and einstein said

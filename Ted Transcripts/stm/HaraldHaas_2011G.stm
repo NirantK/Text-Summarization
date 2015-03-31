@@ -1,0 +1,48 @@
+HaraldHaas_2011G 1 HaraldHaas_2011G 71.39 89.52 <o,f0,male> because it 's so fundamental to our lives and one of the issues is capacity the way we transmit wireless data is by using electromagnetic waves in particular radio waves and radio waves are limited they are scarce they are expensive and we only have a certain range of it
+HaraldHaas_2011G 1 HaraldHaas_2011G 101.76 121.66 <o,f0,male> there 's another problem that is efficiency these one point four million cellular radio masts or base stations consume a lot of energy and mind you most of the energy is not used to transmit the radio waves it is used to cool the base stations then the efficiency of such a base station is only at about five percent
+HaraldHaas_2011G 1 HaraldHaas_2011G 121.66 125.21 <o,f0,male> and that creates a big problem
+HaraldHaas_2011G 1 HaraldHaas_2011G 125.21 140.67 <o,f0,male> then there 's another issue that you 're all aware of you have to switch off your mobile phone during flights in hospitals they are security issues and security is another issue these radio waves penetrate through walls
+HaraldHaas_2011G 1 HaraldHaas_2011G 140.86 151.3 <o,f0,male> they can be intercepted and somebody can make use of your network if he has bad intentions so these are the main four issues but on the other hand we have
+HaraldHaas_2011G 1 HaraldHaas_2011G 151.73 156.25 <o,f0,male> fourteen billion of these light bulbs light
+HaraldHaas_2011G 1 HaraldHaas_2011G 156.63 159.48 <o,f0,male> and light is part of the electromagnetic spectrum
+HaraldHaas_2011G 1 HaraldHaas_2011G 159.48 169.49 <o,f0,male> so let 's look at this in the context of the entire electromagnetic spectrum where we have gamma rays you don 't want to get close to gamma rays it could be dangerous x rays useful when you go to hospitals
+HaraldHaas_2011G 1 HaraldHaas_2011G 233.72 250.59 <o,f0,male> and multiply that by ten thousand then you end up at fourteen billion fourteen billion is the number of light bulbs installed already so we have the infrastructure there look at the ceiling you see all these light bulbs go to the main floor you see these light bulbs can we use them for communications
+HaraldHaas_2011G 1 HaraldHaas_2011G 286.46 293.06 <o,f0,male> so let 's show how we do that let 's go to the closest neighbor to the visible light spectrum go to remote controls
+HaraldHaas_2011G 1 HaraldHaas_2011G 293.06 307.68 <o,f0,male> you all know remote controls have an infrared led basically you switch on the led and if it 's off you switch it off and it creates a simple low speed data stream in ten thousand bits per second twenty thousand bits per second not usable for a youtube video
+HaraldHaas_2011G 1 HaraldHaas_2011G 307.68 314.14 <o,f0,male> what we have done is we have developed a technology with which we can
+HaraldHaas_2011G 1 HaraldHaas_2011G 314.14 327.37 <o,f0,male> furthermore replace the remote control of our light bulb we transmit with our technology not only a single data stream we transmit thousands of data streams in parallel at even higher speeds
+HaraldHaas_2011G 1 HaraldHaas_2011G 327.37 340.03 <o,f0,male> and the technology we have developed it 's called sim ofdm and it 's spacial modulation these are the only technical terms i 'm not going into details but this is how we enabled that
+HaraldHaas_2011G 1 HaraldHaas_2011G 340.14 348.57 <o,f0,male> light source to transmit data you will say okay this is nice a slide created in ten minutes
+HaraldHaas_2011G 1 HaraldHaas_2011G 353.83 359.78 <o,f0,male> developed a demonstrator and i 'm showing for the first time in public this visible light demonstrator
+HaraldHaas_2011G 1 HaraldHaas_2011G 360.08 374.2 <o,f0,male> and what we have here is no ordinary desk lamp we fit in an led light bulb worth three u s dollars put in our signal processing technology and then what we have here is a little hole
+HaraldHaas_2011G 1 HaraldHaas_2011G 374.67 377.23 <o,f0,male> and the light goes through that hole there 's a receiver
+HaraldHaas_2011G 1 HaraldHaas_2011G 377.43 384.85 <o,f0,male> the receiver will convert these little subtle changes in the amplitude that we create there into an electrical signal
+HaraldHaas_2011G 1 HaraldHaas_2011G 385.25 391.17 <o,f0,male> and that signal is then converted back to a high speed data stream in the future we hope
+HaraldHaas_2011G 1 HaraldHaas_2011G 391.2 402.76 <o,f0,male> that we can integrate this little hole into these smart phones and not only integrate a photo detector here but maybe use the camera inside
+HaraldHaas_2011G 1 HaraldHaas_2011G 402.86 407.55 <o,f0,male> so what happens when i switch on that light
+HaraldHaas_2011G 1 HaraldHaas_2011G 411.19 415.51 <o,f0,male> as you would expect it 's a light a desk lamp
+HaraldHaas_2011G 1 HaraldHaas_2011G 415.51 430.93 <o,f0,male> put your book beneath it and you can read it 's illuminating the space but at the same time you see this video coming up here and that 's a video a high definition video that is transmitted through that light beam you 're critical
+HaraldHaas_2011G 1 HaraldHaas_2011G 430.93 436.42 <o,f0,male> you think ha ha ha this is a smart academic doing a little bit of tricks here but let me
+HaraldHaas_2011G 1 HaraldHaas_2011G 449.96 452.31 <o,f0,male> it is this light
+HaraldHaas_2011G 1 HaraldHaas_2011G 469.23 479.62 <o,f0,male> it 's serving the purpose of illumination but at the same time we are able to transmit this data and you see even light from the ceiling comes down here to the receiver
+HaraldHaas_2011G 1 HaraldHaas_2011G 479.64 486.05 <o,f0,male> it can ignore that constant light because all the receiver 's interested in are subtle changes
+HaraldHaas_2011G 1 HaraldHaas_2011G 488.53 490.2 <o,f0,male> you also
+HaraldHaas_2011G 1 HaraldHaas_2011G 496.14 506.6 <o,f0,male> to have this working and the answer is yes but you can dim down the light to a level that it appears to be off and you are still able to transmit data
+HaraldHaas_2011G 1 HaraldHaas_2011G 524.63 534.79 <o,f0,male> this is data through illumination it 's first of all an illumination device and if you do the energy budget the data transmission comes for free
+HaraldHaas_2011G 1 HaraldHaas_2011G 555.66 562.46 <o,f0,male> so it 's everywhere in a day there is light look around everywhere look at your smart phone it has a flashlight
+HaraldHaas_2011G 1 HaraldHaas_2011G 567.51 569.62 <o,f0,male> and then there 's security
+HaraldHaas_2011G 1 HaraldHaas_2011G 570.72 572.4 <o,f0,male> you would agree with me that
+HaraldHaas_2011G 1 HaraldHaas_2011G 573.13 575.07 <o,f0,male> light doesn 't penetrate through walls
+HaraldHaas_2011G 1 HaraldHaas_2011G 576.35 583.27 <o,f0,male> so no one if i have a light here if i have secure data no one on the other side of this room through that wall would be able to read that data
+HaraldHaas_2011G 1 HaraldHaas_2011G 583.98 585.85 <o,f0,male> and there 's only data where there is light
+HaraldHaas_2011G 1 HaraldHaas_2011G 586.52 589.62 <o,f0,male> so if i don 't want that receiver to receive the data
+HaraldHaas_2011G 1 HaraldHaas_2011G 590.54 592.49 <o,f0,male> then what i could do
+HaraldHaas_2011G 1 HaraldHaas_2011G 604.97 607.43 <o,f0,male> so
+HaraldHaas_2011G 1 HaraldHaas_2011G 608.4 613.11 <o,f0,male> for me the applications of it to me are beyond
+HaraldHaas_2011G 1 HaraldHaas_2011G 613.28 615.34 <o,f0,male> imagination at the moment
+HaraldHaas_2011G 1 HaraldHaas_2011G 615.46 619.26 <o,f0,male> we have had a century of very nice smart application developers
+HaraldHaas_2011G 1 HaraldHaas_2011G 619.66 629.61 <o,f0,male> and you only have to notice where we have light there is a potential way to transmit data but i can give you a few examples well you may see the impact
+HaraldHaas_2011G 1 HaraldHaas_2011G 680.52 695.11 <o,f0,male> deployed around the world and every street lamp could be a free access point we call it in fact a li fi light fidelity and then we have these aircraft cabins there are hundreds of lights in an aircraft cabin
+HaraldHaas_2011G 1 HaraldHaas_2011G 697.94 711.53 <o,f0,male> each of these lights could be a potential transmitter of wireless data so you could enjoy your most favorite ted video on your long flight back home online life so that is a vision i think that is possible
+HaraldHaas_2011G 1 HaraldHaas_2011G 723.45 740.34 <o,f0,male> and this would then combine two basic functionalities illumination and wireless data transmission and it 's this symbiosis that i personally believe could solve the four essential problems that face us in wireless communication these days and in the future you would not only have
+HaraldHaas_2011G 1 HaraldHaas_2011G 750.26 752.59 <o,f0,male> and even a brighter future thank you

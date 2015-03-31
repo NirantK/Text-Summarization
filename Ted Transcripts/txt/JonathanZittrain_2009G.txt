@@ -1,0 +1,89 @@
+my name is jonathan zittrain and in my recent work i've been a bit of a pessimist so i thought this morning i would try to be the optimist and give reason to hope for the future of the internet
+by drawing upon its present now it may seem like there is less hope today than there was before people are less kind there is less trust around i
+don't know as a simple example we could run a test here how many people have ever hitchhiked
+i know how many people have hitchhiked within the past ten years
+right so what has changed it's not better public transportation so that's one reason to think that we might be declensionists going in the wrong direction
+but i want to give you three examples to try to say that the trend line is in fact in the other direction and it's the internet helping it along so example number one the internet itself
+these are three of the founders of the internet they were actually high school classmates together at the same high school in suburban los angles in the nineteen sixties
+pictured here for their twenty fifth anniversary newsweek retrospective on the internet and as you can tell they are basically goof balls
+they had one great limitation and one great freedom as they tried to conceive of a global network the limitation was that they didn't have any money
+no particular amount of capital to invest of the sort that for a physical network you might need for trucks and people and a hub to move packages around overnight they had none of that
+but they had an amazing freedom which was they didn't have to make any money from it the internet has no business plan never did no ceo
+no firm responsible singly for building it instead it's folks getting together to do something for fun rather than because they were told to or because they were expecting to make a mint off of it
+that ethos led to a network architecture a structure that was unlike other digital networks then
+or since so unusual in fact that it was said that it's not clear the internet could work
+and even some internet engineers today say the whole thing is a pilot project and the jury is still out
+that's why the mascot of internet engineering if it had one is said to be the
+because the fur to wingspan ratio of the bumblebee is far too large for it to be able to fly and yet mysteriously somehow
+so what is this bizarre architecture configuration that makes the network sing and be so unusual
+well to move data around from one place to another again it's not like a package courier it's more like a mosh pit
+imagine you being part of a network where you're maybe at a sporting event and you're sitting in rows like this and somebody asks for a beer
+and it gets handed at the aisle and your neighborly duty is to pass the beer along at risk to your own trousers
+to get it to the destination no one pays you to do this it's just part of your neighborly duty and
+to the original sender or to the receiver
+no one overall map of the internet instead again it is as if we are all sitting together in a theater but we can only see amidst the fog the people immediately around us
+so what do we do to figure out who is where we turn to the person on the right and we tell that person what we see on our left
+and vice versa and they can lather rinse repeat and before you know it you have a general sense of where everything is this is how internet addressing and routing actually work
+this is a system that relies on kindness and trust which also makes it very delicate and vulnerable in rare but striking instances a single lie told by just one entity in this honeycomb
+can lead to real trouble so for example last year the government of pakistan asked its internet service providers there to prevent
+citizens of pakistan from seeing youtube there was a video there that the government did not like and they wanted to make sure it was blocked this is a common occurrence governments everywhere are often trying to block and filter and censor content on the internet
+well this one isp in pakistan chose to affectuate the block for its subscribers in a rather unusual way
+it but it didn't stop there you see that announcement went one click out which got reverberated one click out
+and it turns out that as you look at the postmortem of this event you have at one moment perfectly working youtube
+then at moment number two you have the fake announcement go out and within two minutes it reverberates around
+and youtube is blocked everywhere in the world if you were sitting in oxford england trying to get to youtube your packets were going to pakistan and they weren't coming back
+just think about that one of the most popular websites in the world run by the most powerful company in the world and there was nothing
+that youtube or google were particularly privileged to do about it and yet somehow within about two hours the problem was fixed how did this happen
+well for a big clue we turn to nanog the north american network operators group a group of people who on a beautiful day outside enter into a windowless room at their terminals reading
+email and messages in fixed proportion font like this and they talk about networks and some of them are mid level employees at internet service providers around the world
+and here is the message where one of them says looks like we've got a live one we have a hijacking of youtube this is not a drill it's not just the cluelessness of youtube engineers i
+so it's kind of like if your house catches on fire the bad news is there is no fire brigade the good news is random people apparate from nowhere put out the fire and leave without expecting payment or
+i was trying to think of the right model to describe this form of random acts of kindness by geeky strangers
+right dumbest idea ever in fact wikipedia is an idea so profoundly stupid
+that even jimbo never had it jimbo's idea was for nupedia it was going to be totally traditional he would pay people money because he was feeling like a good guy and the money would go to the people and they would write the articles
+the wiki was introduced so others could make suggestions on edits as almost an afterthought a back room and then it turns out the back room grew
+to encompass the entire project and today wikipedia is so ubiquitous that you can now find it on chinese restaurant menus
+i am not making this up
+i have a theory i can explain later suffice it to say for now that i prefer my wikipedia stir fried with pimentos
+but now wikipedia doesn't just spontaneously work how does it really work it turns out there is a back room that is kind of windowless metaphorically speaking and there are a bunch of people who on a sunny day would rather be inside
+and monitoring this the administrator 's notice board itself a wiki page that anyone can edit and you just bring your problems to the page it's reminiscent of the description of history as one damn thing after another
+right number one tendentious editing by user andyvphil apologies andyvphil if you're here today i'm not taking sides anon attacking me for reverting here is my favorite a long story
+it turns out there are more people checking this page for problems and wanting to solve them than there are problems arising on the page and that's what keeps wikipedia afloat
+rolex watch it's this thin geeky line that keeps it going not because it's a job not because it's a career but because it's a calling
+it's something they feel impelled to do because they care about it they even gather together in such groups as the counter vandalism unit civility maturity responsibility to just clean up the pages
+it does make you wonder if there were for instance a massive extremely popular star trek convention one weekend who would be minding the store
+so what we see what we see
+this phenomenon is something that the crazed late traffic engineer hans monderman discovered in the netherlands and here in south kensington
+and one in which they are more human with each other they're realizing that they have to take responsibility for what they do and wikipedia has embraced this some of you may remember star wars kid
+the poor teenager who filmed himself with a golf ball retriever acting as if it were a light saber the film without his permission or even knowledge at first found its way onto the internet
+featured in the article you could see arguments on both sides here is just a snapshot of some of them they eventually decided not unanimously by any means
+not to include his real name despite the fact that nearly all media reports did they just didn't think it was the right thing to do
+it was an act of kindness and to this day the page for star wars kid has a warning right at the top that says you are not to put his real name on the page if you do it will be removed immediately removed by people who may have disagreed with the original decision
+but respect the outcome and work to make it stay because they believe in something bigger than their own opinion
+as a lawyer i've got to say these guys are inventing the law and stare decisis and stuff like that as they go along now this isn't just limited
+they start off on all sorts of goofy projects this is my favorite goofy blog catsthatlooklikehitler com
+you send in a picture of your cat if it looks like hitler
+yeah i know number four it's like can you imagine coming home to that cat everyday but then
+but then you can see
+same kind of whimsy applied to people so this is a blog devoted to unfortunate portraiture this one says bucolic meadow with split rail fence is that an animal carcass behind her
+this one image removed at request of owner that's it image removed at request of owner it turns out that somebody lampooned here
+wrote to the snarky guy that does the site not with a legal threat not with an offer of payment but just said hey would you mind
+person said no that's fine i believe we can build architectures online to make such human requests
+that much easier to do to make it possible for all of us to see that the data we encounter online is just stuff on which to click and paste and copy and forward
+that actually represents human emotion and endeavor and impact and to be able to have an ethical moment where we decide how we want to treat it i even think it can go into the real world
+we can end up as we get in a world with more censors everywhere there is something filming you maybe putting it online to be able to have a little clip you could wear that says you know i'd rather not and then have technology
+that the person taking the photo will know later this person requested to be contacted before this goes anywhere big if you don't mind and that person taking the photo can make a decision about how and whether to respect it
+in the real world we see filtering of this sort taking place in pakistan and we now have means that we can build like this system
+so that people can report the filtering as they encounter it and it's no longer just a i don't know i couldn't get there i guess i'll move on but suddenly a collective consciousness about what is blocked and censored where online
+in fact talk about technology imitating life imitating tech or maybe it's the other way around an nyu researcher here took little cardboard robots with smiley faces on them
+and a motor that just drove them forward and a flag sticking out the back with a desired destination it said can you help me get there released it on the streets of manhattan
+the craigslist rideshare board if it were called the craigslist hitchhiking board tumbleweeds would be blowing through it
+but it's the rideshare board and it's basically the same thing now why are people using it i don't know maybe they think that uh killers don't plan ahead
+no i think the actual answer is that once you reframe it once you get out of one set of stale expectations from a failed
+project that had its day but now for whatever reason is tarnished you can actually rekindle the kind of human kindness and sharing that something like this on craigslist represents and then you can highlight it into something like
+yes couchsurfing org couchsurfing one guy 's idea to at last put together people who are going somewhere far away and would like to sleep
+on a stranger 's couch for free with people who live far away and would like someone they don't know to sleep on their couch for free
+it's a brilliant idea it's a bee that yes flies amazing how many successful couch surfings there have been and if you're wondering no there have been no known fatalities associated
+with couchsurfing although to be sure the reputation system at the moment works that you leave your report after the couch surfing experience so there may be some selection bias there
+so my urging my thought is that the internet isn't just a pile of information it's not a noun it's a verb
+what it's saying to you is what we heard yesterday demosthenes was saying to us it's saying let 's march thank you very much

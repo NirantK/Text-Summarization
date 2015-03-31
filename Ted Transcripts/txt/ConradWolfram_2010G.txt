@@ -1,0 +1,68 @@
+we've got a real problem with math education right now basically no one 's very happy those learning it
+think it's disconnected uninteresting and hard those trying to employ them think they don't know enough
+yet math is more important to the world than at any point in human history so at one end we've got
+interest in education in math and at the other end we've got a more mathematical world a more quantitative world than we ever have had
+so what's the problem why has this chasm opened up and what can we do to fix it well actually i think the answer is staring us right in the face use computers
+i believe that correctly using computers is the silver bullet for making math education work
+so to explain that let me first talk a little bit about what math looks like in the real world and what it looks like in education see in the real world math
+lots of things that seem simple and not difficult like in the real world except if you're learning it and another thing about math math sometimes looks like math like in this
+here and sometimes it doesn't like am i drunk
+my weight is a little higher than that but all about what happens so let 's zoom out a bit and ask why are we teaching people math what's the point of teaching people math
+and in particular why are we teaching them math in general why is it such an important part of education as a sort of compulsory subject well i think there are about three reasons
+to function in the world today you've got to be pretty quantitative much more so than a few years ago figure out your mortgages being skeptical of government statistics those kinds of things
+and thirdly what i would call something like logical mind training logical thinking over the years we've
+that so let 's ask another question
+what is math what do we mean when we say we're doing math or educating people to do math well i think it's about four steps roughly speaking starting with posing the right question what is it that we want to ask what is it we're trying to find out
+and this is the thing most screwed up in the outside world beyond virtually any other part of doing math people ask the wrong question and surprisingly enough they get the wrong answer for that reason if not for others
+so the next thing is take that problem and turn it from a real world problem into a math problem that's stage two
+in math education we're spending about perhaps eighty percent of the time teaching people to do step three by hand
+the one step computers can do better than any human after years of practice instead we ought to be using computers to do step three
+and using the students to spend much more effort on learning how to do steps one two and four conceptualizing problems applying them getting the teacher to run them through how to do that see crucial point here
+math is not equal to calculating math is a much broader subject than calculating now it's understandable that this has all got intertwined over hundreds of years there was only one way to do calculating and that was by hand
+but in the last few decades that has totally changed we've had the biggest transformation of any ancient subject that i could ever imagine with computers
+math liberation didn't get into education yet see i think of calculating in a sense as the machinery of math
+it's the chore it's the thing you'd like to avoid if you can like to get a machine to do it's a means to an end not an end in itself
+and automation allows us to have that machinery computers allow us to do that and this is not a small problem by any means i estimated that just today
+so we better be damn sure and by the way they didn't even have fun doing it most of them so we better be damn sure that we know why we're doing that and it has a real purpose
+i think we should be assuming computers for doing the calculating and only doing hand calculation where it really makes sense to teach people that and i think there are some cases
+one thing i often ask about is ancient greek and how this relates see thing we're doing right now is we're forcing people to learn mathematics it's a major subject
+not for one minute suggesting that if people are interested in hand calculating or in following their own interests in any subject however bizarre they should do that that's absolutely the right thing for people to follow their self interest
+i was somewhat interested in ancient greek but i don't think that we should force the entire population to learn a subject like ancient greek i don't think it's warranted
+so i have this distinction between what we're making people do and the subject that's sort of mainstream and the subject that in a sense people might follow with their own interest and perhaps even be spiked into doing that
+so what are the issues people bring up with this well one of them is they say you need to get the basics first you shouldn 't use the machine until you get the basics of the subject so my usual question is what do you mean by basics basics of what
+are the basics of driving a car learning how to service it or design it for that matter are the basics of writing learning how to sharpen a quill
+i don't think so i think you need to separate the basics of what you're trying to do from how it gets done and the machinery of how it gets done
+and automation allows you to make that separation a hundred years ago it's certainly true that to drive a car you kind of needed to know a lot about the mechanics of the car and how the ignition timing worked and all sorts of things
+so just because paper was invented before computers it doesn't necessarily mean you get more to the basics of the subject by using paper instead of a computer to teach mathematics
+my daughter gave me a rather nice anecdote on this she enjoys making what she calls paper laptops
+so i asked her one day you know when i was your age i didn't make these why do you think that was and after a second or two carefully reflecting she said no paper
+that somehow if you use a computer it's all mindless button pushing but if you do it by hand it's all intellectual this one kind of annoys me i must say
+i don't think so and what's worse what they're learning there isn't even practically useful anymore might have been fifty years ago but it isn't anymore when they're out of education they do it on a computer
+just to be clear i think computers can really help with this problem actually make it more conceptual now of course like any great tool they can be used completely mindlessly like turning everything into a multimedia show
+like the example i was shown of solving an equation by hand where the computer was the teacher show the student how to manipulate and solve it by hand
+this is just nuts why are we using computers to show a student how to solve a problem hand that the computer should be doing anyway all backwards
+but when you're using a computer you can just substitute make it a quartic equation make it kind of harder calculating wise same principles applied calculations harder
+and problems in the real world look nutty and horrible like this they're got hair all over them they're not just simple dumbed down things that we see in school math
+and think of the outside world do we really believe that engineering and biology and all of these other things that have so benefited from computers and maths have somehow conceptually got reduced by using computers i don't think so quite the opposite
+so the problem we've really got in math education is not that computers might dumb it down but that we have dumbed down problems right now
+another issue people bring up is somehow that hand calculating procedures teach understanding so if you go through lots of examples you can get
+you can understand how the basics of the system work better i think there is one thing that i think very valid here which is that i think understanding procedures and processes
+so programming is the way i think we should be doing that so to be clear what i really am suggesting here is we have a unique opportunity to make maths both more practical and more conceptual simultaneously
+i can't think of any other subject where that's recently been possible it's usually some kind of choice between the vocational and the intellectual but i think we can do both at the same time here and
+we open up so many more possibilities you can do so many more problems what i really think we gain from this is students getting intuition and experience in
+far greater quantities than they've ever got before and experience of harder problems being able to play with the math interact with it feel it
+we want people who can feel the math instinctively that's what computers allow us to do another thing it allows us to do is reorder the curriculum
+it's been by how difficult it is to calculate but now we can reorder it by how difficult it is to understand the concepts however hard the calculating
+so calculus has traditionally been taught very late why is this well it's damn hard doing the calculations that's the problem
+but actually many of the concepts are amenable to a much younger age group this was an example i built for my daughter
+and very very simple we were talking about what happens when you increase the number of sides of a polygon to a very large number
+is exams in the end if we test everyone by hand in exams it's kind of hard to get a curricula changed to a point where they can use computers during the semesters
+you see this isn't some dumbed down model here this is an actual model where we can be asked to optimize what happens how many years of protection do i need what does that do to the payments
+and is critical for people 's real understanding so i believe critical reform we have to do in computer based math we have to make sure
+that we can move our economies forward and also our societies based on the idea that people can really feel mathematics
+this isn't some optional extra and the country that does this first will in my view leapfrog others in achieving
+a new economy even an improved economy an improved outlook in fact i even talk about us moving from what we often call now the knowledge economy
+what we might call a computational knowledge economy where high level math is integral to what everyone does in the way that knowledge currently is we can engage so many more students with this and they can have a better time doing it
+what i'm suggesting is that we should leap off we should increase our velocity so it's high and we should leap off one side and go the other of course having calculated our differential equation very carefully
+let 's go for it
+and while we're about it let 's have a bit of fun for us for the students and for ted here thanks

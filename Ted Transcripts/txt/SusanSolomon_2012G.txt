@@ -1,0 +1,49 @@
+embryonic stem cells are really incredible cells they are our body 's own repair kits and they 're pluripotent which means they can morph into all of the cells in our bodies soon we actually will be able to use stem cells to replace cells that are damaged or diseased
+but that 's not what i want to talk to you about because right now there are some really extraordinary things that we are doing with stem cells that are completely changing the way we look and model disease our ability to understand why we get sick and even develop drugs
+i truly believe that stem cell research is going to allow our children to look at alzheimer 's and diabetes and other major diseases the way we view polio today which is as a preventable disease
+so here we have this incredible field which has enormous hope for humanity
+but much like ivf over thirty five years ago until the birth of a healthy baby louise this field has been under siege politically and financially critical research is being challenged instead of supported
+and we saw that it was really essential to have private safe haven laboratories where this work could be advanced without interference
+and so in two thousand and five we started the new york stem cell foundation laboratory so that we would have a small organization that could do this work and support it
+what we saw very quickly is the world of both medical research but also developing drugs and treatments
+is dominated by as you would expect large organizations
+but in a new field sometimes large organizations really have trouble getting out of their own way and sometimes they can 't ask the right questions and there is an enormous gap that 's just gotten larger between
+because if you don 't close that gap you really are exactly where we are today and that 's what i want to focus on we 've spent the last couple of years
+pondering this making a list of the different things that we had to do and so we developed a new technology it 's software and hardware that actually can generate thousands and thousands of genetically diverse stem cell lines to create a global array essentially avatars of ourselves
+to actually do clinical trials in a dish with human cells not animal cells to generate drugs and treatments that are much more effective much safer much faster and at a much lower cost
+so let me put that in perspective for you and give you some context this is an extremely new field
+in one thousand nine hundred and ninety eight human embryonic stem cells were first identified and just nine years later a group of scientists in japan were able to take skin cells and reprogram them with very powerful viruses
+this was really an extraordinary advance because although these cells are not human embryonic stem cells which still remain the gold standard they are terrific to use for modeling disease and potentially for drug discovery so a few months later in two thousand and eight one of our scientists built on that research
+he took skin biopsies this time from people who had a disease als or as you call it in the u k motor neuron disease he turned them into the ips cells that i 've just told you about and then he turned those ips cells into the motor neurons that actually were dying in the disease
+so basically what he did was to take a healthy cell and turn it into a sick cell and he recapitulated the disease over and over again in the dish
+and this was extraordinary because it was the first time that we had a model of a disease from a living patient in living human cells and as he watched the disease unfold
+he was able to discover that actually the motor neurons were dying in the disease in a different way than the field had previously thought there was another kind of cell that actually was sending out a toxin and contributing to the death of these motor neurons and you simply couldn 't see it until you had the human model so you could really say that
+being able to have human stem cell models
+and stem cells really have given us the black box
+for diseases and it 's an unprecedented window it really is extraordinary because you can recapitulate many many diseases in a dish you can see what begins to go wrong in the cellular conversation well before you would ever see symptoms appear in a patient
+and this opens up the ability which hopefully will become something that is routine in the near term of using human cells to test for drugs
+to bring a successful drug to market it takes on average thirteen years that 's one drug
+with a sunk cost of four billion dollars and only one percent of the drugs that start down that road are actually going to get there
+you can 't imagine other businesses that you would think of going into that have these kind of numbers it 's a terrible business model but it is really a worse social model because of what 's involved and the cost to all of us
+and you can 't go into a living person with an illness and just pull out a few brain cells or cardiac cells and then start fooling around in a lab to test
+for you know a promising drug but what you can do with human stem cells now is actually create avatars and you can create the cells whether it 's the live motor neurons or the beating cardiac cells or liver cells or other kinds of cells and you can
+absolutely extraordinary and you 're going to know
+look around this room we are all different and a disease that i might have if i had alzheimer 's disease or parkinson 's disease it probably would affect me differently than if one of you had that disease
+and if we both had parkinson 's disease and we took the same medication but we had different genetic makeup
+we probably would have a different result and it could well be that a drug that worked wonderfully for me was actually
+and you know this seems totally obvious but unfortunately it is not the way that the pharmaceutical industry has been developing drugs because until now it hasn 't had the tools
+and so we need to move away from this one size fits all model the way we 've been developing drugs is essentially like going into a shoe store no one asks you what size you are or if you 're going dancing or hiking they just say well you have feet here are your shoes it doesn 't work with shoes
+there was a very sad example of this in the last decade there 's a wonderful drug and a class of drugs actually but the particular drug was vioxx and for people who were suffering from severe arthritis pain the drug was an absolute lifesaver
+but unfortunately for another subset of those people they suffered pretty severe heart side effects and for a subset of those people the side effects were so severe the cardiac side effects that they were fatal but imagine a different
+scenario where we could have had an array a genetically diverse array of cardiac cells and we could have actually tested that drug vioxx in petri dishes and figured out well okay people with this genetic type are going to have
+the people for whom it was a lifesaver could have still taken their medicine the people for whom it was a disaster or fatal would never have been given it and you can imagine a very different outcome for the company who had to withdraw the drug so that
+clearly we have to think about genetics we have to think about human testing but there 's a fundamental problem because right now stem cell lines as extraordinary as they are and lines are just groups of cells
+they are made by hand one at a time and it takes a couple of months
+so we looked at this and we thought okay artisanal is wonderful in you know your clothing and your bread and we 're all different
+we know from the sequencing of the human genome that it 's shown us all of the a 's c 's g 's and t 's that make up our genetic code
+is like looking at the ones and zeroes of the computer code without having a computer that can read it it 's like having an app without having a smartphone we needed to have a way of bringing the biology to that incredible data
+and the way to do that was to find a stand in a biological stand in that could contain all of the genetic information but have it be arrayed in such a way as it could be read together and actually create this incredible avatar
+we need to have stem cells from all the genetic sub types that represent who we are
+that already exist all of the drugs that currently exist and in the future you 're going to be taking drugs and treatments that have been tested for side effects
+on all of the relevant cells on brain cells and heart cells and liver cells it really has brought us to the threshold of personalized medicine it 's here now and in our family
+my son has type one diabetes which is still an incurable disease and i lost my parents to heart disease and cancer but i think that my story probably sounds familiar to you because probably a version of it is your story

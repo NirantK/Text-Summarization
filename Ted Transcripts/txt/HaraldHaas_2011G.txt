@@ -1,0 +1,44 @@
+because it 's so fundamental to our lives and one of the issues is capacity the way we transmit wireless data is by using electromagnetic waves in particular radio waves and radio waves are limited they are scarce they are expensive and we only have a certain range of it
+there 's another problem that is efficiency these one point four million cellular radio masts or base stations consume a lot of energy and mind you most of the energy is not used to transmit the radio waves it is used to cool the base stations then the efficiency of such a base station is only at about five percent
+and that creates a big problem
+then there 's another issue that you 're all aware of you have to switch off your mobile phone during flights in hospitals they are security issues and security is another issue these radio waves penetrate through walls
+they can be intercepted and somebody can make use of your network if he has bad intentions so these are the main four issues but on the other hand we have
+fourteen billion of these light bulbs light
+and light is part of the electromagnetic spectrum
+so let 's look at this in the context of the entire electromagnetic spectrum where we have gamma rays you don 't want to get close to gamma rays it could be dangerous x rays useful when you go to hospitals
+and multiply that by ten thousand then you end up at fourteen billion fourteen billion is the number of light bulbs installed already so we have the infrastructure there look at the ceiling you see all these light bulbs go to the main floor you see these light bulbs can we use them for communications
+so let 's show how we do that let 's go to the closest neighbor to the visible light spectrum go to remote controls
+you all know remote controls have an infrared led basically you switch on the led and if it 's off you switch it off and it creates a simple low speed data stream in ten thousand bits per second twenty thousand bits per second not usable for a youtube video
+what we have done is we have developed a technology with which we can
+furthermore replace the remote control of our light bulb we transmit with our technology not only a single data stream we transmit thousands of data streams in parallel at even higher speeds
+and the technology we have developed it 's called sim ofdm and it 's spacial modulation these are the only technical terms i 'm not going into details but this is how we enabled that
+light source to transmit data you will say okay this is nice a slide created in ten minutes
+developed a demonstrator and i 'm showing for the first time in public this visible light demonstrator
+and what we have here is no ordinary desk lamp we fit in an led light bulb worth three u s dollars put in our signal processing technology and then what we have here is a little hole
+and the light goes through that hole there 's a receiver
+the receiver will convert these little subtle changes in the amplitude that we create there into an electrical signal
+and that signal is then converted back to a high speed data stream in the future we hope
+that we can integrate this little hole into these smart phones and not only integrate a photo detector here but maybe use the camera inside
+so what happens when i switch on that light
+as you would expect it 's a light a desk lamp
+put your book beneath it and you can read it 's illuminating the space but at the same time you see this video coming up here and that 's a video a high definition video that is transmitted through that light beam you 're critical
+you think ha ha ha this is a smart academic doing a little bit of tricks here but let me it is this light
+it 's serving the purpose of illumination but at the same time we are able to transmit this data and you see even light from the ceiling comes down here to the receiver
+it can ignore that constant light because all the receiver 's interested in are subtle changes you also
+to have this working and the answer is yes but you can dim down the light to a level that it appears to be off and you are still able to transmit data
+this is data through illumination it 's first of all an illumination device and if you do the energy budget the data transmission comes for free
+so it 's everywhere in a day there is light look around everywhere look at your smart phone it has a flashlight
+and then there 's security
+you would agree with me that
+light doesn 't penetrate through walls
+so no one if i have a light here if i have secure data no one on the other side of this room through that wall would be able to read that data
+and there 's only data where there is light
+so if i don 't want that receiver to receive the data
+then what i could do so
+for me the applications of it to me are beyond imagination at the moment
+we have had a century of very nice smart application developers
+and you only have to notice where we have light there is a potential way to transmit data but i can give you a few examples well you may see the impact
+deployed around the world and every street lamp could be a free access point we call it in fact a li fi light fidelity and then we have these aircraft cabins there are hundreds of lights in an aircraft cabin
+each of these lights could be a potential transmitter of wireless data so you could enjoy your most favorite ted video on your long flight back home online life so that is a vision i think that is possible
+and this would then combine two basic functionalities illumination and wireless data transmission and it 's this symbiosis that i personally believe could solve the four essential problems that face us in wireless communication these days and in the future you would not only have
+and even a brighter future thank you

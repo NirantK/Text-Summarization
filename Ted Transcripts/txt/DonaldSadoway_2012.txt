@@ -1,0 +1,78 @@
+electricity powering the lights in this theater
+was generated just moments ago
+because the way things stand today
+electricity demand must be in constant balance with electricity supply
+if in the time that it took me to walk out here on this stage some tens of megawatts of wind power stopped pouring into the grid
+the difference would have to be made up from other generators immediately
+a giant battery could with a giant battery we 'd be able to address the problem of intermittency that prevents wind and solar from contributing to the grid in the same way that coal gas and nuclear do today
+device here with it we could draw electricity from the sun even when the sun doesn 't shine and that changes everything because then renewables such as wind and solar come out from the wings
+here to center stage today i want to tell you about such a device it 's called the liquid metal battery
+it 's a new form of energy storage
+that i invented at mit
+along with a team of my students and post docs
+now the theme of this year 's ted conference is full spectrum
+the oed defines spectrum as the entire range of wavelengths of electromagnetic radiation from the longest radio waves to the shortest gamma rays of which the range of visible light
+is only a small part so i 'm not here today only to tell you how my team at mit has drawn out of nature a solution to one of the world 's great problems i want to go full spectrum
+and tell you how in the process of developing this new technology we 've uncovered some surprising heterodoxies that can serve as lessons for innovation ideas worth spreading
+we can 't just conserve our way out we can 't just drill our way out we can 't bomb our way out we 're going to do it the old fashioned american way we 're going to invent our way out working together
+perhaps overlooked volta 's invention of the battery for the first time also demonstrated the utility of a professor
+here 's the first battery
+a stack of coins zinc and silver separated by cardboard soaked in brine
+this is the starting point for designing a battery
+two electrodes in this case metals of different composition
+and an electrolyte in this case salt dissolved in water the science is that simple
+i 've taught you that battery science is straightforward
+and the need for grid level storage is compelling
+but the fact is that today there is simply no battery technology capable of meeting the demanding performance requirements of the grid
+namely uncommonly high power long service lifetime and super low cost
+we need to think about the problem differently
+we need to think big we need to think cheap
+so let 's abandon the paradigm of let 's search for the coolest chemistry and then hopefully we 'll chase down the cost curve by just making lots and lots of product
+instead let 's invent to the price point of the electricity market
+so that means that certain parts of the periodic table are axiomatically off limits
+this battery needs to be made out of earth abundant elements i say if you want to make something dirt cheap make it out of dirt
+and we need to be able to build this thing
+using simple manufacturing techniques and factories that don 't cost us a fortune
+in fact i looked to a technology that neither stores nor generates electricity but instead consumes electricity huge amounts of it
+i 'm talking about the production of aluminum
+the process was invented in one thousand eight hundred and eighty six by a couple of twenty two year olds hall in the united states and heroult in france and just a few short years following their discovery aluminum changed from a precious metal costing as much as silver
+to a common structural material
+you 're looking at the cell house of a modern aluminum smelter
+it 's about fifty feet wide and recedes about half a mile row after row of cells that inside resemble volta 's battery with three important differences volta 's battery works at room temperature
+it 's fitted with solid electrodes and an electrolyte that 's a solution of salt and water
+the hall heroult cell operates at high temperature a temperature high enough that the aluminum metal product is liquid
+the electrolyte is not a solution of salt and water but rather salt that 's melted it 's this combination of liquid metal molten salt and high temperature that allows us to send high current through this thing today we can produce
+that 's the economic miracle of modern electrometallurgy it is this that caught and held my attention to the point that i became obsessed with inventing a battery that could capture this gigantic economy of scale
+liquid metals for both electrodes and a molten salt for the electrolyte
+put a high density liquid metal at the bottom
+and molten salt in between
+with the periodic table enunciated by another professor dimitri mendeleyev everything we know
+is made of some combination of what you see depicted here and that includes our own bodies
+i recall the very moment one day when i was searching for a pair of metals that would meet the constraints of earth abundance different opposite density
+and high mutual reactivity i felt the thrill of realization when i knew i 'd come upon the answer
+you know i 've got to tell you one of the greatest benefits of being a professor
+the electrons go to work in the real world out here
+now to charge the battery
+we connect a source of electricity it could be something like a wind farm and then we reverse
+and return to the upper electrode restoring the initial constitution of the battery
+and the current passing between the electrodes generates enough heat to keep it at temperature
+to see it from my perspective
+david bradwell who in this image appears to be wondering if this thing will ever work
+what i didn 't tell david at the time was i myself wasn 't convinced it would work
+but david 's young and he 's smart
+which were paid with seed funds at mit i was able to attract major
+and that allowed me to expand my group to twenty people a mix of graduate students post docs and even some undergraduates and i was able to attract really really good people people who share my passion for science and service to society not science and service for career building
+on liquid metal battery their answer would hearken back to president
+but the pace wasn 't fast enough for us so a year and a half ago david and i along with another research staff member formed a company to accelerate
+four kilowatt hour cell on the horizon it 's going to be thirty six inches in diameter we call that the bistro table but it 's not ready yet for prime time viewing
+and one variant of the technology has us stacking these bistro tabletops into modules aggregating the modules into a giant battery that fits in a forty foot shipping container for placement in the field
+and this has a nameplate capacity of two megawatt hours two million watt hours that 's enough energy to meet the daily electrical needs of two hundred american households so here you have it grid level storage silent
+emissions free no moving parts
+remotely controlled designed to the market price point without subsidy
+so what have we learned from all this
+they lie beyond the visible temperature conventional wisdom says
+set it low at or near room temperature and then install a control system to keep it there avoid thermal runaway liquid metal battery is designed to operate at elevated temperature with minimum regulation
+our battery can handle the very high temperature rises that come from current surges
+scaling conventional wisdom says reduce cost by producing many liquid metal battery is designed to reduce cost by producing fewer
+hire battery experts seasoned professionals who can draw upon their vast experience and knowledge
+to develop liquid metal battery i hired students and post docs and mentored them in a battery i strive to maximize electrical potential when mentoring i strive to maximize human potential

@@ -1,0 +1,85 @@
+what technology can we really apply to reducing global poverty
+and what i found was quite surprising we started looking at things like death rates in the twentieth century and how they'd been improved and very simple things turned out then early web
+would clearly make a huge difference to that problem
+but i also in looking at more powerful technologies and nanotechnology and genetic engineering
+other new emerging kind of digital technologies became very concerned about the potential for abuse
+if you think about it in history a long long time ago we dealt with the problem of
+to keep the many from tyrannizing the one we came up with concepts like individual liberty
+it extends beyond a nation state it's not the nation states that have potential access to mass destruction but individuals and this is a consequence of the
+fact that these new technologies tend to be digital we saw genome sequences you can download the gene sequences of pathogens off the internet
+flu is too dangerous to fedex around if people want to use it in their labs for working on research just reconstruct it yourself
+because you know it might break in fedex so that this is possible to do this is not
+it be biological or other are clearly a danger in our world and the danger is that they can cause roughly what's a pandemic
+and we really don't have experience with pandemics and we're also not very good as a society at acting to things we don't have direct and sort of gut level experience with so it's not in our nature to pre act
+and in this case piling on more technology doesn't solve the problem because it only super empowers people more
+so the solution has to be as people like russell and einstein and others imagine in a conversation that existed in a much stronger form i think early in the twentieth century
+solution had to be not just the head but the heart you know public policy and moral progress the bargain that gives us civilization is a bargain to not use power
+we get our individual rights by society protecting us from others not doing everything they can do but largely doing only what is legal and so
+to limit the danger of these new things we have to limit ultimately the ability of individuals to have access essentially to pandemic power we also have to have sensible defense because no limitation is going to prevent a crazy person from doing something
+the troubling thing is that it's much easier to do something bad than to defend against all possible bad things so the offensive uses
+and then i signed a book contract to write more gloomy thoughts about this and moved into a hotel room in new york with one room full of books on the plague
+and you know nuclear bombs exploding in new york where i would be within the circle and so on and then i was there on september
+and i stood in the streets with everyone and it was quite an experience to be there i got up the next morning and walked out of the city and all
+was quite a compelling experience but not really i suppose a surprise to someone who 'd had his room full of the books it was always a surprise that it happened then and there but it wasn't a surprise that it happened
+at all and everyone then started writing about this thousands of people started writing about this and i eventually abandoned the book and then chris called me to talk at the conference i really don't talk about this any more because you know there's enough frustrating and depressing things going on
+but i agreed to come and say a few things about this and i would say that we can't give up the rule of law to fight an asymmetric threat which is what we seem to be doing
+because of the present the people that are in power
+because that's to give up the thing that makes civilization and we
+fight the threat in the kind of stupid way we're doing because a million dollar act causes a billion dollars of damage causes a trillion dollar response which is largely ineffective and arguably so
+after giving up on the book and i had the great honor to be able to join kleiner perkins about a year ago
+and to work through venture capital on the innovative side and to try to find some innovations that could address what i saw as
+some of these big problems things where you know a factor of ten difference can make a factor of a thousand difference in the outcome
+the last year at the incredible quality and excitement of the innovations that have come across my desk
+it's overwhelming at times i'm very thankful for google and wikipedia so i can understand at least a little of what people are talking about who come through the doors
+but i wanted to share with you three areas that i'm particularly excited about and that relate to the problems that i was talking about in the wired article
+the first is this whole area of education and it really relates to what nicholas was talking about with a hundred dollar computer and that is to say that
+we've seen and i've had the pleasure to invest in companies that give me great confidence that we'll extend moore 's law all the way down to roughly the ten
+scale another factor of say six in dimensional reduction which should give us about another factor of one hundred in raw improvement in what the chips can do
+and so to put that in practical terms if something costs about one thousand dollars today
+say the best personal computer you can buy that might be its cost i think we can have that in two thousand and twenty for ten dollars
+now just imagine what that hundred dollar computer will be in two thousand and twenty as a tool for education i think the challenge for us is i'm very certain that that will happen the challenge is will we develop
+the kind of educational tools and things with the net to let us take advantage of that device i'd argue today that we have incredibly powerful computers but we don't have very good software for them
+when they took the apple mac interface and they put it back on the apple ii the apple ii was perfectly capable of running that kind of interface we just didn't know how to do it
+at the time so given that we know and should believe because moore 's law
+a constant i mean it's just been very predictable progress over the last forty years or whatever we can know what the computers are going to be
+like in two thousand and twenty it's great that we have initiatives to say let 's go create the education and educate people in the world because that's a great force for peace and we can give everyone in the world a hundred dollar computer or a ten dollar computer in the next
+the thing that we see as the kind of moore 's law trend that's driving improvement in our ability to address the environmental problem is new materials we have a challenge because the urban population is growing
+in this century from two billion to six billion in a very short amount of time people are moving to the cities they all need clean water they need energy they need transportation and we want them to develop in a
+their strength they're almost the strongest material tensile strength material known
+if you make a three dimensional structure like a buckyball they have all sorts of incredible properties if you shoot a particle at them and knock a hole in them they repair themselves they go zip and they repair the hole in femtoseconds which is not is really quick
+if you shine a light on them
+they produce electricity in fact if you flash them with a camera they catch on fire if you put electricity on them they emit light if you run current through them you can run one thousand times more current through one of these than through a piece of metal
+you can make both p and n type semiconductors which means you can make transistors out of them they conduct heat along their length but not across
+well there is no width but not in the other direction if you stack them up that's a property of carbon fiber also
+if you put particles in them and they go shooting out the tip they're like miniature linear accelerators or electron guns the inside
+where the kind of things lisa randall 's talking about are in there i had one business plan where i was trying to learn more about witten 's cosmic dimension strings to try to understand what the phenomenon was going on in this proposed nanomaterial so
+that we can do things with different properties lighter stronger and apply these new materials to the environmental problems
+new materials that can make water new materials that can make fuel cells work better new materials that catalyze chemical reactions that cut pollution and so on ethanol
+new ways of making ethanol new ways of making electric transportation the whole green dream because it can be profitable
+we've dedicated we've just raised a new fund we dedicated one hundred million dollars to these kinds of investments we believe that genentech the compaq the lotus the sun the netscape the amazon the google
+in these fields are yet to be found because this materials revolution will drive these things forward
+the third area that we're working on and we just announced last week we were all in new york we raised
+two hundred million dollars in a specialty fund to work on a pandemic in biodefense
+and to give you an idea of the last fund that kleiner raised was a four hundred million dollar fund so this for us is a very substantial fund
+john doerr and brook and others got concerned and we started looking around at what the world was doing about being prepared for a pandemic and we saw
+a lot of gaps and so we asked ourselves you know can we find innovative things that will go fill these gaps and
+a break here he said he 's found so much stuff he can't sleep because there's so many great technologies out there we're essentially buried and
+we need them you know we have one antiviral that people are talking about stockpiling that still works roughly that's tamiflu
+but tamiflu the virus is resistant it is resistant to tamiflu we've discovered with aids we need cocktails to
+work well so that the viral resistance we need several antivirals we need better surveillance we need networks that can find out what's going on we need rapid diagnostics so that we can tell if somebody has
+a strain of flu which we have only identified very recently we've got to be able to make the rapid diagnostics quickly we need new antivirals and cocktails we need new kinds of vaccines vaccines that are broad spectrum vaccines that we can manufacture quickly
+we believe that if we could fill these ten gaps we have a chance to help really reduce the risk of a pandemic
+and the difference between a normal flu season and a pandemic is about a factor of one thousand in deaths and certainly enormous economic impact
+that will address this so if we can address use technology help address education help address the environment help address the pandemic does that solve the larger problem
+so what we need to do is we need better policy and for example some things we could do that would be policy solutions which are not really in the political air right now but perhaps with the change of administration would be
+use markets markets are a very strong force for example rather than try to regulate away problems which probably won 't work if we could price into the cost of doing business the cost of catastrophe
+so that people who are doing things that had a higher cost of catastrophe would have to take insurance against that risk so if you wanted to put a drug on the market you could put it on but it wouldn't have to be approved by regulators you'd have to convince an actuary
+with the law and finally i think we have to do something that's not really it's almost unacceptable to say this which we have to begin to design the future
+we can't pick the future but we can steer the future our investment in trying to prevent pandemic flu is affecting the distribution of possible outcomes
+we may not be able to stop it but the likelihood that it will get past us is lower if we focus on that problem so we can design the future
+if we choose what kind of things we want to have happen and not have happen and steer us to a lower risk place vice president gore will talk about
+how we could steer the climate trajectory into a lower probability of catastrophic risk but above all what we have to do is we have to help the good guys the people on the defensive side
+have an advantage over the people who want to abuse things and what we have to do to do that is we have to limit access to certain information
+and growing up as we have and holding very high the value of free speech this is a hard thing for us to accept for all of us to accept it's especially hard
+for the scientists to accept who still remember you know galileo essentially locked up and who are still fighting this battle against the church but
+that's the price of having a civilization the price of retaining the rule of law is to limit the access to the great and kind of unbridled power thank you

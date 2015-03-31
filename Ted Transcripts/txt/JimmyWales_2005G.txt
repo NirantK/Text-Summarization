@@ -1,0 +1,93 @@
+so wikipedia you just saw the little demonstration of it it's a freely licensed encyclopedia it's written by thousands of volunteers all over the world in many many languages
+it's written using wiki software which is the type of software he just demonstrated so anyone can quickly edit and save and it goes live on the internet immediately
+and everything about wikipedia is managed by virtually an all volunteer staff so when yochai is talking about new
+so wikipedia 's owned by the wikimedia foundation which i founded a nonprofit organization and our goal the core aim of the wikimedia foundation
+is to get a free encyclopedia to every single person on the planet and so if you think about what that means it means a lot more than just building a cool website we're really interested in all the issues of the digital divide poverty worldwide
+you can do it commercially or non commercially so there's a lot of opportunities that are going to arise around wikipedia all over the world
+we're funded by donations from the public and one of the more interesting things about that is how little money it actually takes to run wikipedia
+so yochai showed you the graph of what the cost of a printing press was and i'm going to tell you what the cost of wikipedia is but first i'll show you how big it is so we've got
+over six hundred thousand articles in english we've got two million total articles across many many different languages the biggest languages are german japanese french all the western european languages are quite
+but only around one third of all of our traffic to our web clusters to the english wikipedia which is surprising to a lot of people a lot of people think in a very english centric way on the internet but for us we're truly global we're in many many languages
+how popular we've gotten to be we're a top fifty website and we're more popular than the new york times so this is where we get to
+discussion this shows the growth of wikipedia we're the blue line there and then this is the new york times over there
+and what's interesting about this is the new york times website is a huge enormous corporate operation with i have no idea how many hundreds of employees
+we have exactly one employee and that employee is our lead software developer and he 's only been our employee since january two thousand and five all the other growth before that
+so the servers are managed by a rag tag band of volunteers all the editing is done by volunteers and the way that we're organized is not like any traditional organization you can imagine people are always asking
+well who 's in charge of this or who does that and the answer is anybody who wants to pitch in it's a very unusual and chaotic
+got over ninety servers now in three locations these are managed by volunteer system administrators who are online i can go online any time of the day or night and see
+eight to ten people waiting for me to ask a question or something anything about the servers
+you could never afford to do this in a company you could never afford to have a standby crew of people twenty four hours a day and do what we're doing at wikipedia
+so we're doing around one point four billion page views monthly so it's really gotten to be a huge thing
+and everything is managed by the volunteers and the total monthly cost for our bandwidth is about five thousand dollars and that's essentially our main cost we could actually do without the employee
+we actually we hired brian because he was working part time for two years and full time at wikipedia so we actually hired him so he could get a life and go to the movies sometimes
+so the big question when you've got this really chaotic organization is why isn't it all rubbish why is the website as good as it is first of all how good is it well it's pretty good
+it isn't perfect but it's much much better than you would expect given our completely chaotic model so when you saw him make a ridiculous edit to the page about me
+you think oh this is obviously just going to degenerate into rubbish but when we've seen quality tests and there haven't been enough of these yet and i'm really encouraging people to do more
+so a lot of people have heard about the wikipedia bush kerry controversy this is a the media has covered this somewhat extensively it started out with
+an article in red herring the reporters called me up and they i mean i have to say they spelled my name right
+but they really wanted to say the bush kerry election is so contentious it's tearing apart the wikipedia community
+and so they quote me as saying they 're the most contentious in the history of wikipedia what i actually said is they're not contentious at all so it's a slight misquote
+the articles were edited quite heavily and it is true that we did have to lock the articles on a couple of occasions time magazine recently reported that
+this came after i told the reporter that we had to lock it for occasionally a little bit here and there so
+the truth in general is that the kinds of controversies that you would probably think we have within the wikipedia community are not really controversies at all
+real struggle is not between the right and the left that's where most people assume but it's between the party of the thoughtful and the party of the jerks and no side of the political spectrum has a monopoly on either of those qualities
+the actual truth about the specific bush kerry incident is that the bush kerry articles were locked less than one percent of the time in two thousand
+it wasn't because they were contentious it was just because there was routine vandalism which happens sometimes even on stage people
+a good thing so how do we do this what how do we manage the quality control what makes a how does it work
+so there's a few elements mostly social policies and some elements of the software so the biggest and the most important thing
+is our neutral point of view policy this is something that i set down from the very beginning as a core principle of the community that's completely not debatable
+it's a social concept of cooperation so we don't talk a lot about truth and objectivity the reason for this is if we say
+we're only going to write the truth about some topic that doesn't do us a damn bit of good of figuring out what to write because i don't agree with you about what's the truth but we have this jargon term of neutrality
+which has its own long history within the community which basically says any time there's a controversial issue wikipedia itself should not take a stand on the issue we should merely report on what reputable parties have said about it so this neutrality policy
+is really important for us because it empowers a community that is very diverse to come together and actually get some work done so we have very diverse contributors in terms of political religious cultural backgrounds
+by having this firm neutrality policy which is non negotiable from the beginning we ensure that people can work together and that the entries don't become simply a war back and forth between the left and the right if you engage in that type of behavior you'll be asked to leave the community
+so real time peer review every single change on the site goes to the recent changes page so as soon as he made his change it went to the recent changes page
+and people can get rss feeds they can get e mail notifications of changes and then users can set up their own personal watch list so my page is on quite a few volunteers watch lists because it is sometimes vandalized and
+so we do have edits by anonymous users which is one of the most controversial and intriguing things about wikipedia so
+and made a change but it turns out that only about eighteen percent of all the edits to the website are done by anonymous users and that's a really important thing to understand
+is that the vast majority of the edits that go on on the website are from a very close knit community of maybe six hundred to one thousand people who are in constant communication and we have over forty irc channels forty mailing
+all these people know each other they communicate we have offline meetings these are the people who are doing the bulk of the site and they are in a sense semi professionals at what they're doing
+that the standards we set for ourselves are equal to or higher than professional standards of quality we don't always meet those standards but that's what we're striving for
+and so that tight community is who really cares for the site and these are some of the smartest people i've ever met of course it's my job to say that but it's actually true the type of people who were drawn to writing an encyclopedia for fun tend to be pretty smart people
+the tools and the software there's lots of tools that allow us allow us meaning the community to self monitor and to monitor all the work this is an example of a page history
+on flat earth and you can see some changes that were made what's nice about this page is you can immediately take a look at this and see oh ok i understand now when somebody goes and looks at
+they see that someone an anonymous ip number made an edit to my page that sounds suspicious who is this person somebody looks at it they can immediately see highlighted in red all of the changes that took place
+to see ok well these words have changed things like this so that's one tool that we can use to very quickly monitor the history of a page another thing that we do within the community is we leave everything very open ended
+most of the social rules and the methods of work are left completely open ended in the software all of that stuff is just on wiki pages and so there's nothing in the software that enforces the rules the example i've got up here is a votes for deletion page
+so i mentioned earlier people type asdfasdf it needs to be deleted cases like that the administrators just delete it there's no reason to have a big argument about it
+so we needed a social method for figuring out the answer to this and so the method that arose organically within the community is the votes for deletion page and in the particular example we have here it's a film twisted issues and the first person says now this is supposedly a film
+it fails the google test miserably the google test is you look in google and see if it's there because if something 's not even in google it probably doesn't exist at all it's not a perfect rule but it's a nice starting point for a quick research
+the twenty underground films you must see oh ok so the next persons says clean it up somebody says i 've found it on imdb keep keep keep
+what's interesting about this is that the software is these votes are just they're just text typed into a page this is not really a vote so much as it is a dialogue now it is true that at the end of the day
+an administrator can go through here and take a look at this and say ok eighteen deletes two keeps we'll delete it but in other cases this could be
+eighteen deletes and two keeps and we would keep it because if those last two keeps say wait a minute wait a minute nobody else saw this but i found it in a book and i found a link to a page that describes it and i'm going to clean it up tomorrow so please don't delete it
+then it would survive and it also matters who the people are who are voting like i say it's a tight knit community down here at the bottom keep real movie rick kay rick kay is a very famous wikipedian
+does an enormous amount of work with vandalism hoaxes and votes for deletion his voice carries a lot of weight within the community because he knows what he 's doing
+so how 's all this governed people really want to know about ok administrators things like that so the wikipedia governance model the governance of the community is a very confusing but a workable mix
+of consensus meaning we try not to vote on the content of articles because the majority view is not necessarily neutral
+some amount of democracy all of the administrators these are the people who have the ability to delete pages that doesn't mean that they have the right to delete pages they still have to follow all the rules
+but they're elected they're elected by the community sometimes people random trolls on the internet like to accuse me of hand picking the administrators to bias the content of the encyclopedia i always laugh at this because i have no idea how they're elected actually
+there's a certain amount of aristocracy and so you've got a hint of that when i mentioned like rick kay 's voice would carry a lot more weight than someone we don't know
+i give this talk sometimes with angela who was just re elected to the board from the community to the board of the foundation with
+more than twice the votes of the person who didn't make it and i always embarrass her because i say well angela for example could get away with doing absolutely anything within wikipedia
+because she's so admired and so powerful but the irony is of course that angela can do this because she's the one person who you know would never ever ever break any rules of wikipedia
+and i also like to say she's the only person who actually knows all the rules of wikipedia so and then there's monarchy and that's my role on the community so
+i was describing this in berlin once and the next day in the newspaper the headline said i am the queen of england and that's not exactly what i said but
+the point is my role in the community within the free software world there is long there's been a longstanding tradition of
+the benevolent dictator model so if you look at most of the major free software projects they have one single person in charge who everyone agrees is the
+but there is a need still for a certain amount of monarchy a certain amount of sometimes we have to make a decision and we don't want to get bogged down too heavily in
+oh well this is horrible this jewish conspiracy of a website and we're going to get certain articles deleted that we don't like and we see they have a voting process
+we have forty thousand members and we're going to send them over and they're all going to vote and get these pages deleted well they managed to get eighteen people to show up that's neo nazi math for you
+they always think they've got forty thousand members when they've got eighteen but they managed to get eighteen people to come and vote in a fairly absurd way to delete a perfectly valid article
+of course the vote ended up being about eighty five to eighteen so there was no real danger to our democratic
+on the other hand people said but what are we going to do i mean this could happen and what if some group gets really seriously organized and comes in and wants to vote
+then i said well fuck it we'll just change the rules that's my job in the community to say we won 't allow our openness and freedom
+to undermine the quality of the content and so as long as people trust me in my role
+then that's a valid place for me of course because of the free licensing if i do a bad job the volunteers are more than happy to take and leave i can't tell anyone what to do thank you
+much of the textbooks that are used to educate our children are inherently biased have you found wikipedia being used by teachers and how do you see wikipedia changing education
+yeah so a lot of teachers are beginning to use wikipedia another there's a media storyline about wikipedia which i think is false it builds on the storyline of bloggers versus newspapers
+the last time i got an e mail from a journalist saying why do academics hate wikipedia i sent it from my harvard email address because i was recently appointed a fellow there and i said well they don't all hate it
+but i think there's going to be huge impacts and we actually have a project that i'm personally really excited about which is the wiki books project which is an effort to create textbooks
+in all the languages and that's a much bigger project it's going to take twenty years or so to come to fruition
+but part of that is to fulfill our mission of giving an encyclopedia to every single person on the planet we don't mean we're going to spam them with aol style cds we mean we're going to give them a tool that they can use and for a lot of people in the world
+if i give you an encyclopedia that's written at a university level it doesn't do you any good without a whole host of literacy materials to build you up to the point where you can actually use it

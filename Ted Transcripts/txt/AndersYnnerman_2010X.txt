@@ -1,0 +1,75 @@
+start by posing a little bit of a challenge the challenge of dealing with data data that we have to deal with in medical
+it's a fantastic device it uses x rays x ray beams that are rotating very fast around the human body it takes about thirty seconds to go through the whole machine
+and is generating enormous amounts of information that comes out of the machine so this is a fantastic machine that we can use for improving health care
+but as i said it's also a challenge for us and the challenge is really found in this picture here it's the medical data explosion that we're having right now
+taken the liberty just for clarity to translate that to data slices that would correspond to about fifty mb of data which is small
+you think about the data we can handle today just on normal mobile devices if you translate that to phone books it's about one meter of phone books in the
+we're seeing this it's beginning a technology trend that's happening right now is that we're starting to look at time result situations as well so we're getting the dynamics out of the body as well and just assume that we will be collecting data during five seconds
+and that would correspond to one terabyte of data that's eight hundred thousand books and sixteen km of phone books that's one patient one data set and this is what we have to deal with
+so this is really the enormous challenge that we have and already today this is twenty five thousand images imagine the days when we had radiologists doing this
+they would put up twenty five thousand images they would go like this twenty five zero okay okay there is the problem they can't do that anymore that's impossible so we have to do something that's a little bit more intelligent than doing this
+so what we do is we put all these slices together imagine that you slice your body in all these directions and then you try to put the slices back together again into a pile of data into a block of data
+so this is really what we're doing so this gigabyte or terabyte of data we're putting it into this block but of course the block of data just contains the amount of x ray that's been absorbed in each point in the human body
+so what we need to do is to figure out a way of looking at the things we do want to look at and make things transparent that we don't want to look at so transforming the data set into something that looks like this
+and this is a challenge this is a huge challenge for us to do that using computers even though they're getting faster and better all the time it's a challenge to deal with gigabytes of data terabytes of data
+and extracting the relevant information i want to look at the heart i want to look at the blood vessels i want to look at the liver maybe even find a tumor in some cases
+so this is where this little dear comes into play this is my daughter this is as of nine zero am this morning she's playing a computer game she's only two years old and she's having a blast
+so she's really the driving force behind the development of graphics processing units
+as long as kids are playing computer games graphics is getting better and better and better so please go back home tell your kids to play more games because that's what i need
+so what's inside of this machine is what enables me to do the things that i'm doing with the medical data so really what i'm doing is using these fantastic little devices and you know going back maybe
+ten years in time when i got the funding to buy my first graphics computer it was a huge machine it was cabinets of processors and storage and everything
+i paid about one million dollars for that machine that machine is today about as fast as my
+so every month there are new graphics cards coming out and here is a few of the latest ones from the vendors nvidia ati intel is out there as well and you know for a few hundred bucks you can get these
+what we can do this is a data set that was captured using a ct scanner you can see that this is a full data it's a woman you can see the hair you can see the individual structures of the woman
+you can see that there is scattering of x rays on the teeth the metal in the teeth that's where those artifacts are coming from but
+fully interactively on standard graphics cards on a normal computer i can just put in a clip plane and of course all the data is inside so i can start rotating i can look at it from different angles
+and i can see that this woman had a problem she had a bleeding up in the brain and that's been fixed with a little stent a metal clamp that's tightening up the vessel
+and just by changing the functions then i can decide what's going to be transparent and what's going to be visible i can look at the skull structure and i can see that okay this is where they opened up the skull on this woman and that's where they went in
+so these are fantastic images they're really high resolution and they're really showing us what we can do with standard graphics cards today
+now we have really made use of this and we have tried to squeeze a lot of data into the system
+and one of the applications that we've been working on and this is gotten a little bit of traction worldwide is the application of virtual autopsies so again looking at very very large
+and you saw those full body scans that we can do we're just pushing the body through the whole ct scanner and just in a few seconds we can get a full body data set so this is from a virtual
+and you can see how i'm gradually peeling off first you saw the body bag that the body came in then i'm peeling off the skin you can see the muscles and eventually you can see the bone structure of this woman
+now at this point i would also like to emphasize that with the greatest respect for the people that i'm now going to show i'm going to show you a few cases of
+so it's with great respect for the people that have died under violent circumstances that i'm showing these pictures to you
+in the forensic case and this is something that there's been approximately four hundred cases so far just in the part of sweden that i come from that has been undergoing virtual autopsies in the past four years
+so this will be the typical work flow situation the police will decide in the evening when there's a case coming in they will decide okay is this a case where we need to do an autopsy so in the morning
+seven in the morning the body is then transported inside the body bag to our center and is being scanned through one the the ct scanners
+and then the radiologist together with the pathologist and sometimes the forensic scientist looks at the data that's coming out and they have a joint session and then they decide what to do in the real physical
+now looking at a few cases here 's one of the first cases that we had you can really see the details of the data set it's very high resolution and it's our algorithms that allow us to zoom in on all the details
+and again it's fully interactive so you can rotate and you can look at things in real time on these systems here without saying too much about this case this is a traffic accident a drunk driver hit a woman
+here 's another case a knifing and this is also again showing us what we can do it's very easy to look at metal artifacts that we can show inside of the body
+you can also see some of the artifacts from the teeth that's actually the filling of the teeth but because i've set the functions to show me metal and make everything else transparent
+it's very easy to see how air has been leaking from one part to another part which is difficult to do in a normal standard physical autopsy so it really really helps the
+one of the things that i'm really really happy to be able to show you here today is our virtual autopsy table
+it's a touch device that we have developed based on these algorithms using standard graphics gpu 's it actually looks like this just to give you a feeling for what it looks like it really just works like a huge
+so we've implemented all the gestures you can do on the table and you can think of it as an enormous
+touch interface so if you were thinking of buying an ipad forget about it this is what you want instead steve i hope you're listening to this
+so it's a very nice little device so if you have the opportunity please try it out it's really a hands on experience so it's gained some traction and we're trying to roll this out and trying to use it for educational purposes but also perhaps in the future
+in a more clinical situation there's a youtube that you can download and look at this if you want to convey the information to other people about virtual
+okay now that we're talking about touch let me move on to really touching data and this is a bit of science fiction now so we're moving into really the future this is not really what the medical doctors are using right now but i hope they will in the future
+so what you're seeing on the left is a touch device it's a little mechanical pen that has very very fast step motors inside of the
+and so i can generate a force feedback so when i virtually touch data it will generate touch forces in the pen so i get a feedback
+so in this particular situation it's a scan of a living person i have this pen and i look at the data and i move the pen towards the head and all of a sudden i feel resistance so i can feel the skin
+if i push a little bit harder i'll go through the skin and i can feel the bone structure inside if i push even harder i'll go through the bone structure especially close to the ear where the bone is very soft and then i can feel the brain inside and this
+so this is really nice and to take that even further this is a heart and this is also due to these fantastic new scanners that just in zero point three seconds i can scan the whole heart
+and i can do that with time resolution so just looking at this heart i can play back a video here and this is karljohan one of my graduate students who 's been working on this project and he 's sitting there in front of the haptic device the force feedback system
+and he 's moving his pen towards the heart and the heart is now beating in front of him so he can see how the heart is beating he 's taken the pen and he 's moving it towards the heart and he 's putting it on the heart and then he feels the heartbeats
+from the real living patient then he can examine how the heart is moving he can go inside push inside of the heart and really feel how the valves are moving
+go inside of the patient 's heart before you actually do surgery and do that with high quality resolution data so this is really neat
+we're going even further into science fiction and we heard a little bit about functional mri now this is really an interesting project
+is using magnetic fields and radio frequencies to scan the brain or any part of the body so what we're really getting out of this is information
+the structure of the brain but we can also measure the difference in magnetic properties of blood that's oxygenated and blood that's depleted of oxygen that means that it's possible to map out the activity of the brain
+so this is something that we've been working on and you just saw motts the research engineer there going into the mri system and he was wearing goggles so he could actually see things in the goggles so i could present things to him
+in the scanner and this is a little bit freaky because what motts is seeing is actually this he 's seeing his own brain
+so motts is doing something here and probably he is going like this with his right hand because the left side is activated on the motor cortex and then he can see that at the same time
+these visualizations are brand new and this is something that we've been researching for a little while this is another sequence of motts brain
+and here we asked motts to calculate backwards from one hundred so he 's going one hundred ninety seven ninety four and then he 's going backwards and you can see how the little math processor is working up here in his brain
+and is lighting up the whole brain well this is fantastic we can do this in real time we can investigate things we can tell him to do things you can also see that his visual cortex is activated in the back of the head
+and in just a second here you will see okay here motts now move your left foot so he 's going like this for twenty seconds he 's going like that and all of a sudden it lights up up here so we've got motor cortex activation up
+so this is really really nice and i think this is a great tool and connecting also with the previous talk here
+this is something that we could use as a tool to really understand how the neurons are working how the brain is working and we can do this with very very high visual quality and very fast resolution
+now we're also having a bit of fun at the center so this is a cat scan computer aided tomography so this is a lion from the local zoo outside of norrkoping in kolmarden elsa so she came to the center
+and we've been experimenting with this and i think this is a great application for the future of this technology because there's very little known about the animal anatomy
+so with that i'd like to thank all the people that have helped me to generate these images it's a huge effort that goes into doing this gathering the data
+and developing the algorithms writing all the software so some very talented people my motto is always i only hire people that are smarter than i am and most of these are smarter than i am so thank you very much

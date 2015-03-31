@@ -1,0 +1,11 @@
+but video has been left out it arrived on the web in a small box and there it has remained completely disconnected from the data and the content all around it
+in fact in over a decade on the web the only thing that has changed about video is the size of the box and the quality of the picture popcorn changes all of that
+it 's an online tool that allows anyone to combine video with content pulled live directly from the web videos created with popcorn behave like the web itself dynamic full of links and completely remixable and finally allowed to break free from the frame
+so every popcorn production begins with the video and so i 've made a short twenty second clip using a newscaster template that we use in workshops so let 's watch it we 'll go back and i 'll show you how we made it
+so let 's go back and i 'll show you what you saw there was a lot there
+there are two pop ups bringing you some other information and a final article with a link out to the original article let 's go to this google map and i 'll show you how you can edit it
+now in the video i mentioned adding a live feed which we can do right now so let 's add a live feed from flickr
+let 's try something else
+everything you 've seen today is built with the basic building blocks of the web html css and javascript that means it 's completely remixable it also means there 's no proprietary software all you need is a web browser
+so imagine if every video that we watched on the web
+worked like the web completely remixable linked to its source content and interactive for everyone who views it i think popcorn could change the way that we tell stories on the web and the way we understand the world we live in thank you

@@ -1,0 +1,14 @@
+our robot belongs to a family of robots called ballbots instead of wheels a ballbot is balancing and moving on one single ball the main characteristics of such a system is that there 's one sole contact point to the ground
+this means that the robot is inherently unstable it 's like when i am trying to stand on one foot
+you might ask yourself what 's the usefulness of a robot that 's unstable now we 'll explain that in a second let me first explain how rezero actually keeps his balance rezero keeps his balance by constantly measuring his pitch angle with a sensor
+he then counteracts and avoids toppling over by turning the motors appropriately this happens one hundred and sixty times per second and if anything fails in this process rezero would immediately fall to the ground
+in this mode he 's trying to maintain his position
+for the next demo i 'd like you to introduce to my colleagues michael on the computer and thomas who 's helping me onstage
+in the next mode rezero is passive and we can move him around
+with almost no force i can control his position and his velocity
+in the next mode we can get rezero to follow a person
+he 's now keeping a constant distance to thomas
+with the same method we can also get him to circle a person
+we call this the orbiting mode
+now what 's the use of this technology for now it 's an experiment but let me show you some possible future applications rezero could be used in exhibitions or parks with a screen it could inform people or show them around in a fun and entertaining way
+in a hospital this device could be used to carry around medical equipment due to the ballbot system it has a very small footprint and it 's also easy to move around and of course who wouldn 't like to take a ride on one of these and these are more practical applications but there 's also a certain beauty within this technology

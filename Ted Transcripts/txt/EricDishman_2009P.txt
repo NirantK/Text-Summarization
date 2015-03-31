@@ -1,0 +1,73 @@
+you think about the phone and intel has tested a lot of the things i'm going to show you over the last ten years in about six hundred elderly households
+if you think about the phone right it's something that we can use for some incredible ways to help people actually take the right medication at the right time
+we're testing these kinds of simple sensor network technologies in the home so that any phone that a senior is already comfortable with can help them deal with their medications and a lot of what they do is they pick up the phone
+and it's our system whispering to them which pill they need to take and they fake like they're having a conversation with a friend and they're not embarrassed by a meds caddy that's ugly that sits on their kitchen table and says i 'm old i'm frail
+it's surreptitious technology that's helping them do a simple task of taking the right pill at the right time now we also do some pretty amazing things with these phones because
+that moment when you answer the phone is a cognitive test every time that you do it think about it all right i'm going to answer the phone three different times
+the first time hello uh hey
+very big differences between the way i answered the phone the three times and as we monitor phone usage by seniors over a long period of time down to the tenths of a
+that recognition moment of whether they can figure out that person on the other end is a friend and they start talking to them immediately or they do a lot of what's called trouble talk where they're like wait who is this
+right waiting for that recognition moment may be the best early indicator of the onset of dementia than anything that shows up clinically today we call these behavioral markers
+voice gotten more quiet we're doing a lot of work with people with alzheimer 's and particularly with parkinson 's where that quiet voice that sometimes shows up with parkinson 's patients may be the best early indicator
+how much tremor are you having and how is that like and what is that trend like over a period of time are you having more trouble dialing the phone than you used to is is a dexterity problem is is the onset of arthritis
+are you using the phone are you socializing less than you used to and looking at that pattern and what is that decline in social health mean as a kind of a vital sign of the future
+and then wow what a radical idea we except in the united states might be able to use this newfangled technology to actually interact with a nurse
+and it's the whole field that we've been trying to work on for the last ten years at intel how do you put simple disruptive technologies in the first of five phrases that i'm going to talk about in this talk behavioral markers matter
+now why would intel let me spend a lot of time and money over the last ten years trying to understand the needs of seniors and start thinking about these kinds of behavioral markers
+this is some of the field work that we've done we have now lived with one thousand elderly households in twenty countries over the last ten years
+we study people in rochester new york we go live with them in the winter because what they do in the winter and their access to healthcare and how much they socialize is very different than in the summer
+if they have a hip fracture we go with them and we study their entire discharge experience if they have a family member who is a key part of their care network we fly and study them as well
+so we study the holistic health experience of one thousand seniors over the last ten years in twenty different countries why is intel willing to fund that
+that we missed a moment that only demographers were paying attention to it was right around new years
+and that switchover when we had the larger number of older people on the planet for the first time than younger people for the first time in human history and barring aliens landing or some major other
+pandemic that's the expectation from demographers going forward and ten years ago it seemed like i had a lot of time to convince intel to work on this right y two k plus ten was coming the baby boomers
+starting to retire well folks it's like we know these demographics here this is a map of the entire world it's like the lights are on
+but nobody is home on this demographic y two k plus ten problem right i mean we sort of get it here but we don't get it here and we're not doing anything about it
+the health reform bill is largely ignoring the realities of the age wave that's coming and the implications for what we need to do to change not only how we pay for care but deliver care in some radically different ways
+and in fact it's upon us i mean you probably saw these headlines this is catherine casey who is the first boomer to actually get social security that actually occurred this year she took early retirement she was born one second
+here this y two k plus ten problem is at our door this is fifty tsunamis scheduled on the calendar but somehow we can't sort of
+one of the reasons it's so challenging to prepare for this y two k problem is i want to argue we have what i would call mainframe poisoning
+andy grove about six or seven years ago he doesn't even know or remember this in a fortune magazine article he used the phrase mainframe healthcare
+and it's a place in which we started developing architecture that literally divided the body and divided care into departments and compartments and it was reflected in our architecture it was reflected in the way that we taught students
+and this mainframe mentality persists today now i'm not anti hospital with my own healthcare problems i've taken drug therapies i've traveled to this hospital and others many many times but we worship the high hospital on a hill
+right and this is mainframe healthcare and just as thirty years ago we couldn't conceive that we would have the power
+of a mainframe computer that took up a room this size in our purses and on our belts that we're carrying around in our cellphone today and suddenly
+is what we have to do for healthcare we have to shift from this mainframe mentality of healthcare to a personal model of
+we are obsessed with this way of thinking when intel does surveys all around the world and we say quick response healthcare the first word that comes up is doctor
+the second that comes up is hospital and the third is illness or sickness right we are wired in our imagination to think about healthcare and healthcare innovation as something that goes into that place
+our entire health reform discussion right now health i t when we talk with policy makers equals how are we going to get doctors using electronic medical records in the mainframe
+we're not thinking about how do we shift from the mainframe to the home and the problem with this is the way we conceive healthcare right this is a very reactive crisis driven system
+they do as asked and don't come back into the mainframe and the problem is we can't afford it today folks we can't afford mainframe healthcare today to include the uninsured and now we want to do a double double
+we've got to focus on a personal healthcare paradigm that moves care to the home how do we be more proactive prevention driven how do we collect vital signs and other kinds of information twenty four x seven
+how do we get a personal baseline about what's going to work for you how do we collect not just biological data but behavioral data psychological data relational data in and on and around the home
+and how do we drive compliance to be a customized care plan that uses all this great technology that's around us to change our behavior that's what we need to do for our personal health model
+to give you a couple of examples this is mimi from one of our studies in her nineties had to move out of her home because her family was worried about falls raise your hand if you had a serious fall in your household or any of your loved ones your parents or so forth
+right classic hip fracture often leads to institutionalization of a senior this is what was happening to mimi the family was worried about it moved her out of her own home into an assisted living facility button non stop
+broke her pelvis lay all night all morning finally somebody came in and found her sent her to the hospital
+no one read the chart put her on tylenol which she is allergic to broke out got bedsores basically had heart problems and died from the fall and the complications and the errors that were there
+the most frightening thing about this is this is my wife 's grandmother
+now i'm eric dishman i speak english i work for intel i make a good salary i'm smart about falls and fall related injuries it's an area of research that i work on i have access to
+senators and ceos i can't stop this from happening what happens if you don't have money you don't speak english or don't have the kind of access to deal with these kinds of problems that inevitably occur
+how do we actually prevent the vast majority of falls from ever occurring in the first place let me give you a quick example of work that we're doing to try to do exactly that i've been wearing a little technology that we call shimmer
+it's a research platform it has accelerometry you can plug in a three lead ecg there is all kinds of sort of plug and play kind of legos that you can do to capture in the wild in the real world things like tremor gait stride length and those kinds of things
+the problem is our understanding of falls today like mimi is get a survey in the mail three months after you fell from the state saying what were you doing when you fell
+we're starting for the first time in those six hundred elderly households to collect actual kinematic motion data to understand what are the subtle changes that are occurring
+that can show us that mom has become risk at falls and most often we can do two interventions fix the meds mix
+i'm a qualitative researcher but when i look at these data streams coming in from these homes i can look at the data and tell you the day that some doctor prescribed them something that nobody else knew that they were on because we see the changes in their patterns in the household
+right these discoveries of behavioral markers and behavioral changes
+are game changing and like the discovery of the microscope because of our collecting data streams that we've actually never done before this is an example in our trill clinic in ireland of actually what you're seeing is she's looking at data
+this picture from the magic carpet so we have a little carpet that you can look at your amount of postural sway and look at the changes in your postural sway over many months
+the color represents different rooms they are in the the house this person on the left is living in their own home this person on the right is actually living in an assisted living facility i know this because look at how puntuated meal time is when they are no longer in their particular rooms here right
+now this doesn't mean that much to you but when we look at these cycles of data over a longer period of time and we're looking at everything from motion around different rooms in the house to sort of micro motions that shimmer picks up about gait and stride length
+the problem is intel is still one of the largest funders in world of independent living technology research i'm not bragging about how much we fund it's how little anyone else actually pays attention to aging and funds innovation on aging
+we need to drive a national if not international framingham type heart study of independent living technologies where we have ten thousand elderly connected
+with broadband full medical characterization and a platform by which we can start to experiment and turn these from
+these are just some of the households that we've done in the intel studies
+years and there were moments when we were quite close to make this healthcare reform bill be about reform from something and to something
+from a mainframe model to a personal health model or to mean something more than just a debate about the public option and how we're going to finance it doesn't matter
+how we finance health care we're going to figure something out for the next ten years and try it no matter who pays for it we better start doing care in a fundamentally different way
+and treating the home and the patient and the family member and the caregivers as part of these coordinated care teams and using disruptive technologies that are already here
+do care in some pretty fundamental different ways the president needs to stand up and say at the end of a healthcare reform debate
+our goal as a country is to move fifty percent of care out of institutions clinics hospitals and nursing homes to the home in ten years
+it's achievable we should do it economically we should do it morally and we should do it for quality of life but there is no goal within this health reform it's just a mess today
+so you know that's my last message to you how do we set a going to the moon goal of dealing with the y two k plus ten problem that's coming

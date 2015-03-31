@@ -1,0 +1,76 @@
+years i've been spending my time trying to figure out how and why human beings assemble themselves into social networks and the kind of social network i'm talking about is not the recent online variety
+but rather the kind of social networks that human beings have been assembling for hundreds of thousands of years ever since we emerged the african savannah so i form friendships and co worker and
+my colleague james fowler and i have been studying for quite sometime what are the mathematical social biological and psychological rules that govern how these networks are assembled
+and what are the similar rules that govern how they operate how they affect our lives
+so one of the first things we thought we would tackle would be how we go about predicting epidemics and the current state of the art in predicting an epidemic if you're the cdc or some other national body
+is to sit in the middle where you are and collect data from physicians and laboratories in the field that report the prevalence or the incidence of certain conditions so so and so patients have been diagnosed with something or other patients
+and all these data are fed into a central repository with some delay and if everything goes smoothly one to two weeks from now you'll know where the epidemic was today
+and actually about a year or so ago there was this promulgation of the idea of google flu trends with respect to the flu
+where by looking at people 's searching behavior today we could know where the flu what the status of the epidemic was today what's the prevalence of the epidemic today
+but what i'd like to show you today is a means by which we might get not just rapid warning about an epidemic but also actually early detection of an epidemic
+in fact this idea can be used not just to predict epidemics of germs but also to predict epidemics of all sorts of kinds
+for example anything that spreads by a form of social contagion could be understood in this way from abstract ideas on the left like patriotism or altruism or religion
+to practices like dieting behavior or book purchasing or drinking or bicycle helmet other safety practices or products that people might buy purchases of electronic goods
+so as all of you probably know
+and on the x axis we have time and at the very beginning not too many people are affected and you get this classic sigmoidal or s shaped curve
+and the reason for this shape is that at the very beginning let 's say one or two people are affected or infected by the thing and then they affect or infect two people who in turn affect four eight sixteen and so forth and you get the epidemic growth phase of the curve
+and eventually you saturate the population there are fewer and fewer people who are still available that you might infect and then you get the plateau of the curve and you get this classic
+sigmoidal curve and this holds for germs ideas product adoption behaviors and the like
+but things don't just diffuse in human populations at random they actually diffuse through networks because as i said we live our lives in networks and these networks have a particular kind of a structure
+now if you look at a network like this this is one hundred and five people and the lines represent the dots are the people and the lines represent friendship relationships you might see that people occupy different locations within the network
+and different sorts of things spread across different sorts of ties for instance sexually transmitted diseases will spread across sexual ties
+or for instance people 's smoking behavior might be influenced by their friends or their altruistic or their charitable giving behavior might be influenced by their coworkers or by their neighbors
+but not all positions in the network are the same so if you look at this you might immediately grasp that different people have different numbers of connections
+some people have one connection some have two some have six some have ten connections and this is called the degree of a node or the number of connections that a
+so let me ask you this i can cultivate this intuition by asking a question who would you rather be if a deadly germ was spreading through the network a or b
+it's obvious b is located on the edge of the network now who would you rather be if a juicy piece of gossip were spreading through the network
+a and you have an immediate appreciation that a is going to be more likely to get the thing that's spreading and to get it sooner
+by virtue of their structural location within the network a in fact is more central and this can be formalized mathematically
+so if we want to track something that was spreading through a network what we ideally would like to do is to set up sensors on the central individuals within the network including node a monitor those people that are right there in the middle of the network
+you would know that soon enough everybody was about to contract this germ or this piece of information and this would be much better
+and in fact if you could do that what you would see is something like this on the left hand panel again we have the s shaped curve of adoption in the dotted red line we show what the adoption would be in the random people
+what's occurring in the central individuals and this difference in time between the two is the early detection the early warning we can get about an impending epidemic in the human population
+the problem however is that mapping human social networks is not always possible it can be expensive
+unethical or frankly just not possible to do such a thing so how can we figure out who the
+which goes like this do you know that your friends have more friends than you do
+your friends have more friends than you do and this is known as the friendship paradox imagine a very popular person in the social network like a party host who has hundreds of friends and a misanthrope who has just one
+and this in essence is what's known as the friendship paradox the friends of randomly chosen people have higher degree
+and are more central than the random people themselves and you can get an intuitive appreciation for this if you imagine just the people at the perimeter of the network
+if you pick this person the only friend they have to nominate is this person who by construction must have at least two and typically more friends
+so we thought we would exploit this idea in order to study whether we could predict phenomena within networks because now with this idea
+we can take a random sample of people have them nominate their friends those friends would be more central and we could do this without having to map the network and we tested this idea with an outbreak of h one n one flu at harvard college
+to see whether or not they had the flu epidemic and we did this passively by looking at whether or not they'd gone to university health services and also we had them email us a couple of times a week
+exactly what we predicted happened so the random group is in the red line the epidemic in the friends group has shifted to the left over here
+now in addition to that if you were an analyst who was trying to study an epidemic or to predict the adoption of a product for example what you could do is you could pick a random sample of the population
+also have them nominate their friends and follow the friends and follow both the randoms and the friends among the friends the first evidence you saw of a blip above zero in adoption of the innovation for example would be evidence of an impending epidemic
+or you could see the first time the two curves diverged as shown on the left when did the randoms when did the friends take off and leave the randoms and
+their curve start shifting and that as indicated by the white line occurred forty six days before the peak of the epidemic so this would be a technique whereby we could get more than a month and a half warning about a flu epidemic in a particular population
+i should say that how far advanced a notice one might get about something depends on a host of factors it could depend on the nature of the pathogen
+the red dots are going to be cases of the flu and the yellow dots are going to be friends of the people with the flu and the size of the dots is going to be proportional to
+how many of their friends have the flu so bigger dots mean more of your friends have the flu and if you look at this image here we are now in september the thirteenth you're going to see a few cases light up you're going to see kind of blooming of the flu in the middle here we are on october the
+the slope of the epidemic curve is approaching now in november bang bang bang bang bang you're going to see lots of blooming in the middle and then you're going to see a sort of leveling off fewer and fewer cases towards the end of december
+now as i've been suggesting this method is not restricted to germs but actually to anything that spreads in populations information spreads in populations norms can spread in populations
+or product adoption or other kinds of behaviors that relate to interpersonal influence if i'm likely to do something that affects others around me this technique can get early warning or early detection about the adoption within the population
+the key thing is that for it to work there has to be interpersonal influence it cannot be because of some broadcast mechanism affecting everyone uniformly
+now the same insights can also be exploited with respect to networks can also be exploited in other ways for example in the use of targeting specific people for interventions
+so for example most of you are probably familiar with the notion of herd immunity so if we have a population of a thousand people and we want to make the population immune to a pathogen
+we don't have to immunize every single person if we immunize nine hundred and sixty of them it's as if we had immunized a hundred of them because even if one or two of the non immune people
+the three hundred the three hundred friends you can get the same level of herd immunity as if you had vaccinated ninety six percent of the population at a much greater efficiency with a strict budget constraint
+and similar ideas can be used for instance to target distribution of things like bed nets in the developing world if we could understand the structure of networks in villages we could target to whom to give the interventions to foster these kinds of
+or frankly for advertising with all kinds of products if we could understand how to target it could affect the efficiency of what we're trying to achieve
+and in fact we can use data from all kinds of
+to map these whole countries and understand who is located where within the network without actually having to query them at all we can get this kind of a structural insight
+and other sources of information as you're no doubt aware are available about such features from email interactions online interactions online social networks and so forth
+and in fact we are in the era of what i would call massive passive data collection efforts they're all kinds of ways we can use massively collected data
+to create sensor networks to follow the population understand what's happening in the population and intervene in the population for the better
+and what they're buying based on their purchases and all this administrative data can be pulled together and processed to understand human behavior in a way we never could before
+so for example we could use truckers purchases of fuel so the truckers are just going about their business and they're buying fuel and we see a blip up in the truckers purchases of fuel and we know that a recession is about to end
+or we can monitor the velocity with which people are moving with their phones on a highway and the phone company can see as the velocity is slowing down that there's a
+and see how the diffusion of innovation with pharmaceuticals occurs within doctors or again we can monitor purchasing behavior in people and watch how these types of phenomena can diffuse within human populations
+one is quasi active like the flu example i gave where we get some people to nominate their friends and then passively monitor their friends do they have the flu or not and then get warning
+or another example would be if you're a phone company you figure out who 's central in the network and you ask those people look will you just text us your fever every day just text us your temperature
+and collect vast amounts of information about people 's temperature but from centrally located individuals and be able on a large scale to monitor an impending epidemic with very minimal input from people
+in fact the availability of these data i think heralds a kind of new era of what i and others would like to call computational social science
+it's sort of like when galileo invented or didn't invent came to use a telescope and could see the heavens in a new way or leeuwenhoek became aware of the microscope or actually invented and could see biology in a new way but now we have access to these kinds of data
+that allow us to understand social processes and social phenomena in an entirely new way that was never before possible and with this science we can understand how exactly
+the whole comes to be greater than the sum of its parts and actually we can use these insights to improve society and improve human well being thank you

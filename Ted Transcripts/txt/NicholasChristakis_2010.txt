@@ -1,0 +1,94 @@
+me this story begins about fifteen years ago when i was a hospice doctor at the university of chicago and i was taking care of people who were dying
+and their families in the south side of chicago and i was observing what happened to people and their families over the course of their terminal illness
+in my lab i was studying the widower effect which is a very old idea in the social sciences going back one hundred and fifty years known as dying of a broken heart so when i die my wife 's risk of death can double for instance in the first year
+and i had gone to take care of one particular patient a woman who was dying of dementia and in this case unlike this couple she was being cared for
+and the daughter was exhausted from caring for her mother
+and the daughter 's husband he also was sick from his wife 's exhaustion
+and i was driving home one day and i get a phone call from the husband 's friend calling me because he was depressed about what was happening to his
+so here i get this call from this random guy that's having an experience that's being influenced by people at some social distance and so i suddenly realized two very simple things
+first the widowhood effect was not restricted to husbands and wives and second it was not restricted to pairs of people
+and i started to see the world in a whole new way like pairs of people connected to each other and then i realized that these individuals would be connected into foursomes with other pairs of people nearby
+and then in fact these people were embedded in other sorts of relationships marriage and spousal and friendship and other sorts of ties
+and that in fact these connections were vast and that we were all embedded in this broad set of connections with each other
+so i started to see the world in a completely new way and i became obsessed with this i became obsessed with how it might be that we're embedded in these social networks and how they effect our lives
+so social networks are these intricate things of beauty and they're so elaborate and so complex and so ubiquitous in fact that one has
+what purpose they serve why are we embedded in social networks i mean how do they form how do they operate and how do they effect us
+and so my first topic with respect to this was not death but obesity
+and suddenly it had become trendy to speak about the obesity epidemic and along with my collaborator james fowler we began to wonder whether obesity really was epidemic and could it spread from person to person like the four people i discussed earlier
+so this is a slide of some of our initial results it's two thousand two hundred people in the year two thousand every dot is a person we make the dot size proportional to people 's body size
+so bigger dots are bigger people in addition if your body size if your bmi your body mass index is above thirty if you're clinically obese we also colored the dots yellow
+so if you look at this image right away you might be able to see that there are clusters of obese and non obese people in the image but the visual complexity is still very high it's not obvious exactly what's going on
+in addition some questions are immediately raised how much clustering is there is there more clustering than would be due to chance alone how big are the clusters how far do they reach and most importantly what causes the clusters
+so we did some mathematics to study the size of these clusters this here shows on the y axis the increase in the probability that a person is obese
+given that a social contact of theirs is obese and on the x axis the degrees of separation between the two people and on the far left you see the purple it says that if your friends are obese your risk of obesity is forty five percent higher
+and the next bar over the says that if your friend 's friends are obese your risk of obesity is twenty five percent higher and then the next over says that if your friend 's friend 's friend someone you probably don't even know is obese your risk of obesity is ten percent higher
+well what might be causing this clustering there are at least three possibilities one possibility is that as i gain weight it causes you to gain weight a kind of induction a kind of spread from person to person
+another possibility very obvious is homophily or birds of a feather flock together here i form my tie to you because you and i share a similar body size
+nor that i preferentially form a tie with you because you and i share the same body size but rather that we share a common exposure to something like a health club that makes us both lose weight at the same time
+and when we studied these data we found evidence for all of these things including for induction and we found that if your friend becomes obese it increases your risk of obesity by about fifty seven percent in the same given time period
+they say let 's go have muffins and beer which is a terrible combination but you adopt that combination and then you start gaining weight like them
+another more subtle possibility is that they start gaining weight and it changes your ideas of what an acceptable body size is here what's spreading from person to person is not a behavior but rather a norm an idea is spreading
+now headline writers had a field day with our studies i think the headline in the new york times was are you packing it on blame your fat friends
+and we thought this was a very interesting comment on america and kind of self serving not my responsibility kind of phenomenon now i want to be very clear we do not think our work should or could justify prejudice against people of one or another body size at all
+was weight gain in one person actually spreading to weight gain in another person and this was complicated because we needed to take into account the fact that the network structure the architecture of the ties was changing across time
+in addition because obesity is not a unicentric epidemic there's not a patient zero of the obesity epidemic if we find that guy there was a spread of obesity out from him
+it's a multicentric epidemic lots of people are doing things at the same time and i'm about to show you a thirty second video animation that took me and james five years of our lives to do
+put this into motion now taking daily cuts to the network for about thirty years the dot sizes are going to grow you're going to see a sea of yellow take over
+now when looked at this it changed the way i see things because this thing this network is changing across time it has a memory
+it moves things flow within it it has a kind of consistency people can die but it doesn't die it still persists and it has a kind of resilience that allows it to persist across time
+and so i came to see these kinds of social networks as living things as living things that we could put under a kind of microscope to study and analyze and understand
+and we used a variety of techniques to do this and we started exploring all kinds of other phenomena we looked at smoking and drinking behavior
+when we have emotions we show them
+why do we show our emotions
+i mean there would be an advantage to experiencing our emotions inside you know anger or happiness but we don't
+we show them and not only do we show them but others can read them and not only can they read them but they copy them there's emotional contagion that takes place in human populations
+and so this function of emotions suggest that in addition to any other purpose they serve they're a kind of primitive form of communication and that in fact if we really want to understand human emotions we need to think about them in this way now we're accustomed to thinking about emotions in this
+in simple sort of brief periods of time so for example i was giving this talk recently in new york city
+and i said you know like how when you're on the subway and the other person across the subway car smiles at you and you just instinctively smile back
+and i said everywhere else in the world that's normal human behavior
+the question that we wanted to ask was could emotion spread in a more sustained way than riots across time and involve large numbers of people not just this pair of individuals smiling at each other in the subway car
+a kind of below the surface quiet riot that animates us all the time maybe there are emotional stampedes that ripple through social networks
+maybe in fact emotions have a collective existence not just an individual existence and this is one of the first images we made to study this phenomenon again a social network but now we color the people yellow if they're happy and blue
+and green in between and if you look at this image you can right away see clusters of happy and unhappy people again spreading to three degrees of separation
+and you might form the intuition that the unhappy people occupy a different structural location within the network there's a middle and an edge to this network
+and the unhappy people seem to be located at the edges so to invoke another metaphor if you imagine social networks as a kind of vast fabric of humanity
+it has patches on it happy and unhappy patches and whether you become happy or not depends in part on whether you occupy a happy patch
+this work with emotions which are so fundamental then got us to thinking about maybe the fundamental causes of human social networks are somehow encoded in our genes
+because human social networks whenever they are mapped always kind of look like this this picture of the network but they never look like this why do they not look like this why don't we form human social networks that look like a regular lattice
+well the striking patterns of human social networks their ubiquity and their apparent purpose beg questions about whether we evolved to have social networks in the first place and whether we evolved to form networks with a particular structure
+and notice first of all and so to understand this though we need to dissect network structure a little bit first notice that every person in this network has exactly the same structural location as every other person
+and if you look here at the dots compare node b in the upper left to node d in the far right b has four friends coming out from him
+and d has six friends coming out from him and so those two individuals have different numbers of friends that's very obvious we all know that
+but certain other aspects of social network structure are not so obvious compare node b in the upper left to node a in the lower left and now those people both have four friends but a 's friends all know each other and b 's friends do not
+so the friend of a friend of a 's is back again a friend of a 's whereas the friend of a friend of b 's is not a friend of b 's but is farther away in the network this is known as transitivity in networks
+and finally compare nodes c and d c and d both have six friends if you talk to them and you said what is your social life like they would say i 've got six friends that's my social experience
+but now we with a bird 's eye view looking at this network can see that they occupy very different social worlds and i can cultivate that intuition in you by just asking you who would you rather be if a deadly germ was spreading through the network would you rather be c
+you'd rather be d on the edge of the network and now who would you rather be if a juicy piece of gossip not about you was spreading through the network
+now you would rather be c so different structural locations have different implications for you life
+this is not surprising we know that some people are born shy and some are born gregarious that's obvious but we also found some non obvious things
+for instance forty seven percent in the variation in whether your friends know each other is attributable to your genes
+whether your friends know each other has not just to do with their genes but with yours and we think the reason for this is that some people like to introduce their friends to each other you know who you are
+and others of you keep them apart and don't introduce your friends to each other and so some people knit together the networks around them creating a kind of dense web of ties in which they're comfortably
+and finally we even found that thirty percent of the variation in whether or not people are in the middle or on the edge of the network can also be attributed to their genes
+so whether you find yourself in the middle or on the edge is also partially heritable now what is the point of this how does this help us understand
+how does this help us figure out some of the problems that are effecting us these days well the argument i'd like to make is that networks have value they are a kind of social capital
+new properties emerge because of our embeddedness in social networks and these properties inhere in the structure of the networks not just in the individuals within them
+so think about these two common objects they're both made of carbon
+and yet one of them has carbon atoms in it that are arranged in one particular way on the left and you get graphite which is soft and dark
+but if you take the same carbon atoms and interconnect them a different way you get diamond which is clear and hard and those properties of softness and hardness and darkness and
+do not reside in the carbon atoms they reside in the interconnections between the carbon atoms or at least arise because of the interconnections between the carbon atoms
+so similarly the pattern of connections among people confers upon the groups of people different properties it is the ties between people that makes the whole greater than the sum of its parts
+our experience of the world depends on the actual structure of the networks in which we're residing and on all the kinds of things that ripple and flow through the network
+the reason i think that this is the case is that human beings assemble themselves and form a kind of
+now a superorganism is a collection of individuals
+which show or evince behaviors or phenomena that are not reducible to the study of individuals and that must be understood by reference to and by studying the collective
+like for example a hive of bees that's finding a new nesting site or a flock of birds that's evading a predator or a flock of birds that's able to pool its wisdom and navigate and find a tiny speck of an island in the middle of the pacific
+or a pack of wolves that's able to bring down larger prey superorganisms have properties that cannot be understood just by studying the individuals
+i think understanding social networks and how they form and operate can help us understand not just health and emotions but all kinds of other phenomena like crime
+and warfare and economic phenomena like bank runs and market crashes and the adoption of innovation and the spread of product adoption now look at this
+i think we form social networks because the benefits of a connected life
+if i were always violent towards you
+or gave you misinformation or made you sad or infected you with deadly germs you would cut the ties to me
+and the network would disintegrate so the spread of good and valuable things is required to sustain and nourish social networks
+similarly social networks are required for the spread of good and valuable things like love and kindness and happiness and altruism and ideas
+i think in fact that if we realized how valuable social networks are we'd spend a lot more time nourishing them and sustaining them

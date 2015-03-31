@@ -1,0 +1,48 @@
+i 'm going to show you are
+the astonishing molecular machines that
+create the living fabric of your body now
+molecules are really really tiny and by tiny i mean really they 're smaller than a wavelength of light so we have no way to directly observe them but through science we do have a fairly good idea of what 's going on down at the molecular scale
+so what we can do is actually tell you about the molecules but we don 't really have a direct way of showing you the molecules one way around this is to draw pictures and this idea is actually nothing new scientists have always created pictures as part of their thinking and discovery process they draw pictures of what they 're observing with their eyes
+through technology like telescopes and microscopes and also what they 're thinking about in their minds
+i picked two well known examples because they 're very well known for expressing science through art and i start with galileo who used the world 's first telescope
+to look at the moon and he transformed our understanding of the moon the perception in the seventeenth century was the moon was a perfect heavenly sphere but what galileo saw was a rocky barren world which he expressed through his watercolor painting
+another scientist with very big ideas the superstar of biology is charles darwin and with this famous entry in his notebook he begins in the top left hand corner with i think
+and then sketches out the first tree of life
+which is his perception of how all the species all living things on earth are connected through evolutionary history the origin of species through natural selection and divergence from an ancestral population
+and his pictures everything 's accurate and it 's all to scale and his work illuminated for me what the molecular world inside us is like so this is a transection through blood in the top left hand corner you 've got this yellow green area the yellow green area is the fluids of blood which is mostly water but it 's also antibodies sugars
+hormones that kind of thing and the red region is a slice into a red blood cell and those red molecules are hemoglobin they are actually red that 's what gives blood its color
+and hemoglobin acts as a molecular sponge to soak up the oxygen in your lungs and then carry it to other parts of the body i was very much inspired by this image many years ago and i wondered whether we could use computer graphics to represent the molecular world what would it look like and that 's how i really began
+so let 's begin this is dna in its classic double helix form and it 's from x ray crystallography so it 's an accurate model of dna
+if we unwind the double helix and unzip the two strands you see these things that look like teeth those are the letters of genetic code the twenty five thousand genes you 've got written in your dna this is what they typically talk about the genetic code this is what they 're talking about
+but i want to talk about a different aspect of dna science and that is the physical nature of dna it 's these two strands that run in opposite directions for reasons i can 't go into right now but they physically run in opposite directions which creates
+a number of complications for your living cells as you 're about to see most particularly when dna is being copied
+and so what i 'm about to show you is an accurate representation of the actual dna replication machine that 's occurring right now inside your body at least two thousand and two biology so dna 's entering the production line from the left hand side
+and it hits this collection these miniature biochemical machines that are pulling apart the dna strand and making an exact copy so dna comes in and hits this blue doughnut shaped structure and it 's ripped apart into its two strands
+one strand can be copied directly and you can see these things spooling off to the bottom there but things aren 't so simple for the other strand because it must be copied backwards so it 's thrown out repeatedly in these loops and copied one section at a time
+creating two new dna molecules now you have billions of this machine right now working away inside you copying your dna with exquisite fidelity
+this was work from a number of years ago thank you
+this is work from a number of years ago but what i 'll show you next is updated science it 's updated technology so again we begin with dna and it 's jiggling and wiggling there because of the surrounding soup of molecules which i 've stripped away so you can see something dna is about two nanometers across which is really quite tiny but in each one of your cells each strand of dna is about
+thirty to forty million nanometers long
+so to keep the dna organized and regulate access to the genetic code it 's wrapped around these purple proteins or i 've labeled them purple here
+it 's packaged up and bundled up all this field of view is a single strand of dna this huge package of dna is called a chromosome and we 'll come back to chromosomes in a minute
+we 're pulling out we 're zooming out
+out through a nuclear pore which is the gateway to this compartment that holds all the dna called the nucleus
+all of this field of view is
+when the cell feels it 's ready to go
+it rips apart the chromosome one set of dna goes to one side the other side gets the other set of dna identical copies of dna and then the cell splits down the middle and again you have billions of cells undergoing this process right now inside of you
+now we 're going to rewind and just focus on the chromosomes
+and look at its structure and describe it
+so again here we are at that equator moment the chromosomes line up and if we isolate just one chromosome we 're going to pull it out and have a look at its structure so this is one of the biggest molecular structures that you have at least as far as we 've discovered so far inside of us
+so this is a single chromosome and you have two strands of dna in each chromosome one is bundled up into one sausage the other strand is bundled up into the other sausage these things that look like whiskers that are sticking out from either side are the dynamic scaffolding of the cell
+it is obviously central to the movement of the chromosomes we have no idea
+really as to how it 's achieving that movement we 've been studying this thing they call the kinetochore for over a hundred years with intense study and we 're still just beginning to discover what it 's all about
+it is made up of about two hundred different types of proteins thousands of proteins in total
+it is a signal broadcasting system it broadcasts through chemical signals telling the rest of the cell when it 's ready when it feels that everything is aligned and ready to go for the separation of the chromosomes
+it is able to couple onto the growing and shrinking microtubules it 's involved with the growing of the microtubules and it 's able to transiently couple onto them
+it 's also an attention sensing system it 's able to feel when the cell is ready when the chromosome is correctly positioned it 's turning green here because it feels that everything is just right and you 'll see there 's this one little last bit that 's still remaining red
+and it 's walked away down the microtubules
+that is the signal broadcasting system sending out the stop signal and it 's walked away i mean it 's that mechanical it 's molecular clockwork this is how you work at the molecular scale
+so with a little bit of molecular eye candy we 've got kinesins which are the orange ones they 're little molecular courier molecules walking one way and here are the dynein they 're carrying that broadcasting system and they 've got their long legs so they can step around obstacles and so on so again this is all
+derived accurately from the science the problem is we can 't show it to you any other way
+exploring at the frontier of science at the frontier of human understanding is mind blowing
+discovering this stuff is certainly a pleasurable incentive to work in science but most medical researchers

@@ -1,0 +1,72 @@
+ago i started a program to try to get the rockstar tech and design people to take a year off and work in the one environment that represents pretty much everything they 're supposed to hate
+we have them work in government
+the program is called code for america and it 's a little bit like a peace corps for geeks we select a few fellows every year and we have them work with city governments
+instead of sending them off into the third world we send them into the wilds of city hall and there they make great apps they work with city staffers but really what they 're doing is they 're showing what 's possible with technology today
+here it kind of looks like he 's looking for a date but what he 's really looking for is for someone to shovel him out when he gets snowed in because he knows he 's not very good at fighting fires when he 's covered in four feet of snow now
+now how did he come to be looking for help in this very unique manner
+we had a team of fellows in boston last year through the code for america program they were there in february and it snowed a lot in february last year and they noticed that the city never gets to digging out these fire hydrants
+but one fellow in particular a guy named erik michaels ober noticed something else and that 's that citizens are shoveling out sidewalks right in front of these things
+so he did what any good developer would do he wrote an app
+and if you don 't someone can steal it from you so it 's got cute little game dynamics on it
+this is a modest little app it 's probably the smallest of the twenty one apps that the fellows wrote last year but it 's doing something that no other government technology does
+'s a guy in the i t department of the city of honolulu who saw this app and realized that he could use it not for snow but to get citizens to adopt tsunami
+so we now know of nine cities that are planning to use this and this has spread just frictionlessly organically naturally
+procuring software usually takes a couple of years
+we had a team that worked on a project in boston last year that took three people about two and a half months it was a way that parents could figure out which were the right public schools for their kids
+we were told afterward that if that had gone through normal channels it would have taken at least two years and it would have cost about two million dollars
+and that 's nothing there is one project in the california court system right now that so far cost taxpayers two billion dollars and it doesn 't work
+and there are projects like this at every level of government
+so an app that takes
+but more like the internet itself and that means permissionless
+it means open it means generative
+and that 's important but what 's more important about this app is that it represents how a new generation is tackling the problem of government not as the problem of an ossified institution but as a problem of collective action
+now there 's a very large community of people that are building the tools that we need to do things together effectively
+it 's not just code for america fellows there are hundreds of people all over the country that are standing and writing civic
+every day in their own communities
+they haven 't given up on government
+they are frustrated as hell with it but they 're not complaining about it they 're fixing it
+government is at its core in the words of tim o 'reilly
+what we do together that we can 't do alone
+now a lot of people have given up on government and if you 're one of those people i would ask that you reconsider because things are changing
+politics is not changing government is changing
+and because government ultimately derives its power from us remember we the people
+how we think about it is going to effect how that change happens
+now i didn 't know very much about government when i started this program and like a lot of people i thought government was basically about getting people elected to office
+if you should ever have the chance to staff your city 's call center as our fellow scott silverman did as part of the program in fact they all do that you will find
+that people call government with a very wide range of issues including having an opossum stuck in your house so scott gets this call he types opossum into this official knowledge base he doesn 't really come up with anything he starts with animal control and finally he says look can you just open all the doors to your house and play music really loud and see if the thing leaves
+but that wasn 't the end of the opossums boston doesn 't just have a call center it has an app a web and mobile app called citizens connect now we didn 't write this app this is the work of the very smart people at the office of new urban mechanics in boston so one day this is an actual report this came in opossum in my trashcan can 't tell if
+and i don 't mean necessarily a technological definition of platform here i 'm just talking about a platform for people to help themselves
+and it could have connected them with government services if they 'd been needed but a neighbor is a far better and cheaper alternative to government services when one neighbor helps another we strengthen our communities
+we call animal control it just costs a lot of money
+now one of the important things we need to think about government is that it 's not the same thing as politics and most people get that
+but they think that one is the input to the other that our input to the system of government is voting
+now how many times have we elected a political leader and sometimes we spend a lot of energy getting a new political leader elected
+and then we sit back and we expect government to reflect our values and meet our needs
+and then not that much changes
+that 's because government is like a vast ocean and politics is the six inch layer on top
+and what 's under that is what we call bureaucracy
+and we say that word with such contempt but it 's that contempt that keeps this thing that we own and we pay for
+as something that 's working against us this other thing
+and then we 're disempowering ourselves
+people seem to think politics is sexy if we want this institution to work for us
+we 're going to have to make bureaucracy sexy because that 's where the real work of government happens
+we have to engage with the machinery of government so that 's occupythesec movement has done have you seen these guys it 's a group of concerned citizens that have written a very detailed three hundred and twenty five page report
+now for those of us who 've given up on government it 's time that we asked ourselves about the world that we want to leave for our children
+you have to see the enormous challenges that they 're going to face
+do we really think we 're going to get where we need to go
+without fixing the one institution that can act on behalf of all of us
+we can 't do without government but we do need it to be more effective
+the good news is that technology is making it possible to fundamentally reframe the function of government in a way that can actually scale
+by strengthening civil society and there 's a generation out there that 's grown up on the internet and they know that it 's not that hard to do things together you just have to architect the systems the right way
+now the average age of our fellows is twenty eight so i am begrudgingly almost a generation older than most of them this is a generation that 's grown up taking their voices pretty much for granted
+they 're not fighting that battle that we 're all fighting about who gets to speak they all get to speak they can express their opinion on any channel at any time and they do
+so when they 're faced with the problem of government they don 't care as much about using their voices
+they 're using their hands
+they 're using their hands to write applications that make government work better
+and those applications let us use our hands to make our communities better
+and certainly we could have been shoveling out those fire hydrants all along and many people do but these apps are like little digital reminders that we 're not just consumers
+and we 're not just consumers of government putting in our taxes and getting back services
+so the question i have for all of you here
+when it comes to the big important things that we need to do together all of us together
+are we just going to be a crowd of voices
+or are we also going to be a crowd of hands

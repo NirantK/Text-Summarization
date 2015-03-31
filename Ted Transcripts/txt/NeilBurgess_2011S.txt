@@ -1,0 +1,46 @@
+it 's made of neurons so the human brain has about a hundred billion neurons in it and the neurons communicate with each other by sending little pulses or spikes of electricity via connections to each other
+so we 're going to imagine we 're recording from a single neuron in the hippocampus of this rat here
+and when it fires a little spike of electricity there 's going to be a red dot and a click
+so what we see is that this neuron knows whenever the rat has gone into one particular place in its environment and it signals to the rest of the brain by sending a little electrical spike
+so we could show the firing rate of that neuron as a function of the animal 's location and if we record from lots of different neurons we 'll see that different neurons fire when the animal goes in different parts of its environment like in this square box shown here so together they form a map for the rest of the brain
+telling the brain continually where am i now within my environment
+place cells are also being recorded in humans so epilepsy patients sometimes need the electrical activity in their brain monitoring
+and some of these patients played a video game where they drive around a small town and place cells in their hippocampi would fire become active start sending electrical impulses whenever they drove through a particular location in that town
+so how does a place cell know where the rat or person is within its environment well these two cells here
+show us that the boundaries of the environment are particularly important so the one on the top likes to fire sort of midway between the walls of the box that their rat 's in and when you expand the box the firing location expands the one below likes to fire whenever there 's a wall close by to the south
+and if you put another wall inside the box then the cell fires in both place wherever there 's a wall to the south as the animal explores around in its box
+so this predicts that sensing the distances and directions of boundaries around you extended buildings and so on is particularly important for the hippocampus
+and indeed on the inputs to the hippocampus cells are found which project into the hippocampus
+which do respond exactly to detecting boundaries or edges at particular distances and directions from the rat or mouse as it 's exploring around
+so the cell on the left you can see it fires whenever the animal gets near to a wall or a boundary to the east whether it 's the edge or the wall of a square box or the circular wall of the circular box or even the drop at the edge of a table which the animals are running around
+and the cell on the right there fires whenever there 's a boundary to the south whether it 's the drop at the edge of the table or a wall or even the gap between two tables that are pulled apart so that 's one way in which we think place cells determine where the animal is as it 's exploring around we can also test
+where we think objects are like this goal flag in simple environments or indeed where your car would be
+so we can have people explore an environment and see the location they have to remember
+and then if we put them back in the environment generally they 're quite good at putting a marker down where they thought that flag or their car was
+but on some trials we could change the shape and size of the environment like we did with the place cell in that case we can see how where they think the flag had been changes as a function of how you change the shape and size of the environment
+and what you see for example if the flag was where that cross was in a small square environment
+and then if you ask people where it was but you 've made the environment bigger where they think the flag had been stretches out in exactly the same way that the place cell firing stretched out
+it 's as if you remember where the flag was by storing the pattern of firing across all of your place cells at that location and then you can get back to that location by moving around so that you best match the current pattern of firing of your place cells with that stored pattern
+that guides you back to the location that you want to remember
+but we also know where we are through movement
+so if we take some outbound path perhaps we park and we wander off we know because our own movements which we can integrate over this path roughly what the heading direction is to go back and place cells also get this kind of path integration input from a kind of cell called a grid cell
+now grid cells are found again on the inputs to the hippocampus and they 're a bit like place cells but now as the rat explores around
+each individual cell fires in a whole array of different locations
+which are laid out across the environment in an amazingly regular triangular grid
+and if you record from several grid cells shown here in different colors each one has a grid like firing pattern across the environment
+and each cell 's grid like firing pattern is shifted slightly relative to the other cells so the red one fires on this grid
+and as it moves around the electrical activity can pass from one of these cells to the next cell to keep track of where it is so that it can use its own movements to know where it is in its environment do people have grid cells
+well because all of the grid like firing patterns have the same axes of symmetry the same orientations of grid shown in orange here
+it means that the net activity of all of the grid cells in a particular part of the brain should change according to whether we 're running along these six directions or running along one of the six directions in between so we can put people in an mri scanner and have them do a little video game like the one i showed you and look for this signal
+and indeed you do see it in the human entorhinal cortex which is the same part of the brain
+that you see grid cells in rats so back to homer
+he 's probably remembering where his car was in terms of the distances and directions to extended buildings and boundaries
+around the location where he parked and that would be represented by the firing of boundary detecting cells he 's also remembering the path he took out of the car park which would be represented in the firing of grid cells now both of these kinds of cells
+can make the place cells fire and he can return to the location where he parked
+by moving so as to find where it is that best matches the firing pattern of the place cells in his brain currently with the stored pattern where he parked his car and that guides him back to that location irrespective of visual cues like whether his car 's actually there
+maybe it 's been towed but he knows where it was so he knows to go and get it so beyond spatial memory
+if we look for this grid like firing pattern
+throughout the whole brain we see it in a whole series of locations which are always active when we do all kinds of autobiographical memory tasks like remembering the last time you went to a wedding for example so it may be that the neural mechanisms for representing the space around us are also used for generating visual imagery
+so that we can recreate the spatial scene at least of the events that have happened to us when we want to imagine them so if this was happening your memories could start by place cells
+activating each other via these dense interconnections and then reactivating boundary cells to create the spatial structure of the scene around your viewpoint and grid cells could move this viewpoint through that space another kind of cell head direction cells which i didn 't mention yet they fire like a compass according to which way you 're facing
+they could define the viewing direction from which you want to generate an image for your visual imagery so you can imagine what happened when you were at this wedding for example

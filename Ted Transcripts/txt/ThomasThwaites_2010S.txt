@@ -1,0 +1,44 @@
+look around us much of what surrounds us started life as various rocks and sludge buried in the ground in various places in the world
+was also inspired by this quote from douglas adams and the situation is from the hitchhiker 's guide to the galaxy and the situation it describes is
+the hero of the book he 's a twentieth century man finds himself alone on a strange planet populated only by a technologically primitive people
+and he kind of assumes that yes he'll become these villagers he'll become their emperor and transform their society with his wonderful
+but he didn't have wikipedia so i thought okay i'll try and make an electric toaster from scratch and working on the
+idea that the cheapest electric toaster would also be the simplest to reverse engineer i went and bought the cheapest toaster i could find
+it home and was kind of dismayed to discover that inside this object which i'd bought for just three pounds
+there are four hundred different bits made out of a hundred plus different materials i didn't have the rest of my life to do this project
+had maybe nine months so i thought okay i'll start with five and these were steel mica plastic copper and nickel
+how do you make steel and professor cilliers was very kind and talked me through it and my vague rememberings from gcse science well steel comes from
+and said hi i'm trying to make a toaster can i come up and get some creatures
+three hundred and fifty million years
+atmosphere when you study geology you can see what's happened in the past and there were terrific changes
+as you can see they had the christmas decorations up and of course it wasn't actually a working mine anymore because
+ray was a miner there the mine had closed and had been reopened as a kind of tourist attraction because of course it can't compete on the scale of operations which are happening is south america australia wherever
+i got my suitcase of iron ore and dragged it back to london on the train and then was faced with the problem okay how do you make this rock into components for a toaster
+so i went back to professor cilliers and he said go to the library so i did and was looking through the undergraduate textbooks on metallurgy
+i was trying to do because of course they don't actually tell you how to do it if you want to do it yourself and you don't have a smelting plant
+so i ended up going to the history of science library and looking at this book this is the first textbook on metallurgy
+in the west at least and there you can see that woodcut is basically what i ended up doing but instead of a bellows i had a leaf
+and that was something that reoccurred throughout the project was the smaller the scale you want to work on the further back in time you have to go and so this is
+a day and about half a night smelting this iron i dragged out this stuff and it wasn't
+luckily i found a patent online for industrial furnaces that use microwaves and thirty minutes at full power and i was able to finish off the process so my next
+the next thing i was trying to get was copper again this mine was once the largest copper mine in the world
+it's not anymore but i found a retired geology professor to take me down and he said okay i'll let you have some water from the mine
+and the reason i was interested in getting water is because water which goes through mines becomes kind of acidic and will start picking up dissolving the minerals
+from the mine and a good example of this is the rio tinto which is in portugal as you can see it's got lots and lots of minerals dissolved in it so many such that it's now just a home for
+bacteria who really like acidic toxic conditions but anyway the water i dragged back from the isle of anglesey where the mine was there was enough copper in it such that i could cast the pins of my metal electric
+next thing i was off to scotland to get mica and mica is a mineral
+which is a very good insulator and very good at insulating electricity
+that's me getting mica and the last material i'm going to talk about today is plastic and of course my toaster had to have a plastic case
+even then they weren't convinced and said okay we'll phone you back never did
+ways of making plastic and you can actually make plastic from obviously oils which come from plants but also from starches so this is attempting to make potato starch plastic
+and for awhile that was looking really good i poured it into the mold which you can see there which i've made from a tree trunk and it
+was looking good for awhile but i left it outside because you had to leave it outside to dry and unfortunately i came back and there were snails eating the unhydrolyzed bits of potato
+so kind of out of desperation i decided that i could think laterally and geologists have actually christened well they're debating whether to christen the age that we're living in
+like fossils would suddenly disappear and also i thought that there would be synthetic polymers
+and i went up to manchester to visit a place called axion recycling and they're at the sharp end of what's called the weee which is this european electrical and electronic waste directive
+and that was brought into force to try and deal with the mountain of stuff that is just being made and then living for a while in our homes and then going to landfill this is
+this is there's a picture of
+that's it without the case on and there it is on the shelves thanks
+in once tt yeah i did plug it in i don't know if you could see but i was never able to make insulation for the
+kew gardens were insistent that i couldn't come and hack into their rubber tree so the wires were uninsulated so there was two hundred and forty volts going through these homemade copper wires homemade plug
+and for about five seconds the toaster toasted but then unfortunately the element kind of melted itself but i considered it a partial success

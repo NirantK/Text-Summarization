@@ -1,0 +1,44 @@
+TanLe_2010G 1 TanLe_2010G 17.00 26.26 <o,f0,female> now our communication with machines has always been limited to conscious and direct forms whether it's something simple like turning on the lights with a switch
+TanLe_2010G 1 TanLe_2010G 26.55 36.62 <o,f0,female> or even as complex as programming robotics we have always had to give a command to a machine or even a series of commands in order for it to do something for us
+TanLe_2010G 1 TanLe_2010G 47.56 59.28 <o,f0,female> we observe facial expressions body language and we can intuit feelings and emotions from our dialogue with one another this actually forms a large part of our decision making process
+TanLe_2010G 1 TanLe_2010G 60.06 68.50 <o,f0,female> our vision is to introduce this whole new realm of human interaction into human computer interaction so that computers can understand
+TanLe_2010G 1 TanLe_2010G 68.86 76.12 <o,f0,female> not only what you direct it to do but it can also respond to your facial expressions and emotional experiences
+TanLe_2010G 1 TanLe_2010G 76.64 85.00 <o,f0,female> and what better way to do this than by interpreting the signals naturally produced by our brain our center for control and experience
+TanLe_2010G 1 TanLe_2010G 85.63 95.60 <o,f0,female> well it sounds like a pretty good idea but this task as bruno mentioned isn't an easy one for two main reasons first the detection algorithms
+TanLe_2010G 1 TanLe_2010G 96.09 110.39 <o,f0,female> our brain is made up of billions of active neurons around one hundred and seventy thousand km of combined axon length when these neurons interact the chemical reaction emits an electrical impulse which can be measured
+TanLe_2010G 1 TanLe_2010G 111.09 123.41 <o,f0,female> the majority of our functional brain is distributed over the outer surface layer of the brain and to increase the area that's available for mental capacity the brain surface is highly folded
+TanLe_2010G 1 TanLe_2010G 123.89 136.56 <o,f0,female> now this cortical folding presents a significant challenge for interpreting surface electrical impulses each individual 's cortex is folded differently very much like a fingerprint
+TanLe_2010G 1 TanLe_2010G 136.96 149.61 <o,f0,female> so even though a signal may come from the same functional part of the brain by the time the structure has been folded its physical location is very different between individuals even identical twins
+TanLe_2010G 1 TanLe_2010G 158.90 166.31 <o,f0,female> so that we can map the signals closer to its source and therefore making it capable of working across a mass population
+TanLe_2010G 1 TanLe_2010G 167.01 179.25 <o,f0,female> the second challenge is the actual device for observing brainwaves eeg measurements typically involve a hairnet with an array of sensors like the one that you can see here in the photo
+TanLe_2010G 1 TanLe_2010G 179.93 189.95 <o,f0,female> a technician will put the electrodes onto the scalp using a conductive gel or paste and usually after a procedure of preparing the scalp by light abrasion
+TanLe_2010G 1 TanLe_2010G 190.30 200.49 <o,f0,female> now this is quite time consuming and isn't the most comfortable process and on top of that these systems actually cost in the tens of thousands of dollars so
+TanLe_2010G 1 TanLe_2010G 201.28 210.55 <o,f0,female> i'd like to invite onstage evan grant who is one of last year 's speakers who 's kindly agreed to help me to demonstrate what we've been able to develop
+TanLe_2010G 1 TanLe_2010G 217.90 226.43 <o,f0,female> so the device that you see is a fourteen channel high fidelity eeg acquisition system it doesn't require any scalp preparation
+TanLe_2010G 1 TanLe_2010G 226.76 232.49 <o,f0,female> no conductive gel or paste it only takes a few minutes to put on and for the signals to
+TanLe_2010G 1 TanLe_2010G 233.85 247.48 <o,f0,female> it's also wireless so it gives you the freedom to move around and compared to the tens of thousands of dollars for a traditional eeg system this headset only costs a few hundred dollars
+TanLe_2010G 1 TanLe_2010G 248.30 260.55 <o,f0,female> now on to the detection algorithms so facial expressions as i mentioned before in emotional experiences are actually designed to work out of the box with some sensitivity adjustments available for
+TanLe_2010G 1 TanLe_2010G 262.24 270.33 <o,f0,female> but with the limited time we have available i'd like to show you the cognitive suite which is the ability for you to
+TanLe_2010G 1 TanLe_2010G 272.39 280.01 <o,f0,female> now evan is new to this system so what we have to do first is create a new profile for him he 's obviously not joanne so
+TanLe_2010G 1 TanLe_2010G 284.10 290.03 <o,f0,female> so the first thing we need to do with the cognitive suite is to start with training a neutral signal
+TanLe_2010G 1 TanLe_2010G 317.07 328.48 <o,f0,female> so the idea here now is that evan needs to imagine the object coming forward into the screen and there's a progress bar that will scroll across the screen while he 's doing that
+TanLe_2010G 1 TanLe_2010G 329.23 339.88 <o,f0,female> the first time nothing will happen because the system has no idea how he thinks about pull but maintain that thought for the entire duration of the eight seconds so one two three
+TanLe_2010G 1 TanLe_2010G 351.05 361.39 <o,f0,female> so once we accept this the cube is live so let 's see if evan can actually try and imagine pulling
+TanLe_2010G 1 TanLe_2010G 371.77 384.65 <o,f0,female> so we have a little bit of time available so i'm going to ask evan to do a really difficult task and this one is difficult because it's all about being able to visualize something that doesn't exist in our physical world
+TanLe_2010G 1 TanLe_2010G 385.02 393.52 <o,f0,female> this is disappear so what you want at least with movement based actions we do that all the time so you can visualize it but with disappear there's really no analogies
+TanLe_2010G 1 TanLe_2010G 428.99 436.85 <o,f0,female> but we can see that it actually works even though you can only hold it for a little bit of time as i said it's a very difficult
+TanLe_2010G 1 TanLe_2010G 438.05 448.87 <o,f0,female> to imagine this and the great thing about it is that we've only given the software one instance of how he thinks about disappear as there is a machine learning
+TanLe_2010G 1 TanLe_2010G 469.01 476.27 <o,f0,female> there is a leveling system built into this software so that as evan or any user becomes more familiar with the system they can
+TanLe_2010G 1 TanLe_2010G 476.63 486.27 <o,f0,female> to add more and more detections so that the system begins to differentiate between different distinct thoughts and once you've trained up the detections
+TanLe_2010G 1 TanLe_2010G 486.64 499.13 <o,f0,female> these thoughts can be assigned or mapped to any computing platform application or device so i'd like to show you a few examples because there are many possible applications for this new interface
+TanLe_2010G 1 TanLe_2010G 499.89 513.79 <o,f0,female> in games and virtual worlds for example your facial expressions can naturally and intuitively be used to control an avatar or virtual character obviously you can experience the fantasy of magic and control the world with your mind
+TanLe_2010G 1 TanLe_2010G 517.07 527.24 <o,f0,female> and also colors lighting sound and effects can dynamically respond to your emotional state to heighten the experience that you're having in real time
+TanLe_2010G 1 TanLe_2010G 528.31 535.00 <o,f0,female> on to some applications developed by developers and researchers around the world with robots and simple machines for example
+TanLe_2010G 1 TanLe_2010G 546.55 548.47 <o,f0,female> you know from the user interface of the control
+TanLe_2010G 1 TanLe_2010G 549.47 549.83 <o,f0,female> to
+TanLe_2010G 1 TanLe_2010G 570.86 577.45 <o,f0,female> and finally to real life changing applications such as being able to control an electric wheelchair
+TanLe_2010G 1 TanLe_2010G 578.10 582.09 <o,f0,female> in this example facial expressions are mapped to the movement
+TanLe_2010G 1 TanLe_2010G 603.04 603.39 <o,f0,male> now
+TanLe_2010G 1 TanLe_2010G 609.09 610.15 <o,f0,female> we really
+TanLe_2010G 1 TanLe_2010G 615.45 623.77 <o,f0,female> we are really only scratching the surface of what is possible today and with the community 's input and also with the involvement of developers and researchers
+TanLe_2010G 1 TanLe_2010G 624.05 630.30 <o,f0,female> from around the world we hope you can help us to shape where the technology goes from here thank you so much

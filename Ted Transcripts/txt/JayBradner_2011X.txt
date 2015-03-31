@@ -1,0 +1,75 @@
+boston ten years ago from chicago
+with an interest in cancer
+and in chemistry you might know that chemistry is the science of making molecules or to my taste new drugs for cancer and you might also know that
+for science and medicine boston
+and it 's fair to say that in these ten years we 've witnessed absolutely the start of a scientific revolution that of genome medicine we know more about the patients that enter our clinic now than ever before and we 're able finally to answer the question that 's been so pressing for so many years why do i have cancer
+this information is also pretty staggering
+you might know that so far in just the dawn of this revolution we know that there are perhaps forty thousand unique mutations affecting more than ten thousand genes and that there are five hundred of these genes that are bona fide drivers causes of cancer
+yet comparatively we have about a dozen targeted medications and this inadequacy of cancer medicine really hit home when my father was diagnosed with pancreatic cancer
+we didn 't fly him to boston we didn 't sequence his genome it 's been known for decades what causes this malignancy it 's three proteins
+there 's no ras no myc no p fifty three drug and you might fairly ask why is that
+and the very unsatisfying yet scientific answer is it 's too hard
+that for whatever reason these three proteins have entered a space in the language of our field that 's called the undruggable genome which is like calling a computer unsurfable or the moon unwalkable it 's a horrible term of trade
+but what it means is that we fail to identify a greasy pocket in these proteins into which we like molecular locksmiths can fashion an active small organic molecule or drug substance
+now as i was training in clinical medicine and hematology and oncology and stem cell transplantation what we had instead
+cascading through the regulatory network at the fda were these substances
+arsenic thalidomide and this chemical derivative of nitrogen mustard gas and this is the twenty first century
+and so i guess you 'd say dissatisfied with the performance and quality of these medicines i went back to school in chemistry with the idea
+please consider this a work in progress but i 'd like to tell you today a story about a very rare cancer called midline carcinoma
+about the protein target the undruggable protein target that causes this cancer called brd four
+and about a molecule developed at my lab at dana farber cancer institute called jq one which we affectionately named for jun qi the chemist that made this molecule
+now brd four is an interesting protein you might ask yourself with all the things cancer 's trying to do to kill our patient how does it remember it 's cancer when it winds up its genome divides into two cells and unwinds again
+why does it not turn into an eye into a liver as it has all the genes necessary to do this it remembers that it 's cancer and the reason is that cancer
+like every cell in the body places little molecular bookmarks little post it notes that remind the cell i 'm cancer i should keep growing
+and those post it notes involve
+this and other proteins of its class so called bromodomains so we developed an idea a rationale that perhaps if we made a molecule
+that prevented the post it note from sticking by entering into the little pocket at the base of this spinning protein then maybe we could convince cancer cells certainly those addicted to this brd four protein that they 're not cancer
+and so we started to work on this problem
+we developed libraries of compounds and eventually arrived at this and similar substances called jq one
+now not being a drug company we could do certain things we had certain flexibilities that i respect that a pharmaceutical industry doesn 't have we just started mailing it to our friends
+the cancer cells small round and rapidly dividing grew these arms and extensions they were changing shape
+and becoming a normal cell this got us very excited
+the next step would be to put this molecule into mice the only problem was there 's no mouse model of this rare cancer
+and so at the time that we were doing this research i was caring for a twenty nine year old firefighter from connecticut who was very much at the end of life with this incurable cancer
+this brd four addicted cancer was growing throughout his left lung and he had a chest tube in that was draining little bits of debris and every nursing shift we would throw this material out
+and so we approached this patient
+and asked if he would collaborate with us
+could we take this precious and rare cancerous material from this chest tube
+and drive it across town and put it into mice and try to do a clinical trial and stage it with a prototype drug well that would be impossible and rightly illegal to do in humans and he obliged us
+at the lurie family center for animal imaging my colleague andrew kung
+grew this cancer successfully in mice without ever touching plastic
+and you can see this pet scan of a mouse what we call a pet
+and as we treat it with our compound
+this addiction to sugar this rapid growth faded
+and on the animal on the right you see that the cancer was responding
+we published a paper that described this finding at the earliest prototype stage we gave the world the chemical identity of this molecule typically a secret in our discipline we told people exactly how to make it
+we gave them our email address suggesting that if they write us we 'll send them a free molecule
+we basically tried to create the most competitive environment for our lab as possible and this was unfortunately successful
+many of them pharmaceutical companies seeking now to enter this space to target this rare cancer that thankfully right now is quite desirable to study in that industry
+but the science that 's coming back from all of these laboratories about the use of this molecule
+has provided us insights that we might not have had on our own
+leukemia cells treated with this compound turn into normal white blood cells mice with multiple myeloma an incurable malignancy of the bone marrow
+respond dramatically to the treatment with this drug
+you might know that fat has memory
+and in fact this molecule prevents this
+like the folks in my hometown of chicago
+fail to develop fatty liver
+which is a major medical problem what this research taught us not just my lab but our institute
+and harvard medical school more generally is that we have unique resources in academia for drug discovery that our center that has tested perhaps more cancer molecules in a scientific way than any other never made one of its own
+for all the reasons you see listed here we think there 's a great opportunity for academic centers to participate in this earliest conceptually tricky and creative discipline of prototype drug discovery
+so what next we have this molecule but it 's not a pill yet it 's not orally available we need to fix it so that we can deliver it to our patients and everyone in the lab especially following the interaction with these patients feels quite compelled to deliver a drug substance based on this molecule
+it 's here where i have to say that we could use your help and your insights your collaborative participation unlike a drug company we don 't have a pipeline that we can deposit these molecules into we don 't have a team of salespeople and marketeers that can tell us how to position this drug against the other
+motivated enthusiastic hopefully well funded people to carry these molecules forward into the clinic while preserving our ability to share the prototype drug worldwide
+this molecule will soon leave our benches and go into a small startup company called tensha therapeutics and really this is the fourth of these molecules to kind of graduate from our little pipeline of drug discovery two of which a topical drug
+for lymphoma of the skin an oral substance for the treatment of multiple myeloma
+the first is if anything is unique about this research it 's less the science than the strategy
+that this for us was a social experiment
+an experiment in what would happen if we were as open and honest at the earliest phase of discovery chemistry research as we could be this string of letters and numbers and symbols and parentheses
+that can be texted i suppose or twittered worldwide
+is the chemical identity of our pro compound
+it 's the information that we most need from pharmaceutical companies the information on how
+these early prototype drugs might work
+yet this information is largely a secret and so we seek
+really to download from the amazing successes of the computer science industry two principles that of opensource and that of crowdsourcing
+involves all of you this research is funded by the public it 's funded by foundations and one thing i 've learned in boston is that you people will do anything for cancer and i love that
+and so i want to thank you

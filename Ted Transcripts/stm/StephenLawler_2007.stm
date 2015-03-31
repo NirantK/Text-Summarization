@@ -1,0 +1,39 @@
+StephenLawler_2007 1 StephenLawler_2007 13.40 14.68 <o,f0,male> talk to you about today is
+StephenLawler_2007 1 StephenLawler_2007 26.72 38.05 <o,f0,male> what it means is the web is going to become an exciting place again it's going to become super exciting as we transform to this highly immersive and interactive world
+StephenLawler_2007 1 StephenLawler_2007 38.51 48.38 <o,f0,male> with graphics computing power low latencies these types of applications and possibilities are going to stream rich data into your lives
+StephenLawler_2007 1 StephenLawler_2007 50.07 52.17 <o,f0,male> so the virtual earth initiative and other
+StephenLawler_2007 1 StephenLawler_2007 53.33 59.56 <o,f0,male> of these initiatives are all about extending you know our current search metaphor
+StephenLawler_2007 1 StephenLawler_2007 60.23 65.56 <o,f0,male> when you think about it we're so constrained by browsing the web remembering urls saving favorites
+StephenLawler_2007 1 StephenLawler_2007 66.22 75.94 <o,f0,male> as we move to search we rely on the relevance rankings the web matching the index crawling but we want to use our brain we want to navigate explore
+StephenLawler_2007 1 StephenLawler_2007 86.51 94.80 <o,f0,male> so what better way to put you back in the driver 's seat than to put you in the real world that you interact in every day why not leverage the learnings
+StephenLawler_2007 1 StephenLawler_2007 95.39 97.13 <o,f0,male> that you've been learning your entire life
+StephenLawler_2007 1 StephenLawler_2007 97.61 108.36 <o,f0,male> so virtual earth is about you know starting off creating the first digital representation comprehensive of the entire world what we want to do is mix in all types of data
+StephenLawler_2007 1 StephenLawler_2007 109.28 112.95 <o,f0,male> tag it attribute it metadata get the community to add local depth
+StephenLawler_2007 1 StephenLawler_2007 113.50 115.80 <o,f0,male> global perspective local knowledge
+StephenLawler_2007 1 StephenLawler_2007 116.53 118.14 <o,f0,male> so when you think about this problem
+StephenLawler_2007 1 StephenLawler_2007 130.32 131.78 <o,f0,male> this process is
+StephenLawler_2007 1 StephenLawler_2007 132.10 137.35 <o,f0,male> you know it's an engineering problem a mechanical problem a logistical problem an operational
+StephenLawler_2007 1 StephenLawler_2007 138.46 146.33 <o,f0,male> here is an example of our aerial camera this is panchromatic it's actually four color cones in addition it's multi spectral we collect
+StephenLawler_2007 1 StephenLawler_2007 146.63 157.26 <o,f0,male> four gigabits per second of data if you can imagine that kind of data stream coming down that's equivalent to a constellation of twelve satellites at highest res capacity
+StephenLawler_2007 1 StephenLawler_2007 157.93 168.30 <o,f0,male> we fly these airplanes at five thousand feet in the air you can see the camera on the front we collect multiple view points vantage points angles textures we bring all that data back in
+StephenLawler_2007 1 StephenLawler_2007 170.52 180.14 <o,f0,male> we sit here you know the thing about the ground vehicles the human scale what do you see in person we need to capture that up close to establish that what it's like type experience
+StephenLawler_2007 1 StephenLawler_2007 184.98 189.23 <o,f0,male> kind of poking at the pc for of course their brilliance and simplicity
+StephenLawler_2007 1 StephenLawler_2007 190.13 193.51 <o,f0,male> so a little unknown secret is did you see the one with the
+StephenLawler_2007 1 StephenLawler_2007 194.80 202.38 <o,f0,male> guy he 's got the web cam the poor pc guy they're duct taping his head they're just wrapping it on him well a little unknown secret is his brother
+StephenLawler_2007 1 StephenLawler_2007 206.18 211.84 <o,f0,male> they've got a little bit of a sibling rivalry thing going on here but let me tell you it doesn't affect his day job
+StephenLawler_2007 1 StephenLawler_2007 212.23 221.24 <o,f0,male> we think a lot of good can come from this technology this was after katrina we were the first commercial fleet of airplanes to be cleared into the disaster impact zone
+StephenLawler_2007 1 StephenLawler_2007 221.58 233.49 <o,f0,male> we flew the area we imaged it we sent in people we took pictures of interiors disaster areas we helped with the first responders the search and rescue often the first time anyone saw what happened to their house
+StephenLawler_2007 1 StephenLawler_2007 234.16 243.23 <o,f0,male> was on virtual earth we made it all freely available on the web just to you know it was obviously our chance of helping out with the cause when we think about you know how all this
+StephenLawler_2007 1 StephenLawler_2007 243.95 251.85 <o,f0,male> comes together it's all about software algorithms and math you know we capture this imagery but to build the three d models
+StephenLawler_2007 1 StephenLawler_2007 252.24 261.05 <o,f0,male> we need to do geo positioning we need to do geo registering of the images we have to bundle adjust them find tie points extract geometry from the images
+StephenLawler_2007 1 StephenLawler_2007 261.54 272.85 <o,f0,male> this process is a very calculated process in fact it was always done manual hollywood would spend millions of dollars to do a small urban corridor for a movie because they'd have to do it manually
+StephenLawler_2007 1 StephenLawler_2007 273.48 283.86 <o,f0,male> drive the streets with lasers called lidar they'd collected information with photos they'd manually build each building we do this all through software algorithms and math a highly automated pipeline creating these cities
+StephenLawler_2007 1 StephenLawler_2007 284.24 291.36 <o,f0,male> we took a decimal point off what it cost to build these cities and that's how we're going to be able to scale this out and make this reality a dream
+StephenLawler_2007 1 StephenLawler_2007 291.95 304.76 <o,f0,male> we think about the user interface what does it mean to look at it from multiple perspectives an ortho view a nadir view how do you keep the precision of the fidelity of the imagery while maintaining the fluidity of the model
+StephenLawler_2007 1 StephenLawler_2007 305.99 314.07 <o,f0,male> up by showing you the this is a brand new peek i haven't really shown into the lab area of virtual earth what we're doing is people like this
+StephenLawler_2007 1 StephenLawler_2007 314.23 321.10 <o,f0,male> a lot this bird 's eye imagery we work with it's this high resolution data but what we've found is they like the fluidity of the three d model
+StephenLawler_2007 1 StephenLawler_2007 321.76 335.49 <o,f0,male> a child can navigate with an xbox controller or a game controller so here what we're trying to do is we bring the picture and project it into the three d model space you can see all types of resolution from here i can slowly pan the image
+StephenLawler_2007 1 StephenLawler_2007 336.23 349.49 <o,f0,male> over i can get the next image i can blend and transition by doing this i don't lose the original detail in fact i might be recording history the freshness the capacity i can turn this image i can look at it from multiple viewpoints and angles
+StephenLawler_2007 1 StephenLawler_2007 350.82 353.33 <o,f0,male> what we're trying to do is build a virtual world
+StephenLawler_2007 1 StephenLawler_2007 354.08 358.09 <o,f0,male> we hope that we can make computing a user model you're familiar with
+StephenLawler_2007 1 StephenLawler_2007 358.89 363.86 <o,f0,male> and really derive insights from you from all different directions i thank you very much

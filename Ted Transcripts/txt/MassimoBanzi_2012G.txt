@@ -1,0 +1,44 @@
+so this idea that you can manufacture objects digitally using these machines
+is something that the economist magazine defined as the third industrial revolution
+actually i argue that there is another revolution going on and it 's the one that has to do with open source hardware and the maker 's movement because the printer that my friend used to print the toy
+is actually open source so you go to the same website you can download all the files that you need in order to make
+that printer the construction files the hardware the software all the instruction is there
+and also this is part of a large community where there are thousands of people around the world that are actually making these kinds of printers and there 's a lot of innovation happening because it 's all open source you don 't need anybody 's permission to create something great
+and that space is like the personal computer in one thousand nine hundred and seventy six like the apples with the other companies are fighting and we will see in a few years there will be the apple of this kind of market come out
+well there 's also another interesting thing i said the electronics are open source because at the heart of this printer there is something i 'm really attached to these arduino boards the motherboard that sort of powers this printer is a project i 've been working on for the past seven years it 's an open source project i worked with
+these friends of mine that i have here so the five of us two americans two italians and a spaniard we
+with people so we worked on arduino and a lot of other projects there to create platforms that would be simple for our students to use so that our students could just build things that worked but they don 't have five years to become an electronics engineer we have one month
+so let 's look at what happens when you make a tool that anybody can just
+discussion is this example of this cat feeder the gentleman who made this project had two cats one was sick and the other one was healthy so he had to make sure they ate the proper food so he made this thing that recognizes the cat from a chip
+couple of sensors a few blinking leds and then suddenly you have a tool you build something that you cannot find on the market and i like this phrase scratch your own itch if you have an idea you just go and you make it this is the equivalent of sketching on paper
+done with electronics so one of the features that i think is important about our work is that our hardware on top of being made with love in italy as you can see from the back of the circuit
+and you can actually use it to make something or to modify to learn you know when i was learning about programming i learned by looking at other people 's code or looking at other people 's circuits in magazines and this is a good way to learn
+so you know i like this idea that hardware becomes like a piece of culture that you share and you build upon like it was a song or a poem with creative commons
+or the software is gpl so it 's open source as well the documentation and the hands on teaching methodology is also open source and released as the creative commons just the name is protected so that we can make sure that we can tell people what is arduino and what isn 't
+now arduino itself is made of a lot of different open source components that maybe individually are hard to use for a twelve year old kid so arduino wraps everything together into a mashup of open source technologies where we try to give them the best user experience to get something done quickly
+so you have situations like this where some people in chile decided to make their own boards instead of buying them to organize a workshop and to save money
+or there are companies that make their own variations of arduino that fit in a certain market and there 's probably maybe like a one hundred and fifty of them or something at the moment
+this one is made by a company called adafruit which is run by this woman called limor fried also known as ladyada who is one of the heroes of the open source hardware movement and the maker movement
+so this idea that you have a new sort of turbo charged diy community that believes in open source in collaboration collaborates online collaborates in different spaces
+gathered all these people and sort of put them together as a community and you see a very technical project explained in a very simple language beautifully typeset or you have websites like this one like instructables
+where people actually teach each other about anything so this one is about arduino projects the page you see on the screen but effectively here you can learn how to make a cake and everything else so
+but then somebody actually launched this start up called matternet where they figured out that you could use this to actually
+transport things from one village to another in africa and the fact that this was easy to find open source easy to hack enabled them to prototype their company really quickly or other projects
+and again this is made of all different parts you can find on all the websites that sell arduino compatible parts and you assemble it into a project or this is a project from the itp part of nyu where they met with this boy who has a severe disability cannot play with the ps three so they built this device
+that allows the kid to play baseball although he has limited movement capability
+all these solenoids pressing the buttons on spray cans so you just pull it over a wall and it just writes on the wall all the political messages
+they made one hundred of them and gave them to people around japan and essentially the data that they gathered gets published on this website called cosm another website they built
+so you can actually get reliable real time information from the field and you can get unbiased information
+or this machine here it 's from the diy bio movement and it 's one of the steps that you need in order to process dna and again it 's completely open source from the ground up
+or you have students in developing countries making replicas of scientific instruments that cost a lot of money to make actually they just build them themselves for a lot less using arduino and a few parts this is a ph probe
+or you get kids like these kids they 're from spain they learned how to program and to make robots when they were probably like eleven and then they started to use arduino to make these robots that play football they became world champions
+so the idea is that the hardware the software the design of the object the fabrication everything about this project is open source and you can make it yourself
+so we want other designers to pick this up and learn how to make great devices to learn how to make interactive products by starting from something real
+but when you have this idea you know what happens to all these ideas there 's like thousands of ideas that i you know it would take seven hours for me to do all the presentations i will not take all the seven hours
+thank you but let 's start from this example so the group of people that started this company called pebble
+they actually went to kickstarter and they were asking for one hundred thousand dollars
+to make a few of them to sell they got ten million dollars
+they got a completely fully funded start up and they don 't have to you know get vcs involved or anything just excite the people with their great project
+the last project i want to show you is this it 's called ardusat it 's currently on kickstarter so if you want to contribute please do it it 's a satellite that goes into space which is probably the least open source thing you can imagine
+and run them so imagine if you as a high school can have the satellite for a week and do satellite space experiments like that
+so as i said there 's lots of examples and i 'm going to stop here and i just want to thank the arduino community for being the best and just every day

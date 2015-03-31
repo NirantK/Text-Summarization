@@ -1,0 +1,82 @@
+a little bit about irrational behavior not yours of course other people 's
+so after being at mit for a few years i realized that writing academic papers is not that exciting you know i don't know how many of those you read
+it's not fun to read and often not fun to write even worse to write
+came up with an idea that i will write a cookbook
+the kitchen you know we do so much in the kitchen i thought this would be interesting and i wrote a couple of chapters and i took it to mit press and they said
+but not for us go and find somebody else i tried other people and everybody said the same thing cute not for us
+look if you're serious about this you first have to write a book about your research you have to publish something and then you'll get the opportunity to write something else
+book on my research and it turned out to be quite fun in two ways first of all i enjoyed writing but the more interesting thing was that i started learning from people
+it's a fantastic time to write because there is so much feedback you can get from people people write me about their personal experience and about their examples and what they disagree and
+which i think is just fascinating i will tell you a little bit about irrational behavior and i want to start by giving you some examples of visual illusion as a metaphor for rationality so think about these two tables
+you must have seen this illusion if i asked you what's longer the vertical line on the table on the left or the horizontal line on the table on the right which one seems longer can anybody see anything but the left one being longer
+no right it's impossible but the nice thing about visual illusion is we can easily demonstrate mistakes so i can put some lines on it doesn't help i can animate the lines and
+another one this is one of my favorite illusions what do you see the color that top arrow is pointing to
+yellow turns out they're identical can anybody see them as identical very very hard i can cover the rest of the cube up
+and if i cover the rest of the cube you can see that they are identical and if you don't believe me you can get the slide later and do some arts and crafts and see that they're identical
+but again it's the same story that if we take the background away the illusion comes back right there is no way for us not to see this illusion i guess maybe if you're colorblind i don't think you can see that
+i want you to think about illusion as a metaphor vision is one of the best things we do we have a huge part of our brain dedicated to vision bigger than
+to anything else we do more vision more hours of the day than we do anything else and we are evolutionarily designed to do vision
+and if we have these predictable repeatable mistakes in vision which we're so good at what's the chance that we don't make even more mistakes in something we're not as good at
+for example financial decision making
+something we don't have an evolutionary reason to do we don't have a specialized part of the brain and we don't do that many hours of the day and the argument is in those cases it might be the issue that we actually make many more mistakes
+and worse not have an easy way to see them because in visual illusions we can easily demonstrate the mistakes in cognitive illusion it's much much harder to demonstrate to people the mistakes
+and this is one of my favorite plots in social sciences it's from a paper by johnson and goldstein and it basically shows the percentage of people who indicated they would be interested in giving their organs to
+ask people this question they usually think that it has to be something about culture right how much do you care about people giving your organs to somebody else is probably about how much you care about society
+how linked you are or maybe it is about religion but if you look at this plot you can see that countries that we think about as very similar actually exhibit very different behavior
+for example sweden is all the way on the right and denmark that we think is culturally very similar is all the way on the left
+germany is on the left and austria is on the right the netherlands is on the left and belgium is on the right
+and finally depending on your particular version of european similarity you can think about the u k and france as either similar culturally or not
+but it turns out that from organ donation they are very different
+by the way the netherlands is an interesting story you see the netherlands is kind of the biggest of the small group
+turns out that they got to twenty eight percent after mailing every household in the country a letter begging people to join this organ donation program
+but whatever the countries on the right are doing they are doing a much better job than begging so what are they doing turns out the secret has to do with a form at the dmv and here is the story the countries on the left
+form at the dmv that looks something like this check the box below if you want to participate in the organ donor program and what happens
+people don't check and they don't join the countries on the right the ones that give a lot have a slightly different form it says check the box below if you don't want to participate interestingly enough when people get this they again don't check but
+but now think about what
+we wake up in the morning and we feel we make decisions we wake up in the morning and we open the closet and we feel that we decide what to wear and we open the refrigerator and we feel that we decide what to eat
+what this is actually saying is that much of these decisions are not residing within us they are residing in the person who is designing that form when you walk into the dmv the person who designed the form will have a huge influence on what you'll end up doing
+now it's also very hard to intuit these results think about it for yourself how many of you believe that if you went to renew your license tomorrow and you went to the dmv
+you would encounter one of these forms that it would actually change your own behavior very very hard to think that you will influence us we can say oh these funny europeans of course it would influence them but when it comes to us
+you might say these are decisions we don't care about in fact by definition these are decisions about something that will happen to us after we die
+how could we care about something less than something that happens after we die so a standard economist someone who believes in rationality would say you know what
+the cost of lifting the pencil and marking a v is higher than the possible benefit of the decision so that's why we get this effect
+but in fact it's not because it's easy it's not because it's trivial it's not because we don't care it's the opposite it's because we care
+it's difficult and it's complex and it's so complex that we don't know what to do and because we have no idea what to do we just pick whatever it was that was chosen for us
+give you one more example for this this is from a paper by redelmeier and schaefer and they said well this effect also happens to experts people who are well paid
+and then they said to the physician you decided a few weeks ago that nothing is working for this patient all these medications nothing seems to be working
+so you refer the patient to hip replacement therapy hip replacement okay so the patient is on a path to have his hip replaced
+what do you do do you pull the patient back and try ibuprofen or do you let them go and have hip replacement well the good news is that most physicians in this case decided to pull the patient and try the ibuprofen
+now think of it this decision makes it as easy to let the patient continue with hip replacement but pulling them back all of the sudden becomes more complex there is one more decision
+what happens now majority of the physicians now choose to let the patient go to hip replacement
+i hope this worries you by the way
+when you go to see your physician the thing is is that no physician would ever say piroxicam ibuprofen hip replacement let 's go for hip replacement but
+the moment you set this as the default it has a huge power over whatever people end up doing i'll give you a couple of more examples on irrational decision making
+you want to go for a weekend to rome all expenses paid hotel transportation food
+now imagine i added a choice to the set that nobody wanted imagine i said a weekend in rome a weekend in paris or having your car stolen
+it's a funny idea because why would having your car stolen in this set influence anything
+but what if the option to have your car stolen was not exactly like this what if it was a trip to rome all expenses paid transportation
+breakfast but doesn't include coffee in the morning if you want coffee you have to pay for it yourself it's two euros fifty now in some ways
+given that you can have rome with coffee why would you possibly want rome without coffee it's like having your car stolen it's an inferior option
+what happened the moment you add rome without coffee rome with coffee becomes more popular and people choose
+the fact that you have rome without coffee makes rome with coffee look superior and not just to rome without coffee even superior to paris
+this was an ad from the economist a few years ago that gave us three choices an online subscription for fifty nine dollars a print subscription for one hundred and twenty five
+now i looked at this and i called up the economist and i tried to figure out what were they thinking and they passed me from one person to another to another until eventually i got
+to a person who was in charge of the website and i called them up and they went to check what was going on the next thing i know the ad is gone and no explanation
+so i decided to do the experiment that i would have loved the economist to do with me i took this and i gave it to one hundred mit students i said what would you choose these are the market share
+most people wanted the combo deal thankfully nobody wanted the dominated option that means our students can read but now if you
+right so i printed another version of this where i eliminated the middle option i gave it to another one hundred students here is what happens now the most popular option became the least popular and the least popular became the most popular
+what was happening was the option that was useless in the middle was useless in the sense that nobody wanted
+but it wasn't useless in the sense that it helped people figure out what they wanted in fact relative to the option in the middle which was
+one more example of this people believe that when we deal with physical attraction we see somebody and we know immediately whether we like them or not
+not which is why we have these four minute dates so i decided to do this experiment with people i'll show you graphic images of people not real people the experiment was with people
+i showed some people a picture of tom and a picture of jerry i said who do you want to date tom or jerry but for half the people i added an ugly version of jerry i took photoshop and
+and the question was will ugly jerry and ugly tom help their respective more attractive brothers the answer was absolutely yes when ugly jerry was around jerry was popular when ugly tom was around tom was
+this of course has two very clear implications for life in general if you ever go bar hopping who do you want to take with you
+you want a slightly uglier version of yourself similar similar but slightly uglier
+the second point or course is that if somebody else invites you you know how they think about you
+what is the general point the general point is that when we think about economics we have this beautiful view of human nature
+what a piece of work is man how noble in reason we have this view of ourselves of others the behavioral economics perspective is slightly less
+generous to people in fact in medical terms that's our view
+but there is a silver lining
+when it comes to building the physical world we kind of understand our limitations we build steps and we build these things that not everybody can use obviously
+we understand our limitations and we build around it but for some reason when it comes to the mental world when we design things like healthcare and retirement and stockmarkets we somehow forget the idea that we are limited of

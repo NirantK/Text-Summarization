@@ -1,0 +1,61 @@
+talk to you today about something the open source programming world can teach democracy
+but before that a little preamble let 's start here this is martha payne martha 's a nine year old scot who lives in the council of argyll and bute a couple months ago payne started a food blog called neverseconds and she would take her camera with her every day to school to document her school lunches
+can you spot the vegetable laughter and as sometimes happens this blog acquired first dozens of readers and then hundreds of readers and then thousands of readers as people tuned in to watch her rate her school lunches including on my favorite category pieces of hair found in food
+and then two weeks ago yesterday
+what happens when a medium suddenly puts a lot of new ideas into circulation now this isn 't just a contemporaneous question this is something we 've faced several times over the last few centuries when the telegraph came along it was clear that it was going to globalize the news
+you guessed it world peace sorry for the spoiler alert but no world peace not yet
+even the printing press even the printing press was assumed to be a tool that was going to enforce catholic intellectual hegemony across europe instead what we got was martin luther 's ninety five theses the protestant reformation and you know the thirty years war
+is that when a lot of new ideas suddenly come into circulation it changes society what they got exactly wrong was what happens next the more ideas there are in circulation the more ideas there are for any individual to disagree with
+more media always means more arguing that 's what happens when the media 's space expands and yet when we look back on the printing press in the early years
+we like what happened we are a pro printing press society so how do we square those two things that it leads to more arguing but we think it was good and the answer i think can be found in things like this
+this is the cover of philosophical transactions the first scientific journal ever published in english in the middle of the one thousand six hundred s and it was created by a group of people who had been calling themselves the invisible college a group of natural philosophers who only later would call themselves scientists
+and they wanted to improve the way natural philosophers argued with each other
+and they needed to do two things for this they needed openness they needed to create a norm which said when you do an experiment you have to publish not just your claims but how you did the experiment if you don 't tell us how you did it we won 't trust
+the printing press was clearly the right medium for this but the book was the wrong tool it was too slow and so they invented the scientific journal as a way of synchronizing the argument across the community of natural scientists
+i mean youtube is just a gold mine
+that 's the question so i study social media which means to a first approximation i watch people argue
+programming is a three way relationship between a programmer some source code and the computer it 's meant to run on
+but computers are such famously inflexible interpreters of instructions that it 's extraordinarily difficult to write out a set of instructions that the computer knows how to execute and that 's if one person is writing
+and this problem grows larger the more programmers are involved
+to a first approximation the problem of managing a large software project is the problem of keeping this social chaos at bay
+now for decades there has been a canonical solution to this problem which is to use something called a version control system and a version control system does what is says on the tin it provides a canonical copy of the software on a server somewhere
+the only programmers who can change it are people who 've specifically been given permission to access it
+and they 're only allowed to access the sub section of it that they have permission to change
+and when people draw diagrams of version control systems the diagrams always look something like this all right they look like org charts and you don 't have to squint very hard to see the political ramifications of a system like this this is feudalism one owner
+many workers now that 's fine for the commercial software industry it really is microsoft 's office it 's adobe 's photoshop
+the corporation owns the software the programmers come and go but there was one programmer who decided that this wasn 't the way to work this is linus torvalds torvalds is the most famous open source programmer created linux obviously
+and torvalds looked at the way the open source movement had been dealing with this problem
+open source software the core promise of the open source license is that everybody should have access to all the source code all the time
+but of course this creates the very threat of chaos you have to forestall in order to get anything working so most open source projects just held their noses and adopted the feudal management systems
+and to give you a sense of how enormous a decision like this was
+this is a tremendously complicated process this is a tremendously complicated program and yet for years torvalds ran this not with automated tools but out of his email box
+people would literally mail him changes that they 'd agreed on and he would merge them by hand
+this is a screenshot from github the premier git hosting service and every time a programmer uses git to make any important change at all
+creating a new file modifying an existing one merging two files git creates this kind of signature this long string of numbers and letters here is a unique identifier tied to every single change
+but without any central coordination every git system generates this number the same way which means this is a signature tied directly and unforgeably to a particular change
+this has the following effect
+a programmer in edinburgh and a programmer in entebbe can both get the same a copy of the same piece of software
+each of them can make changes and they can merge them after the fact even if they didn 't know of each other 's existence beforehand this is cooperation without coordination this is the big change
+now i tell you all of this not to convince you that it 's great that open source programmers now have a tool that supports their philosophical way of working although i think that is great
+i tell you all of this because of what i think it means for the way communities come together cooperation without coordination
+you start to see communities form
+that are enormously large and complex this is a graph of the ruby community it 's an open source programming language and all of the interconnections between the people this is now not a software graph but a people graph all of the interconnections among the people working on that project
+so there are two good reasons to think that this kind of technique can be applied to democracies in general and in particular to the law when you make the claim in fact that
+something on the internet is going to be good for democracy you often get this reaction
+which is are you talking about the thing with the singing cats like is that the thing you think is going to be good for society to which i have to say here 's the thing with the singing cats that always happens
+and i don 't just mean that always happens with the internet i mean that always happens with media full stop
+it did not take long after the rise of the commercial printing press before someone figured out that erotic novels were a good idea laughter you don 't have to have an economic incentive to sell books very long before someone says hey you know what i bet people would pay for
+it took people another one hundred and fifty years to even think of the scientific journal
+and when you go onto github and you look around there are millions and millions of projects almost all of which are source code but if you look around the edges you can see people experimenting with the political ramifications of a system
+the new york senate has put up something called open legislation also hosting it on github again for all of the reasons of updating and fluidity you can go and pick your senator and then you can see a list of bills they have sponsored
+and it includes this very evocative screenshot
+this is a called a diff this thing on the right here this shows you for text that many people are editing when a change was made who made it and what the change is the stuff in red is the stuff that got deleted the stuff in green is the stuff that got added
+programmers take this capability for granted no democracy anywhere in the world offers this feature to its citizens for either legislation or for budgets even though those are the things done with our consent and with our money
+now i would love to tell you
+part of the problem of course is just a lack of information somebody put a question up on quora saying why is it that lawmakers don 't use distributed version control this graphically was the answer
+that is indeed part of the problem but only part the bigger problem of course is power the people experimenting with participation don 't have legislative power and the people who have legislative power are not experimenting with participation
+they are experimenting with openness there 's no democracy worth the name that doesn 't have a transparency move but transparency is openness in only one direction and being given a dashboard without a steering wheel has never been the core promise a democracy makes to its citizens
+so consider this the thing that got martha payne 's opinions out into the public was a piece of technology but the thing that kept them there was political will it was the expectation of the citizens that she would not be censored
+that 's now the state we 're in with these collaboration tools we have them we 've seen them they work can we use them can we apply the techniques that worked here to this
+i think that 's wrong but laughter i think it 's right for argumentation right a momentous thing that can happen to a culture is they can acquire a new style of arguing trial by jury
+voting peer review now this

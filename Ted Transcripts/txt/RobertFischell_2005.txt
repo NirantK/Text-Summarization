@@ -1,0 +1,137 @@
+i'm going to discuss with you three of my inventions that can have an effect on tens to a hundred million people which we will hope to see happen
+we discussed in the prior film some of the old things that we did like stents and insulin pumps for the diabetic
+i'd like to talk very briefly about three new inventions that will change the lives of many people
+at the present time it takes an average of three hours after the first symptoms of a heart attack are recognized by the patient before that patient arrives
+an emergency room and people with silent ischemia which translated into english means they don't have any symptoms
+it takes even longer for them to get to the hospital the ami acute myocardial infarction which is a doctor 's big word so they can charge you more money
+means a heart attack annual incidence one point two million americans mortality three hundred thousand people dying each year
+about half of them six hundred thousand have permanent damage to their heart that will cause them to have very bad problems later on
+nine hundred thousand people either have died or have significant damage to their heart muscle symptoms are often denied by the patient
+then approximately twenty five percent of all patients never have any symptoms what are we going to do about them how can we save their lives it's particularly true of diabetics and elderly women
+well what is needed for the earliest possible warning of a heart attack a means to determine if there's a complete blockage of a coronary artery
+that ladies and gentlemen is a heart attack the means consist of noting something a little technical
+segment elevation of the electrogram translated into english that means that if there's an electrical signal in the heart and one part of the ecg which we call the st segment
+elevates that is a sure sign of a heart attack and if we had a computer put into the body of a person who 's at risk we could know
+before they even have symptoms that they're having a heart attack to save their life well the doctor can program a level of this st elevation voltage
+that will trigger an emergency alarm vibration like your cell phone but right by your clavicle bone and when it goes beep beep beep
+you better do something about it because if you want to live you have to get to some medical treatment
+so we have to try these devices out because the fda won 't just let us use them on people unless we try it out first and
+the best model for this happens to be pigs and what we tried with the pig was external electrodes on the skin
+like you see in an emergency room and i'm going to show you why they don't work very well and then we put a lead which is a wire in the right ventricle inside the heart which does the electrogram which is the signal voltage from inside the heart
+well with the pig at the baseline before we blocked the pig 's artery to simulate a heart attack that was the signal after forty three seconds
+even an expert couldn't tell the difference and after three minutes well if you really studied it you'd see a difference but what happened when we looked inside the pig 's heart to the electrogram
+there was the baseline first of all a much bigger and more reliable signal second of all i'll bet even you people who are untrained
+can see the difference and we see here an st segment elevation right after this sharp line look at the difference there
+it doesn't take much every lay person could see that difference and computers can be programmed to easily detect it
+then look at that after three minutes we see that the signal that's actually in the heart we can use it to tell people that they're having a heart attack even before they have symptoms so we can save their life
+then we tried it with my son doctor tim fischell we tried it on some human patients who had to have a stent put in well
+he kept the balloon filled to block the artery to simulate a blockage which is what a heart attack is and it's not hard to see that
+elevation and if we had a computer that could detect it we could tell you you're having a heart attack so early it could save your life and prevent congestive heart failure
+and then he did it again we filled the balloon again a few minutes later and here you see even after ten seconds
+a great rise in this piece which we can have computers inside under your chest like a pacemaker with a wire into your heart like a pacemaker
+and computers don't go to sleep we have a little battery and on this little battery that computer will run for five years without needing replacement
+what does the system look like well on the left is the imd which is implantable medical device
+and tonight in the tent you can see it they've exhibited it it's about this big the size of a pacemaker it's implanted with very conventional techniques
+and the exd is an external device that you can have on your night table it'll wake you up and tell you to get your tail to the emergency room when the thing goes off because if you don 't you're in deep doo doo
+and then finally a programmer that will set the level of the stimulation which is the level which says you are having a heart attack
+the fda says okay test this final device after it's built in some animal which we said is a pig
+so we had to get this pig to have a heart attack and when you go to the farmyard you can't easily get pigs to have heart attacks
+so we said well we're experts in stents tonight you'll see some of our invented stents we said so we'll put in a stent but we're not going to put in a stent that we'd put in people
+we took two copper stents and we put it in the artery of this pig and let me show you the result that's very gratifying
+as far as people who have heart disease are concerned there it was thursday morning we
+the pig 's medication and there is his electrogram the signal from inside the pig 's heart coming out by radio telemetry
+then on friday at six forty three he began to get certain signs which later we had the pig run around i'm not going to go into this early stage
+but look what happened at ten six after we removed this pig 's medication that kept him from having a heart attack any one of you now is an expert on st elevation can you see it there
+can you see it in the picture after the big rise of the qrs you see st elevation this pig at ten six
+was having a heart attack what happens after you have the heart attack this blockage your rhythm becomes irregular
+and that's what happened forty five minutes later then ventricular fibrillation the heart quivers instead of beats this is just before death of the pig
+and then the pig died it went flat line but we had a little bit over an hour where we could 've saved this pig 's life well because of the fda we didn't save the pig 's life
+because we need to do this type of animal research for humans but when it comes to the sake of a human we can save their life we can
+the lives of people who are at high risk for a heart attack what is the response to acute myocardial infarction a heart attack today
+finally you go to the emergency room you wait as burns and other critical patients are treated because seventy five percent of the patients who go to an emergency room with chest pains don't have ami so you're not taken very seriously
+they finally see you it takes more time to get your electrocardiogram on your skin and diagnose it and it's hard to do because they don't have the baseline data which the computer we put in
+finally if you're lucky you are treated in three or four hours after the incident but the heart muscle has died and that is the typical treatment in the advanced world not africa that's the typical treatment in the advanced world today
+so we developed the angelmed guardian system and we have a device inside this patient called the implanted angelmed guardian and when you have a blockage the alarm goes off
+and it sends the alarm and the electrogram to an external device which gets your baseline electrogram from twenty four hours ago and the one that caused the alarm so you can take it to the emergency room and show them and say take care of me right away
+then it goes to a network operations center where they get your data from your patient database that's been put in at some central location say in the united states
+then it goes to a diagnostic center and within one minute of your heart attack your signal appears on the screen of a computer and the computer analyzes what your problem is and the person who 's there
+the medical practitioner calls you this is also a cell phone and says mister smith you're in deep doo doo you have a problem we've called the ambulance
+the ambulance is on the way it'll pick you up and then we're going to call your doctor tell him about it we're going to send him the signal that we have that says you have a heart attack and we're going to send the signal to the hospital
+and we're going to have it analyzed there and there you're going to be with your doctor and you'll be taken care of so you won 't die of a heart attack that's the first invention that i wanted to describe
+and their lives are being totally ruined by it we have a mission statement for our company doing migraine which is
+know there's a certain faraday 's law which says if i apply a magnetic pulse on salt water that's your brains by the way
+so here 's a picture of what we're doing the patients who have a migraine preceded by an aura
+have a band of excited neurons that's shown in red that moves at three to five millimeters a minute towards the mid brain
+and when it hits the mid brain that's when the headache begins there's this migraine that is preceded by a visual aura
+and this visual aura by the way and i'll show you a picture but it sort of begins little with little dancing lights gets bigger and bigger until it fills your whole visual field
+and what we tried was this here is a device called the cadwell model mes ten weighs about seventy pounds
+has a wire about an inch in diameter and here 's one of the patients who has an aura and always has a headache bad one after the aura what do we do
+this is what an aura looks like it's sort of funny dancing lights shown there on the left and right side and that's a fully developed visual aura as we see on top in the middle
+our experimentalist the neurologist who said i 'm going to move this down a little and i'm going to erase half your aura and by god
+the neurologist did erase it and that's the middle picture half of the aura erased by a short magnetic pulse what does that mean
+that means that the magnetic pulse is generating an electric current that's interfering with the erroneous electrical activity in the brain
+and finally he says okay now i'm going to all of the aura get erased with an appropriately placed magnetic pulse what is the result
+we designed a magnetic depolarizer that looks like this that you could have a lady in her pocket book and when you get an aura you can try it
+and see how it works well the next thing they have to show is what was on abc news channel seven last week in new york city in the eleven o'clock news
+well my first reaction was that it
+but for christina sidebottom almost anything was worth trying if it could stop a migraine
+even frightening as you walk around with it in your purse but researchers here in ohio organizing clinical trials for this migraine zapper say
+sound that in fact when the average person gets a migraine it's caused by something similar to an electrical impulse the zapper creates a magnetic
+but is it safe to use every day experts say the research has actually been around for more than a decade and more long term studies need to be done christina now swears by it
+and that is the invention to treat migraines
+the problem is thirty million americans have migraine headaches and we need a means to treat it and i think that we now have
+and this is the first device that we did and i'm going to talk about my second wish which has something to do with this our conclusions from our studies so far at three research centers is
+there is a marked improvement in pain levels after using it just once the most severe headaches responded better after we did it several times and the unexpected finding indicates that even established headaches not only those with aura
+get treated and get diminished and auras can be erased and the migraine then does not occur and that is the migraine invention that we are talking about and that we are working on
+third and last invention began with an idea
+epileptic focus now unfortunately us technical people unlike mister bono have to get into all these technical words well
+we sense at a place in your brain which is called an epileptic focus which is where epilepsy where the epileptic seizure begins
+we sense there that it's going to happen and then we respond by applying an electrical energy at that spot
+which erases the errant signal so that you don't get the clinical manifestations of the migraine headache
+we use current pacemaker defibrillator technology that's used for the heart we thought we could adapt it for the brain the device could be implanted under the scalp to be totally hidden
+and avoid wire breakage which occurs if you put it in the chest and you try to move your neck around form a company to produce a neuro pacemaker for epilepsy as well as other diseases of the brain because
+all diseases of the brain are a result of some electrical malfunction in it that causes many if not all of brain disorders
+we formed a company called neuropace and we started work on responsive neuro stimulation and this is a picture of what the device looked
+in the scalp it's opened the neurosurgeon has a template he marks it around
+and uses a dental burr to remove a piece of the cranial bone exactly the size of our device and tonight you'll be able to see the device in the tent
+and then we've with four screws we put in a frame then we snap in the device and we run with wires the one shown in green will go to the surface of the brain with electrodes
+to the epileptic focus the origin of the epilepsy where we can sense the electrical signal and have computer analysis that tells us when to hit it with some electrical current to prevent the clinical manifestation of the seizure
+in the blue wire we see what's called a deep brain electrode if that's the source of the epilepsy we can attack that as well
+the comprehensive solution this is the device it's about one inches by two inches and oddly enough just the thickness of most cranial bones
+the advantages of responsive neurostimulation it can detect and terminate seizures before the clinical symptoms occur provide stimulation only when needed can be turned off if seizures disappear
+it has minimal side effects as a matter of fact in all our clinical trials to date we've seen no side effects in the forty or so patients in whom it's been implanted
+and it's an invisible cosmetically hidden so if you have epilepsy and you have the device no one will know it because you can't tell that it's
+and this shows what an electroencephalogram is and on the left is the signal of a spontaneous seizure of one of the patients
+then we stimulated and you see how that heavy black line and then you see the electroencephalogram signal going to normal which means they did not get the epileptic seizure
+that concludes my discussion of epilepsy and which is the third invention that i want to discuss here this afternoon
+i have three wishes well i can't do much about africa i'm a tech i'm into medical gadgetry which is mostly high tech stuff like mister bono talked about
+the first wish is to use the epilepsy responsive neurostimulator called rns for responsive neurostimulator that's a brilliant acronym
+for the treatment of other brain disorders well if we're going to do it for epilepsy why the hell not try it for something else
+then you saw what that device looked like that the woman was using to fix her migraines i tell you this that's something which some research engineer like me would concoct not a real designer of good equipment
+we want to have some people who really know how to do this perform human engineering studies to develop the optimum design
+for the portable device for treating migraine headaches and some of the sponsors of this ted meeting are such organizations
+then we're going to challenge the ted attendees to come up with a way to improve health care in the usa where we have problems that africa doesn't have and by reducing malpractice litigation
+quickly to my first wish the brain operates by electrical signals if the electrical signals create a brain disorder electrical stimulation can overcome that disorder
+by acting on the brain 's neurons in other words if you've screwed up electrical signals maybe by putting other electrical signals from a computer in the brain we can counteract that
+a signal in the brain that triggers brain dysfunction might be sensed as a trigger for electrostimulation like we're doing with epilepsy but even if there is no signal
+such as obsessive compulsive disorder that presently is not well treated with drugs and includes five million americans and mister fischer
+and his group at neuropace and myself believe that we can have a dramatic effect in improving ocd in america and in the world that is the first wish
+the second wish is at the present time the clinical trials of transcranial magnetic stimulators that's what tms means
+the present portable device is far from optimally designed both as to human factors as appearance i think she said it looks like a gun a lot of people don't like guns
+engage a company having prior successes for human factors engineering and industrial design to optimize the design
+of the first portable tms device that will be sold to the patients who have migraine headaches and that is the second wish
+and of the one hundred thousand dollar prize money that ted was so generous to give me i am donating fifty thousand dollars to the neuropace people to get on with the treatment of ocd obsessive compulsive disorder
+and i'm making another fifty thousand available for a company to optimize the design of the device for migraines and that's how i'll use my one hundred thousand dollar prize money
+well the third and final wish is somewhat unfortunately it's much more complicated because it involves lawyers well medical malpractice litigation in the us has escalated the cost
+ended up badly the high cost of health care in the us is partly due to litigation and insurance costs i've seen pictures
+as a starting point for discussion with the ted group a major part of the problem is the nature of the written extent of informed consent that the patient or spouse must read and sign
+for example i asked the epilepsy people what are they using for informed consent would you believe twelve pages single space
+the patient has to read before they're in our trial to cure their epilepsy what do you think someone has at the end of reading twelve single space pages they don't understand what the hell it's about
+that's the present system how about making a video we have entertainment people here we have people who know how to do videos with visual presentation of the anatomy and procedure done with animation everybody knows
+no i don 't well then let 's go to a simpler explanation then there's a simpler one and oh yes i understand that well press the button and you're on record you understand
+and that is one of the ideas now also a video is done of the patient or spouse and medical presenter with the patient agreeing that he understands the procedure to be done including all the possible failure modes
+the patient or spouse agree not to file a lawsuit if one of the known procedure failures occurs now in america in fact you cannot give up your right to trial by jury however
+if the video is there that everything was explained to you and you have it all in the video file it'll be much less likely that some hotshot lawyer will take this case on contingency because it won 't be nearly as good a case
+if a medical error occurs the patient or spouse agree to a settlement for fair compensation by arbitration instead of going to
+that would save hundreds of millions of dollars in legal costs in the united states and would decrease the cost of medicine for everyone these are just some starting points
+and so there that's the end of all my wishes i wish i had more wishes but three is what i've got and there they are

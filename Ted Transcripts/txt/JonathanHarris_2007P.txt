@@ -1,0 +1,84 @@
+so i'm going to talk today about collecting stories in some unconventional ways this is a picture of me from a very awkward stage in my life
+you might enjoy the awkwardly tight cut off pajama bottoms with balloons anyway it was a time when i was mainly interested in collecting imaginary stories so
+area of work that i've been doing recently so i'll be talking about each of those today so first of all my own stories these are two of my sketchbooks i have
+many of these books and i've been keeping them for about the last eight or nine years they accompany me wherever i go in my life and i fill them with all sorts of things records of my lived experiences so watercolor paintings
+drawings of what i see dead flowers dead insects pasted ticket stubs rusting coins business cards writings
+and in these books you can find these short little glimpses of moments and experiences and people that i meet and you know after keeping these books for a number of years i started to become very interested in collecting not only my own personal artifacts but also
+the artifacts of other people so i started collecting found objects this is a photograph i found lying in a gutter in new york city about ten years ago
+you can see the tattered black and white photo of a woman 's face and on the back it says to judy the girl with the bill bailey voice have fun in whatever you do
+and i really loved this idea of the partial glimpse into somebody 's life as opposed to knowing the whole story just knowing a little bit of the story and then letting your own mind fill in the rest and that idea of a partial glimpse is something that will come back in a lot of the work i'll be showing later today
+so around this time i was studying computer science at princeton university and i noticed that it was suddenly possible to collect these sorts of personal artifacts not just from street corners but also from the internet
+and that suddenly people en masse were leaving scores and scores of digital footprints online that told stories of their private lives
+blog posts photographs thoughts feelings opinions all of these things were being expressed by people online and leaving behind trails so i started to write computer programs that study very very large sets of these online footprints
+one such project is about a year and a half old it's called we feel fine this is a project that scans the world 's newly posted blog entries every two or three minutes searching for occurrences of the phrases i feel and i am feeling
+and what the weather conditions were like when they wrote that sentence it collects about twenty thousand such sentences a day and it's been running for about a year and a half having collected
+each dot being a single sentence stated by a single blogger and the color of each dot corresponds to the type of feeling inside so the bright ones are happy and the dark ones are sad
+and the diameter of each dot corresponds to the length of the sentence inside so the small ones are short and the bigger ones are longer
+i feel fine with the body i'm in there'll be no easy excuse for why i still feel uncomfortable being close to my boyfriend from a twenty two year old in japan
+i got this on some trading locally but really don't feel like screwing with wiring and crap also some of the feelings contain photographs in the blog posts and when that happens
+these montage compositions are automatically created which consist of the sentence and images being combined and any of these can be opened up to reveal the sentence inside i
+i feel rough now and i probably gained one hundred thousand pounds but it was worth it
+i love how they were able to preserve most in everything that makes you feel close to nature butterflies man made forests limestone caves and hey even a huge python
+so the next movement is called mobs this provides a slightly more statistical look at things this is showing the world 's most common feelings overall right now dominated by better then bad then good then guilty and so on
+causes the feelings to assume the physical traits of the weather they represent so the sunny ones swirl around the cloudy ones float along the rainy ones fall down and the snowy ones flutter to the ground you can also stop a raindrop and open the feeling inside
+kissed numerous other boys and it hasn't felt good the kisses felt messy and wrong but kissing lucas feels beautiful and almost spiritual i feel sassy
+i feel so sexy in this new wig as you can see we feel fine collects very very small scale personal stories sometimes stories as short as two or three words so really even challenging the notion of what can be considered a story
+and recently i've become interested in diving much more deeply into a single story and that's led me to doing some work with the physical world not with the internet and only using the internet at the very last moment as a presentation medium
+so these are some newer projects that actually aren't even launched publicly yet the first such one is called the whale hunt last may i spent nine days living up in barrow alaska the northernmost settlement in the united states with a family of inupiat eskimos
+for a whale to come close enough to attack and when it does it throws a harpoon at it and then hauls the whale up under the ice and cuts it up and that would provide the community 's food supply for a long time so i went up there and i lived with these guys out in their whaling camp here and photographed the entire experience beginning with the taxi ride to newark airport in new york and ending with the butchering of the second whale seven and a half days later
+that entire experience at five minute intervals so every five minutes i took a photograph when i was awake with the camera around my neck when i was sleeping with a tripod and a timer
+and then in moments of high adrenaline like when something exciting was happening i would up that photographic frequency to as many as thirty seven photographs in five minutes so what this created was a photographic heartbeat that sped up and slowed down more or less matching the changing pace of my own heartbeat
+that was the first concept here the second concept was to use this experience to think about the fundamental components of any story what are the things that make up a story
+dates when did it occur and in the case of the whale hunt also this idea of an excitement level the thing about stories though in most of the existing mediums that we're accustomed to things like novels radio photographs movies even lectures like this one
+we're very accustomed to this idea of the narrator or the camera position some kind of omniscient external body through whose eyes you see the story we're very used to this
+but if you think about real life it's not like that at all i mean in real life things are much more nuanced and complex and there's all of these overlapping stories intersecting and touching each other and so
+i thought it would interesting to build a framework to surface those types of stories so in the case of the whale hunt how could we extract something like the story of simeon and crawford involving the concepts of wildlife tools and blood
+this larger story i built a web interface for viewing the whale hunt that attempts to do just this so these are all three thousand two hundred and fourteen pictures taken up there
+this is my studio in brooklyn this is the arctic ocean and the butchering of the second whale seven days later you can start to see some of the story here told by
+color so this red strip signifies the color of the wallpaper in the basement apartment where i was staying and things go white as we move out onto the arctic ocean
+you can see a timeline showing you the exciting moments throughout the story these are organized chronologically wheel provides a slightly more
+this is the ice starting to freeze over the snow fence they built and so what i'll show you now is the ability to pull out sub stories so here you see the cast these are all of the people in the
+whale hunt and the two whales that were killed down here and we could do something as arbitrary as say extract the story of
+and you can see rony cutting up the whale here these whales are about forty feet long and weighing over forty tons and they provide the food source for the community for much of the year
+skipping ahead a bit more here this is rony on the whale carcass
+they use no chainsaws or anything it's entirely just blades and an incredibly efficient process this is the guys on the rope pulling open the carcass
+this is the muktuk or the blubber all lined up for community distribution its baleen moving on so
+to tell you about next is a very new thing it's not even a project yet so just yesterday i flew in here from singapore and before that i was spending
+two weeks in bhutan the small himalayan kingdom nestled between tibet and india and i was doing a project there about happiness interviewing a lot of local people so bhutan has this really
+wacky thing where they base most of their high level governmental decisions around the concept of gross national happiness instead of gross domestic product
+and they've been doing this since the seventies and it leads to just a completely different value system it's an incredibly non materialistic culture where people don't have a lot but they're incredibly happy so i went around and i talked to people about some of these ideas
+so i did a number of things i asked people a number of set questions and took a number of set photographs and interviewed them with audio and also took pictures
+i would start by asking people to rate their happiness between one and ten which is kind of inherently absurd and then when they answered i would inflate that number of balloons and give them that number of balloons to hold so you have some really happy
+and then i would ask them a number of questions like what was the happiest day in their life what makes them happy and then finally i would ask them to make a wish
+and when they made a wish i would write their wish onto one of the balloons and take a picture of them holding it so i'm going to show you now just a few brief snippets of some of the interviews that i did some of the people i spoke with this is an eleven year old student
+she thinks that women have a pretty tough go of things in bhutan and it's a lot easier if you're a boy to help poor people
+fifty three year old farmer she was chaffing wheat and that pile of wheat behind her had taken her about a week to make she wanted to keep farming until she dies
+you can really start to see the stories told by the hands here she was wearing this silver ring that had the word love engraved on it and she'd found it in the road somewhere
+a sixteen year old quarry worker this guy was breaking rocks with a hammer in the hot sunlight but he just wanted to spend his life as a farmer
+he was kind of too shy to make a funny face
+she wanted to become an independent woman i asked her about that and she said she meant that she doesn't want to be married because in her opinion when you get married in bhutan as a woman your chances to live an independent life kind of end and so she had no interest in that
+a twenty four year old truck driver there are these terrifyingly huge indian trucks that come careening around one lane roads with two lane traffic with
+she wanted a change in her life she lives in a little worker 's camp right next to the road and she wanted a different lot on things
+eighty one year old itinerant farmer i saw this guy on the side of the road and he actually doesn't have a
+had this amazing knife that he pulled out of his gho and started brandishing when i asked him to make a funny face
+all good natured a ten year old
+to join a school and learn to read but his parents didn't have enough money to send him to school
+this orange sugary candy that he kept dipping his fingers into and since there was so much saliva on his hands this orange paste started to form on his palms
+thirty seven year old road worker one of the more touchy political subjects in bhutan is the use of indian
+cheap labor that they import from india to build the roads and then they send these people home once the roads are built so these guys were in a worker 's gang mixing up asphalt one morning on the side of the highway his wish was to make some money and open a store
+she was chewing betlenut which caused her teeth over the years to turn very red
+her wish was to make a pilgrimage to tibet i asked her how long she planned to live in the nunnery and she said well you know of course it's impermanent but my plan is to live here until i'm thirty and then enter a hermitage and i said you mean like a cave
+and she said yeah like a cave and i said wow and how long will you live in the cave and she said well you know i
+seem like somebody i could have bumped into on the streets of new york or in vermont where i'm from but here she had been living in a nunnery for the last seven years
+i asked her a little bit more about the cave and what she planned would happen once she went there you know what if she saw the truth after just one year what would she do for the next thirty five years in her life and this is what she said
+i think i'm going to stay for thirty five maybe ten years
+ten years are you hoping to
+are you hoping to but yeah ok
+do you hope would you prefer to live in the cave for forty years or to live for one year
+but i prefer for maybe forty to fifty jh forty to fifty
+i wish you the best of luck with it thank you jh i hope it's everything that you hope it will be so thank you again so much
+so if you caught that she said she hoped to die when she was around forty that was enough life for her
+so the last thing we did very quickly is i took all those wish balloons there were one hundred and seventeen interviews one hundred and seventeen wishes and i brought them up to a place called dochula which is a mountain pass in bhutan at ten thousand three hundred feet
+one of the more sacred places in bhutan and up there there are thousands of prayer flags that people have spread out over the years and we re inflated all of the balloons
+put them up on a string and hung them up there among the prayer flags and they're actually still flying up there today so if any of you have any bhutan travel plans in the near future you can go check these out here are some images from that
+we said a buddhist prayer so that all these wishes could come true thanks very much

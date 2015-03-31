@@ -1,0 +1,64 @@
+last year i told you the story in seven minutes of project orion which was this very implausible technology that
+could have worked but it had this one year political window where it could have happened so it didn't happen it was a dream that did not happen this year
+to tell you the story of the birth of digital computing this was a perfect introduction and it's a story that did work it did happen and the machines are all around us and it was a technology that
+was inevitable if the people i'm going to tell you the story about if they hadn't done it somebody else would have so it was sort of the right idea at the right time this is
+the universe we live in now it's the universe in which these machines are now
+doing all these things including changing biology i'm starting the story with the first atomic bomb at trinity
+how arithmetic and logic are the same thing and if you want to do artificial thinking and artificial logic you can do it all with arithmetic he said you needed addition and subtraction
+here we have all the binary arithmetic and logic that drove the computer revolution and leibniz was the first person to really talk about building such a machine
+he talked about doing it with marbles having gates and what we now call shift registers where you shift the gates drop the marbles down the tracks and that's what all these machines are doing except instead of doing it with marbles they're doing it with electrons
+all the theory to actually build this thing which also goes back to turing who before that gave the idea that you could do all this with a very brainless little
+finite state machine just reading a tape in and reading a tape out the other sort of genesis of what von neumann did was
+difficulty of how you would predict the weather lewis richardson saw how you could do this with a cellular array of
+really the simplest computer it's basically why you need the qubit because it only has two ideas and you put lots of those together
+you get the essentials of the modern computer the arithmetic unit the central control the memory the recording medium the input and the output
+but there's one catch this is the fatal you know we saw it in
+to the eniac here but actually the machine i'm going to tell you about the institute for advanced study machine which is way up there really should be down there so i'm trying to revise history
+a whole new world and these people saw it the guy who was supposed to build this machine was the guy in the middle vladimir zworykin from
+'s offices rca started this whole thing off and said you know televisions are the future not computers the essentials were all there all the things that make
+oppenheimer who had built the bomb the machine was actually used mainly for doing bomb calculations and julian bigelow who took the worker 's place as the engineer to actually figure out using electronics how you would build this thing the whole gang of people
+who came to work on this and women in front who actually did most of the coding were the first programmers these were the prototype geeks the nerds they didn't fit in at the institute
+is a letter from the director concerned about especially unfair on the matter of sugar you can read
+you can read this
+is hackers getting in trouble for the first time these
+j six the common radio tube because they found they were more reliable than the more expensive tubes and what they did at the institute
+was publish every step of the way reports were issued so that this machine was cloned at fifteen other places around the world
+spots on the face of the tube very very sensitive to electromagnetic disturbances so there's forty of these tubes like a v forty engine running the memory
+the input and the output was by teletype tape at first this is a wire drive using bicycle wheels this is the archetype of the hard disk that's in your machine now then they switched to a magnetic drum
+this is modifying ibm equipment which is the origins of the whole data processing industry later at ibm and this is the beginning of
+was already off in a theoretical cloud doing abstract sorts of studies of how you could build reliable machines out of unreliable components those guys drinking all the tea with sugar in it
+seems ok so he had to focus each tube just to get the memory up and running let alone having you know software problems no use went home
+machine or human aha so they figured out it's a code problem found trouble in code i hope code error machine not guilty dammit i can be just as stubborn as this thing
+and the dawn came so they ran all night twenty four hours a day this thing was running mainly running bomb calculations everything up to this point is wasted time what 's the use good night
+master control off the hell with it way off something 's wrong with the air conditioner smell of burning v belts in the air a short do not turn the machine on ibm machine
+putting a tar like substance on the cards the tar is from the roof so they really were working under tough conditions here
+a mouse has climbed into the blower behind the regulator rack set blower to vibrating result no more mouse here lies mouse born
+running at two kilocycles that's two thousand cycles per second yes i'm chicken so two kilocycles was slow speed the high speed was sixteen kilocycles
+both results how will i know which is right assuming one result is correct this now is the third different output i know when i'm licked we 've duplicated errors
+before machine run fine code isn 't only happens when the machine is running and sometimes
+okay machine a thing of beauty and a joy forever perfect running parting thought
+fifty two that was designed on that machine in the woods behind the institute so von neumann invited a whole gang of weirdos from all over the world to work on
+all these problems barricelli he came to do what we now call really artificial life trying to see if in this artificial universe
+began his universe started march three rd fifty three so it's almost exactly it's fifty years ago next tuesday i guess
+and he saw everything in terms of he could read the binary code straight off the machine he had a wonderful rapport other people couldn't get the machine running it always worked for him
+even errors were duplicated doctor barricelli claims machine is wrong code is right so he designed this universe and ran it when the bomb people went home
+he was allowed in there he would run that thing all night long running these things if anybody remembers stephen wolfram who reinvented this stuff
+and he started doing that started giving these little numerical organisms things they could play with playing chess with other machines and so on and they did start to evolve
+and he went around the country after that every time there was a new fast machine he started using it and saw
+is doing running as a multi cellular organism on many machines he envisioned all that happening and he saw that evolution itself was an intelligent process
+or a new kind of life it just was another version of the same thing happening and there's really no difference between what he was doing in the computer and what nature did billions of years ago
+and could you do it again now so when i went into these archives looking at this stuff lo and behold the archivist came up one day saying i think we found another box that had been thrown out
+and it was his universe on punch cards so there it is fifty years later sitting there sort of suspended animation
+that you haven't explained yet and i think that's really the truth we still don't understand how these very simple instructions
+can lead to increasing complexity what's the dividing line between when that is lifelike and when it really is alive
+these cards now thanks to me showing up are being saved and the question is should we run them or not you know could we get them running do you want to let it loose on the internet these machines would think they
+ten thousand million times the size of the universe that they lived in when barricelli quit the project he was thinking far ahead to how this would really grow into a new kind of life and that's what happening when
+what barricelli imagined that this digital code in these machines is actually starting to code
+it already is coding from nucleic acids we've been doing that since you know since we started pcr and synthesizing
+this was published after he died his sort of unfinished notes on self reproducing machines what it takes to get the machines sort of jump started to where they begin to reproduce
+it took really three people barricelli had the concept of the code as a living thing von neumann saw how you could build the machines that now
+ten days ago this is john markoff 's obituary for him he was the important missing link the engineer who came in and knew how to put those vacuum tubes together
+and make it work and all our computers have inside them the copies of the architecture that he had to just design
+one day sort of on pencil and paper and we owe a tremendous credit to that and he explained
+in a very generous way the spirit that brought all these different people to the institute for advanced study in the forties to do this project and make it freely available with no patents no restrictions no intellectual property
+julian bigelow who was running it until midnight when the machine was officially turned off and that's the end thank you very much

@@ -1,0 +1,19 @@
+very quickly concrete blocks became the most used construction unit in the world they enabled us to to build things that were larger than us buildings bridges one brick at a time essentially concrete blocks had become the building block of our time
+it was called the automatic binding brick and in a few short years lego bricks took place in every household it 's estimated that over four hundred billion bricks have been produced or seventy five bricks for every person on the planet
+meanwhile the exact same year at bell labs the next revolution was about to be announced the next building block the transistor was a small plastic unit that would take us from a world of static bricks piled on top of each other to a world where everything was interactive
+like the concrete block the transistor allows you to build much larger more complex circuits one brick at a time
+but there 's a main difference
+the transistor was only for experts i personally don 't accept this that the building block of our time is reserved for experts so i decided to change that
+eight years ago when i was at the media lab i started exploring this idea of how to put the power of engineers in the hands of artists and designers
+a few years ago i started developing littlebits let me show you how they work
+with each one specific function
+they 're pre engineered to be light
+and the best part about it is they snap together with magnets so you can 't put them the wrong way
+the bricks are color coded green is output blue is power pink is input and orange is wire so all you need to do is snap a blue to a green and very quickly you can start making larger circuits
+you put a blue to a green you can make light
+you can put a knob in between
+and now you 've made a little blinker
+here 's an example of a project they made a motion activated confetti canon ball
+that 's afraid of the dark
+of contributors because this world that we live in this interactive world is ours
+so go ahead and start inventing thank

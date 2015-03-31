@@ -1,0 +1,74 @@
+or was or kind of am a toy designer and before i was a toy designer oh i was a mime a street mime actually
+and then i was an entertainer i guess and before that i was a silversmith and before that i was i was out of the house at about fifteen and a half and i
+really cool anyway i wanted
+to show you a little bit about the world of toy design at least from my small aperture of the world this is a this is a video i made when i first started
+doing toy design i'm in my garage making weird stuff and then you go to these toy companies and there's some guy across the table and he goes pass pass pass you know you think it's so cool but they anyway i'd made this little tape that i always show when i go in this is the name of my
+so i used to work at mattel actually and after i left mattel i started
+all these hamburger makers and then got the license to make the maker so this is a hamburger maker that you take the peanut butter and stuff and you put it in there and it makes and this is a french fry maker little tiny
+this now that's the mcnugget maker and this is a this is my oldest daughter making a mcapple pie and let 's see you can make the pie and cinnamon and sugar and then you eat and you eat
+about three hundred pounds now no she's not she's beautiful this is how they looked when they came out at the end these are a this is like a fifteen million dollar line and it through some
+through some a
+that paid the rent for about a month this is a walking barbie i said oh this is
+i'm using little phone connectors
+and then i made a lego animator i thought this would be so great and you know lego don't
+i started doing animatronics i loved dinosaurs i used to be in the film business kind of and actually nicholas negroponte saw this when i was like twelve and anyway so then they said no you have to make and
+so this is a i used to kind of be an actor and i'm not really very good at it but the this is a guy named doctor yutz who would take toys
+and show kids about engineering and you can see the massively parallel processing nintendos there and over to the left is a view master of the cd rom and a guy named stan reznikov did this as a pilot this is a you can see the little
+that was the first batch of products most of them did not go you get one out of twenty one out of thirty products and every now and then we do something like a
+you know an automated hair wrap machine you know that tangles your hair and pulls your scalp out and and we'd make some money on that you know and we'd give it out but eventually
+we left la and we moved to idaho where there was actually a lot of peace and quiet and i started working on this project oh i have to tell you about this real quick
+you know you to find innovation and i tried to sum this up in some kind of symbol that means something to me anyway and so art and science have a kind of dynamic balance that's where i think innovation happens and actually this is to me how i
+can come up with great ideas but it's not how you actually get leverage actually you have to put a circle around that and call it business and those three together i think give you leverage in the world but moving on so this is a quick tale i'm going to tell this is the furby tale
+as he said i was co inventor of the furby i did the body and creature well you'll see so by way of showing you this you can kind of get an understanding of what it is to hopefully try to create
+robotic life forms or technology that has an emotional connection with the user so this is my family
+this is my wife christi and abby and melissa and my seventeen year old now emily who was just a pack of trouble all right there 's there's that robot again i came out of the movie business as i said and i said let 's make these animatronic robots let 's make these things
+and so i've always had a big interest in this this one actually didn't go anywhere but i got my feet wet doing this this is a smaller one and i have a little moving torso on there a little tiny guy walks along more servo drives lots of servo hacking lots of mechanical stuff
+so the challenge was i worked for microsoft for a little bit working on the microsoft barney and this is a you know the purple dinosaur with kind of bloat wear and you know
+fewest pieces we could use to make a little life form and that's our little thirty cent mabuchi motor and so i have all these design books like i'm sure many of you have and throughout the books this is the first page on furby i have kind of the art and science i have the
+over here and the how over there i try to do a lot of philosophy a lot of thinking about all of these projects because they're not just bing ideas you have to really dig deep
+that turned out to be a little more than true there's my first exploded view and all the little pieces and the little worm drive and all that stuff
+the little bb in the box is my tilt sensor i just basically gnawed all this stuff out of plastic
+so there's the back of his head with a billion holes in it and there i am i'm done there's my little furby no it's a little robot on heroin or something i think
+right now you see i love little robots so my wife says well you may like it but nobody else will so she comes to the rescue this is my wife christi who is just you know
+so here 's a little pink one a little pouf on his head and here 's this didn't do so well in testing either i don't know why there's my favorite demon furby that was a good one
+and since then every time i come home from toys r us with dolls or something they disappear from my desk and they get hidden in the house i have three girls and they just they it's like a rescue animal thing they're going
+little tether coming off it's just a control for the fur 's mouth and his eyes it's just a little server control and i made a
+and that's how we sold him and hasbro actually said i meant tiger electronics at the time said yeah we want to do this we have you know
+ran the parts for that so this is how they come out close to the end and then they looked like little garfields there eight months later you may remember this this was a
+total total total chaos for a while they were making two million furbys a month they actually wound up doing about forty million furbys i it's unbelievable how
+i don't know how that can be and hasbro made about you know a billion and a half dollars so
+full circle why do i do this why do you you know try to do this stuff and it's of course for your kids and there's my youngest daughter with her furbys and she still actually has those so i kind of retired and we're already living in paradise up in boise on a river you know
+and then i started another company called toy innovation and we did some projects with mattel with a actually with a lady who 's here ivy ross and
+moves baby made it in wired magazine did a bunch of other stuff and then i started another company we did a little
+guy saw it and then people started to want to do it and they said they'd spend all this time so i said ok let 's try to do this dinosaur project the crazy idea is we're going to try to
+a dinosaur as much as we can with today 's technology and it's not really but as close as we can do and we're going to try to really
+pull this off intentfully try to make something that seems like it's alive not a robot that kind of does but let 's really go for it
+so i picked a camarasaurus because the camarasaurus was the most abundant of the sauropods in north america and you could actually find full fossil evidence of these that's a juvenile and so we actually went in there's a book
+very very obsessive there's a kind of truncated camarasaurus skeleton but the geometry 's correct and then i went in and measured all the geometry because
+i figured hey biomimicry if i do it kind of right it might move kind of like the real thing so there's the motor and about this time you know all these other people are starting to help here 's an example of what we did with the skull there's the skull
+there's some solid works versions of it here 's some sla parts of the same thing and then these are really crude pieces we were just doing some tests here there's the skull pretty much the same shape as the camarasaurus there's a
+photo realistic eye behind a lens and there's kind of the first exploded view or see through view there's the first sla version and it already kind of has the feel it has kind of a cuteness already
+and the thing about blending science and art in this multidisciplinary stuff is you can do a robot and then you go back and do the shape and then you go back and forth the servos in the front legs we had to shape those like muscles they had to fit within the
+a tremendous amount of work to get all that working right all the neck and the tail are cable so it moves smoothly and organically and then of course you're not done yet you have to get the look for the skin the skin 's a whole another thing probably the hardest part
+so you hire artists and you try to get the look and feel of the character now this is not with character designers right
+and we're still trying to keep with the real character so now you go back and you cover the whole thing with clay now you start doing the sculpture for this and you can see we got a guy from who 's just
+john sosoka is our cto and is really the man that's done most of the work with our like forty person company i'd like to give john a hand he never gets recognition this right
+it's very painful so these
+and you can probably see them this i on purpose they go through life stages so when you first get them they're babies and you more you have them kind of the older they get and they kind of learn through their behavior so this one this one 's actually asleep and
+so this guy 's listening to my voice here but they have forty sensors all over their body they have seven processors they have fourteen motors they have
+you don't care do you they're just cute right that's the idea that's the idea
+so you see hey come
+good wake up wake up wake up yeah they're like kids you know you yeah
+he 's hungry i'll show you what he 's been doing for for four years here here here have some money pleo
+that's what the investors think that right right so
+they're really sweet little guys and we're hoping that you know our belief is that humans need to feel empathy towards
+things in order to be more human and we think we can help that out by having
+little creatures that you can love now these are
+a feeling of caring and we have
+i have a little something here now i do want to say that
+you know ugobe is not there yet we've just opened the door and it's for all of you to step through it we did include some things that are hopefully useful
+me pleo they he has a usb and he has a sd card so it's completely open architecture so anyone can plug him thank you this is john over here anyone can take pleo and they can totally redo
+you can change his homeostatic drives or whatever you want to call them kids can just drag and drop put in new sounds we actually so it's
+so it's he likes that
+so they're a handful we hope you get one
+missing to say but as a last thing i'd like to say is that if we continue along this path we are designing our

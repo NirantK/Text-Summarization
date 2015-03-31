@@ -1,0 +1,86 @@
+so i really consider myself a storyteller but i don't really tell stories in the usual way in the sense that i don't usually tell my own stories
+but i also think that we have trouble seeing that you know as i look around the world i see a lot of gaps and i think we all see a lot of gaps
+and we define ourselves by our gaps you know there's language gaps there's ethnicity and racial gaps there's age gaps there's gender gaps
+common and i think one thing we have in common is a very deep need to express ourselves i think this is a very old human desire
+it's nothing new but the thing about self expression is that there's traditionally been this imbalance between the desire that we have to express ourselves and the number of sympathetic friends who are willing to stand around and listen
+this also is nothing new since the dawn of human history we've tried to rectify this imbalance by making art writing poems singing songs scripting editorials and sending them in to a newspaper gossiping with friends
+this is nothing new what's new is that in the last several years a lot of these very traditional physical human activities these acts of self expression have been moving onto the internet
+and as that's happened people have been leaving behind footprints footprints that tell stories of their moments of self expression and so what i do is i
+these sorts of questions one project that explores these ideas which was made about a year ago is a piece called we feel fine this is a piece that
+those phrases it grabs the sentence up to the period and then automatically tries to deduce the age gender and geographical location of the person that wrote that sentence
+then knowing the geographical location and the time we can also then figure out the weather when that person wrote the sentence
+all of this information is saved in a database that collects about twenty thousand feelings a day it's been running for about a year and a half it's reached about seven and a half million human feelings now
+show you a glimpse of how this information is then visualized so this is we feel fine what you see here are
+a madly swarming mass of particles each of which represents a single human feeling that was stated in the last few hours
+the color of each particle corresponds to the type of feeling inside so that happy positive feelings are brightly colored and sad negative feelings are darkly colored
+the diameter of each dot represents the length of the sentence inside so that the large dots contain large sentences and the small dots contain small sentences any dot can be clicked and expanded and we see here
+i would just feel so much better if i could curl up in his arms right now and feel his affection for me in the embrace of his body and the tenderness of his lips so it gets pretty
+in the world of human emotions and all of these are stated by people i know that objectively it really doesn't mean much but after spending so many years as a small fish in a big pond
+it's nice to feel bigger again the dots exhibit human qualities they kind of have their own physics and they swarm wildly around kind of exploring the world
+of life and then they also exhibit curiosity you can see a few of them are swarming around the cursor right now you can see some other ones are swarming around the bottom left corner of the screen around six words
+six words represent the six movements of we feel fine we're currently seeing madness there's also murmurs montage mobs metrics and mounds and i'll walk you through a few of those now
+murmurs causes all of the feelings to fly to the ceiling and then one by one in reverse chronological order they excuse themselves entering the scrolling list of feelings
+i feel a bit better now
+i feel confused and unsure of what the hell i want to do
+i feel gypped out of something awesome here
+i feel so free i feel so good i feel like i'm in this fog of depression that i can't get out of and you can click any of these to go out and visit the blog from which it was collected and in that way you can connect with the authors of these statements if you feel some degree of empathy
+the next movement is called montage montage causes all of the feelings that contain photographs to become extracted and display themselves in a grid
+this grid is then said to represent the picture of the world 's feelings in the last few hours if you will each of these can be clicked and we can blow it up we see
+i just feel like i'm not going to have fun if it's not the both of us someone in michigan
+someone in michigan we see
+i feel like i have been at a computer all day
+i think i feel a little
+the next movement is called mobs mobs provides different statistical breakdowns of the population of the world 's feelings in the last few hours we see that better is the most frequent feeling right now followed by good bad guilty
+down sick and so on we can also get a gender breakdown and we see that women are slightly more prolific talking about their emotions in the last few hours than men
+we can do an age breakdown which gives us a histogram of the world 's emotional distribution by age we see people in their twenties are the most prolific followed by teenagers and then people in their thirties and it dies out very quickly from there
+in weather the feelings assume the physical characteristics of the weather that they represent so that the ones collected on a sunny day swirl around as if they're part of the sun
+the cloudy ones float along as if they're on a breeze the rainy ones fall down as if they're in a rainstorm and the snowy ones kind of flutter to the ground
+finally location causes the feelings to move to their positions on a world map showing the geographical distribution of feelings metrics provides more numerical views on the data we see that the world is feeling used at three point three times the normal level right now
+feeling warm at two point nine times the normal level and so on other views are also available here are gender age weather location the final movement is called mounds it's a bit different from the others mounds
+we see better is the most frequent feeling followed by bad and then if i go over here the list begins to scroll and there's actually thousands of feelings that have been collected you can see the little pink cursor moving along representing our position
+here we see people that feel slipping nauseous responsible there's also a search capability if you're interested in finding out about a certain population
+for instance you could find women who feel addicted in their twenties when it was cloudy in bangladesh
+but i'll spare you that so here are some of my favorite montages that have been collected i feel so much of my dad alive in me that there isn't even room for me
+i feel in love with carolyn i feel so
+i feel these weirdoes are actually an asset to college life
+i love how i feel today
+so as you can see we feel fine uses a technique that i call passive observation what i mean by that is that it passively observes people as they live their lives it scans the world 's blogs and looks at what people are writing and these people don't know they're being watched or interviewed
+and because of that you end up getting very honest candid sincere responses that are often very moving and this is a technique that i usually prefer in my work because people don't know they're being interviewed they're just living life and they end up just acting like that
+and this is what it looked like it's a spinning globe the surface of which is entirely composed of the pictures and words and drawings of people that submitted to the time capsule
+two modes to the time capsule there's one world which presents the spinning globe and many voices which splits the data out into film strips and lets you sift through them one by one
+this project was punctuated by a really amazing event which was held in the desert outside albuquerque in new mexico at the jemez pueblo
+where for three consecutive nights the contents of the capsule were projected onto the sides of the ancient red rock canyon walls which stand about two hundred feet tall it was really incredible and we also projected
+the time capsule as binary code using a thirty five watt laser into outer space you can see the orange line leaving the desert floor at about a forty five degree angle there this was amazing because
+the first night i looked at all this information and really started seeing the gaps that i talked about earlier the differences in age gender and wealth and so on
+but you know as i looked at this more and more and more and saw these images go across the rocks i realized i was seeing the same archetypal events depicted again and again and again you know weddings births
+this picture here was taken the final night from a distant cliff about two miles away where the contents of the capsule were being beamed into space and there was something very moving about all of this human expression
+i would often look up into the dark sky and see the three star belt of orion the hunter and as an adult i've been more aware of the great greek myths playing out in the sky overhead every night
+you know orion facing the roaring bull perseus flying to the rescue of andromeda zeus battling chronos for control of mount olympus i mean these are the great
+tales of the greeks and it caused me to wonder about our world today and it caused me to wonder specifically if we could make new constellations today
+my new project which is debuting here today at ted nobody 's seen this yet publicly it's called universe revealing our modern mythology and it uses this metaphor of an interactive night sky
+so it's my great pleasure now to show this to you so universe will open here and you'll see that it leads with a shifting star field
+and there's an aurora borealis in the background kind of morphing with color the color of the aurora borealis can be controlled using this single bar of color at the bottom and
+put it down here to red so you see this kind of these stars moving along now these aren't just little points of light little pixels each of those stars actually represents a
+and you might notice that as the cursor begins to touch some of these stars that shapes begin to emerge we see here there's a little man walking along or maybe a woman and we see here a photograph with a head
+you can start to see words emerging here and those are the constellations those are the constellations of today and i can turn them all on and you can see them moving across the sky now
+this is the universe of two thousand and seven the last two months the data from this is global news coverage from thousands of news sources around the world it's using the api of a really great company that i work with in new york actually called daylife
+and it's kind of the zeitgeist view at this level of the world 's current mythology over the last couple of months so we can see where it's emerging here like president ford
+iraq bush and we can actually isolate just the words i call them secrets and we can cause them to form an alphabetical list and we see anna nicole smith
+and now that becomes the center and the things that relate to ford enter its orbit and swirl around it we can isolate just the photographs and we now see
+we can click on one of those and have the photograph be the center of the universe now the things that relate to it are swirling around we can click on this and we see this iconic image of betty ford kissing her husband 's coffin
+in universe there's kind of no end it just goes infinitely and you can just kind of click on stuff this is a photographic representation called snapshots but we can actually
+be more specific in defining our universe so if we want to let 's check out what bill clinton 's universe looks like and let 's see in the past week
+he 's been up to so now we have a new universe which is just constrained to all things bill clinton we can have his constellations emerge here
+we can pull out his secrets and we see that it has a lot to do with candidates hillary presidential barack obama
+we can see the stories that bill clinton is taking part in right now any of those can be opened up so we see obama and the clintons meet in alabama you can see that this is an important story there's a lot of things in its orbit
+if we open this up we get different perspectives on this story you can click any of those to go out and read the article at the source this one 's
+we can also see the superstars these would be the people that are kind of
+looming heroes and heroines in the universe of bill clinton so there's bill clinton hillary iraq george bush barack obama scooter libby these are kind of the people of bill clinton
+we can also see a world map so this shows us the geographic reach of bill clinton in the last week or so we can see he 's been focused in america because he 's been campaigning probably but a little bit of action over here in the middle east
+and then we can also see a timeline so we see that he was a bit quiet on saturday but he was back to work on sunday morning and
+see what that universe looks like here we have our star field here we have our shapes here we have our secrets so we see again climate change is large nairobi
+global conference environmental and there's also quotes that you can see if you're interested in reading about quotes on climate change you know this is really an infinite thing the superstars of climate change in two thousand and six united states britain china
+you know these are the towering countries that kind of define this concept so this is a piece that demands exploration this will be online in several days probably next tuesday and you'll all be able to use it
+and kind of explore what your own personal mythology might be you'll notice that in daylife rather in universe it supports both the notion of a global mythology
+which is represented by something as broad as say two thousand and seven and also a personal mythology as you search for the things that
+are important to you in your world and then see what the constellations of those might look like so it's been a pleasure thank you very much

@@ -1,0 +1,30 @@
+many of these do it yourself practices were lost in the second half of the twentieth century
+so conductive ink allows us to paint circuits instead of using the traditional printed circuit boards or wires in the case of this little example i 'm holding we used it to create a touch sensor that reacts to my skin by turning on this little light
+and this is a sheet of acrylic infused with colorless light diffusing particles what this means is that while regular acrylic only diffuses light around the edges this one illuminates across the entire surface when i turn on the lights around it
+two of the known applications for this material include interior design and multi touch systems
+and thermochromic pigments change color at a given temperature so i 'm going to place this on a hot plate that is set to a temperature only slightly higher than ambient and you can see what happens
+so these are just a few of what are commonly known as smart materials in a few years they will be in many of the objects and technologies we use on a daily basis
+we may not yet have the flying cars science fiction promised us but we can have walls that change color depending on temperature keyboards that roll up and windows that become opaque at the flick of a switch
+so i 'm a social scientist by training so why am i here today talking about smart materials
+well first of all because i am a maker i 'm curious about how things work and how they are made but also because i believe we should have a deeper understanding of the components that make up our world and right now we don 't know enough about these high tech composites our future will be made of
+smart materials are hard to obtain in small quantities there 's barely any information available on how to use them and very little is said about how they are produced so for now they exist mostly in this realm of
+trade secrets and patents only universities and corporations have access to
+so a little over three years ago kirsty boyle and i started a project we called open materials it 's a website where we and anyone else who wants to join us share experiments publish information encourage others to contribute whenever they can
+and aggregate resources such as research papers and tutorials by other makers like ourselves
+we would like it to become a large collectively generated database of do it yourself information on smart materials
+but why should we care how smart materials work and what they are made of
+first of all because we can 't shape what we don 't understand and what we don 't understand and use ends up shaping us the objects we use the clothes we wear the houses we live in all have a profound impact on our behavior health and quality of life
+so if we are to live in a world made of smart materials we should know and understand
+so many times amateurs not experts have been the inventors and improvers of things ranging from mountain bikes to semiconductors personal computers airplanes
+jordan bunker who had had no experience with chemistry until then read this paper and reproduced the experiment at his maker space using only off the shelf substances and tools
+he used a toaster oven and he even made his own vortex mixer based on a tutorial by another scientist maker
+so jordan 's main form of innovation was to take an experiment created in a well equipped lab at the university and recreate it in a garage in chicago using only cheap materials and tools he made himself
+and now that he published this work others can pick up where he left and devise even simpler processes and improvements
+another example i 'd like to mention is hannah perner wilson 's kit of no parts her project 's goal is to highlight the expressive qualities of materials while focusing on the creativity and skills of the builder
+electronics kits are very powerful in that they teach us how things work
+but the constraints inherent in their design influence the way we learn so hannah 's approach on the other hand is to formulate a series of techniques for creating unusual objects that free us from pre designed constraints by teaching us about the materials themselves
+just like jordan and so many other makers hannah published her recipes and allows anyone to copy and reproduce them
+but paper electronics is one of the most promising branches of material science in that it allows us to create cheaper and flexible electronics
+so the interesting thing about makers is that we create out of passion and curiosity and we are not afraid to fail we often tackle problems from unconventional angles and in the process end up discovering alternatives or even better ways to do things
+back then computers were these large mainframes only scientists cared about and no one dreamed of even having one at home
+so it 's a little strange that i 'm standing here and saying you must understand smart materials now just keep in mind that acquiring preemptive knowledge about emerging technologies is the best way to ensure that we have a say in the making of our future thank you

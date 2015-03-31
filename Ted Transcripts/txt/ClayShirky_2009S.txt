@@ -1,0 +1,73 @@
+about the transformed media landscape and what it means for anybody who has a message they want to get out to anywhere in the world and i want to illustrate that by telling a couple of stories about that transformation i'll start here
+last november there was a presidential election you probably read something about it in the papers and there was some concern that in some parts of the country there might be voter suppression
+and so a plan came up to video the vote and the idea was that individual citizens with phones capable of taking photos or making video
+would document their polling places on the lookout for any kind of voter suppression techniques and would upload this to a central place and that this would operate as a kind of
+citizen observation that citizens would not be there just to cast individual votes
+but also to help insure the sanctity of the vote overall so this is a pattern that assumes we're all in this together what matters here
+technical capital it's social capital these tools don't get socially interesting until they get technologically boring
+it isn't when the shiny new tools show up that their uses start permeating society it's when everybody is able to take them for granted
+because now that media is increasingly social innovation can happen anywhere that people can take for granted the idea
+is the largest increase in expressive capability in human history now that's a big claim i'm going to try to back it up there are only
+periods in the last five hundred years where media has changed enough to qualify for the label revolution the first one is the famous one
+then a couple of hundred years ago there was innovation in two way communication conversational media first the telegraph then the telephone slow text based conversations then real time voice
+then about one hundred and fifty years ago there was a revolution in recorded media other than print first photos then recorded sound
+you want to have a conversation in this world you have it with one other person if you want to address a group you get the same message and you give it to everybody in the group
+doing that with a broadcasting tower or a printing press that was the media landscape as we had it in the twentieth century
+and this is what changed this thing that looks like a peacock hit a windscreen is bill cheswick 's map of the internet he traces the edges of the individual networks and then color codes
+the phone gave us the one to one pattern and television radio magazines books gave us the one to many pattern the internet gives us the many to many
+for the first time media is natively good at supporting these kinds of conversations that's one of the big
+the second big change is that as all media gets digitized the internet also becomes the mode of carriage for all other media
+because groups that see or hear or watch or listen to something can now gather around and talk to each other as well
+and the third big change is that members of the former audience as dan gilmore calls them can now also be producers
+and not consumers every time a new consumer joins this media landscape a new producer joins as well because the same equipment
+phones computers let you consume and produce it's as if when you bought a book they threw in the printing press for free it's like you had a phone that could turn into a radio if you pressed the right
+that is a huge change in the media landscape we're used to and it's not just internet or no
+had the internet in its public form for almost twenty years now and it's still changing as the media becomes more social it's still changing patterns even among groups who know how to
+deal with the internet well second story last may china in the sichuan province had a terrible earthquake seven point nine magnitude massive destruction in a wide area as the richter scale has it and the earthquake was
+as it was happening people were texting from their phones they were taking photos of buildings they were taking videos of buildings shaking they were uploading it to qq china 's largest internet service they were twittering it and so
+as the quake was happening the news was reported and because of the social connections chinese students coming elsewhere and going to school
+the last time china had a quake of that magnitude it took them three months to admit that it had happened
+now they might have liked to have done that here rather than seeing these pictures go up online but they weren't given that choice because their own citizens beat them to the punch
+even the government learned of the earthquake from their own citizens rather than from the xinhua news agency and this stuff rippled like wildfire for a while there
+the top ten most clicked links on twitter the global short messaging service nine of the top ten links were about the quake people collating information pointing people to news sources pointing people to the us geological survey
+one was kittens on a treadmill but that's the internet for
+in those first hours and within half a day
+sites were up and donations were pouring in from all around the world this was an incredible coordinated
+global response and the chinese then in one of their periods of media openness decided that they were going to let it go that they were going to let this citizen reporting fly
+the reason so many school buildings collapsed is that corrupt officials had taken bribes to allow those building to be built to less than code
+in front of these protesters in order to get them to go away essentially to say we will do anything to placate you just please stop protesting
+but these are people who have been radicalized because thanks to the one child policy they have lost everyone in their next generation someone who has seen the death of a single child now has nothing to lose and so the protest kept going and finally
+the chinese cracked down that was enough of citizen media and so they began to arrest the protesters they began to shut down the media that the protests were happening
+china is probably the most successful manager of internet censorship in the world using something that is widely described as the great firewall of china
+and the great firewall of china is a set of observation points that assume that media is produced by professionals it mostly comes in from the outside world
+comes in in relatively sparse chunks and it comes in relatively slowly and because of those four characteristics they are able to filter it as it comes into the
+but like the maginot line the great firewall of china was facing in the wrong direction for this challenge because not one of those four things was true in this environment
+the media was produced locally it was produced by amateurs it was produced quickly and it was produced at such an incredible abundance that there was no way to filter it as it
+and so now the chinese government who for a dozen years has quite successfully filtered the web is now in the position of having to decide whether to allow or shut
+entire services because the transformation to amateur media is so enormous that they can't deal with it any other
+they were simply shutting down access to twitter because there was no way to filter it other than that they had to turn the spigot entirely
+these changes don't just affect people who want to censor messages they also affect people who want to send messages because this is really a transformation of the ecosystem as a whole not just
+the classic media problem from the twentieth century is how does an organization have a message that they want to get out
+to a group of people distributed at the edges of a network and here is the twentieth century answer bundle up the message send the same message
+national message targeted individuals relatively sparse number of producers very expensive to do so there is not a lot of competition this is how you
+reach people all of that is over we are increasingly in a landscape where media is global social ubiquitous and cheap
+now most organizations that are trying to send messages to the outside world to the distributed collection of the audience are now
+to this change the audience can talk back and that's a little freaky but you can get used to it after a while as people do but that's not the really crazy change that we're living in
+really crazy change is here it's the fact that they are no longer disconnected from each other the fact that former consumers are now producers the fact that the
+we saw some of the most imaginative use of social media during the obama campaign and i don't mean most imaginative use in politics i mean most imaginative use
+and one of the things obama did was they famously the obama campaign did was they famously put up my barak obama dot com mybo com and millions of citizens rushed in to participate and to try and figure out how to help
+an incredible conversation sprung up there and then this time last year obama announced that he was going to change his vote on
+the foreign intelligence surveillance act he had said in january that he would not sign a bill that granted telecom immunity for possibly warrantless spying on american
+by the summer in the middle of the general campaign he said i 've thought about the issue more i've changed my mind i'm going to vote for this bill and many of his own supporters on his own site went very publicly berserk
+it was senator obama when they created it they changed the name later please get fisa right within days of this group being created it was the fastest growing group on mybo com within weeks of its being created it was the largest
+obama had to issue a press release he had to issue a reply and he said essentially i have considered the issue i understand where you are coming from but
+thing happened in the conversation people in that group realized that obama had never shut them
+nobody in the obama campaign had ever tried to hide the group or make it harder to join to deny its existence to delete it to take to off the site they had understood
+that their role with mybo com was to convene their supporters but not to control their
+and that is the kind of discipline that it takes to make really mature use of this media media
+the media landscape that we knew as familiar as it was as easy conceptually as it was to deal with the idea that professionals broadcast messages to amateurs is increasingly slipping
+in a world where media is global social ubiquitous and cheap in a world of media where the former audience are now increasingly full participants
+in that world media is less and less often about crafting a single message to be consumed
+by individuals it is more and more often a way of creating an environment for convening and supporting groups
+and the choice we face i mean anybody who has a message they want to have heard anywhere in the world isn't whether or not that is the media environment we
+that's the media environment we've got the question we all face now is how can we make best use of this media even though it means changing the way we've always done it thank you very much

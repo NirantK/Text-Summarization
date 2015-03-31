@@ -1,0 +1,81 @@
+no keys the cop says are you sure hey buddy are you sure you lost your keys here and the guy says no no actually i lost them down at the other end of the street but the light is better here
+there 's a concept that people talk about nowadays called big data and what they 're talking about is all of the information that we 're generating through our interaction with and over the internet everything from facebook and twitter to music downloads movies streaming all this kind of stuff the live streaming of ted
+and the folks who work with big data for them they talk about that their biggest problem is we have so much information the biggest problem is how do we organize all that information
+i can tell you that working in global health that is not our biggest problem
+because for us even though the light is better on the internet
+the data that would help us solve the problems we 're trying to solve is not actually present on the internet
+so we don 't know for example how many people right now are being affected by disasters
+or by conflict situations we don 't know for really basically any of the clinics in the developing world which ones have medicines and which ones don 't we have no idea of what the supply chain is for those clinics
+we don 't know and this is really amazing to me we don 't know how many children were born or how many children there are in bolivia or botswana or bhutan
+we don 't know how many kids died last week in any of those countries we don 't know the needs of the elderly the mentally ill for all of these different critically important problems or critically important areas that we want to solve problems in we basically know nothing at all
+and part of the reason why we don 't know anything at all is that the information technology systems that we use in global health
+to find the data to solve these problems is what you see here and this is about a five thousand year old technology some of you may have used it before it 's kind of on its way out now but we still use it for ninety nine percent of our stuff this is a paper form
+and what you 're looking at is a paper form in the hand of a ministry of health nurse in indonesia who is tramping out across the countryside in indonesia on i 'm sure a very hot and humid day and she is going to be knocking on thousands of doors over a period of weeks or months
+knocking on the doors and saying excuse me
+we 'd like to ask you some questions
+do you have any children were your children vaccinated
+because the only way we can actually find out how many children were vaccinated in the country of indonesia what percentage were vaccinated is actually not on the internet but by going out and knocking on doors
+sometimes tens of thousands of doors sometimes it takes months to even years to do something like this you know a census of indonesia would probably take two years to accomplish and the problem of course with all of this is that
+with all those paper forms and i 'm telling you we have paper forms for every possible thing we have paper forms for vaccination surveys we have paper forms to track people who come into clinics we have paper forms to track drug supplies blood supplies all these different paper forms
+for many different topics they all have a single common endpoint and the common endpoint looks something like this
+and what we 're looking at here is a truckful o data
+this is the data from a single vaccination coverage survey
+in a single district in the country of zambia from a few years ago that i participated in
+the only thing anyone was trying to find out is what percentage of zambian children are vaccinated and this is the data collected on paper over weeks from a single district which is something like a county in the united states you can imagine that for the entire country of zambia answering just that single question
+into a computer when i was a graduate student i actually was that unfortunate person sometimes i can tell you i often wasn 't really paying attention
+i probably made a lot of mistakes when i did it that no one ever discovered so data quality goes down
+but eventually that data hopefully gets typed into a computer and someone can begin to analyze it and once they have an analysis and a report hopefully then you can take the results of that data collection and use it to vaccinate children better because if there 's anything worse in the field of global public health
+i don 't know what 's worse than allowing children on this planet to die of vaccine preventable diseases
+diseases for which the vaccine costs a dollar and millions of children die of these diseases every year and the fact is millions is a gross estimate because we don 't really know how many kids die each year of this
+what makes it even more frustrating is that the data entry part the part that i used to do as a grad student can take sometimes six months sometimes it can take two years to type that information into a computer and sometimes actually not infrequently it actually never happens now try and wrap your head around that for a second
+you just had teams of hundreds of people they went out into the field to answer a particular question you probably spent hundreds of thousands of dollars on fuel and photocopying and per diem
+and then for some reason momentum is lost or there 's no money left and all of that comes to nothing because no one actually types it into the computer at all the process just stops happens all the time this is what we base our decisions on in global health
+little data old data no data
+so back in one thousand nine hundred and ninety five i began to think about ways in which we could improve this process now one thousand nine hundred and ninety five obviously that was quite a long time ago it kind of frightens me to think of how long ago that was the top movie of the year was die hard with a vengeance as you can see bruce willis had a lot more hair back then i was working in the centers for disease control
+i had a lot more hair back then as well
+but to me the most significant thing that i saw in one thousand nine hundred and ninety five was this
+hard for us to imagine but in one thousand nine hundred and ninety five this was the ultimate elite mobile device right it wasn 't an iphone it wasn 't a galaxy phone it was a palm pilot and when i saw the palm pilot for the first time i thought
+of typing of having somebody type that stuff into the computer we can skip straight to the analysis and then straight to the use of the data to actually save lives so that 's actually what i began to do working at cdc i began to travel to different programs around the world and to train them in using
+while i was doing it my business partner rose who 's here with her husband matthew here in the audience rose was out doing similar stuff for the american red cross the problem was after a few years of doing that i realized i had done i had been to maybe six or seven programs
+and i thought you know if i keep this up at this pace over my whole career maybe i 'm going to go to maybe twenty or thirty programs
+but the problem is twenty or thirty programs
+like training twenty or thirty programs to use this technology
+that is a tiny drop in the bucket the demand for this the need for data to run better programs just within health not to mention all of the other fields in developing countries is enormous there are millions and millions and millions of programs millions of clinics that need to track drugs
+millions of vaccine programs there are schools that need to track attendance there are all these different things
+for us to get the data that we need to do and i realized
+if i kept up the way that i was doing i was basically hardly going to make any impact by the end of my career
+and so i began to wrack my brain trying to think about you know what was the process that i was doing how was i training folks and what were the bottlenecks and what were the obstacles to doing it faster and to doing it more efficiently and unfortunately after thinking about this for some time i realized i identified the main obstacle
+and the main obstacle it turned out and this is a sad realization the main obstacle was me
+so what do i mean by that
+i had developed a process whereby i was the center of the universe of this technology
+if you wanted to use this technology you had to get in touch with me that means you had to know i existed then you had to find the money to pay for me to fly out to your country and the money to pay for my hotel and my per diem and my daily rate so you could be talking about ten thousand or twenty thousand or thirty thousand dollars if i actually had the time or it fit my schedule and i wasn 't on vacation
+and this is a problem for which we need to scale this technology and we need to scale it now and so i began to think of ways in which i could basically take myself out of the picture and
+you know i was thinking how could i take myself out of the picture for quite some time
+and you go out there and you spend money on airfare and you spend time and you spend per diem and you spend on a hotel and you spend all that stuff as far as i knew that was the only way you could distribute technology and i couldn 't figure out a way around it but the miracle that happened
+i 'm going to call it hotmail for short now you may not think of hotmail as being miraculous but for me it was miraculous because i noticed just as i was wrestling with this problem i was working in sub saharan africa mostly at the time i noticed that every sub saharan african health worker that i was working with
+so these guys are distributing technology they 're getting software capacity out there but they 're not actually flying around the world
+i need to think about this some more while i was thinking about it people started using even more things just like this just as we were they started using linkedin and flickr and gmail and google maps all these things of course all of these things are cloud based
+and don 't require any training they don 't require any programmers they don 't require any consultants because the business model for all these businesses
+requires that something be so simple we can use it ourselves with little or no training you just have to hear about it and go to the website
+and so i thought what would happen if we built software to do what i 'd been consulting in instead of training people how to put
+forms onto mobile devices let 's create software that lets them do it themselves
+software called magpi which has an online form creator no one has to speak to me you just have to hear about it and go to the website
+you can create forms and once you 've created the forms you push them to a variety of common mobile phones obviously nowadays we 've moved past palm pilots to mobile phones and it doesn 't have to be a smartphone it can be a basic phone like the phone on the right there you know the basic kind of symbian phone that 's very common in developing countries
+and the great part about this
+is it 's just like hotmail it 's cloud based and it doesn 't require any training programming consultants but there are some additional benefits as well now we knew when we built this system the whole point of it just like with the palm pilots was that you 'd have to you 'd be able to collect the data and immediately upload the data and get your data set
+but what we found of course since it 's already on a computer we can deliver instant maps and analysis and graphing we can take a process that took two years and compress that down to the space of five minutes unbelievable improvements in efficiency
+cloud based no training no consultants no me
+and i told you that in the first few years of trying to do this the old fashioned way going out to each country we reached about
+i don 't know probably trained about one thousand people what happened after we did this in the second three years we had fourteen thousand people find the website sign up and start using it to collect data data for disaster response canadian pig farmers tracking pig disease and pig herds people tracking drug supplies
+have a program where semi literate midwives using dollar ten mobile phones send a text message using our software once a week with the number of births and the number of deaths which gives irc something that no one in global health has ever had a near real time
+system of counting babies of knowing how many kids are born of knowing how many children there are in sierra leone which is the country where this is happening and knowing how many children die
+physicians for human rights this is moving a little bit outside the health field they are gathering they 're basically training people to do rape exams in congo where this is an epidemic a horrible epidemic and they 're using our software to document the evidence they find including photographically
+so that they can bring the perpetrators to justice
+camfed another charity based out of the u k camfed pays girls families to keep them in school
+the attendance the grades on paper the turnaround time between a teacher writing down grades or attendance and getting that into a report was about two to three years now it 's real time and because this is such a low cost system and based in the cloud
+it costs for the entire five countries that camfed runs this in with tens of thousands of girls the whole cost combined is ten thousand dollars a year
+that 's less than i used to get just traveling out for two weeks to do a consultation
+so i told you before that when we were doing it the old fashioned way i realized all of our work was really adding up to just a drop in the bucket ten twenty thirty different programs
+we 've made a lot of progress but i recognize that right now even the work that we 've done with fourteen thousand people using this
+is still a drop in the bucket but something 's changed and i think it should be obvious what 's changed now is instead of having a program in which we 're scaling at such a slow rate that we can never reach all the people who need us we 've made it unnecessary for people to get reached by us we 've created a tool that lets programs
+keep kids in school track the number of babies that are born and the number of babies that die to catch criminals and successfully prosecute them to do all these different things to learn more about what 's going on to understand more to see more and to save lives and improve lives

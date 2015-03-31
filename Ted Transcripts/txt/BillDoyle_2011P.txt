@@ -1,0 +1,72 @@
+in our society 's life is touched by cancer if not personally then through a loved one a family member colleague
+friend and once our lives are touched by cancer we quickly learn that there are basically three weapons or three tools that are available to fight the disease
+surgery radiation and chemotherapy and once we get involved in the therapeutic decisions again either personally or with our loved ones
+i 'm very thankful to jay and to mark and the tedmed team for inviting me today to describe a fourth tool a new tool that we call tumor treating fields
+tumor treating fields were invented by dr yoram palti professor emeritus at the technion in israel and they use low intensity electric fields
+to fight cancer to understand how tumor treating fields work we first need to understand what are electric fields
+let me first address a few popular misconceptions
+first of all electric fields are not an electric current that is coursing through the tissue electric fields are not ionizing radiation like x rays or proton beams that bombard tissue to disrupt dna
+and electric fields are not magnetism
+what electric fields are are a field of forces and these forces
+act on attract bodies that have an electrical charge
+the best way to visualize an electric field is to think of gravity gravity is also a field of forces that act on masses we can all picture astronauts in space
+they float freely in three dimensions without any forces acting on them but as that space shuttle returns to earth
+and as the astronauts enter the earth 's gravitational field they begin to see the effects of gravity they begin to be attracted towards earth and as they land they 're fully aligned in the gravitational field we 're of course all stuck in the earth 's gravitational field right now that 's why you 're all in your chairs
+and that 's why we have to use our muscle energy to stand up to walk around and to lift things in cancer
+cells rapidly divide and lead to uncontrolled tumor growth
+we can think of a cell from an electrical perspective as if it 's a mini space station
+and in that space station we have the genetic material the chromosomes within a nucleus and out in the cytoplasmic soup we have special proteins that are required for cell division that float freely in this soup in three dimensions
+importantly those special proteins are among the most highly charged objects in our body
+as cell division begins the nucleus disintegrates the chromosomes line up in the middle of the cell and those special proteins
+undergo a three dimensional sequence whereby they attach and they literally click into place end on end to form chains
+these chains then progress and attach
+to the genetic material and pull the genetic material from one cell into two cells and this is exactly how one cancer cell becomes two cancer cells two cancer cells become four cancer cells and we have ultimately uncontrolled
+tumor growth tumor treating fields use
+externally placed transducers attached to a field generator to create an artificial electric field on that space station
+and when that cellular space station is within the electric field it acts on those highly charged proteins
+and aligns them and it prevents them from forming those chains those mitotic spindles that are necessary to pull the genetic material into the daughter cells
+what we see is that the cells will attempt to divide for several hours
+and they will either enter into this so called cellular suicide programmed cell death or they will form unhealthy daughter cells and enter into apoptosis once they have divided
+and we can observe this what i 'm going to show you next are two in vitro experiments this is cultures identical cultures of cervical cancer cells and we 've stained these cultures with a green florescent dye so that we can look
+at these proteins that form these chains the first clip
+shows a normal cell division without the tumor treating fields what we see are
+first of all a very active culture a lot of divisions and then very clear nuclei once the cells have separated and we can see them dividing throughout
+when we apply the fields again in the identical time scale to the identical culture you 're going to see something different the cells round up for division but they 're very static in that position we 'll see two cells in the
+and then this bubbling this membrane bubbling is the hallmark of apoptosis in this cell
+formation of healthy mitotic spindles is necessary for division
+in all cell types we 've applied tumor treating fields to over twenty different cancers in the lab and we see this effect in all of them now
+importantly these tumor treating fields have no effect on normal undividing cells
+ten years ago dr palti founded a company called novocure to develop his discovery into a practical therapy for patients
+in that time novocure 's developed two systems one system for cancers in the head and another system for cancers in the trunk of the body
+the first cancer that we have focused on is the deadly brain cancer gbm gbm affects about ten thousand people in the u s each year
+it 's a death sentence the expected five year survival is less than five percent and the typical patient with optimal therapy survives just a little over a year
+and only about seven months from the time that the cancer is first treated and then comes back and starts growing again surgery
+high dose radiation to the head and first line chemotherapy and that had failed and their tumors had grown back we divided the patients into two groups the first group received second line chemotherapy which is expected to double the life expectancy versus no treatment at all
+and then the second group received only tumor treating field therapy
+what we saw in that trial is that that the life expectancies of both groups so the chemotherapy treated group and the tumor treating field group was the same
+but importantly the tumor treating
+field group suffered none of the side effects typical of
+chemotherapy patients they had no pain suffered none of the infections they had no nausea diarrhea constipation fatigue that would be expected
+included in their approval of an oncology treatment a quality of life claim
+so i 'm going to show you now one of the patients from this trial
+robert dill bundi is a famous swiss cycling champion he won the gold medal in moscow in the four thousand meter pursuit
+and five years ago robert was diagnosed with gbm he received the standard treatments he received surgery he received high dose radiation to the head and he received first line chemotherapy
+a year after this treatment in fact this is his baseline mri you can see that the black regions in the upper right quadrant are the areas where he had surgery and a year after that treatment
+his tumor grew back with a vengeance that cloudy white mass that you see is the recurrence of the tumor at this point he was told by his doctors that he had about three months to live
+he entered our trial and here we can see him getting the therapy first of all these electrodes are noninvasive they 're attached to the skin in the area of the tumor here you can see that a technician is placing them on there much like bandages
+the patients learn to do this themselves
+and then the patients can
+undergo all the activities of their daily life there 's none of the tiredness there 's none of what is called the chemo head
+there 's no sensation it doesn 't interfere with computers or electrical equipment and the therapy is delivered continuously at home without having to go into the hospital either periodically or continually
+these are robert 's mris again under only ttfield treatment this is a therapy that takes time to work it 's a medical device it works when it 's on but what we can see is by month six
+the tumor has responded and it 's begun to melt away it 's still there by month twelve we could argue whether there 's a little bit of material around the edges but it 's essentially completely gone
+she underwent four different regimes of chemotherapy over two years none of which had an effect her cancer continued to grow
+three years ago she entered the novocure lung cancer trial
+you can see in her case she 's wearing her transducer arrays one of the front of her chest one on the back and then the second pair side to side over the liver you can see the tumor treating
+field field generator but importantly you can also see that she is living her life she is managing her farm she 's interacting with her kids and her grand kids
+and when we talked to her she said that when she was undergoing chemotherapy she had to go to the hospital every month for her infusions her whole family suffered as her side effect profile came and went
+now she can run all of the activities of her farm it 's only the beginning
+the self repair mechanisms that we have there 's now a new research project underway at the karolinska in sweden to prove that hypothesis we have more trials planned for lung cancer pancreatic cancer ovarian cancer and breast cancer and i
+firmly believe that in the next ten years tumor treating fields will be a weapon available to doctors and patients for all of these most difficult to treat solid tumors
+i 'm also very hopeful that in the next decades we will make big strides
+on reducing that death rate that has been so challenging in this disease

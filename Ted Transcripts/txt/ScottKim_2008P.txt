@@ -1,0 +1,56 @@
+the last twenty years i've been designing puzzles and i'm here today to give you a little tour starting from the very first puzzle i designed
+through what i'm doing now i've designed puzzles for books printed things i'm the puzzle columnist for discover magazine i've been doing that for about ten years i have a monthly puzzle calendar i do toys the bulk of my work is in computer games i did puzzles for bejeweled
+i didn't invent bejeweled i can't take credit for that so very first puzzle sixth grade my teacher said
+oh let 's see that guy he likes to make stuff i'll have
+him cut out letters out of construction paper for the board i thought this was a great assignment and so here is what i came up with i start fiddling with it
+this letter this is a letter of the alphabet that's been folded just once the question is which letter is it if i unfold it one hint it's not l
+it could be an l of course so what else could it be
+yeah a lot of you got it oh yeah so clever thing now that was my first puzzle i got hooked i
+created something new i was very excited because you know i'd made crossword puzzles but that's sort of like filling in somebody else's matrix this was something really original
+i got hooked i read martin gardner 's columns in scientific american went on and eventually decided to devote myself full time to that now i should pause and say what do i mean by puzzle a puzzle is a problem that is fun to solve
+might have a solution it might take a long time nobody wrote down the rules clearly who designed this
+of course there might be more than one right answer many puzzles have more than one but as opposed to a couple other forms of play toys and games by toy i mean
+you play with that doesn't have a particular goal you can create one out of legos you know you can do anything you want or competitive games like chess where well you're not trying to solve you can make a chess puzzle but the goal really is to
+beat another player i consider that puzzles are an art form they're very ancient it goes back as long as there is written history it's a very small form like a joke a poem a magic trick or a song very compact form
+at worst they're throwaways they're for amusement but at best they can reach for something more and create a memorable impression the progression of my career that you'll see is looking for creating puzzles that have a memorable impact
+so it's two profiles in black or a white vase in the middle this is called a figure ground illusion the artist m c escher exploited that in some of his wonderful prints here we have day and night here is what i did with figure and ground
+so here we have figure in black here we have figure in white and it's all part of the same design the background to one is the other
+to do the words figure and ground but i couldn't do that i realized i changed the problem it's all figure
+other things here is my name
+and that turns into the title of my first book inversions these sorts of designs now go by the word ambigram i'll show you just a couple others
+here we have the numbers one through ten the digits zero through nine actually each letter here is one of these digits not strictly an ambigram in the conventional sense
+i like pushing on what an ambigram can mean here 's the word mirror no it's not the same upside down it's the same this way
+and a marvelous fellow from the media lab who just got appointed head of risd is john maeda and so i did this for him it's sort of a visual canon
+and recently in magic magazine
+i've done a number of ambigrams on magician 's names so here we have penn and teller same upside down this appears in my
+for a while i was an interface designer and so i think a lot about interaction well let 's first of all simplify the vases illusion make the thing on the right
+now if you could pick up the black vase it would look like the figure on top if you could pick up the white area it would look like the figure on the bottom well
+you can't do that physically but on a computer you can do it let 's switch over to the p c and here it is figure ground
+in the middle and you can pick it up i'll just go one step further so here is here is a couple pieces move them together
+tell somebody something and show them but if they do it they really learn it here is another thing you can do there is a game called rush hour this is one of the true masterpieces in puzzle design besides rubik 's cube
+so here we have a crowded parking lot with cars all over the place the goal is to get the red car out it's a sliding block puzzle it's made by the company think fun it's done very well i love this
+play one here so here is a very simple puzzle well that's too simple let 's add another piece okay so how would you solve this one well move the blue one out of the way here let 's make it a little harder still pretty easy now we'll make it harder a little harder
+now this one is a little bit trickier you know what do you do here the first move is going to be what you're going to move the blue one up in order to get the lavender one to the right
+and you can make puzzles like this one that aren't solvable at all those four are locked in a pinwheel you can't get them apart i wanted to make a sequel i didn't come up with the original idea but this is another way i work as an inventor is to
+i got interested in gene sequencing and i said well how on earth can you come up with a sequence of the base pairs in dna
+cut up the dna you sequence individual pieces and then you look for overlaps and you basically match them at the edges and i said this is kind of like a jigsaw puzzle
+except the pieces overlap so here is what i created for discover magazine and it happens to be solvable in a magazine you know you can't cut out the pieces and move them around so
+here is the nine pieces and you're supposed to put them into this grid and you have to choose pieces that overlap on the edge there is only one solution it's not that hard
+but it takes some persistence and when you're done it makes this design which if you squint is the word helix
+so that's the form of the puzzle coming out of the content rather than the other way around here is a couple more here is a physics based puzzle
+which way will these fall one of these where it's fifty pounds thirty pounds and ten pounds and depending on which one weighs which amount they'll fall different directions
+and here is a puzzle based on color mixing i separated this image into cyan magenta yellow black the basic printing colors and then mixed up the separations and you get these peculiar pictures which separations were mixed up to make those pictures gets you thinking about color
+a talk about her work so we're making smart games for social media i'll explain what that means we're looking at three trends this is what's going on in the games industry right now first of all
+you know for a long time computer games meant things like doom where you're going around shooting things very violent games very fast aimed at teenage boys right
+and the main players are over thirty five and are female then recently rock band has been a big hit
+and it's a game you play with other people it's very physical it looks nothing like a traditional game this is what's becoming the dominant form of electronic gaming
+now within that there is some interesting things happening there is also a trend towards games that are good for you why well we aging boomers baby boomers
+eating our healthy food we're exercising what about our minds oh no our parents are getting alzheimer 's we better do something
+and then there is social media and what's happening on the internet everybody now considers themselves a creator and not just a viewer and what does this add up to
+game takes about a minute and twenty seconds this is your first time playing my game okay let 's see how well we can do there are three images and we have twenty four seconds each
+where is that i'll play as fast as i can but if you can see it shout out the answer you get more
+down okay yeah where is that oh yeah there okay j o and i guess that's that part we got the bow that bow helps that's his hair you get a lot of figure ground problems
+yeah that one is easy okay so ahhh okay on to the next one okay so that's the lens anybody
+like a black shape so where is that that's the corner of the whole thing
+yeah i've played this image before but even when i make up my own puzzles and you can put your own images in here and we have people all over the world doing that now there we are
+visit shufflebrain com if you want to try it yourself thank you

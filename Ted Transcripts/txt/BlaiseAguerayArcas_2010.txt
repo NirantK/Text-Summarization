@@ -1,0 +1,34 @@
+which is microsoft 's online mapping effort in the past two and a half we've been very hard at work on redefining the way maps work online
+and we really are seeing this in very different terms from the kind of mapping and direction site that one is used to
+mapping is of course not just about cartography it's also about imagery so as we zoom in beyond a certain level this resolves into a kind of sim city like
+we see this space this three dimensional environment as being a canvas on which all sorts of applications can
+play out and map 's directions are really just one of them if you click on
+this you'll see some of the ones that we've put out just in the past couple of months since we've launched so for example a couple of days after the disaster in haiti we
+an earthquake map that showed before and after pictures from the sky this wonderful one which i don't have time to show you is taking hyper local blogs in real time and mapping those stories those entries to the places that are referred to on the blogs it's wonderful
+but i'm going to show you some more candy sort of stuff so we see the imagery of course not stopping
+sky these little green bubbles represent photosynths that users have made i'm not going to dive into them either but photosynths and integrated into the map
+and so when you fly down
+thank you when you fly down to the ground
+and you see this kind of panoramic imagery the first thing that you might notice is that it's not just a picture there's
+just as much three dimensional understanding of this environment as there is of the three dimensional city from above so if i click on something to get a closer view of it
+then the fact that that transition looks as it does is a function of all of that geometry all of that three d understanding behind this model now i'll show you a fun app that
+that thank
+but what's cool about this is that not only is it augmenting this visual representation of the world with
+now i just made a transition indoors that's also interesting okay notice there's now a roof above us we're inside the pike place market
+and this is something that we're able to do with a backpack camera so we're not only imaging in the street with this camera on tops of cars but we're also imaging inside
+and from here we're able to do the same sorts of registration not only of still images but also
+of video so this is something that we're now going to try for the first time live and this is really truly very frightening okay
+all right guys are you there all right
+there we go so these are our friends in pike place market the lab
+they're broadcasting this live okay george can you pan back over to the corner market because i want to show points of interest
+the other way yeah yeah back to the corner back to the corner i don't want to see you guys yet
+back to the corner back to the corner back to the
+we're doing two different things here one of them is to take that
+now and walk back outside and while i walk outside i'll just mention that here we're using this for telepresence but you can equally well use this
+on the spot for augmented reality when you use it on the spot it means that you're able to bring all of that metadata and information about the world to you so here we're taking the extra step of also broadcasting it that was being broadcast by the way on a four g network from
+the market all right and now there's one last ted talk that microsoft has given in the past several years and that's curtis wong worldwide telescope so we're going to head over to the dumpsters where it's traditional after a long day at the market
+to go out for a break but also stare up at the sky this is the integration of worldwide telescope
+time but if we scrub the time then we can see how the sky will look at different times and we can get all this very detailed information
+about different times different dates let 's move the moon a little higher in the sky maybe change the
+date i would like to kind of zoom in on the moon
+so this is an astronomically complete representation of the sky integrated right into the earth all right now i've run my time so i've got to stop thank you all very much

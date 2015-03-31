@@ -1,0 +1,59 @@
+try and do in the next fifteen minutes or so is tell you about an idea of how we 're going to make matter come alive now this may seem a bit ambitious but when you look at yourself you look at your hands
+now this quest started four billion years ago on planet earth there 's been four billion years of organic biological life
+and as an inorganic chemist my friends and colleagues make this distinction between the organic living world and the inorganic dead world and what i 'm going to try and do is plant some ideas about how we can transform inorganic dead matter into living matter into inorganic biology
+before we do that i want to kind of put biology in its place
+and i 'm absolutely enthralled by biology i love to do synthetic biology i love things that are alive i love manipulating the infrastructure of biology
+but within that infrastructure we have to remember that the driving force of biology is really coming from evolution and evolution although it was established well over one hundred years ago by charles darwin and a vast number of other people evolution still is a little bit intangible
+and when i talk about darwinian evolution i mean one thing and one thing only and that is survival of the fittest and so forget about evolution in a kind of metaphysical way think about evolution in terms of offspring competing and some winning
+so bearing that in mind as a chemist i wanted to ask myself
+the question frustrated by biology what is the minimal unit of matter that can undergo darwinian evolution and this seems quite a profound question and as a chemist we 're not used to profound questions every day so when i thought about it then suddenly i realized that
+biology gave us the answer and in fact
+the smallest unit of matter that can evolve independently is in fact a single cell a bacteria so this raises three really important questions what is life is biology special
+biologists seem to think so
+so here 's some inorganic life this is a dead crystal and i 'm going to do something to it and it 's going to become alive and you can see it 's kind of pollinating germinating growing this is an inorganic tube and all these crystals here under the microscope were dead a few minutes ago and they look alive
+of course they 're not alive it 's a chemistry experiment where i 've made a crystal garden
+but when i saw this i was really fascinated because it seemed lifelike and as i pause for a few seconds have a look at the screen
+you can see there 's architecture growing filling the void and this is dead so i was positive that if somehow we can make things mimic life let 's go one step further let 's see if we can actually make life
+but there 's a problem because up until maybe a decade ago we were told that life was impossible and that we were the most incredible miracle in the universe in fact we were the only people in the universe
+the emergence of the first cells was as probable as the emergence of the stars and in fact let 's take that one step further let 's say that if the physics of fusion is encoded into the universe maybe the physics of life is as well
+and so the problem with chemists and this is a massive advantage as well is we like to focus on our elements in biology carbon takes center stage and in a universe where carbon exists and organic biology then we have all this wonderful diversity of life in fact
+but before we can make life let 's think for a second what life really is characterized by and forgive the complicated diagram this is just a collection of pathways in the cell
+and the cell is obviously for us a fascinating thing synthetic biologists are manipulating it
+chemists are trying to study the molecules to look at disease and you have all these pathways going on at the same time you have regulation information is transcribed catalysts are made stuff is happening but what does a cell do well it divides it competes it survives
+and i think that is where we have to start in terms of thinking about building from our ideas in life but what else is life characterized by
+and so what we have here is a description of single cells replicating metabolizing burning through chemistries and so we have to understand that if we 're going to make artificial life or understand the origin of life we need to power it somehow
+so before we can really start to make life
+we have to really think about where it came from and darwin himself mused in a letter to a colleague that he thought that life probably emerged in some warm little pond somewhere
+maybe not in scotland maybe in africa maybe somewhere else but the real honest answer is we just don 't know
+because there is a problem with the origin imagine way back four and a half billion years ago there is a vast chemical soup of stuff and from this stuff we came so when you think about the improbable nature of what i 'm going to tell you in the next few minutes just remember we came from stuff on planet earth
+and we went through a variety of worlds the rna people would talk about the rna world we somehow got to proteins and dna we then got to the last ancestor evolution kicked in and that 's the cool bit and here we are
+but there 's a roadblock that you can 't get past you can decode the genome you can look back you can link us all together by a mitochondrial dna but we can 't get further than the last ancestor
+the last visible cell that we could sequence or think back in history so we don 't know how we got here so there are two options intelligent design direct and indirect so god or my friend now
+talking about e t putting us there or some other life just pushes the problem further on
+i 'm not a politician i 'm a scientist the other thing we need to think about is the emergence of chemical complexity this seems most likely so we have some kind of primordial soup and this one happens to be a good source of all twenty amino acids and somehow
+these amino acids are combined and life begins but life begins what does that mean what is life what is this stuff of life so in the one thousand nine hundred and fifty s miller urey did their fantastic
+chemical frankenstein experiment where they did the equivalent in the chemical world they took the basic ingredients put them in a single jar and ignited them and put a lot of voltage through and they had a look at what was in the soup and they found amino acids
+but nothing came out there was no cell so the whole area 's been stuck for a while
+and it got reignited in the eighty s when analytical technologies and computer technologies were coming on
+in my own laboratory the way we 're trying to create inorganic life is by using many different reaction formats so what we 're trying to do is do reactions not in one flask but in
+tens of flasks and connect them together as you can see with this flow system all these pipes we can do it microfluidically we can do it lithographically we can do it in a three d printer we can do it in droplets for colleagues and the key thing is to have lots of complex chemistry just bubbling away
+i need some information and i need a container because if i want evolution i need containers to compete so if you have a container it 's like getting in your car this is my car and i 'm going to
+drive around and show off my car and i imagine you have a similar thing in cellular biology with the emergence of life
+so these things together give us evolution
+so what we 're going to try and do is come up with an inorganic lego kit of molecules and so forgive the molecules on the screen but these are a very simple kit there 's only maybe three or four different types of building blocks present and we can aggregate them together and make literally thousands and thousands of really big nano molecular molecules
+and just a few months ago in my lab we were able to take these very same molecules and make cells with them and you can see on the screen a cell being made and we 're now going to put some chemistry inside and do some chemistry in this cell and all i wanted to show you is we can set up
+molecules in membranes in real cells and then it sets up a kind of molecular darwinism a molecular survival of the fittest and this movie here shows this competition between molecules molecules are competing for stuff
+if we can somehow encourage these molecules to talk to each other and make the right shapes and compete they will start to form cells that will replicate and compete if we manage to do that forget the molecular detail
+does evolution control the sophistication of matter in the universe is there some driving force through evolution that allows matter to compete
+for exploring this evolution so you imagine if we 're able to create a self sustaining artificial life form not only will this tell us about the origin of life that it 's possible that the universe doesn 't need carbon to be alive it can use anything
+we can then take it one step further and develop new technologies because we can then use software control for evolution to code in so imagine we make a little cell we want to put it out in the environment and we want it to be powered by the sun
+what we do is we evolve it in a box with a light on and we don 't use design anymore we find what works we should take our inspiration from biology biology doesn 't care about the design unless it works so this will reorganize the way we design things
+but not only just that we will start to think about how we can start to develop a symbiotic relationship with biology wouldn 't it be great if you could take these artificial biological cells
+and fuse them with biological ones to correct problems that we couldn 't really deal with the real issue in cellular biology is we are never going to understand
+everything because it 's a multidimensional problem put there by evolution evolution cannot be cut apart
+you need to somehow find the fitness function and the profound realization for me is that if this works the concept of the selfish gene gets kicked up a level and we really start talking about selfish matter
+but you are made of stuff and you are using stuff and you enslave stuff so using evolution in biology and in inorganic biology for me is quite appealing quite exciting and we 're really becoming very close to understanding the key steps that makes dead stuff come alive
+and again when you 're thinking about
+how improbable this is remember five billion years ago we were not here and there was no life so what will that tell us about the origin of life and the meaning of life
+but perhaps for me as a chemist i want to keep away from general terms i want to think about specifics so what does it mean about defining life we really struggle to do this and i think if we can make inorganic biology and we can make matter become evolvable that will in fact define life
+i propose to you that matter that can evolve is alive and this gives us the idea of making evolvable matter thank you very much

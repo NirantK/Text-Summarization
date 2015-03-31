@@ -1,0 +1,51 @@
+for you very rapidly a physical object
+and the reason we can do this is through an emerging technology called additive manufacturing or three d printing this is a three d printer
+and we would pass that data with material into a machine and a process that would happen in the machine would mean layer by layer that product would be built and we can take out the physical product and ready to use or to perhaps assemble into something else
+but if these machines have been around for almost thirty years why don 't we know about them because typically they 've been too inefficient inaccessible
+not been fast enough they 've been quite expensive but today it is becoming a reality that they are now becoming successful many barriers are breaking down that means that you guys will soon be able to access one of these machines if not this minute and
+it typically reads cad data which is a product design data created on professional product design programs and here you can see an engineer it could be an architect or it could be a professional product designer create a product in three d
+and this data gets sent to a machine that slices the data into two dimensional representations of that product all the way through almost like slicing it like salami
+this material that 's deposited either starts as a liquid form or a material powder form
+and over time quite rapidly actually in a number of hours we can build a physical product ready to take out of the machine and use and this is quite
+an extraordinary idea but it is reality today
+so all these products that you can see on the screen were made in the same way they were all three d printed and
+you can see they 're ranging from shoes
+because we 're taking this data in three d form slicing it up before it gets past the machine we can actually create structures that are more intricate than any other manufacturing technology or in fact are impossible to build in any other way
+and you can create parts with moving components hinges parts within parts so in some cases we can abolish totally the need for manual labor
+it sounds great it is great
+we can have three d printers today that build structures like these this is almost three meters high
+and this was built by depositing artificial sandstone layer upon layer in layers of about five millimeters to ten mm in thickness slowly growing this structure this was created by an architectural firm called shiro and you can actually walk into it
+and on the other end of the spectrum this is a microstructure it 's created depositing layers of about four microns so really the resolution is quite incredible the detail that you can get today is quite amazing
+so who 's using it typically because we can create products very rapidly it 's been used by
+product designers or anyone who wanted to prototype a product and very quickly
+create or reiterate a design and actually what 's quite amazing about this technology as well is that you can create bespoke products en masse there 's very little economies of scale
+so you can now create one offs very easily architects for example
+building of the free university in berlin and it was designed by foster and partners again not buildable in any other way and very hard to even create this by hand
+now this is an engine component it was developed by a company called within technologies and three t rpd
+which means it 's a more efficient product you can 't create this with standard manufacturing techniques even if you tried to do it manually
+and then taking this idea of creating a very detailed structure we can apply it to honeycomb structures and use them within implants typically an implant is more effective within the body
+if it 's more porous because our body tissue will grow into it there 's a lower chance of rejection
+but it 's very hard to create that in standard ways with three d printing we 're seeing today that we can create much better implants and in fact because we can create bespoke products en masse one offs we can create implants that are specific to individuals
+so as you can see this technology and the quality of what comes out of the machines is fantastic and we 're starting to see it being used for final end products
+which is quite incredible but then it begs the question why don 't we all have one in our home because simply most of us here today don 't know how to create the data that a three d printer reads
+if i gave you a three d printer you wouldn 't know how to direct it to make what you want it to but there are more and more technologies software and processes today that are breaking down those barriers i believe we 're at a tipping point where this is now
+something that we can 't avoid
+you can download products from the web anything you would have on your desktop
+like pens whistles lemon squeezers you can use software like google sketchup
+to create products from scratch very easily
+but what interests my company the most is the fact that you can create individual unique products en masse there 's no need to do a run of thousands of millions
+or send that product to be injection molded in china you can just make it physically on the spot
+which means that we can now present to the public
+imagine that you can now engage with a brand
+and interact so that you can pass your personal attributes to the products that you 're about to buy
+view the product in three d this is the sort of three d data that a machine will read
+what color that product will be perhaps what material and also you can engage in shape manipulation of that product but within boundaries that are safe because obviously the public are not professional product designers the piece of software will keep an individual within the bounds of the possible
+and when somebody is ready to purchase the product in their personalized design they click enter and this data gets converted into the data that a three d printer reads and gets passed to a three d printer
+perhaps on someone 's desktop
+here 's the product being built
+you can see this came out of the machine in one piece and the electronics were inserted later it 's this lamp as you can see here
+scanning teeth today you can have your teeth scanned and dental coatings made in this way to fit you while you wait at the dentist a machine will quietly be creating this for you ready to insert in the teeth
+and the idea of now creating implants scanning data an mri scan of somebody can now be converted into three d data and we can create very specific implants for them
+and applying this to the idea of building up what 's in our bodies you know this is pair of lungs and the bronchial tree it 's very intricate you couldn 't really create this or simulate it in any other way
+but with mri data we can just build the product as you can see very intricately
+so just to finalize we 're all individual we all have different preferences different needs we like different things we 're all different sizes and our companies the same businesses want different things reality today

@@ -1,0 +1,86 @@
+it's great to be here we've heard a lot about the promise of technology and the peril i've been quite interested in both
+we can't do that today because solar panels are heavy expensive and very inefficient there are nano engineered designs
+which at least have been analyzed theoretically that show the potential to be very lightweight very inexpensive very efficient and we'd be able to actually provide all of our energy needs in this renewable way nano engineered fuel cells could provide the energy where it's needed
+that's a key trend which is decentralization moving from centralized nuclear power plants and liquid natural gas tankers to decentralized resources that are environmentally more friendly a lot
+more efficient and capable and safe from disruption bono spoke very eloquently that we have the tools for the first time to
+address age old problems of disease and poverty most regions of the world are moving in that direction
+being from the massachusetts high tech community myself i'd point out that we were hippies also in the nineteen sixties although we hung around harvard square
+but we do have the potential to overcome disease and poverty and i'm going to talk about those issues if we have the will kevin kelly talked about the acceleration of technology that's been a strong interest of mine and a theme that
+for some thirty years i realized that my technologies had to make sense when i finished the project that invariably the world was a different place
+when i would introduce a technology and i noticed that most inventions fail not because the r d department can't get it to work if you look at most business plans
+they will actually succeed if given the opportunity to build what they say they're going to build and ninety percent of those projects or more will fail because the timing is wrong not all the enabling factors will be in place
+when they're needed so i began to be an ardent student of technology trends and track where technology would be at different points in time
+and began to build the mathematical models of that it's kind of taken on a life of its own i've got a group of ten people that work with me to gather data
+on key measures of technology in many different areas and we build models and you'll hear people say well we can't predict the future and if you ask me
+will the price of google be higher or lower than it is today three years from now that's very hard to say will wimax cdma g three be the wireless standard three years from now that's hard to say
+there are remarkably smooth exponential curves that govern price performance capacity bandwidth and i'm going to show you a small sample of this but there's really a theoretical reason why technology
+an exponential fashion and a lot of people when they think about the future think about it linearly they think they're going to continue to develop
+into the project the skeptics were still going strong says you 're two thirds through this project and you've managed to only sequence
+a very tiny percentage of the whole genome but it's the nature of exponential growth that once it reaches the knee of the curve it explodes most of the project was done in the last
+few years of the project it took us fifteen years to sequence hiv we sequenced sars in thirty one days so we are gaining the potential to overcome
+these problems i'm going to show you just a few examples of how pervasive this phenomena is the actual paradigm shift rate the rate of adopting new ideas is doubling every decade according to our models these are all logarithmic graphs
+so as you go up the levels it represents generally multiplying by factor of ten or one hundred it took us half a century to adopt the telephone the first virtual reality technology cell phones were adopted in about eight years if you put different
+now this is an interesting chart and this really gets at the fundamental reason why an evolutionary process and both biology and technology are evolutionary processes
+they work through interaction they create a capability and then it uses that capability to bring on the next stage so the first step in biological evolution
+the evolution of dna actually it was rna came first took billions of years but then evolution used that information processing backbone to bring on the next stage so the cambrian explosion when all the body plans of the animals were
+of an evolutionary process so homo sapiens the first technology creating species the species that combined a cognitive function with an opposable appendage and by the way chimpanzees don't really have a very good
+so we could actually manipulate our environment with a power grip and fine motor coordination and use our mental models to actually change the world and bring on technology but anyway the evolution of our species took hundreds of thousands of years
+stone tools fire the wheel kept accelerating we always used then the latest generation of technology to create the next generation printing press took a century to be adopted
+the first computers were designed pen on paper now we use computers and we've had a continual acceleration of this process now by the way if you look at this on a linear graph it looks like everything has just happened
+but some observer says well kurzweil just put points on this graph that fall on that straight line so i took fifteen different lists from key thinkers like the encyclopedia britannica the museum of natural history carl sagan 's cosmic calendar
+on the same and these people were not trying to make my point these were just lists in reference works and i think that's what they thought the key events were in biological evolution and technological evolution
+see a very clear trend there's a basic profound acceleration of this evolutionary process
+a personal experience when i was at mit computer taking up about the size of this room less powerful than the computer in your
+but moore 's law which is very often identified with this exponential growth is just one example of many because it's basically a property of the evolutionary process of technology
+if we i put forty nine famous computers on this logarithmic graph by the way a straight line on a logarithmic graph is exponential growth
+of left field to continue the exponential growth they were shrinking vacuum tubes making them smaller and smaller that hit a wall they couldn't shrink them and keep the vacuum
+whole different paradigm transistors came out of the woodwork in fact when we see the end of the line for a particular paradigm it creates research pressure to create the next paradigm
+but by the teen years the features of transistors will be a few atoms in width and we won 't be able to shrink them any more that'll be the end of moore 's law but it won 't be the end of the exponential growth of computing because chips are flat we live in a three dimensional world we might as well use the third dimension
+we will go into the third dimension and it's been tremendous progress just in the last few years of getting three dimensional self organizing molecular circuits to work
+we'll have those ready well before moore 's law runs out of steam supercomputers same thing
+it's pretty remarkable how smooth an exponential process that is i mean you'd think this is the result of some tabletop
+what one molecule in a gas will do it's hopeless to predict a single molecule yet we can predict the properties of the whole gas using
+very accurately it's the same thing here we can't predict any particular project but the result of this whole worldwide chaotic unpredictable
+unlike gertrude stein 's roses it's not the case that a transistor is a transistor as we make them smaller and less expensive the electrons have less distance to travel they're faster
+other forms of innovation and processor design you get a doubling of price performance of computing every one year
+and that's basically deflation fifty percent deflation and it's not just computers i mean it's true of dna sequencing it's true of brain scanning
+it's true of the world wide web i mean anything that we can quantify we have hundreds of different measurements of different information related measurements capacity adoption rates and they basically double every twelve thirteen fifteen months depending on what you're looking at
+in terms of price performance that's a fifty forty to fifty percent deflation rate and economists have actually started worrying about that we had deflation during the
+we actually more than keep up with it we've had twenty eight percent per year compounded growth in dollars in information technology over the last
+fifty years i mean people didn't build ipods for ten thousand dollars ten years ago as the price performance makes new applications feasible
+new applications come to the market and this is a very widespread phenomena magnetic data storage that's not moore 's law it's shrinking magnetic spots different engineers different companies same exponential process
+a key revolution is that we're understanding our own biology in these information terms we're understanding the software programs that
+make our body run these were evolved in very different times we'd like to actually change those programs one little software program called the fat insulin receptor gene basically says hold onto every calorie because the next hunting season may not
+work out so well that was in the interests of the species tens of thousands of years ago we'd like to actually turn that program off they tried that in animals and these mice ate ravenously and remained slim and got the health benefits of being slim they didn't get diabetes
+get heart disease they lived twenty percent longer they got the health benefits of caloric restriction without the restriction four or five pharmaceutical companies have noticed this felt that would be
+at this conference like myself to live much longer because we were using up the precious resources which were better deployed towards the children and those caring for them so life long lifespans like that is to say much more than thirty weren't selected for
+but we are learning to actually manipulate and change these software programs through the biotechnology revolution for example we can inhibit
+genes now with rna interference there are exciting new forms of gene therapy that overcome the problem of placing the genetic material in the right place on the chromosome
+actually a for the first time now something going to human trials that actually cures pulmonary hypertension a fatal disease
+a penny in two thousand it's now under a tenth of a cent the amount of genetic data basically this is this shows that smooth exponential growth doubled every year
+enabling the genome project to be completed another major revolution the communications revolution the price performance bandwidth capacity of communications measured many different ways wired wireless
+is growing exponentially the internet has been doubling in power and continues to measured many different ways this is based on the number of
+the most exciting opportunity is actually to go inside the human body and perform therapeutic and diagnostic functions and this is less futuristic than it may sound
+tens of thousands of these in the blood cell they tried this in rats it lets insulin out in a controlled fashion and actually cures type one diabetes what you're watching is
+in its intricacy once we understand its principles of operation and the pace with which we are reverse engineering biology is accelerating
+we can actually design these things to be thousands of times more capable an analysis of this respirocyte designed by rob freitas indicates if you replace ten percent of your red blood cells with these robotic versions
+see what we do in our olympic trials presumably we'll ban them but then we'll have the specter of teenagers in their high schools gyms routinely out performing the olympic athletes
+but that'll be the hardware side of the equation where will we get the software well it turns out we can see inside the human brain and in fact
+we can understand it this is a block diagram of a model and simulation of the human auditory cortex that actually works quite well in applying psychoacoustic tests gets very similar results to human auditory perception
+we will succeed in reverse engineering the human brain by the twenty twenties we've already had very good models and simulation of about fifteen regions out of the several hundred
+of labor in the last fifty years e commerce has been growing exponentially it's now a trillion dollars you might wonder well wasn't there a boom and a bust that was strictly a capital markets
+wall street noticed that this was a revolutionary technology which it was but then six months later when it hadn't revolutionized all business models they figured well that was wrong and then we had this bust
+right this is a technology that we put together using some of the technologies we're involved in
+with ways in which machines are already superior in terms of doing analytic thinking remembering billions of facts accurately machines can share their knowledge very quickly but it's not just a alien invasion of intelligent
+we are going to merge with our technology these nano bots i mentioned will first be used for medical and health applications
+up the environment providing fuel powerful fuel cells and widely distributed decentralized solar panels and so on in the environment
+so for example full immersion virtual reality from within the nervous system the nano bots shut down the signals coming from your real senses replace them with the signals that
+brain would be receiving if you were in the virtual environment and then it'll feel like you're in that virtual environment you can go there with other people have any kind of experience
+with anyone involving all of the senses experience beamers i call them will put their whole flow of sensory experiences in the neurological correlates of their emotions out on the internet
+you can plug in and experience what it's like to be someone else but most importantly it'll be a tremendous expansion of human intelligence
+this direct merger with our technology which in some sense we're doing already we routinely do intellectual feats that would be impossible without our technology
+very rapidly in the years ahead my main message is that progress in technology is exponential not linear
+many even scientists assume a linear model so they'll say oh it'll be hundreds of years before we have
+self replicating nano technology assembly or artificial intelligence if you really look at the power of exponential growth you'll see that these things are pretty soon at hand
+and information technology is increasingly encompassing all of our lives from our music to our manufacturing to our biology
+to our energy to materials we'll be able to manufacture almost anything we need in the twenty twenties from information in very inexpensive raw materials using

@@ -1,0 +1,83 @@
+the internet the web as we know it the kind of web the things we're all talking about is already less than five thousand
+so all of the things that we've seen come about starting say with satellite images of the whole earth which we couldn't even imagine happening before
+all these things rolling into our lives just this abundance of things
+that are right before us sitting in front of our laptop or our desktop this kind of cornucopia of stuff just coming and never ending
+is amazing and we're not amazed it's really amazing that all this stuff is here
+it's in five thousand days all this stuff has come and i know that ten years ago if i had told you that this was all coming
+you're dreaming you're a californian utopian you're a wild eyed optimist and yet it's here the other thing that we know about it
+was that ten years ago as i looked at what even wired was talking about we thought it was going to be tv but better that was the model that was what everybody was suggesting was going to be coming
+it's impossible in theory but possible in practice and if you take all these things that are impossible i think one of the things that we're learning from this
+that's all these computers all these handhelds all these cell phones all these laptops all the servers basically what we're getting out of all these connections
+is we're getting one machine if there is only one machine and our little handhelds and devices are actually just little windows into those machines but that
+we're basically constructing a single global machine and so i began to think about that and it turned out that this machine happens to be the most reliable machine that we've ever made
+the internet is longer than just five thousand days the web is only five thousand days so i was trying to basically make
+and there's fifty five trillion links between all the web pages of the world and so i began thinking more about other kinds of dimensions and i made a quick list and was
+uses five percent of the global electricity on the planet so here 's the specifications just as if you were to make up a spec sheet for it one hundred and seventy quadrillion transistors fifty five trillion links emails running at two megahertz itself
+the total traffic on this is running at seven terabytes per second brewster was saying the library of congress is about twenty terabytes so every second half of the library of congress is swooshing around in this machine
+it's a big machine so i did something else i figured out one hundred billion clicks per day fifty five trillion links is almost the same as the number of synapses in your brain
+the size of this machine is the size and its complexity kind of to your brain
+in fact that's how your brain works in kind of the same way that the web works however your brain isn't doubling every two years so
+if we say this machine right now that we've made is about one hb one human brain if we look at the rate that this is increasing in thirty years from now there'll be six billion hbs
+in raw bits and stuff and this is i think where ray kurzweil and others get this little chart saying that we're going to cross so what about that well here 's a couple of things
+i have three kind of general things i would like to say three consequences of this first that basically what this machine is doing is embodying
+is looking into the one machine these are all basically portals into that one machine the second thing
+is that some people call this the cloud and you're kind of touching the cloud with this and so in some ways all you really need is a cloudbook
+the machine you're touching the cloud and you're going to compute that way so the machine is computing and in some ways it's sort of back to the kind of old idea of centralized computing
+but everything all the cameras and the microphones and the sensors in cars and everything is connected to this
+machine and everything will go through the web and we're seeing that already with say phones right now phones don't go through the web but they are beginning to
+and if you imagine what say just as an example what google labs has in terms of experiments with google docs google spreadsheets blah blah blah all these things are going to become web based
+going through the machine and i am suggesting that every bit will be owned by the web
+the web language they're going to talk to the machine the web in some sense is kind of like a black hole that's sucking up everything into it
+and so every thing will be part of the web so every item every artifact that we make will have embedded in it some little sliver of web ness and connection
+and it will be part of this machine so that our environment kind of in that ubiquitous computing sense our environment becomes the web everything is connected
+now with rfids and other things whatever technology it is it doesn't really matter the point is that everything will have embedded in it some sense of connecting it to the machine and so we have basically an internet of things
+so you begin to think of a shoe as a chip with heels and a car as a chip with wheels because basically most of the cost of manufacturing cars is the
+embedded intelligence and electronics in it and not the materials a lot of people think about the new economy as something that was going to be a disembodied
+what we're looking forward to that is where we're going this union this convergence of
+the atomic and the digital and so one of the consequences of that i believe is that where we have this sort of spectrum of media right now
+tv film video that basically becomes one media platform and while there's many differences in some senses they will share more and more in common with each other
+so that the laws of media such as the fact that copies have no value the value 's in the uncopiable things the immediacy the authentication the personalization
+the media wants to be liquid the reason why things are free is so that you can manipulate them not so that they are free as in beer but free as in freedom
+and the network effects rule meaning that the more you have the more you get the first fax machine the person who bought the first fax machine was an idiot because there was nobody to fax to
+but here she became an evangelist recruiting others to get the fax machines because it made their purchase more valuable
+those are the effects that we're going to see attention is the currency so those laws are going to kind of spread throughout all media
+and the other thing about this embodiment is that there's kind of what i call the mcluhan reversal mcluhan was saying machines are the extensions of the human senses and i'm saying humans are now going to be the extended senses of the machine in a certain sense
+so we have a trillion eyes and ears and touches through all our digital photographs and cameras and we see that in things like flickr or
+this program from microsoft that will allow you to assemble a view of a
+what the web is doing is restructuring and i have to warn you that what we'll talk about is i'm going to give my explanation of a term you're hearing which is a semantic web
+so first of all the first stage that we've seen of the internet was that it was going to link computers and that's what we called the net that was the internet of nets
+what you had to do was if you wanted to participate in this you had to share packets of information so you were forwarding on you didn't have control it wasn't like a telephone system where you had control of a line you had to share packets
+the second stage that we're in now is the idea of linking pages so in the old one if i wanted to go on to an airline web page i went from my computer to an ftp site to another
+if i want to go in to book a flight i go into the airline 's flight page the website of the airline and i'm linking to that page
+and what we're sharing were links so you had to be kind of open with links you couldn't deny if someone wanted to link to you you couldn't stop them
+you had to participate in this idea of opening up your pages to be linked by anybody so that's what we were doing
+we're now entering to the third stage which is what i'm talking about and that is where we link the data so i don't know what the name of this thing is i'm calling it the one machine
+but we're linking data so we're going from machine to machine from page to page and now data to data so the difference is is that
+rather than linking from page to page we're actually going to link from one idea on a page to another idea rather than to the other page
+so every idea is basically being supported or every item or every noun is being supported by the entire web it's being resolved at the level of items or ideas or words if you want
+so besides physically coming out again into this idea that it's not just virtual it's actually going out to things so
+so now in this new one when i link to it i would link to my particular flight my particular seat
+so here are some of the technical terms all three letter things that you'll see a lot more of all these things are about enabling this idea of linking to
+so i'll give you one kind of an example there's like a billion social sites on the web each time you go into there you have to tell it again who you are and all your friends are why should you be doing that you should just do that once
+of all the relationships between those pieces of data that's what we're moving into where it sort of knows these things down to that level a semantic web
+giant global graph we're kind of trying out what we want to call this thing but what's it's doing is sharing data so you have to be open to having your data shared
+pages they are things everything we've described every artifact or place will be a specific representation will have a
+and so there's actually a fourth thing that we have not get to that we won 't see in the next ten years or five thousand days but i think that's where we're going to and as the internet of things
+where i'm linking directly to the particular things of my seat on the plane that that physical thing becomes part of the web and so we are in the middle of this thing that's completely
+down to every object in the little sliver of a connection that it has so the last thing i want to talk about is this idea that we're going to be co dependent
+it's always going to be there and the closer it is the better if you allow google to it will tell you your search history and i found out by looking at it that i search most at eleven o'clock in the morning
+so i am open and being transparent to that and i think total personalization in this new world will require total transparency
+that is going to be the price if you want to have total personalization you have to be totally transparent google i can't remember my phone number
+so dependent on this that i have now gotten to the point where i don't even try to remember things i'll just google it it's easier to do that and we kind of object at first saying
+is happening with this is some kind of ai but it's not the ai in conscious ai as being an expert larry page told me that that's what they're trying to do and that's what they're trying to
+but when six billion humans are googling who 's searching who it goes both ways so we are the web
+just like it wasn't tv and only better the next five thousand days it's not just going to be the web but only better it's going to be something different and i think
+in a good sense secondly it's become much more personalized it will know us and that's good again the price of that will be transparency
+and thirdly it's going to become more ubiquitous in terms of filling your entire environment and we will be in the middle of it
+and all these devices will be portals into that so the single idea that i wanted to leave with you is that
+you take this whole thing it is a very big machine very reliable machine more reliable than its parts but we can also think about it
+as kind of a large organism so we might respond to it more as if this was a whole system more as if this wasn't a large organism that we are going to be interacting with
+it's a one and i don't know what else to call it than the one we'll have a better word for it but there's a unity of some sort that's starting to emerge
+so to do action take away so
+all screens look into the one no bits will live outside the web to share is to gain let the one read it
+it's going to be machine readable you want to make something that the machine can read and the one is us we are in the one i appreciate your time

@@ -1,0 +1,70 @@
+how is it how can we investigate this flora of viruses that surround us and aid medicine how can we
+into a simple hand held single diagnostic assay i want to turn everything we know right now about detecting viruses and the spectrum of viruses that are out there
+into let 's say a small chip when we started thinking about this project how we would make a single diagnostic assay to screen for all pathogens simultaneously
+not evolving very fast when people think about making pan viral detection reagents usually it's the fast evolving problem that's an issue because how can we detect things if they're always changing
+but evolution is a balance where you have fast change you also have ultra conservation things that almost never change
+and so we looked into this a little more carefully and i'm going to show you data now this is just some stuff you can do on the computer from the desktop i took a bunch of these small picornaviruses like the common cold like polio and so on
+and i just broke them down into small segments and so took this first example which is called coxsackievirus and just break it into small windows
+and i'm coloring these small windows blue if another virus shares an identical sequence in its genome to that virus
+these sequences right up here which don't even code for protein by the way are almost absolutely identical across all of these so i could use this sequence as a marker to detect a wide spectrum of viruses
+without having to make something individual now over here there's great diversity that's where things are evolving fast down here you can see slower evolution less diversity
+now by the time we get out here to let 's say acute bee paralysis virus probably a bad one to have if you're a bee this virus shares almost no similarity to coxsackievirus
+but i can guarantee you that the sequences that are most conserved among these viruses on the right hand of the screen are in identical regions right up here
+and so we can encapsulate these regions of ultra conservation through evolution how these viruses evolved by just choosing dna elements or rna elements in these regions to represent on our chip as detection reagents
+ok so that's what we did but how are we going to do that well for a long time since i was in graduate school i've been messing around making
+dna chips that is printing dna on glass and that's what you see here these little salt spots are just dna tacked onto glass and so i can put thousands of these on our glass chip and use them as a detection reagent
+we took our chip over to hewlett packard and used their atomic force microscope on one of these spots and this is what you see you can actually see the strands of dna lying flat on the glass here
+so what we're doing is just printing dna on glass little flat things and these are going to be markers for pathogens
+ok i make little robots in lab to make these chips and i'm really big on disseminating technology if you've got enough money to buy just a camry you can build one of these too and so we put a deep how to guide on the web
+totally free with basically order off the shelf parts you can build a dna array machine in your garage here 's the section on the all important emergency stop switch
+every important machine 's got to have a big red button but really it's pretty robust you can actually be making dna chips in your garage and decoding some genetic programs pretty rapidly it's a lot of fun
+and so what we did and this is a really cool project we just started by making a respiratory virus chip
+i talked about that you know that situation where you go into the clinic and you don't get diagnosed well we just put basically all the human respiratory viruses
+and infected them with various viruses and we take the stuff and fluorescently label the nucleic acid the genetic material that comes out of these tissue culture cells
+we can look at spots and if spots light up we know there's a certain virus in there that's what one of these chips really looks like and these red spots are in fact signal coming from the virus
+and each spot represents a different family of virus or species of virus and so that's a hard way to look at things so i'm just going to encode things as a little barcode grouped by family so you can see the results in a very intuitive way
+what we did is we took tissue culture cells and infected them with adenovirus and you can see this little yellow barcode next to
+you can see you can see that this barcode is the same family but it's distinct from parainfluenza three which gives you a very bad cold and so we're getting unique signatures a fingerprint for each virus
+polio and rhino they're in the same family very close to each other rhino 's the common cold and you all know what polio is and you can see that these signatures are distinct and kaposi 's sarcoma associated herpes virus
+right i can see a rhinovirus and here 's the blow up of the rhinovirus 's little barcode but what about different rhinoviruses how do i know which rhinovirus i have there's one hundred and two known variants of the common cold and there's only one hundred and two because people got bored collecting them
+this is kind of a cheap shot because i know what the genetic sequence of all these rhinoviruses is and i in fact designed the chip expressly to be able to tell them apart but what about rhinoviruses that have never seen a genetic sequencer we don't know what the sequence is just pull them out of the field
+so here are four rhinoviruses for which we never knew anything about no one 's ever sequenced them and you can also see that you get unique and distinguishable patterns you can imagine building up some library whether real or virtual of fingerprints of essentially every virus but
+again shooting fish in a barrel you know right you have tissue culture cells there's a ton of virus what about real people you can't control real people as you probably know you have no idea what someone 's going to cough into a
+and it's probably really complex right it could have lots of bacteria it could have more than one virus and it certainly has host genetic material so how do we deal with this and how do we do the positive control here well it's pretty simple
+that's me getting a nasal lavage and the idea is let 's experimentally inoculate people with virus so we this is all irb approved by the way
+they're healthy they're clean it's amazing actually we thought the nasal tract might be full of viruses even when you're walking around healthy it's pretty clean if you're healthy you're pretty healthy
+we get a very robust rhinovirus pattern and it's very similar to what we get in the lab doing our tissue culture experiment so that's great but again cheap shot right we put a ton of virus up this guy 's nose so
+we sequenced part of their viruses they're new rhinoviruses no one 's actually even seen remember our evolutionary conserved sequences we're using on this array allow us to detect even novel or uncharacterized viruses
+because we pick what is conserved throughout evolution here 's another guy you can play the diagnosis game yourself here these different blocks represent the different viruses
+in this paramyxovirus family so you can kind of go down the blocks and see where the signal is you know well doesn't have canine distemper that's probably good
+that's great here 's another individual sampled on two separate days repeat visits to the clinic this individual has parainfluenza one and you can see that there's a little stripe over here for sendai virus that's mouse parainfluenza
+the genetic relationships are very close there that's a lot of fun so we built out the chip we made a chip that has every known virus ever discovered on it
+we can get virtual patterns and compare them to our observed result which is a very complex mixture and come up with some sort of score of how likely it is this is a rhinovirus or something
+and our algorithm says it's probably papilloma type eighteen and that is in fact what these particular cell cultures are chronically infected with so let 's do something a little bit harder
+we put the beeper in the clinic when somebody shows up and the hospital doesn't know what to do because they can't diagnose it they call us that's the idea and we're setting this up in the bay area and so this case report happened three weeks ago
+we have a twenty eight year old healthy woman no travel history doesn't smoke doesn't drink ten day history of fevers night sweats bloody sputum she's coughing up blood muscle pain she went to the clinic and they gave her
+right and then sent her home she came back after ten days of fever right still has the fever and she's hypoxic she doesn't have much oxygen
+so the patient was treated then with a third generation cephalosporin antibiotic and doxycycline and on day three didn't help she progressed to acute failure
+they had to intubate her so they put a tube down her throat and they began to mechanically ventilate her she could no longer breathe for herself
+what to do next don't know switch antibiotics so they switched to another antibiotic and tamiflu which it's not clear why they thought she had the flu but they switched to
+and so basically and what do they learn from it you're looking at her open lung biopsy and i'm no pathologist but you can't tell much from this all you can tell is there's a lot of swelling bronchiolitis it was unrevealing that's the pathologist 's report
+and so what did they test her for they have their own tests of course and so they tested her for over seventy different assays for every sort of bacteria and fungus
+and viral assay you can buy off the shelf sars metapneumovirus hiv rsv all these everything came back negative over one hundred thousand dollars worth of tests
+i mean they went to the max for this woman and basically on hospital day eight that's when they called us they gave us endotracheal aspirate you know a little fluid from the throat from this tube that they got down there and they gave us this we put it on the chip
+it's not even really sequenced that much there's just a little bit of it sequenced there's almost no epidemiology or studies on it no one would even consider it because no one had a clue that it could cause respiratory failure and why is that
+just lore there's no data no data to support whether it causes severe or mild disease clearly we have a case of a healthy person that's going down
+don't need to give you many statistics about prostate cancer most of you already know it third leading cause of cancer deaths
+lots of risk factors but there is a genetic predisposition to prostate cancer for maybe about ten percent of prostate cancer
+there are folks that are predisposed to it and the first gene that was mapped in association studies for this early onset prostate cancer
+was this gene called rnasel what is that it's an antiviral defense enzyme so we're sitting around thinking why would men who have the mutation
+a defect in an antiviral defense system get prostate cancer it doesn't make sense unless maybe there's a virus so
+we put tumors and now we have over one hundred tumors on our array and we know who 's got defects in rnasel and who doesn 't and i'm showing you the signal from the chip here
+and i'm showing you for the block of retroviral oligos and what i'm telling you here from the signal is that men who have a mutation in this antiviral defense enzyme and who have a tumor
+often have forty percent of the time a signature which reveals a new retrovirus ok that's pretty wild
+its closest relative is in fact from mice and so we would call this a xenotropic retrovirus because it's infecting a species other than mice
+and this is a little phylogenetic tree to see how it's related to other viruses and then we've done it for many patients now
+is it really in the tissue and i'll end up with this yes we take slices of these biopsies of tumor tissue and use material to actually locate the virus and we find cells here
+with viral particles in them these guys really do have this virus does this virus cause prostate cancer nothing i'm saying here implies causality
+i don't know is it a link to oncogenesis i don't know is it the case that these guys are just more susceptible to viruses
+could be and it might have nothing to do with cancer but now it's a door we have a strong association between the presence of this virus and a genetic mutation
+been linked to cancer that's where we're at so it opens up more questions than it answers i'm afraid but that's what you know science is really good at

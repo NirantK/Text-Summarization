@@ -1,0 +1,29 @@
+i usually take the role of trying to explain to people how wonderful the new technologies that are coming along are going to be and i thought that since i was among friends here
+i would tell you what i really think and try to look back and try to understand what is really going on here with these
+this is just a random slide that i picked out of my file
+and this is whatever measure of the technology that i 'm trying to
+the graphs look sort of silly they sort of go like this
+and they don 't tell us much now
+if i graph for instance some other technology say transportation technology on a semi log curve it would look very stupid it would look like a flat line but when something like this happens things are qualitatively changing so if transportation technology was moving along as fast as microprocessor technology
+like this until something totally different comes along
+and so what i 'm trying to ask what i 've been asking myself is what 's this new way that the world is what 's that new state that the world is heading toward because the transition seems very very confusing when we 're right in the middle of
+now when i was a kid growing up
+now that 's sort of just a very simple chemical form of life but when things got interesting
+was when these drops learned a trick about abstraction
+somehow by ways that we don 't quite understand these little drops learned to write down information they learned to record the information that was the recipe of the cell
+in fact one of the things that i did just for amusement purposes is we can now write things in this code
+and i 've got here a little
+so what was the next step writing down the dna was an interesting step
+and that caused these cells that kept them happy for another billion years but then there was another really interesting step where things became completely different which is these cells started exchanging and communicating information so that they began to get communities of cells i don 't know if you know this but bacteria can actually exchange dna
+now what this communication allowed was communities to form that in some sense were in the same boat together they were synergistic
+so they survived or they failed together which means that if a community was very successful all the individuals in that community were repeated more and they were favored by evolution now the transition
+point happened when these communities got so close that in fact they got together and decided to write down the whole recipe for the community together on one string of dna and so the next stage that 's interesting in life took about another billion years
+and at that stage we have multi cellular communities communities of lots of different types of cells working together as a single organism
+now the next step that happened is within these communities these communities of cells again began to abstract information and they began building very special structures that did nothing but process information within the community
+but we 're taking something very complicated turning it into sound sequences of sounds and producing something very complicated in your brain so
+this allows us now to begin to start functioning as a single organism
+and it all connects us together
+so what we do is we put inside the machine a process of evolution that takes place on the microsecond time scale so for example in the most extreme cases we can actually evolve a program by starting out with random sequences of instructions
+but they do the job and in fact i know i 'm very confident that they do the job because they come from a line of hundreds of thousands of programs that did the job in fact their life depended on doing the job
+i was riding in a seven hundred and forty seven with marvin minsky once and he pulls out this card and says oh look look at this it says this plane has hundreds of thousands of tiny parts working together to make you a safe flight doesn 't that make you feel confident
+we 're now using those programs to make much faster computers so that we 'll be able to run this process much faster so it 's feeding back on itself

@@ -1,0 +1,85 @@
+if you are a blind child in india you will very likely have to contend with at least two big pieces of bad news
+the first bad news is that the chances of getting treatment are extremely slim to none
+and that's because most of the blindness alleviation programs in the country are focused on adults and there are very very few hospitals that are actually equipped
+to treat children in fact if you were to be treated
+you might well end up being treated by a person who has no medical credentials as this case from rajasthan illustrates
+this is a three year old orphan girl who had cataracts so her caretakers took her to the village medicine man
+and instead of suggesting to the caretakers that the girl be taken to a hospital the person decided to burn her abdomen with red hot iron bars to drive out the demons
+the second piece of bad news will be delivered to you by neuroscientists who will tell you that if you are older than four or five years of age that even if you have your eye corrected
+the chances of your brain learning how to see are very very slim again slim or
+so when i heard these two things it troubled me deeply both because of personal reasons and scientific reasons so let me first start with the personal reason it'll sound corny but it's
+that's my son darius as a new father i have a qualitatively different sense of just how delicate
+babies are what our obligations are towards them and how much love we can feel towards a child
+i would move heaven and earth in order to treatment for darius and for me to be told that there might be other darius 's who are not getting treatment that's just viscerally wrong
+so that's the personal reason scientific reason is that this notion from neuroscience of critical periods that if the brain
+into the human domain prematurely so they did their work with kittens with different kinds of deprivation regiments and those studies which date back to the sixties are now being applied to human children
+so i felt that i needed to do two things one provide care to children who are currently being deprived of treatment that's the humanitarian mission
+and the scientific mission would be to test the limits of visual plasticity and these two missions as
+you can tell thread together perfectly one adds to the other in fact one would be impossible without
+so to implement these twin missions a few years ago i launched project prakash prakash as many of you know is the sum sanskrit word for light
+and the idea is that in bringing light into the lives of children we also have a chance of shedding light on some of the deepest mysteries of neuroscience
+and the logo even though it looks extremely irish it's actually derived from the indian symbol of
+the prakash the overall effort has three components outreach to identify children in need of care
+cannot be treated that's and extreme of micropthalmos called enophthalmos but every so often we come across children who show some residual vision
+and that is a very good sign that the condition might actually be treatable so after the screening we bring the children to the hospital
+that's the hospital we're working with in delhi the schroff charity eye hospital it has a very well equipped pediatric ophthalmic center
+as i zoom in to the eyes of this child you will see the cause of his blindness
+the whites that you see in the middle of his pupils are congenital cataracts
+of the lens in our eyes the lens is clear but in this child the lens has become opaque and therefore he can't see the
+the child is given treatment you'll see shots of the eye here 's the eye with the opaque lens the opaque lens extracted and an acrylic lens inserted
+thank you so even from that little clip you can begin to get the sense that recovery is possible and we have now
+in fact the story holds true even if you have a person who got sight after several years of deprivation we did a paper a few years ago about
+this woman that you see on the right srd and she got her sight late in life and her vision is remarkable at this age i should
+a tragic postscript to this she died two years ago in a bus accident so
+just a truly inspiring story unknown but inspiring story so when we started finding these results as you might imagine it created quite a bit of stir in the scientific and popular press
+an article in nature that profiled this work and another one in time so we were fairly convinced we are convinced
+that recovery is feasible despite extended visual deprivation the next obvious question to ask what is the process of recovery
+so the way we study that is let 's say we find a child who has light sensitivity the child is provided treatment and i want to stress
+that the treatment is completely unconditional there is no quid pro quo we treat many more children then we actually work with every child who needs treatment is treated
+after treatment about every week we run the child on a battery of simple visual tests in order to see how their visual skills are coming in line
+about how the scaffolding of vision gets set up what might be the causal connections between the early developing skills and the later developing ones
+and we've used this general approach to study many different visual proficiencies but i want to highlight one particular one
+and that is image parsing into objects so any image of the kind that you see on the left be it a real image or a synthetic image
+it's made up of little regions that you see in the middle column regions of different colors different luminances the brain has this complex task
+putting together integrating subsets of these regions into something that's more meaningful into what we would consider to be objects as you see on the right
+and nobody know how this integration happens and that's the question we asked with project prakash so here 's what happens very soon after the onset of sight here 's a person who had gained sight just a couple of weeks ago
+and you see ethan myers a graduate student from mit running the experiment with
+his visual motor coordination is quite poor but you get a general sense of what are the regions that he 's trying to trace out if you show him real world images if you show others like him real world images
+they are unable to recognize most of the objects because the world to them is over fragmented it's made up of a collage a patchwork of regions of different colors and luminances and that's what's indicated in the green outlines when you ask them
+becomes its own object interestingly enough you give them a few months and this is what
+one is a circle and
+very dramatic transformation has come about and the question is what underlies this transformation it's a profound question
+and what's even more amazing is how simple the answer is the answer lies in motion and that's what i want to show you in the next clip i
+the inference we are deriving from this and several such experiments is that dynamic information processing or motion processing serves as the bedrock
+for building the rest of the complexity of visual processing it leads to visual integration and eventually to recognition
+this simple idea has far reaching implications and let me just quickly mention two one drawing from the domain of engineering
+and one from the clinic so from the perspective of engineering we can ask given that we know that motion is so important for the human visual system
+and that's what we're trying to do i'm at mit at mit you need to apply whatever basic knowledge you gain so we are creating dylan which is a computational system
+with an ambitious goal of taking in visual inputs of the same kind that a human child would receive and autonomously discovering what are the objects in this visual input
+so don't worry about the internals of dylan here i'm just going to talk about how we test dylan the way we test dylan is by giving it inputs as i said of the same kind
+that a baby or a child in project prakash would get but for a long time we couldn't quite figure out how can we get these kinds of video inputs
+so i thought could we have darius serve as our babycam carrier and that way get the inputs that we feed into dylan so that's what
+i had to have long conversations with my
+in fact pam if you're watching this please forgive me
+so we modified the optics of the camera in order to mimic the baby 's visual acuity
+as some of you might know baby 's are born pretty much legally blind their acuity our acuity is twenty twenty babies acuity is like twenty eight hundred
+they are looking at the world in a very very blurry fashion here 's what a babycam video looks like
+thankfully there isn't any audio to go with
+what's amazing is that working with such highly degraded input the baby very quickly is able to to discover meaning in such input
+but then two or three days afterward babies begin to pay attention to their mothers or their fathers face how does that happen we want dylan to be able to do that and using this mantra of motion
+dylan actually can do that though given that kind of video input with just about six or seven minutes worth of video dylan can begin to extract patterns that include faces
+so it's an important demonstration of the power of motion the clinical implication it comes from the domain of autism visual integration has been associated with autism
+by several researchers when we saw that we asked could the impairment in visual integration by the manifestation of something underneath of dynamic information processing deficiency in autism
+because if that hypothesis were to be true it would have massive repercussions in our understanding of what's causing the many different aspects of the autism phenotype
+what you're going to see are video clips of two children one neurotypical one with autism playing pong so while the child is playing pong we are tracking where they're looking in red
+this is the neurotypical child and what you see is that the child is able to make cues of the dynamic information
+to predict where the ball is going to go even before the gets to a place the child is already looking there
+contrast this with a child with autism playing the same game instead of anticipating the child always follows where the ball has been
+the efficiency of the use of dynamic information seems to be significantly compromised in autism
+this line of work and hopefully we'll have more results to report soon looking ahead if you think of this disk as representing all of the children we've treated so far
+this is the magnitude of the problem the red dots are the children we have not treated so there are many many more children who need to be treated and in order to expand the scope of the project we are planning on launching
+the prakash center for children which will have a dedicated pediatric hospital a school for the children we are treating and also a cutting edge research
+the prakash center will integrate health care education and research in a way that truly creates the whole to be greater than the sum of the parts
+so to summarize prakash in its five years of existence it's had an impact in multiple areas ranging from basic neuroscience plasticity and learning in the brain to clinically relevant hypotheses like in autism
+the development of autonomous machine vision systems education of the undergraduate and graduate students and most importantly in the alleviation of childhood blindness
+and for my students and i it's been just a phenomenal experience because we have gotten to do interesting research while at the same time helping the many children that we have worked with thank

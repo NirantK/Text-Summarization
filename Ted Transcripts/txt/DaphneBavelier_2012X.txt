@@ -1,0 +1,51 @@
+brain scientist and as a brain scientist i 'm actually interested in how the brain learns
+and i 'm especially interested in a possibility of making our brains smarter better and faster
+this is in this context i 'm going to tell you about video games when we say video games most of you think about children it 's true ninety percent of children do play video games
+but let 's be frank when the kids are in bed
+the average age of a gamer is thirty three years old not eight years old and in fact if we look at the projected demographics of video game play the video game players of tomorrow are
+after one month of release of the game call of duty black ops it had been played for sixty eight thousand years worldwide right
+would any of you complain if this was the case about doing linear algebra
+so what we are asking in the lab is how can we leverage that power now i want to step back a bit
+i 'm not going to tell you that playing video games days in and days out is actually good for your health it 's not and binging is never good but i 'm going to argue that in reasonable doses actually the very game i showed you at the beginning those action packed shooter games have quite
+powerful effects and positive effects on many different aspects of our behavior
+i 'd like to put this kind of friday night bar discussion aside and get you to actually step into the lab what we do in the lab is actually measure directly in a quantitative fashion what is the impact of video games on the brain
+and so i 'm going to take a few examples from our work one first saying that i 'm sure you all have heard is the fact that too much screen time makes your eyesight worse
+that 's a statement about vision there may be vision scientists among you
+we actually know how to test that statement we can step into the lab and measure how good your vision
+the issue is what happens with these guys that actually indulge into playing video games like five hours per week ten hours per week fifteen hours per week by that statement their vision should be really bad right
+the other way that they are better is actually being able to resolve different levels of gray imagine you 're driving in a fog
+that makes a difference between seeing the car in front of you and avoiding the accident or getting into an accident
+so we 're actually leveraging that work to develop games for patients with low vision and to have an impact on retraining their brain to see better
+clearly when it comes to action video games screen time doesn 't make your eyesight worse
+another saying that i 'm sure you have all heard around video games lead to attention problems and greater distractability okay
+we know how to measure attention in the lab i 'm actually going to give you an example of how we do so i 'm going to ask you to participate so you 're going to have to actually play the game with me i 'm going to show you colored words i want you to shout out the color of the
+right so this is the first example
+how good your attention is determines actually how fast you resolve that conflict so the young guys here at the top of their game probably like did a little better than some of us that are older what we can show is that when you do this kind of task with people that play a lot of action games they actually resolve the conflict faster
+so clearly playing those action games doesn 't lead to attention problems actually those action video game players have many other advantages in terms of attention and one aspect of attention which is also improved for the better is our ability to track objects around in the world
+this is something we use all the time when you 're driving
+you 're going to see yellow happy faces and a few sad blue faces these are children in the schoolyard in geneva during a recess during the winter
+most kids are happy it 's actually recess but a few kids are sad and blue because they 've forgotten their coat everybody begins to move around and your task is to keep track of who had a coat at the beginning and who didn 't
+what is shown in this video here that 's for you guys action video game players a bit more challenging right
+so one part is the parietal cortex which is very well known to control the orientation of attention the other one is the frontal lobe which controls how we sustain attention
+and another one is the anterior cingulate which controls how we allocate and regulate attention and resolve conflict
+now when we do brain imaging we find that all three of these networks are actually much more efficient in people that play action games
+this actually leads me to a rather counterintuitive finding in the literature about technology and the brain you all know about multitasking you all have been faulty of multitasking when you 're driving and you pick up your cellphone
+now we can measure that kind of skills in the lab we obviously don 't ask people to drive around and see how many car accidents they have that would be a little costly proposition but we design tasks on the computer where we can measure to millisecond accuracy how good they are at switching from one task to another
+when we do that we actually find that people that play a lot of action games are really really good they switch really fast very swiftly they pay a very small cost
+the first one is that not all media are created equal
+you can 't compare the effect of multimedia tasking and the effect of playing action games they have totally different effects on different aspects of cognition perception and attention
+the other lesson is that general wisdom carries no weight
+i showed that to you already like we looked at the fact that despite a lot of screen time those action gamers have a lot of very good vision etc
+here what was really striking is that these undergraduates that actually report engaging in a lot of high multimedia tasking are convinced they aced the test
+so you show them their data you show them they are bad and they 're like not possible you know they have this sort of gut feeling that really they are doing really really good that 's another argument for why we need to step into the lab and really measure the impact of technology on the brain
+now in a sense when we think about the effect of video games on the brain it 's very similar to the effect of wine on the health
+so it 's the same way like those action video games have a number of ingredients that are actually really
+powerful for brain plasticity learning attention vision etc and so we need and we 're working on understanding what are those active ingredients so that we can really then leverage them to deliver better games either for education or for rehabilitation of patients
+so that 's really the crux of the research and to do that we need to go one more step and one more step is to do training studies
+task which is called mental rotation
+and i 'm going to present to you four different shapes one of these four different shapes is actually a rotated version of this shape i want you to tell me which one the first one second one third one or fourth
+we then force them to play ten hours of action games
+so this is work from a colleague in toronto what they showed is that initially
+you know subjects perform where they are expected to perform given their age
+the issue is we need to put the two together and it 's a little bit like with food who really wants to eat chocolate covered broccoli
+and we 're working on it but it takes brain scientists to come and to get together people that work in the entertainment software industry and publishers so these are not people that usually meet every day but it 's actually doable and we are on the right track i 'd like to leave you with that thought and thank you for your attention

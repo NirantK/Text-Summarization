@@ -1,0 +1,62 @@
+may be more relevant to your interests right now
+than people dying in africa
+and i want to talk about what a web based on that idea of relevance might look like
+so when i was growing up in a really rural area in maine the internet meant something very different to me it meant a connection to the world it meant something that would connect us all together and i was sure that it was going to be great for democracy and for our society but there 's this shift
+in how information is flowing online
+and it 's invisible and if we don 't pay attention to it
+it could be a real problem
+so i first noticed this in a place i spend a lot of time my facebook page
+i 'm progressive politically big surprise but i 've always gone out of my way to meet conservatives i like hearing what they 're thinking about i like seeing what they link to i like learning a thing or two and so i was surprised when i noticed one day that the conservatives had disappeared from my facebook feed
+and what it turned out was going on was that facebook was looking at which links i clicked on
+and it was noticing that actually i was clicking more on my liberal friends links than on my conservative friends links and without consulting me about it
+it had edited them out
+there are fifty seven signals
+to where you 're located that it uses to personally tailor your query results
+think about it for a second there is no standard google anymore
+and you know the funny thing about this is that it 's hard to see you can 't see how different your search results are from anyone else 's but a couple of weeks ago i asked a bunch of friends to google egypt and to send me screen shots of what they got
+so here 's my friend scott 's screen shot
+and here 's my friend daniel 's screen shot
+when you put them side by side you don 't even have to read the links to see how different these two pages are
+but when you do read the links it 's really quite remarkable
+that 's how different these results are becoming so it 's not just google and facebook either this is something that 's sweeping the web there are a whole host of companies that are doing this kind of personalization yahoo news the biggest news site on the internet is now personalized different people get different things
+huffington post the washington post the new york times all flirting with personalization in various ways and this moves us very quickly
+toward a world in which the internet is showing us what it thinks we want to see
+but not necessarily what we need to see
+as eric schmidt said it will be very hard for people to watch or consume something that has not in some sense been tailored for them
+so i do think this is a problem
+and i think if you take all of these filters together you take all these algorithms you get what i call a filter bubble
+and your filter bubble is your own personal unique universe of information that you live in online
+and what 's in your filter bubble
+depends on who you are and it depends on what you do
+but the thing is that you don 't decide what gets in
+so one of the problems with the filter bubble was discovered by some researchers at netflix
+and they were looking at the netflix queues and they noticed something kind of funny that a lot of us probably have noticed which is there are some movies that just sort of zip right up and out to our houses they enter the queue they just zip right out so iron man zips right out and waiting for superman can wait for a really long time
+what they discovered was that in our netflix queues there 's this epic struggle going on
+between our future aspirational selves
+and our more impulsive present selves
+you know we all want to be someone who has watched rashomon but right now
+we want to watch ace ventura for the fourth time
+and the challenge with these kinds of algorithmic filters these personalized filters is that because they 're mainly looking at what you click on first
+and instead of a balanced information diet you can end up surrounded by information junk food
+in a broadcast society this is how the founding mythology goes in a broadcast society
+there were these gatekeepers the editors
+and they controlled the flows of information
+and along came the internet and it swept them out of the way and it allowed all of us to connect together and it was awesome but that 's not actually what 's happening right now
+what we 're seeing is more of a passing of the torch from human gatekeepers
+from human gatekeepers to algorithmic ones
+so if algorithms are going to curate the world for us if they 're going to decide what we get to see and what we don 't get to see then we need to make sure that they 're not just keyed to relevance
+we need to make sure that they also show us things that are uncomfortable
+or challenging or important this is what ted does other points of view and the thing is we 've actually been here before as a society
+in one thousand nine hundred and fifteen it 's not like newspapers were sweating a lot about their civic responsibilities
+then people noticed that they were doing something really important
+that in fact you couldn 't have a functioning democracy if citizens didn 't get a good flow of information
+but it got us through the last century and so now
+and we need the new gatekeepers
+to encode that kind of responsibility into the code that they 're writing
+but we really need you to make sure
+that these algorithms have encoded in them a sense of the public life a sense of civic responsibility
+we need you to make sure that they 're transparent enough that we can see what the rules are that determine what gets through our filters
+and we need you to give us some control so that we can decide
+what gets through and what doesn 't
+and it 's not going to do that
+if it leaves us all isolated in a web of one thank you

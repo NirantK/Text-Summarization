@@ -1,0 +1,78 @@
+the amount of carbon sitting underneath britain in the form of coal
+was as big as the amount of carbon sitting under saudi arabia in the form of oil
+and in the year two thousand
+oil and gas production from the north sea also peaked and they 're now on the decline
+these observations about the finiteness of easily accessible local secure fossil fuels this is a motivation for saying well what 's next what is life after fossil fuels going to be like shouldn 't we be thinking hard about how to get off fossil fuels another motivation of course is climate change
+and when people talk about life after fossil fuels and climate change action i think there 's a lot of
+let me illustrate this with what physicists call a back of envelope calculation
+we love back of envelope calculations you ask a question you write down some numbers and you get yourself an answer it may not be very accurate but it may make you say hmm so here 's a question imagine if we said oh yes we can get off fossil fuels we 'll use biofuels problem solved transport we don 't need oil anymore well what if
+we grew the biofuels for a road
+on the grass verge at the edge of the road how wide would the verge have to be for that to work out
+okay so let 's put in some numbers let 's have our cars go at sixty miles per hour let 's say they do thirty miles per gallon that 's the
+european average for new cars let 's say the productivity of biofuel plantations is one thousand two hundred litres of biofuel per hectare per year that 's true of european biofuels
+what do we do with these numbers well you take the first number and you divide by the other three and you get eight kilometers and that 's the answer that 's how wide the plantation would have to be given these assumptions and maybe that makes you say
+and it might make you think
+perhaps there 's an issue to do with areas and in this talk i 'd like to talk about land areas and ask is there an issue about areas the answer is going to be
+yes but it depends which country you are in so let 's start in the united kingdom since that 's where we are today the energy consumption of the united kingdom the total energy consumption not just transport but everything
+i like to quantify it in light bulbs it 's as if we 've all got one hundred and twenty five light bulbs on
+it 's actually a bigger footprint if we take into account the embodied energy in the stuff we import into our country as well and ninety percent of this energy today still comes from fossil fuels and ten percent only from other greener possibly greener sources like nuclear power and renewables so
+that 's the u k and the population density of the u k is two hundred and fifty people per square kilometer and i 'm now going to show you other countries by these same two measures on the vertical axis i 'm going to show you how much light bulbs what our energy consumption per person is
+and we 're at one hundred and twenty five light bulbs per person and that little blue dot there is showing you the land area of the united kingdom
+and the population density is on the horizontal axis and we 're two hundred and fifty people per square kilometer let 's add european countries in blue and you can see there 's quite a variety i should emphasize both of these axes are logarithmic as you go from one gray bar to the next gray bar you 're going up a factor of ten
+next let 's add asia in red the middle east and north africa in green
+sub saharan africa in blue black is south america
+black is south america purple is central america
+and then in pukey yellow we have north america australia and new zealand and you can see the great diversity
+top right bahrain has the same energy consumption per person roughly as canada over three hundred light bulbs per person but their population density is a factor of three hundred times greater one thousand people per square kilometer bottom right bangladesh has the same population density
+as bahrain but consumes one hundred times less per person
+bottom left well there 's no one but there used to be a whole load of people here 's another message from this diagram
+i 've added on little blue tails behind sudan libya china india bangladesh that 's fifteen years of progress where were they fifteen years ago and where are they now and the message is most countries are going to the right and they 're going up up and to the right
+bigger population density and higher per capita consumption so we may be off in the top right hand corner slightly unusual the united kingdom accompanied by germany japan south korea the netherlands and a bunch of other slightly odd countries
+but many other countries are coming up and to the right to come and join us so we 're a picture if you like of what the future energy consumption might be looking like in other countries too
+and i 've also added in this diagram now some pink lines that go down and to the right those are lines of equal power consumption per unit area which i measure in watts per square meter so for example the middle line there
+zero point one watts per square meter is the energy consumption per unit area of saudi arabia norway mexico in purple and bangladesh fifteen years ago
+and half of the world 's population lives in countries that are already above that line
+the united kingdom is consuming one point two five watts per square meter so 's germany and japan is consuming a bit more
+so let 's now say why this is relevant why is it relevant
+well we can measure renewables in the same units and other forms of power production in the same units and renewables is one of the leading ideas for how we could get off our ninety percent fossil fuel habit so here come some renewables energy crops deliver half a watt per square meter in european climates
+what does that mean and you might have anticipated that result given what i told you about the biofuel plantation a moment ago well we consume one point two five watts per square meter what this means is even if you covered the whole of the united kingdom with energy crops you couldn 't match today 's energy consumption
+solar panels when you put them on a roof deliver about twenty watts per square meter in england
+if you really want to get a lot from solar panels you need to adopt the traditional bavarian farming method where you leap off the roof and coat the countryside with solar panels too
+solar parks because of the gaps between the panels deliver less they deliver about five watts per square meter of land area and here 's a solar park in vermont with real data
+delivering four point two watts per square meter
+remember where we are one point two five watts per square meter wind farms two point five solar parks about five so
+whatever whichever of those renewables you pick the message is whatever mix of those renewables you 're using
+if you want to power the u k on them you 're going to need to cover something like twenty percent or twenty five percent of the country with those renewables and i 'm not saying that 's a bad idea we just need to understand the numbers i 'm absolutely not anti renewables i love renewables but i 'm also pro arithmetic
+and so this facility delivers fourteen watts per square meter
+this one ten watts per square meter and this one in spain five watts per square meter being generous to concentrating solar power i think it 's perfect credible it could deliver twenty watts per square meter so that 's nice of course britain doesn 't have any deserts
+yet laughter so here 's a summary so far
+all renewables much as i love them are diffuse they all have a small power per unit area and we have to live with that fact and
+that means if you do want renewables to make a substantial difference for a country like the united kingdom on the scale of today 's consumption you need to be imagining renewable facilities that are country sized not the entire country but a fraction of the country a substantial fraction
+there are other options for generating power as well which don 't involve fossil fuels so there 's nuclear power and on this ordnance survey map you can see there 's a sizewell b inside a blue square kilometer that 's one gigawatt in a square kilometer which works out to one thousand watts per square meter so by this particular metric
+nuclear power isn 't as intrusive as
+just outside edinburgh and you can see the children of penicuik celebrating the burning of the effigy of the windmill so
+people are anti everything and we 've got to keep all the options on the table
+what can a country like the u k do on the supply side well the options are i 'd say these three power renewables and recognizing that they need to be close to country sized
+and a third option is nuclear power so that 's some supply side options in addition to the supply levers that we can push and remember we need large amounts because at the moment we get ninety percent of our energy from fossil fuels in addition to those levers we could talk about other ways of solving this issue
+namely we could reduce demand and that means reducing population i 'm not sure how to do that or reducing per capita consumption
+so let 's talk about three more big levers that could really help on the consumption side first transport here are the physics principles that tell you how to reduce the energy consumption of transport and people often say oh yes technology can answer everything we can make vehicles that are a hundred times more efficient and that 's almost true let me show you
+the energy consumption of this typical tank here is eighty kilowatt hours per hundred person kilometers that 's
+so well we could persuade her to get into a train and that 's still a lot more efficient than a car but that might be a lifestyle change or there 's the eco car top left it comfortably accommodates one teenager and it 's shorter than a traffic cone and it 's almost as efficient as a bicycle as long as you drive it at
+heating is a third of our energy consumption in britain and quite a lot of that is going into homes and other buildings doing space heating and water heating so here 's a typical crappy british house it 's my house with the ferrari out front
+what can we do to it well the laws of physics are written up there which describe what
+you can also get the fluff men in to reduce the leakiness of your building put fluff in the walls fluff in the roof and a new front door and so forth and
+the sad truth is this will save you money that 's not sad that 's good but the sad truth is it 'll only get about twenty five percent of the leakiness of your building if you do these things which are good ideas if you really want to get a bit closer to swedish building standards with a crappy house like this
+you need to be putting external insulation on the building as shown by this block of flats in london
+you can also deliver heat more efficiently using heat pumps which use a smaller bit of high grade energy like electricity to move heat from your garden into your house
+the third demand side option i want to talk about the third way to reduce energy consumption is read your meters and people talk a lot about smart meters but you can do it yourself use your own eyes and be smart read your meter and if you 're anything like me it 'll change your life
+here 's a graph i made i was writing a book about sustainable energy and a friend asked me well how much energy do you use at home and i was embarrassed i didn 't actually know and so i started reading the meter every week
+and the old meter readings are shown in the top half of the graph and then two thousand and seven is shown in green at the bottom and that was when i was reading the meter every week and my life changed because i started
+doing experiments and seeing what made a difference and my gas consumption plummeted because i started tinkering with the thermostat and the timing on the heating system and i knocked more than a half off my gas bills there 's a similar story for my electricity consumption where switching off the dvd players the stereos the
+so i 'm a strong advocate of having grown up conversations that are based on numbers and facts and i want to close with this map that just visualizes for you the requirement of land and so forth in order to get just sixteen light bulbs per person from four of the big possible sources so
+if you wanted to get sixteen light bulbs remember today our total energy consumption is one hundred and twenty five light bulbs worth if you wanted sixteen from wind this map visualizes a solution for the u k it 's got one hundred and sixty wind farms each one hundred square kilometers in size and that would be a twentyfold increase over today 's amount of wind
+nuclear power to get sixteen light bulbs per person you 'd need two gigawatts at each of the purple dots on the map that 's a fourfold increase over today 's levels of nuclear power biomass to get sixteen light bulbs per person you 'd need a land area
+something like three and a half wales worth either in our country or in someone else 's country possibly ireland possibly somewhere else laughter and a fourth supply side option concentrating solar power in other people 's deserts if you wanted to get sixteen light bulbs worth
+we need a plan that adds up
+we need to stop shouting and start talking and
+if we can have a grown up conversation make a plan that adds up and get building
+maybe this low carbon revolution will actually be fun thank you very much for listening the industrial revolution started

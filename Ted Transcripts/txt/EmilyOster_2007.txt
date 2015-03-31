@@ -1,0 +1,57 @@
+a pretty well educated audience so i imagine you all know something about aids you probably know that roughly twenty five million people in africa are infected with the virus and that aids is a disease of poverty and that if we can bring africa out of poverty we would decrease aids as well
+you know something more you probably know that uganda to date is the only country in sub saharan africa that has had success in combating the epidemic using a campaign that encouraged people to abstain
+faithful and use condoms the abc campaign they decreased their prevalence in the nineteen nineties from about fifteen percent to six percent over just a few years
+if you follow policy you probably know that a few years ago the president pledged fifteen billion dollars to fight the epidemic over five years and a lot of that money is going to go to programs that try to replicate uganda and use behavior change to encourage people
+and decrease the epidemic so today i'm going to talk about some things that you might not know about the epidemic and then actually i'm also going to challenge some of these things that you think that you do
+i'm going to use tools and ideas that are familiar to economists to think about a problem that's more traditionally part of public health and
+i think in that sense this fits really nicely with this lateral thinking idea here i'm really using the tools of one academic discipline to think about problems of another
+i think it may seem like i'm ignoring the policy stuff which is really the most important but i'm hoping that at the end of this talk you will conclude that we actually cannot develop effective policy unless we really understand how the epidemic
+the first thing that i want to talk about the first thing i think we need to understand is how do people respond to the epidemic
+so aids is a sexually transmitted infection and it kills you so this means that in a place with a lot of aids there's a really significant cost of sex
+if you're an uninfected man living in botswana where the hiv rate is thirty percent if you have one more partner this year a long term partner girlfriend mistress
+your chance of dying in ten years increases by three percentage points that is a huge effect and so i think that we really feel like then people should have less sex
+fact among gay men in the us we did see that kind of change in the nineteen eighties so if we look in this particularly high risk sample
+a huge change in a very short period of time
+the early nineties to late nineties and late nineties to early twenty hundreds the epidemic is getting worse people are learning more things about it we see almost no change in sexual behavior these are just tiny decreases two percentage points not significant this seems puzzling
+you're a software engineer and you're trying to think about whether to add some new functionality to your program
+your health decisions are the same every time you have a carrot instead of a cookie every time you go to the gym instead of going to the movies that's a costly investment in your health
+it's costly to avoid aids people really like to have sex but you know it has a benefit in terms of future
+i think it's possible if we think about that intuition and think about that fact that maybe that explains some of this low behavior change but we really need to test that
+the way that i'm going to do that is i'm going to look across areas with different levels of malaria so malaria is a disease that kills you
+it's a disease that kills a lot of adults in africa in addition to a lot of children and so people who live in areas with a lot of malaria are going to have lower life expectancy than people who live in areas with limited malaria
+so one way to test to see whether we can explain some of this behavior change by differences in life expectancy is to look and see is there more behavior change
+in areas where there's less malaria so that's what this figure shows you this shows you in areas with low malaria medium malaria high malaria
+to the number of sexual partners as you increase hiv prevalence if you look at the blue line the areas with low levels of malaria you can see in those areas actually the number of sexual partners is decreasing a lot as hiv prevalence goes up
+young women who live in areas with high maternal mortality change their behavior less in response to hiv than young women who live in areas with low maternal mortality there's another
+and they respond less to this existing
+so by itself i think this tells a lot about how people behave it tells us something about why we see limited behavior change in africa but it also tells us something about policy
+even if you only cared about aids in africa it might still be a good idea to invest in malaria in combating poor indoor air quality improving maternal mortality rates because if you improve those things then people are going to have an incentive to avoid aids on their own
+so why don't we look at those places and see what happened to their prevalence unfortunately there's almost no good data on hiv prevalence in the general population in africa until about two thousand and three
+then if you poked a little more you looked a little more at what was going on you'd find that actually that was a pretty good year because in some years the only people tested are iv drug
+but even worse some years it's only iv drug users some years it's only pregnant women we have no way to figure out what happened over time we have no consistent testing and in the last few years
+in kenya in zambia and a bunch of countries there's been testing in random samples of the population but this leaves us with a big gap
+so this is a problem for policy it was a problem for my research and i started thinking about how else might we figure out what the prevalence
+hiv was in africa in the past and i think that the answer is we can look at mortality data and we can use mortality data to figure out what the prevalence was in the past
+to do this we're going to have to rely on the fact that aids is a very specific kind of disease it kills people in the prime of their lives not a lot of other diseases have that profile and you can see here this is a graph of death rates by age in botswana and egypt
+that suggests it's pretty similar levels of development but in this middle region between twenty and forty five the death rates in botswana are much much much higher than in egypt
+but since there are very few other diseases that kill people we can really attribute that mortality to hiv but because people who died this year of aids got it a few years ago we can use this data on mortality to figure out
+what hiv prevalence was in the
+so it turns out if you use this technique actually your estimates of prevalence are very close to what we get from testing random samples in the population but they're very very different than what
+tells us the prevalences are so this is a graph of prevalence estimated by unaids and prevalence based on the mortality data for the years in the late nineteen nineties in nine countries in africa you can see almost without exception
+the unaids estimates are much higher than the mortality based estimates unaids tell us that the
+talk a little bit in a minute about actually how we can use this kind of information to learn something that's going to help us think about the world but this also tells us that one of these facts that i mentioned in the beginning may not be quite right
+what i really want to do is i want to use this new data to try to figure out what makes the hiv epidemic grow faster or slower and i said in the beginning i wasn't going to tell you about exports when i started working on these projects i was
+not thinking at all about economics but eventually it kind of sucks you back in so i am going to talk about exports and prices and i want to talk about the relationship between economic activity in particular export volume and hiv infections
+so obviously as an economist i'm deeply familiar with the fact that development that openness to trade is really good for developing countries it's good for improving
+i wouldn't be at all worried about that if we never had any contact with asia and hiv is actually particularly closely linked to transit the
+roads with a lot of urbanization those areas have higher prevalence than others but that actually doesn't mean at all that if we gave people more exports more trade that that would increase prevalence by using this new data using this information about prevalence over time we can actually test
+and so it seems to be fortunately i think it seems to be the case that these things are positively related more exports means more
+where trade is likely to change for example because of the african growth and opportunities act or other policies that encourage trade we can actually think about which areas are likely to be
+heavily infected with hiv and we can go and we can try to have pre emptive preventive measures there likewise as we're developing policies to try to encourage exports if we know there's this
+this talk i've mentioned a few times the special case of uganda and the fact that it's the only country in sub saharan africa with successful prevention it's been widely heralded it's been replicated in kenya and tanzania and south africa and many other places
+but now i want to actually also
+question that because it is true that there was a decline in prevalence in uganda in the nineteen nineties it's true that they had an education campaign but there was actually something else that happened in uganda in this period
+that's enormously important for policy we're spending so much money to try to replicate this campaign and if it was only fifty percent as effective as we think that it was
+last sixteen minutes i've told you something that you didn't know about aids and i hope that i've gotten you questioning a little bit some of the things that you did
+and i hope that i've convinced you maybe that it's important to understand things about the epidemic in order to think about policy
+but more than anything you know i'm an academic and when i leave here i'm going to go back and sit in my tiny office and my computer and my data and the thing that's most exciting about that is today about

@@ -1,0 +1,49 @@
+got a great idea that 's going to change the world it 's fantastic it 's going to blow your mind it 's my beautiful baby here 's the thing everybody loves a beautiful baby i mean i was a beautiful baby
+here 's me and my dad a couple days after i was born so in the world of product design the beautiful baby 's like
+dorky teenage years where you 're trying to figure out how the world works i 'm going to start with an example from some work that we did on newborn health
+so here 's a problem four million babies around the world mostly in developing countries die every year before their first birthday even before their first month of life it turns out half of those kids or about one point eight million newborns around the world would make it
+this is what we want probably what happened is a hospital in japan upgraded their equipment and donated their old stuff to nepal the problem is without technicians without spare parts donations like this very quickly turn into junk
+so this seemed like a problem that we could do something about keeping a baby warm for a week that 's not rocket science
+so we got started we partnered with a leading medical research institution here in boston we conducted months of user research overseas trying to think like designers human centered design let 's figure out what people want
+we killed thousands of post it notes we made dozens of prototypes to get to this
+so this is the neonurture infant incubator and this has a lot of smarts built into it and
+we felt great so the idea here is unlike the concept car we want to marry something beautiful with something that actually works and our idea is that this design would inspire manufacturers and other people of influence to take this model and run with it here 's the bad news
+the only baby ever actually put inside the neonurture incubator was this kid during a time magazine photo shoot so recognition is fantastic we want design to get out for people to see it it won lots of awards
+but it felt like a booby prize we wanted to make beautiful things that are going to make the world a better place and i don 't think this kid was even in it long enough to get warm so it turns out that design for inspiration doesn 't really
+i guess what i would say is for us for what i want to do it 's either too slow or it just doesn 't work it 's ineffective so really
+i want to design for outcomes i don 't want to make beautiful stuff i want to make the world a better place
+so when we were designing neonurture we paid a lot of attention to the people who are going to use this thing for example poor families rural doctors overloaded nurses even repair technicians we thought we had all our bases covered we 'd done everything right well it turns out there 's this whole constellation of people
+who have to be involved in a product for it to be successful manufacturing financing distribution regulation
+michael free at path says you have to figure out who will choose use and pay the dues for a product like this and i have to ask the question vc 's always ask sir what is your business and who is your customer who is our customer
+well here 's an example this is a bangladeshi hospital director
+outside his facility it turns out he doesn 't buy any of his equipment those decisions are made by the ministry of health or by foreign donors and it just kind of shows up
+similarly here 's a multinational medical device manufacturer it turns out they 've got to fish where the fish are so it turns out that in emerging markets where the fish are are the emerging middle class of these countries diseases of affluence heart disease infertility so it turns out that design for outcomes
+in one aspect really means thinking about design for manufacture and distribution okay that was an important lesson
+second we took that lesson and tried to push it into our next project so we started by finding a manufacturer an organization called mtts in vietnam that manufactures newborn care technologies for southeast asia our other partner is east meets west this is an american foundation that distributes that technology to poor hospitals
+around that region so we started with them saying well what do you want what 's a problem you want to solve and they said well let 's work on newborn jaundice
+so this is another one of these mind boggling global problems
+so jaundice affects two thirds of newborns around the world of those newborns one in ten roughly
+if it 's not treated the jaundice gets so severe that it leads to either a life long disability or the kids could even die
+there 's one way to treat jaundice and that 's what 's called an exchange transfusion so as you can imagine that 's expensive and a little bit dangerous there is another cure it 's very
+technological it 's very complex a little daunting you 've got to shine blue light on the kid
+bright blue light on as much of the skin as you can cover how is this a hard problem so i went to mit okay we 'll figure that out
+here 's what it looks like under actual use so those kids on the edges aren 't actually receiving effective phototherapy but without training without some kind of light meter how would you know
+we see other examples of problems like this so here 's a neonatal intensive care unit where moms come in to visit their babies and keep in mind mom maybe just had a c section so that 's already kind of a bummer
+mom 's visiting her kid she sees her baby naked lying under some blue lights looking kind of vulnerable it 's not uncommon for mom to put a blanket over the baby
+from a phototherapy standpoint maybe not the best behavior in fact that sounds kind of dumb except what we 've learned
+is that there 's no such thing as a dumb user really is what we 've learned there are only dumb products we have to think like existentialists it 's not the painting we would have painted it 's the painting that we actually painted it 's the use
+designed for actual use how are people actually going to use this
+they want buck rogers they don 't want effective it sounds crazy it sounds dumb but there are actually hospitals who would rather have no equipment than something that looks cheap and crummy
+so again if we want people to trust a device it has to look trustworthy so thinking about outcomes it turns out appearances matter
+so we took all that information together we tried this time to get it right and here 's what we developed so this is the firefly phototherapy device except this time we didn 't stop at the concept car
+so from the very beginning we started by talking to manufacturers our goal is to make a state of the art product that our partner mtts can actually manufacture so our goal is to study how they work the resources they have access to so that they can make this product so
+that 's the design for manufacture question when we think about actual use you 'll notice that firefly has a single bassinet it only fits a single baby and the idea here is it 's obvious how you ought to use this device if you try to put more than one kid in you 're stacking them on top of each other laughter so
+the idea here is we say you want to make it hard to use wrong in other words you want to make the right way to use it the easiest way to use it another example again
+silly mom silly mom thinks her baby looks cold wants to put a blanket over the baby well that 's why we have lights above and below the baby in firefly so if mom does put a blanket over the baby it 's still receiving effective phototherapy from below
+last story here i 've got a friend in india who told me that you haven 't really tested a piece of electronic technology for distribution in asia until you 've trained a cockroach to climb in and pee on every single little component on the inside
+so with firefly what we did is the problem is electronics get hot
+and you have to put in vents or fans to keep them cool in most products we decided that i can 't put a do not enter sign next to the vent we actually got rid of all of that stuff so firefly 's totally sealed
+these are the kinds of lessons as awkward as it was to be a pretty goofy teenager much worse to be a frustrated designer so i was thinking about what i really want to do is change the world i have to pay attention to manufacturing and distribution i have to pay attention to how people are actually going to use a device
+i actually have to pay attention really there 's no excuse for failure i have to think like an existentialist i have to accept that there are no dumb users that there 's only dumb products we have to ask ourselves hard questions are we designing for the world that we want
+are we designing for the world that we have are we designing for the world that 's coming whether we 're ready or not i got into this business designing products
+i 've since learned that if you really want to make a difference in the world you have to design outcomes and that 's design that matters thank you

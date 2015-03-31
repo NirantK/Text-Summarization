@@ -1,0 +1,103 @@
+ten years ago i took on the task to teach global development to swedish undergraduate students that was after having spent about twenty years together with african institutions studying hunger in africa so i was sort of
+but when you get that opportunity you get a little nervous i thought these students coming to us actually have the highest grade you can get in swedish college systems so maybe they know everything i'm going to teach them about so i did a
+when they came and one of the questions from which i learnt a lot was this one which country has the highest child mortality of these five pairs
+and i put them together so that in each pair of country one has twice the child mortality of the other and this means that it's much bigger a difference than the uncertainty of the data
+i won 't put you at a test here but it's turkey which is highest there poland russia pakistan and south africa and these were the results of the swedish students i did it so i got the confidence interval which is pretty narrow
+and i got happy of course a one point eight right answer out of five possible that means that there was a place for a professor of international health and for my
+one late night when i was compiling the report i really realized my discovery i
+that swedish top students know statistically significantly less about the world than the chimpanzees
+because the chimpanzee would score
+if i gave them two bananas with sri lanka and turkey they would be right half of the cases but the students are not there the problem for me
+was not ignorance it was preconceived ideas i did also an unethical study of the professors of the karolinska institute that
+hands out the nobel prize in medicine and they are on par with the chimpanzee there
+this is where i realized that there was really a need to communicate because the data of what's happening in the world and the child health of every country is very well aware we did this
+which displays it like this every bubble here is a country this country over here is china
+india the size of the bubble is the population and on this axis here i put fertility rate
+because my students what they said when they looked upon the world and i asked them what do you really think about the world
+i first discovered that the textbook was tintin mainly and they said the world is still we and them and we is western world and them is third world
+and what do you mean with western world i said well that's long life and small family and third world is short life and large
+so this is what i could display here i put fertility rate here number of children per woman one two three four up to about eight children per woman
+or have these developing countries got smaller families and they live here or have they got longer lives and live up there let 's see we stopped the world then this is all u n statistics that have been
+here we go can you see there it's china there moving against better health there improving there all the green
+countries are moving towards smaller families your yellow ones here are the arabic countries and they get larger families but they no longer life but not larger families the africans are the green down here they still remain
+this is india indonesia 's moving on pretty fast and in the eighties here you have bangladesh still among the african countries there but now bangladesh it's a miracle that happens in the
+the imams start to promote family planning they move up into that corner and in nineties we have the terrible hiv epidemic that takes down
+the life expectancy of the african countries and all the rest of them move up into the corner where we have long lives and small family and we have a completely new world during the war indicate
+even with all the death there was an improvement of life expectancy by the end of the year the family planning started in vietnam and they went for smaller families
+we have in vietnam the same life expectancy and the same family size
+if we don't look in the data we underestimate the tremendous change in asia which was in social change before we saw the economical change let 's move over to another way here in which we could
+display the distribution in the world of the income this is the world distribution of income of people
+one dollar ten dollars or one hundred dollars per day
+gap between rich and poor any longer this is a myth a little hump here
+but there are people all the way and if we look where the income ends up
+the income this is one hundred percent the world 's annual income and the richest twenty percent they take out of that about seventy four percent
+and the poorest twenty percent they take about two percent and this shows that the concept of developing countries is extremely doubtful
+we think about aid like these people here giving aid to these people here but in the middle we have most the world population and they have now twenty four percent of the income we heard it in other forms
+and who are these where are the different countries i can show you africa this is africa
+ten percent the world population most in poverty this is
+the rich country the country club of the u n and they are over here on this side quite an overlap between africa and
+and this is latin america it has everything on this earth from the poorest to the richest in latin america and on top of that we can put east europe
+and we have most who lived in absolute poverty were asians the problem in the world was the poverty in asia and if i now
+let the world move forward you will see that while population increase there are hundreds of millions in asia getting out of poverty
+and some others getting into poverty and this is the pattern we have today and the best projection from the world bank is that this will happen
+and we will not have a divided world we'll have most people in the middle of course it's a logarithmic scale here but our concept of economy is growth with percent
+we look upon it as a possibility of percentile increase if i change
+and i take gdp per capita instead of family income and i turn these individual data into regional data of gross domestic product
+and i take the regions down here the size of the bubble is still the population and you have the oecd there and you have sub saharan africa there and we take off the arab states there coming both from africa and from asia
+and we put them separately and we can expand this axis and i can give it a new dimension here by adding
+the social values there child survival now i have money on that axis and i have the possibility of children to survive there in some countries ninety nine point seven percent of children survive to five years of age
+others only seventy and here it seems there is a gap between oecd latin america east europe east asia arab states
+south asia and sub saharan africa the linearity is very strong between child survival and money but let me split sub saharan africa
+is there and better health is up there i can go here and i can split sub saharan africa
+into its countries and when it burst the size of his country bubble is the size of the population sierra leone down there mauritius is up there
+was the first country to get away with trade barriers and they could sell their sugar they could sell their textiles on equal terms as the people in europe and north america there's a huge difference between africa and
+humanitarian aid here in uganda development aid here time to invest there you can go for
+it's a tremendous variation within africa which we rarely often make that it's equal everything i can split south asia here india 's the big bubble in the middle but a huge difference between afghanistan and
+sri lanka i can split arab states how are they same climate same culture same religion huge difference even between neighbors yemen civil war united arab emirate money
+which was quite equally and well used not as the myth is and that includes all the children of the foreign workers who are in the
+often better than you think many people say data is bad there is an uncertainty margin but we can see the difference here cambodia singapore the differences are much bigger than the weakness of the data east europe
+very very differently and there is latin america
+today we don't have to go to cuba to find a healthy country in latin america chile will have a lower child mortality than cuba within some few years from now
+and here we have high income countries in the oecd and we get the whole pattern here of the world which is more or less like
+this and if we look at it how it looks the world
+so it's sort of difficult to get
+south korea which is this one
+with brazil which is this one
+and you can see how
+south korea is making a very very fast advancement whereas brazil is much slower
+and if we move back again here and we put on trails on them like this you can see again that
+speed of development is very very different and the countries are moving more or less in the same rate
+as money and health but it seems you can move much faster if you are healthy first than if you are wealthy first and to show that you can put on the way of united arab emirate they came from here
+a mineral country they cached all the oil they got all the money but health cannot be bought at the supermarket you have to invest in health you have to get kids into schooling you have to train health staff
+you have to educate the population and sheikh sayed did that in a fairly good way and in spite of falling oil prices he brought this country up here
+so we've got a much more mainstream appearance of the world where all countries tend to use their money better than they used in the past
+now this is more or less if you look at
+they are like this now that's dangerous to use average data because there is such a lot of difference within countries
+uganda these are the quintiles of uganda the richest twenty percent of ugandans are there the poorest are down there if i split south africa
+it's like this if i go down and look at niger where there was such a terrible famine
+it's like this the twenty percent poorest of niger is out here and the twenty percent richest of south africa is there and yet we tend to discuss on what solutions there should be in africa everything in this world exists in africa
+you can't discuss universal access to hiv for that quintile up here with the same strategy as down here the improvement of the world must be highly contextualized and it's not relevant
+to have it on regional level we must be much more detailed we find that students get very excited when they can use this and even more policy makers and the corporate sectors would like to see how the world
+changing now why doesn't this take place why are we not using the data we have we have data in the united nations in the national statistical agencies and in universities and other non governmental organizations
+the data is hidden down in the databases and the public is there and the internet is there
+they take some nourishment down from the databases but people put prices on them stupid passwords and boring statistics
+and this won 't work so
+is needed we have the databases it's not the new database you need we have wonderful design tools and more and more are added up here so we started a nonprofit venture which we called
+linking data to design we call it gapminder from the london underground where they warn you mind the gap so we thought gapminder was appropriate and we started to write software which could link the data like this
+and it wasn't that difficult it took some person years and we have produced animations you can take a data set and put it there we are liberating
+some few u n organization some countries accept that their databases can go out on the world but what we really need is of course a search function
+a search function where we can copy the data up to a searchable format and get it out in the world and what do we hear when we go around i've done anthropology on the main statistical units everyone says it 's impossible
+but this is what we would like to see isn't it
+the publicly funded data is down here and we would like flowers to grow out on the net and one of the crucial
+good news that the present new head of u n statistics he doesn't say it's impossible he only says we
+so we can see a lot happening in data in the coming years we will be able to look at income distributions in completely new ways
+is this that china is growing it's not so equal any longer and it's appearing here overlooking the united states almost like a ghost isn't it
+but i think it's very important to have all this information we need really to see it and instead of looking at this
+i would like to end up by showing the internet users per one thousand in this software we access about five hundred variables from all the countries quite easily it takes some
+time to change for this but on the axises you can quite easily get any variable you would like to have and the thing would be
+to get up the databases free to get them searchable and with a second click to get them into the graphic formats where you can
+understand them now statisticians doesn't like it because they say that this will not show
+the reality we have to have statistical analytical methods but this is hypothesis generating i end now with the world
+there the internet is coming the number of internet users are going up like this this is the gdp per capita and it's a new technology coming in but then amazingly how well it
+to the economy of the countries that's why the one hundred dollar computer will be so important but it's a nice tendency it's as if the world is flattening off isn't it these countries are lifting more than the economy
+and will be very interesting to follow this over the year as i would like you to be able to do with all the publicly funded data thank you very much

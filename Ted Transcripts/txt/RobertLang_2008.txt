@@ -1,0 +1,81 @@
+my talk is flapping birds and space telescopes and you would think that should have nothing to do with one another but i hope by the end of these eighteen minutes you'll see a little bit of a relation it ties to origami so let me start what is
+most people think they know what origami is it's this flapping birds toys cootie catchers that sort of thing and that is what origami used to be
+called a crane every japanese kid learns how to fold that crane so this art has been around for hundreds of years and you would think something
+a japanese folder named yoshizawa came along and he created tens of thousands of new designs but even more importantly he created a language a way we could communicate a code of dots dashes and arrows harkening back
+susan blackmore 's talk we now have a means of transmitting information with heredity and selection and we know where that leads and where it has led in origami is to things like this this is an origami figure
+one sheet no cuts folding only hundreds of folds
+this too is origami and this shows where we've gone in the modern world naturalism detail you can get horns antlers even if you look close cloven hooves
+raises a question what changed and what changed is something you might not have expected in an art which is math that is people applied mathematical principles
+to the art to discover the underlying laws and that leads to a very powerful tool the secret to productivity in so many fields and in origami is letting dead people do your work for you
+because what you can do is take your problem
+and turn it into a problem that someone else has solved and use their solutions
+i want to tell you how we did that in
+the directions of the folds at any vertex the number of mountain folds the number of valley folds always differs by two two more or two less nothing else
+you look at the angles around the fold you find that if you number the angles in a circle all the even numbered angles add up to a straight line all the odd numbered angles add up to a straight line
+and if you look at how the layers stack you'll find that no matter how you stack folds and sheets a sheet can never
+so that's four simple laws that's all you need in origami all of origami comes from that and you'd think can four simple laws give rise to that kind of complexity
+but indeed the laws of quantum mechanics can be written down on a napkin and yet they govern all of chemistry all of life all of history if we obey these laws we can do amazing things
+so in origami to obey these laws we can take simple patterns like this repeating pattern of folds called textures and by itself it's nothing
+but if we follow the laws of origami we can put these patterns into another fold that itself might be something very very simple but when we put it together we get something a little different this fish
+four hundred scales again it is one uncut square only folding
+and if you don't want to fold four hundred scales you can back off and just do a few things and add plates to the back of a turtle or toes or you can ramp up and go up to fifty stars on
+thirteen stripes and if you want to go really crazy one thousand scales
+on a rattlesnake and this guy 's on display downstairs so take a look if you get a chance the most powerful tools in origami have related to how we get
+parts of creatures and i can put it in this simple equation we take an idea combine it with a square and you get an origami figure
+what matters is what we mean by those symbols and you might say can you really be that specific i mean a stag beetle it's got two points for jaws it's got antennae can you be that specific in the detail and yeah you really can
+so how do we do that well we break it down into a few smaller steps so let me stretch out that equation i start with my idea i abstract it what's the most abstract form it's a stick figure
+and from that stick figure i somehow have to get to a folded shape that has a part for every bit of the subject a flap for every leg and then once i have that folded shape that we call the base
+you can make the legs narrower you can bend them you can turn it into the finished shape now the first step pretty easy take an idea draw a stick figure
+the last step is not so hard but that middle step going from the abstract description to the folded shape that's hard
+but that's the place where the mathematical ideas can get us over the hump and i'm going to show you all how to do that so you can go out of here and fold something but we're going to start small this base has a lot of flaps in it we're going to learn how to make one flap
+what paper went into that flap well if i unfold it and go back to the crease pattern you can see that the upper left corner of that shape
+is the paper that went into the flap so that's the flap and all the rest of the paper 's left over i can use it for something else well there's other ways of making a flap
+there's other dimensions for flaps if i make the flaps skinnier i can use a bit less paper if i make the flap as skinny as possible i get to the limit of the minimum amount of paper needed and you can see there it needs a quarter circle of paper to make a flap
+there's other ways of making flaps if i put the flap on the edge it uses a half circle of paper and if i make the flap from the middle it uses a full circle so no matter how i make a flap
+it needs some part of a circular region of paper so now we're ready to scale up what if i want to make something that has a lot of flaps what do i need
+i need a lot of circles and in the nineteen nineties origami artists discovered these principles and realized we could make arbitrarily complicated figures just by packing circles
+and here 's where the dead people start to help
+because lots of people have studied the problem of packing circles i can rely on that vast history of mathematicians and
+you pack circles you decorate the patterns of circles with lines according to more rules that gives you the folds those folds fold
+shape the base you get a folded shape in this case a cockroach and it's so simple
+it's so simple that a computer could do it
+and you just draw a stick figure and it calculates the crease pattern it does the circle packing calculates the crease pattern
+and if you use that stick figure that i just showed which you can kind of tell it's a deer it's got antlers you'll get this crease pattern and if you take this crease pattern you fold on the dotted lines you'll get a
+base that you can then shape into a deer or you could do
+a moose or really any other kind of deer these techniques revolutionized this art we found we could do insects spiders which are close things with legs things with legs and wings
+things with legs and antennae and if folding a single praying mantis from a single uncut square wasn't interesting enough then you could do
+two praying mantises from a single uncut square she's eating him
+i call it snack time
+and you can do more than just insects this you can put details toes and claws a grizzly bear has claws
+this tree frog has toes actually lots of people in origami now put toes into their models toes have become an origami meme because everyone 's doing
+it you can make multiple subjects so these are a couple of instrumentalists the guitar player from a single square
+bass player from a single square and if you say well but the guitar bass that's not so hot do a little more complicated instrument well then you could do an organ
+and what this has allowed is the creation of origami on demand so now people can say i want exactly this and this and this
+and you can go out and fold it and sometimes you create high art and sometimes you pay the bills by doing some commercial work but i want to show you some examples everything you'll see here except the car
+paper computers made things move but these were all real folded objects that we made
+and we can use this not just for visuals but it turns out to be useful even in the real world surprisingly origami and the structures that we've developed in origami turn out to have
+a folding pattern and realized this could fold down into an extremely compact package that had a very simple
+now there is actually a little origami in the james webb space telescope but it's very simple the telescope going up in space it unfolds in two places it folds in thirds
+it's a very simple pattern you wouldn't even call that origami they certainly didn't need to talk to origami artists but if you want to go higher and go larger than this then you might need some origami
+engineers at lawrence livermore national lab had an idea for a telescope much larger they called it the eyeglass the design called for geosynchronous
+twenty six thousand miles up one hundred meter diameter lens so imagine a lens the size of a football field there were two groups of people who were interested in this planetary scientists who want to look up
+and then other people who wanted to look down
+whether you look up or look down how do you get it up in space you've got to get it up there in a rocket and rockets are small so you have to make it smaller how do you make a large sheet of glass smaller
+well about the only way is to fold it up somehow so you have to do something like this this was a small model for the lens you divide up the panels you add flexures but this pattern 's not going to work
+said let 's see if someone else is doing this sort of thing so they looked into the origami community we got in touch with them and i started working with them and we developed a pattern together
+that scales to arbitrarily large size but that allows any flat ring or disc to fold down into a very neat compact cylinder and they
+that for their first generation which was not one hundred meters it was a five meter but this is a five meter telescope has about a quarter mile focal length and it works perfectly on its test range and it indeed folds up into a neat little bundle
+now there is other origami in space japan aerospace agency flew a solar sail and you can see here that the sail expands out and you can still see the fold lines
+the problem that's being solved here is something that needs to be big and sheet like at its destination but needs to be small for the journey and that works whether you're going into space or whether you're just going into a body
+and this example is the latter this is a heart stent developed by zhong you at oxford university it holds open a blocked artery when it gets to its destination but it needs to be much smaller for the trip
+there through your blood vessels and this stent folds down using an origami pattern based on a model called the water bomb base
+and the algorithms that we developed to do insects turned out to be the solution for airbags
+to do their simulation and so they can do
+a simulation like this those are the origami creases forming and now you can see the airbag inflate and find out does it work
+and that leads to a really interesting idea
+you know where did these things come from well the heart stent
+came from that little blow up box that you might have learned in elementary school it's the same pattern called the water bomb base the airbag flattening algorithm came from all the developments
+of circle packing and the mathematical theory that was really developed just to create insects things with legs
+the thing is that this often happens in math and science when you get math involved problems that you solve for aesthetic value only or to create something beautiful
+turn around and turn out to have an application in the real world
+and as weird and surprising as it may sound

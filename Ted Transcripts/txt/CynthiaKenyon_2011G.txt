@@ -1,0 +1,56 @@
+have for a long time thought this just was never going to be possible they thought you just wear out there 's nothing you can do about it kind of like an old shoe
+so if there are genes like that then you can imagine that if you could change one of the genes in an experiment
+an aging gene maybe you could slow down aging and extend lifespan and if you could do that then you could find the genes for aging and if they exist and you can find them then maybe one could eventually do something about it
+so we 've set out to look for genes that control aging and we didn 't study any of these animals instead we studied a little tiny round worm called c elegans which is just about the size of a comma in a sentence and we were really optimistic that we could find something because there had been a report of a long lived mutant
+so we started to change genes at random looking for long lived animals and we were very lucky to find that mutations that damage one single gene called daf two
+doubled the lifespan of the little worm
+so you can see in black after a month they 're very short lived that 's why we like to study them for studies of aging in black after a month the normal worms are all dead
+but at that time most of the mutant worms are still alive
+and it isn 't until twice as long that they 're all dead
+and now i want to show what they actually look like in this movie here
+so the first thing you 're going to see is the normal worm when it 's about college student age a young adult
+it 's quite a cute little fellow
+you can 't tell the difference really and they can be completely fertile have the same number of progeny as the normal worms do
+now get out your handkerchiefs here you 're going to see in just two weeks the normal worms are old
+you can see the little head moving down at the bottom there
+but everything else is just lying there the animal 's clearly in the nursing home and if you look at the tissues of the animal they 're starting to deteriorate you know even if you 've never seen one of these little c elegans which probably most of you haven 't seen one you can tell they 're old isn 't that interesting so there 's something about aging that 's kind of universal
+and now here is the daf two mutant one gene is changed out of twenty thousand and look at it it 's the same age but it 's not in the nursing home it 's going skiing
+that 's what that arrow means it speeds up aging it makes it go faster so it 's like the animal has the grim reaper inside of itself speeding up aging
+so what kind of hormones are these there 's lots of hormones there 's testosterone adrenalin you know about a lot of them these hormones are similar to hormones that we have in our bodies
+the daf two hormone receptor is very similar to the receptor for the hormone insulin and igf one now you 've all heard of at least insulin insulin is a hormone that promotes the uptake of nutrients into your tissues after you eat a meal and the hormone igf one promotes growth
+so these functions were known for these hormones for a long time but our studies suggested that maybe they had a third function that nobody knew about maybe they also affect aging
+and it 's looking like that 's the case so after we made our discoveries with little c elegans people who worked on other kinds of animals started asking if we made the same daf two mutation the hormone receptor mutation in other animals will they live longer
+and that is the case in flies if you change this hormone pathway in flies they live longer
+and also in mice and mice are mammals like us so it 's an ancient pathway because it must have arisen a long time ago in evolution such that it still works in all these animals and also the common precursor also gave rise to people so maybe it 's working in people the same way and
+so the next question of course is is there any effect on age related disease as you age you 're much more likely to get cancer alzheimer 's disease heart disease all sorts of diseases it turns out that these long lived mutants are more resistant to all these diseases they hardly get cancer and when they do it 's not as severe
+so it 's really interesting and it makes sense in a way that they 're still young so why would they be getting diseases of aging until their old
+so it suggests that if we could have a therapeutic or a pill to take to replicate some of these effects in humans maybe we would have a way of combating lots of different age related diseases all at once
+so how can a hormone ultimately affect the rate of aging how could that work well it turns out that in the daf two mutants a whole lot of genes are switched on in the dna that encode proteins that protect the cells and the tissues and repair damage
+and the way that they 're switched on is by a gene regulator protein called foxo
+so in a daf two mutant you see that i have the x drawn here through the receptor the receptor isn 't working as well under those conditions the foxo protein in blue has gone into the nucleus that little compartment there in the middle of the cell and it 's sitting down on a gene binding to it you see one gene there are lots of genes actually that bind on foxo and it 's just sitting on
+dna repair genes are more active in these animals and the immune system is more active and many of these different genes we 've shown actually contribute to the long lifespan of the daf two mutant so it 's really interesting these animals have within them the latent capacity to live much longer than they normally do
+they have the ability to protect themselves from many kinds of damage which we think makes them live longer
+so what about the normal worm well when the daf two receptor is active then it triggers a series of events that prevent foxo from getting into the nucleus where the dna is so it can 't turn the genes on that 's how it works that 's why we don 't see the long lifespan until we have the daf two mutant but what good is this for the worm
+well we think that insulin and igf one hormones are hormones that are particularly active under favorable conditions in the good times when food is plentiful and there 's not a lot of stress in the environment then they promote the uptake of nutrients you can store the food
+under conditions of stress the levels of these hormones drop for example having limited food supply
+and that we think is registered by the animal as a danger signal a signal that things are not okay and that it should roll out its protective capacity
+so it activates foxo foxo goes to the dna and that triggers the expression of these genes that improves the ability of the cell to protect itself and repair itself and that 's why we think the animals live longer
+so you can think of foxo as being like a building superintendent so maybe he 's a little bit lazy but he 's there he 's taking care of the building but it 's deteriorating and then suddenly he learns that there 's going to be a
+and that 's the case all over the world as you can see from these stars and each one of these stars represents a population where scientists have asked okay are there differences in the type of foxo genes among people who live a really long time and there are we don 't know the details of how this works but we do know then that foxo genes
+so this is really exciting to me a foxo is a protein that we found in these little round worms to affect lifespan and here it affects lifespan in people so we 've been trying in our lab now to develop drugs that will activate this foxo cell using human cells now
+in order to try and come up with drugs that will delay aging and age related diseases
+and i 'm really optimistic that this is going to work there are lots of different proteins that are known to affect aging and for at least one of them there is a drug
+there 's one called tor which is another nutrient sensor like the insulin pathway and mutations that damage the tor gene just like the daf two mutations extend lifespan in worms and flies and mice
+but in this case there 's already a drug called rapamycin that binds to the tor protein and inhibits its activity and you can take rapamycin and give it to a mouse even when it 's pretty old like age sixty for a human that old for a mouse if you give the mouse rapamycin it will live longer
+now i don 't want you all to go out taking rapamycin it is a drug for people but the reason is it suppresses the immune system so people take it to prevent organ transplants from being rejected so this may not be the perfect drug
+for staying young longer but still here in the year two thousand and eleven there 's a drug that you can give to mice at a pretty old age that will extend their lifespan which comes out of this science that 's been done in all these different animals
+so i 'm really optimistic and i think it won 't be too long i hope before this age old dream begins to come true thank you
+is start a human life from scratch with altered genes that would make it live for a lot longer
+change the genes in principle there isn 't the technology to do that but i don 't think that 's a good idea and the reason is that these hormones like the insulin and the igf hormones and the tor pathway they 're essential if you knock them out completely
+and they grow to be about this size and they 've been tagged and they 've been found to be seventy years old and when you look at these seventy year old turtles you can 't tell the difference just by looking between those turtles and twenty year old turtles and the seventy year old ones actually
+and there are other examples of these kinds of animals like turns certain kinds of birds are like this and nobody knows
+if they really can live forever or what keeps them from aging it 's not clear if you look at birds which live a long time
+so it could be that the pathways that i 've been talking about which are set to run really quickly in the worm have a different normal set point
+in something like a bird so that a bird can live a lot longer and maybe they 're even set really differently in animals with no senescence at all but we don 't know
+extending human lifespan by preventing death so much as extending human
+you notice that you 're getting old and you look at your human and you think why isn 't this human getting old they 're not getting old in the dog 's lifespan it 's more like that but now we 're the human looking out and imagining a different human

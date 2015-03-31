@@ -1,0 +1,70 @@
+the story starts in kenya in december of two thousand and seven when there was a disputed presidential election and in the immediate aftermath of that election
+who began blogging about it on her site kenyan pundit and shortly after the election and the outbreak of violence the government suddenly imposed a significant media
+and so weblogs went from being commentary as part of the media landscape to being a critical part of the media landscape in trying to understand where the violence was and okolloh solicited
+from her commenters more information about what was going on and the comments began pouring in and okolloh would collate them she would post them and she quickly said it 's too much i could do this all day every day and i can't keep up there is more
+in seventy two hours they launched ushahidi ushahidi the name means witness or testimony in swahili is a very simple way
+of taking reports from the field whether it's from the web or critically via mobile phones and sms aggregating it
+that's all it is but that's all that's needed because what it does is it takes the tacit information available to the whole population everybody knows where the violence
+but no one person knows what everyone knows and it takes that tacit information and it aggregates it and it maps it and it makes it
+that that maneuver called crisis
+was kicked off in kenya in january of two thousand and eight and enough people looked at it and found it valuable enough
+the programmers who created ushahidi decided they were going to make it open source and turn it into a platform it's since been deployed in mexico to track electoral fraud
+it's been deployed in washington d c to track snow cleanup and it's been used most famously in haiti in the aftermath of the earthquake
+when you look at the map
+this went from a single idea and a single implementation in east africa in the beginning of two thousand and eight to a global deployment in less than three years what okolloh did
+would not have been possible without human generosity
+and the interesting moment now the number of environments where the social design challenge relies on both of those things being true
+that is the resource that i'm talking about i call it cognitive surplus and it represents the ability of the world 's population to volunteer and to contribute and collaborate on large sometimes global projects
+now that free time existed in the twentieth century but we didn't get ushahidi in the twentieth century that's the second half of cognitive surplus
+the media landscape in the twentieth century was very good at helping people consume and we got as a result very good at consuming
+but now that we've been given media tools the internet mobile phones that let us do more than consume
+what we're seeing is that people weren't couch potatoes because we liked to be we were couch potatoes because that was the only opportunity given to us we still like to consume of course but it turns out we also like to create and we like to share
+and it's those two things together ancient human motivation
+and the modern tools to allow that motivation to be joined up in large scale efforts that are the new
+and using cognitive surplus we're starting to see truly incredible experiments in scientific literary artistic political efforts designing
+we're also getting of course a lot of lolcats lolcats are cute pictures of cats made cuter with the addition of cute captions and they are also
+part of the abundant media landscape we're getting now this is one of the participatory one of the participatory models we see coming out of that along with
+there are other candidates of course but lolcats will do as a general case
+someone who has done something like this however mediocre and throwaway has tried something has put something forward in public and once they've done it they can do it again
+and they could work on getting it better there is a spectrum between mediocre work and good work and as anybody who 's worked as an artist or a creator knows it's a spectrum you're constantly struggling to get on top is between doing anything
+is between doing anything has already crossed over
+now it's tempting to want to get the ushahidis without the lolcats right to get the serious stuff without the throwaway stuff but media abundance never works that way
+so before i talk about what is i think the critical difference between lolcats and ushahidi i want to talk about their shared source and that source is design for generosity
+it is one of the curiosities of our historical era
+that even as cognitive surplus is becoming a resource we can design around social sciences are also starting to explain how important
+our intrinsic motivations are to us how much we do things because we like o do them rather than because our boss told us to do them or because we're being paid to do
+this a graph from a paper by uri gneezy and aldo rustichini who set out to test at the beginning of this decade what they called deterrence theory and deterrence theory is a very simple theory of human behavior
+you want somebody to do less of something add a punishment and they'll do less of it simple straightforward commonsensical also largely untested
+and so they went and studied ten daycare centers in haifa israel and they studied those daycare centers at the time of highest tension which is pick up time
+pick up time the teachers who have been with your children all day
+would like you to be there at the appointed hour to take your children back meanwhile the parents perhaps a little busy at work running late running errands want a little slack to pick the kids up
+daycare centers represented by the black line they said we are changing this bargain as of right now
+if you pick your kid up more than ten minutes late we're going to add a ten shekel fine to your bill boom no ifs ands or buts and the minute they did that the behavior in those daycare centers changed late pick ups went up
+a fine what they did was communicate to the parents that their entire debt to the teachers had been discharged with the payment of ten shekels
+and that there was no residue of guilt or social concern that the parents owed the teachers and so the parents quite sensibly said ten shekels to pick my kid up late what could
+the explanation of human behavior that we inherited
+in the twentieth century was that we are all rational self maximizing actors and in that explanation
+the daycare had no contract should have been operating without any constraints
+but that's not right they were operating with social constraints rather than contractual ones and critically the social constraints created a culture that was more generous than the contractual constraints
+so gneezy and rustichini run this experiment for a a dozen weeks run the fine for a dozen weeks and then they say okay that's it all done fine
+really interesting thing happens nothing changes
+the culture that got broken by the fine stayed broken when the fine was removed not only are economic motivations and intrinsic motivations
+in designing these kinds of situations is to understand where you're relying on the lolcats and
+this is i think the range that matters both of these rely on cognitive surplus both of these design for the assumption that people like to create and we want to share
+is the critical difference between
+lolcats is communal value it's value created by the participants for each other
+is everywhere every time you see a large aggregate or shared publicly available data whether it's photos on flickr or videos on youtube or whatever
+this is good i like lolcats as much as the next guy maybe a little more even but this is also
+a largely solved problem i have a hard time envisioning a future in which someone is saying where oh where can i find a picture of a cute cat
+by contrast is civic value
+it's value created by the participants but enjoyed by society as a whole the goals set out by ushahidi are not just
+to make life better for the participants but to make life better for everyone in the society in which ushahidi is operating
+and that kind of civic value is not just a side effect of opening up to human motivation it really is going to be a side effect of what we collectively make of these kinds of there are
+hours a year of participatory value up for grabs
+that will be true year in and year out the number of people who are going to be able to participate in these kinds of projects is going to grow
+and we can see that organizations designed around a culture of generosity
+can achieve incredible effects without an enormous amount of contractual overhead a very different model than our default model for large scale group action in the twentieth century
+going to make the difference here
+what dean kamen said the inventor and entrepreneur kamen said free cultures get what they celebrate
+we've got a choice before us
+we've got this trillion hours a year we can use it to crack each other up and we're going to do that that we get for free

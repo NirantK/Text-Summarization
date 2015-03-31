@@ -1,0 +1,16 @@
+about six years ago i decided that i would learn arabic which turns out to be a supremely logical language
+to write a word or a phrase or a sentence in arabic is like crafting an equation because every part is extremely precise and carries a lot of information that 's one of the reasons so much of what we 've come to think of as western science and mathematics and engineering
+was really worked out in the first few centuries of the common era by the persians and the arabs and the turks
+this includes the little system in arabic called al jebra and al jebr roughly translates to the system for reconciling disparate parts al jebr finally came into english as algebra one example among many
+the arabic texts containing this mathematical wisdom finally made their way to europe which is to say spain
+in the eleventh and twelfth centuries and when they arrived there was tremendous interest in translating this wisdom into a european language but there were problems
+one problem is there are some sounds in arabic that just don 't make it through a european voice box without lots of practice trust me on that one
+also those very sounds tend not to be represented by the characters that are available in european languages
+here 's one of the culprits this is the
+which means something just like the the english word something some undefined unknown thing
+now in arabic we can make this definite by adding the definite article al so this is al shalan the unknown thing and this is a word that appears throughout early mathematics such as this tenth century derivation of proofs
+the problem for the medieval spanish scholars who were tasked with translating this material is that the letter sheen and the word shalan can 't be rendered into spanish because spanish doesn 't have that sh that sh sound
+so by convention they created a rule in which they borrowed the ck sound ck sound from the classical greek in the form of the letter kai
+later when this material was translated into a common european language which is to say latin
+they simply replaced the greek kai with the latin x and once that happened once this material was in latin
+it formed the basis for mathematics textbooks for almost six hundred years but now we have the answer to our question why is it that x is the unknown x is the unknown because you can 't say sh in spanish

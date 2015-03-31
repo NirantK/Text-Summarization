@@ -1,0 +1,110 @@
+i want to discuss a question i know that's been pressing on many of your minds we spoke to you last several years ago and before i get started today since many of you
+are wondering i just wanted to get it out of the way the
+now i hope all of you feel better do you know what this might be
+ok i didn't really realize what it was when i first saw it but
+this is what helped me see it
+this is what we run at the office that actually runs real time here it's slightly logged but here you can see around the world how people are using google and every one of those rising dots
+so you can see here we are in the u s and they're all coming up red there we are in monterey hopefully i can get it right you can see that japan is busy at night
+right there we have tokyo coming in in japanese there's a lot of activity in china there's a lot of activity in india there's some in the middle east
+which is right now in the middle of the day is going really strong with a whole wide variety of languages
+now you can also see
+shake the world too much but you can also see there are places where there's not so much australia because there just aren't very many people there and
+this is something that we should really work on which is africa which is just a few trickles basically in south africa and a few other urban cities but basically what we've noticed is these queries which come in at thousands per second
+are available everywhere there is power
+the internet and even in antarctica well at least this time of year we from time to time will see a query rising up
+and if we had it plotted correctly i think the international space station
+some of the challenge that we have here
+you can see that it's actually kind of hard to get the
+this is how we have to move the bits around to actually get the people the answers to their questions you can see that there's a lot of data running around it has to go all over the world through fibers through satellites through all kinds of connections and it's
+pretty tricky for us to maintain the latencies as low as we try to hopefully your experience is good
+can see also once again so some places are much more wired than others and you can see all the bandwidth across the u s going up over to asia europe in the other direction and so forth
+now what i would like to do is just to show you what one second of this activity would look like
+so this is slowed down
+this is what one second looks like and this is what we spend a lot of our time doing is just making sure that we can keep up with this kind of traffic
+each one of those queries has an interesting life and tale of its own i mean it could be somebody 's health it could be somebody 's career something important to them and it could potentially be as tomato sauce
+or in this case ketchup so this is
+that we had i guess it's a popular band that was more popular in some parts of the world than others
+that it got started right here in the u s and spain it was popular at the same time but it didn't have quite the same pickup in the u s as it did in spain as a part of
+you know part of what we want to
+to grow our company is to have more searches
+and what that means is we want to have more people who are healthy and educated
+but partly we want to make the world a better place and so one thing that we're embarking upon is the google foundation
+and we're in the process of setting that up we also have a program already called google grants that now serves over one hundred and fifty different charities around the world and these are some of the charities that are on there and
+it's something i'm very excited to be
+a part of in fact many of the organizations that are here the acumen fund i think approtec we have running i'm not sure if that one 's up yet
+and many of the people who have presented here are running through google grants they run google ads and we just give them the ad credit so they can
+one of the earlier results that we got we have a singaporean businessman who is now sponsoring a village of twenty five vietnamese girls for their
+now does anybody know who ha
+yes somebody got it this is orkut is anybody here on orkut do we have any okay not very many people know about it i'll explain it in a second
+this is one of our engineers we find that they work better when they're submerged and covered with leaves those products out
+orkut had a vision to create a social network i know all of you are thinking yet another social network but it was a dream of his and we basically when people really want to do something
+we generally let them so this is what he built
+we just released it in a test phase last month and it's been taking off this is our vp of engineering you can see
+the red hair and i don't know if you can see the nose ring there and these are all of his friends
+this is how we just deployed it we just decided that people would send each other invitations to get into the service and so we just had the people in our company initially send them out and now we've grown to over one hundred thousand members
+and they spread actually very quickly even outside the u s you can see even though the u s is still the majority here though by the way search wise it's only about thirty percent of our traffic
+but it's already going to japan and the u k and europe and all the rest of the countries so it's a fun little project there are a variety of demographics i won 't bore you with these but it's just the kind of thing that we just try out for fun and see where it goes
+so one of the things both sergey and i went to a montessori school
+and i think for some reason this has been incorporated in google
+and sergey mentioned orkut which is something that you know orkut wanted to do in his time and we call this
+this as the twenty percent time and the idea is for twenty percent of your time if you're working at google you can do what you think is the best thing to do
+and many many things at google have come out of that such as orkut and also google news and i think
+many other things in the world also have come out of this mendel who was supposed to be teaching high school students actually you know discovered the laws of genetics
+a hobby basically so many many useful things come out of this and news which i just mentioned
+at the news better and so he started clustering it by category and then he started using it and then his friends started using it and looking cute
+we made it a googlette which is basically a small project at google so it 'd be like three people or something like that and
+they would try to make a product and we wouldn't really be sure if it's going to work or not and in news case you know they had a couple of people working on it for a while
+more and more people started using it and then we put it out on the internet and more and more people started using it and now it's a real full blown project with more people
+and this is how we keep our innovation running i think usually as companies get bigger they find it really hard to have small innovative projects
+and we had this problem too for a while and we said oh we really need a new concept you know the googlettes that's a small project that we're not quite sure if it's going to work or not
+but we hope it will and if we do enough of them some of them will really work and turn out such as news
+then we had a problem because then we had over one hundred projects and i don't know about all of you but i have trouble keeping one hundred things in my head at once and we found that if we just wrote all of them down
+and ordered them and these are kind of made up don't really pay attention to them for example the buy iceland was from a media article we would never do such a crazy thing
+we found if we just basically wrote them all down and ordered them that most people would actually agree what the ordering should be and this was kind of a surprise to me
+we found that as long as you keep the one hundred things in your head which you did by writing them down that you could do a pretty good job deciding what to do and where to put your resources and so
+the other thing we discovered is that people like to work on things that are important and so naturally people sort of migrate to the things that are high priorities
+i just wanted to highlight a couple of things that are new or you might not know about and the top thing actually is the deskbar so this is a new how many of you use the google toolbar raise your hands how many of you use the deskbar
+see you guys should try it out but if you go to our site and search for deskbar you'll
+and the idea is instead of a toolbar it's just present all the time on your screen on the bottom and you can do searches really easily and it's sort of like a better version of the toolbar thank you
+this is another example of a project that somebody at google was really passionate about and they just they got going and it's really really a great product and really taking off
+google answers is something we started which is really cool which lets you for five to one hundred dollars you can type a question in and
+then there's a pool of researchers that go out and research it for you and it's guaranteed and all that and you can get actually very good answers to things without spending all that time yourself
+you know we try many many different things in our company we also like to innovate in our physical space
+we noticed in meetings you know you have to wait a long time for projectors to turn on and off and they're noisy so people shut them off and we didn't like that so we actually
+maybe a couple of weeks we built these little enclosures that enclosed the projectors and so we can leave them on all the time and they're completely silent
+and as a result we were able to build some software that also lets us manage a meeting so when you walk into a meeting room now it lists all the meetings that are happening
+you can very easily take notes and they just get emailed automatically to all the people that were present in the meeting and as we become more of a global company
+we find these things really affect us you know can we work effectively with people who aren't in the room and things like that and simple things like this can really make a big difference we also have a lot of engineers
+in those meetings and they don't always do their laundry as much as they should
+we also allow dogs and things like that and we've had i think a really fun culture at our company which helps people work and enjoy what they're doing
+this is actually our cult picture
+we had this on our website for a while but we found that after we put it on our website we didn't get any job applications anymore
+a lot of work happens in companies from people knowing each other and informally and i think we've done a good job encouraging that it makes it a really fun place to work
+along with our logos too which i think really embody our culture when we change things in the early days we were actually advised we should never change our logo because
+we should establish our brand you know because you know you'd never want to change your logo you want it to be consistent and we said well that doesn't sound so much fun why don't we try changing it every day
+one of the things that really excites me about what we're doing now is we have this thing called adsense and this is a little bit foreshadowing this is from before dean dropped out
+is like on a newspaper for example we show you relevant ads and this hard to read but this says battle for new hampshire howard dean for president
+articles on howard dean and these ads are generated automatically like in this case on the washington post from the content on the site
+much as we do on search so the idea is we can make advertising useful not just annoying right and
+the nice thing about this we have a self serve program and many thousands of websites have signed up and this let 's them really make money and i
+you know thank you i don't have to do my other job now and i think this is really important for us because it makes the internet work better it makes content get better it makes searching work better when people can really make their livelihood from producing great content
+so this session is supposed to be about the future so i'd thought i'd talk at least briefly about it and
+the idea behind this is to do the perfect job doing search you really have to be smart because you can type you know any kind of thing into google and you expect an answer
+finding things is tricky and so you really want intelligence and in fact the ultimate search engine would be smart it would be artificial intelligence and so that's something we work on and we even have some people who are excited enough and crazy enough to work on it now
+this is a blog from iraq and it's not really what i'm going to talk about but i just wanted to show you an example maybe sergey you can highlight this so we decided
+actually the highlight 's right there oh thank you
+you can't see it that well but we decided we should put in this feature into our adsense ads called related searches and so we'd say you know did you mean search for
+this in this case saddam hussein because this blog is about iraq and you know in addition to the ads and we thought this would be a great idea and so
+there is this blog of a young person who was kind of depressed and he said you know i'm sleeping a lot he was just kind of writing about his life and
+our algorithms not a person of course but our algorithms our computers read his blog and decided that the related search was i am bored and he read this and he thought a person had decided that he was boring
+and it was very unfortunate and he said you know what are these you know bastards at google doing why don't they like my blog
+and so then we read his blog which was getting you know sort of going from bad to worse and we said the related search was
+and then you know he got even more mad and he wrote like started swearing and so on and then we produced you
+and finally it ended with
+and so basically he thought he was dealing with something smart and of course you know we just sort of wrote this program and we tried it out and it didn't quite work and we don't have this
+able to make money largely through advertising and one of the benefits that i didn't expect from that was that we're able to serve everyone in the world without worrying about you know places that don't have as much money
+so we don't have to worry about our products being sold for example for less money in places that are poor and then they get re imported into the u s for example with the drug industry
+i think we're really lucky to have that kind of business model because everyone in the world has access to our search and i think that's a tremendous tremendous
+the other thing i wanted to mention just briefly is that we have a tremendous ability and responsibility to provide people the right information
+and we view ourselves like a newspaper or a magazine that we should provide very objective information and so in our search results we never accept payment for our search results we accept payment for advertising and we market it as such
+and that's unlike many of our competitors and i think decisions we're able to make like that have a tremendous impact on the world and makes me really proud to be involved with google so thank you

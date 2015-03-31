@@ -1,0 +1,39 @@
+SeanGourley_2009U 1 SeanGourley_2009U 13.04 25.75 <o,f0,male> around the media as we see on the news from iraq afghanistan sierra leone and the conflict seems incomprehensible to us and that's certainly how it seemed to me when i started this project
+SeanGourley_2009U 1 SeanGourley_2009U 26.61 39.27 <o,f0,male> but as a physicist i thought well if you give me some data i could maybe understand this you know give us a go so as a naive new zealander i thought well i'll go to the pentagon can you get me some information
+SeanGourley_2009U 1 SeanGourley_2009U 44.24 45.60 <o,f0,male> so i had to think a little harder
+SeanGourley_2009U 1 SeanGourley_2009U 46.38 53.94 <o,f0,male> and i was watching the news one night in oxford and i looked down at the chattering heads on my channel of choice and i saw that there was information there
+SeanGourley_2009U 1 SeanGourley_2009U 62.13 69.07 <o,f0,male> so what i started thinking was perhaps there is something like open source intelligence here if we can get enough of these streams of information together
+SeanGourley_2009U 1 SeanGourley_2009U 69.64 71.51 <o,f0,male> we can perhaps start to understand the
+SeanGourley_2009U 1 SeanGourley_2009U 72.62 79.94 <o,f0,male> so this is exactly what i did we started bringing a team together an interdisciplinary team of scientists of economists mathematicians
+SeanGourley_2009U 1 SeanGourley_2009U 99.18 104.46 <o,f0,male> that database contained the timing of attacks the location the size and the weapons used
+SeanGourley_2009U 1 SeanGourley_2009U 104.74 116.12 <o,f0,male> it's all in the streams of information we consume daily we just have to know how to pull it out and once we had this we could start doing some cool stuff what if we were to look at the distribution of the sizes of attacks what would that tell us
+SeanGourley_2009U 1 SeanGourley_2009U 116.92 127.24 <o,f0,male> so we started doing this and you can see here on the horizontal axis you've got the number of people killed in an attack or the size of the attack and on the vertical axis you've got the number of attacks
+SeanGourley_2009U 1 SeanGourley_2009U 127.79 136.75 <o,f0,male> we plot data for sample on this you see some sort of random distribution perhaps sixty seven attacks one person was killed or forty seven attacks where seven people were killed
+SeanGourley_2009U 1 SeanGourley_2009U 137.71 145.36 <o,f0,male> we did this exact same thing for iraq and we didn't know for iraq what we were going to find it turns out what we found was pretty surprising
+SeanGourley_2009U 1 SeanGourley_2009U 146.29 150.10 <o,f0,male> you take all of the conflict all of the chaos all of the noise
+SeanGourley_2009U 1 SeanGourley_2009U 160.00 171.93 <o,f0,male> why should a conflict like iraq have this as its fundamental signature why should there be order in war we didn't really understand that we thought maybe there is something special about
+SeanGourley_2009U 1 SeanGourley_2009U 173.44 183.53 <o,f0,male> we looked at a few more conflicts we looked at colombia we looked at afghanistan and we looked at senegal and the same pattern emerged in each conflict this wasn't supposed to happen
+SeanGourley_2009U 1 SeanGourley_2009U 183.76 193.76 <o,f0,male> these are different wars with different religious factions different political factions and different socioeconomic problems and yet the fundamental patterns underlying them are the
+SeanGourley_2009U 1 SeanGourley_2009U 196.31 196.82 <o,f0,male> a little
+SeanGourley_2009U 1 SeanGourley_2009U 198.76 201.40 <o,f0,male> we looked around the world at all the data we could get our hands on
+SeanGourley_2009U 1 SeanGourley_2009U 202.76 203.71 <o,f0,male> from peru to
+SeanGourley_2009U 1 SeanGourley_2009U 205.12 216.33 <o,f0,male> we studied this same pattern again and we found that not only were the distributions these straight lines but the slope of these lines they clustered around this value of alpha equals two point five
+SeanGourley_2009U 1 SeanGourley_2009U 217.02 222.97 <o,f0,male> and we could generate an equation that could predict the likelihood of an attack what we're saying here
+SeanGourley_2009U 1 SeanGourley_2009U 223.76 234.98 <o,f0,male> is the probability of an attack killing x number of people in a country like iraq is equal to a constant times the size of that attack raised to the power of negative alpha
+SeanGourley_2009U 1 SeanGourley_2009U 243.55 250.79 <o,f0,male> this is data statistics what does it tell us about these conflicts that was a challenge we had to face as physicists how do we explain this
+SeanGourley_2009U 1 SeanGourley_2009U 264.31 270.71 <o,f0,male> of the group strength carrying out the attacks so we look at a process of group dynamics coalescence and fragmentation
+SeanGourley_2009U 1 SeanGourley_2009U 285.10 289.10 <o,f0,male> we can run these simulations we can recreate this using a process of group dynamics
+SeanGourley_2009U 1 SeanGourley_2009U 289.57 292.39 <o,f0,male> to explain the patterns that we see all around
+SeanGourley_2009U 1 SeanGourley_2009U 292.70 294.26 <o,f0,male> the conflicts around the world
+SeanGourley_2009U 1 SeanGourley_2009U 304.53 305.73 <o,f0,male> is going on is that
+SeanGourley_2009U 1 SeanGourley_2009U 306.36 309.53 <o,f0,male> the insurgent forces they evolve over time they adapt
+SeanGourley_2009U 1 SeanGourley_2009U 310.51 316.70 <o,f0,male> it turns out there is only one solution to fight a much stronger enemy and if you don't find that solution as an insurgent force
+SeanGourley_2009U 1 SeanGourley_2009U 317.86 324.84 <o,f0,male> you don't exist so every insurgent force that is ongoing every conflict that is ongoing it's going to look something like this
+SeanGourley_2009U 1 SeanGourley_2009U 356.01 357.59 <o,f0,male> but perhaps you can sit and talk to them
+SeanGourley_2009U 1 SeanGourley_2009U 359.36 360.83 <o,f0,male> so this graph here i'm going to show you now
+SeanGourley_2009U 1 SeanGourley_2009U 364.14 365.06 <o,f0,male> stuff that we've come through
+SeanGourley_2009U 1 SeanGourley_2009U 366.72 369.36 <o,f0,male> and we see the evolution of alpha through time
+SeanGourley_2009U 1 SeanGourley_2009U 370.00 372.26 <o,f0,male> we see it start and we see it grow up to the stable
+SeanGourley_2009U 1 SeanGourley_2009U 373.15 377.93 <o,f0,male> the wars around the world look like and it stays there through the invasion of
+SeanGourley_2009U 1 SeanGourley_2009U 379.19 382.62 <o,f0,male> until the samarra bombings in the iraqi elections of six
+SeanGourley_2009U 1 SeanGourley_2009U 423.15 432.45 <o,f0,male> moving out i don't know what the answer is to that but i know that we should be looking at the structure of the insurgency to answer that question thank you

@@ -1,0 +1,77 @@
+the first idea i'd like to suggest is that we all love music a great deal it means a lot to us
+if you don't just listen to it but you make it yourself
+so that's my first idea and we all know about the mozart effect the idea that's been around for the last five to ten years that just by listening to music or by playing music to your baby in vitro
+that it'll raise our iq points ten twenty thirty percent great idea but it doesn't work at all
+power to create and be part of music in a very dynamic way and that's one of the main parts of my work so with the mit media lab for quite a while now
+we've been engaged in a field called active music what are all the possible ways that we can think of to get everybody in the middle of a musical experience not just listening but making music
+and we started by making instruments for some of the greatest performers we call these hyper instruments for yo yo ma peter gabriel prince orchestras rock bands instruments where they're all kinds of sensors built right into the instrument so the instrument knows how it's being played
+when we started making these i started thinking why can't we make wonderful instruments like that for everybody people who aren't fantastic yo yo mas or princes
+so we've made a whole series of instruments one of the largest collections is called the brain opera it's a whole orchestra of about one hundred instruments all designed for anybody
+to play using natural skill so you can play a video game drive through a piece of music use your body gesture to control huge masses of sound touch a special surface to make melodies use your voice to make a whole aura
+and that led to something which you probably do know guitar hero came out of our lab and my two teenage daughters and most of the students at the mit media lab are proof that if you make the right kind of interface
+people are really interested in being in the middle of a piece of music and playing it over and over and over again so
+the model works but it's only the tip of the iceberg because my second idea is that it's not enough just to want to make music in something like guitar hero and music is very fun but it's also transformative
+it's very very important music can change your life more than almost anything it can change the way you communicate with others it can change your body it can change you mind so we're trying to go to the next step of how you build on top of something like guitar hero
+we are very involved in education we have a long term project called toy symphony where we make all kinds of instruments that are also addictive but for little kids so the kids will fall in love with making music
+want to spend their time doing it and then will demand to know how it works how to make more how to create so we make squeezy instruments like these music shapers that measure the electricity in your fingers
+beat bugs that let you tap in rhythms they gather your rhythm and like hot potato you send your rhythm to your friends who then have to imitate or respond to what your doing
+and a software package called hyperscore which lets anybody use lines and color to make quite sophisticated music extremely easy to use but once you use it
+you can go quite deep music in any style and then by pressing a button it turns into music notation so that live musicians can play your pieces
+we've had good enough really very powerful effects with kids around the world and now people of all ages using hyperscore so we've gotten more and more interested
+in using these kinds of creative activities in a much broader context for all kinds of people who don't usually have the opportunity to make music so one of the growing fields that we're working on at the media lab right now is music mind and health
+a lot of you have probably seen oliver sacks wonderful new book called musicophilia it's on sale in the bookstore it's a great book if you haven't seen it it's worth reading he 's a pianist himself and he details his whole career of
+looking at and observing incredibly powerful effects that music has had on peoples lives in unusual situations so we know for instance that music is almost always the last thing that people with advanced alzheimer 's can still respond to
+maybe many of you have noticed this with loved ones you can find somebody who can't recognize their face in the mirror or can't tell anyone in their family but you can still find a shard of music that that person will jump out of the chair and start singing
+and with that you can bring back parts of people 's memories and personalities music is the best way to restore speech to people who have lost it through strokes movement to people with parkinson 's disease it's very powerful for depression schizophrenia many many things
+so we're working on understanding those underlying principles and then building activities which will let music really improve people 's health and we do this in many ways we work with many different hospitals one of them is right near boston called tewksbury hospital
+long term state hospital where several years ago we started working with hyperscore and patients with physical and mental disabilities
+this has become a central part of the treatment at tewksbury hospital so everybody there clamors to work on musical activities it's the activity that
+a real experience not only to learn how to play and listen to rhythms but to train your musical memory and playing music in a group
+music to shape it themselves change it to experiment with it to make their own music so hyperscore lets you start from scratch very quickly
+the third idea i want to share with you is that music paradoxically i think even more than words is one of the very best ways we have of showing who we really are
+i love giving talks although strangely i feel more nervous giving talks than playing music if i were here playing cello or playing on a synth or sharing my music with you i'd be able to show things about myself that i
+tell you in words more personal things perhaps deeper things i think that's true for may of us and i want to give you two examples of how music is one of the most powerful interfaces we have from ourselves to the outside world
+rich successful powerful who wants to live forever so he figures out a way to download himself into his environment actually into a series of books
+so this guy wants to live forever he downloads himself into his environment the main singer disappears at the beginning of the opera and the entire stage becomes the main character it becomes his legacy
+and the opera is about what we can share what we can pass on to others to the people we love and what we can 't every object in the opera comes alive and is a gigantic music instrument like this chandelier it takes up the whole stage it looks like a chandelier but it's actually a piano strings each
+little robotic element either little bows that stroke the strings propellers that tickle the strings acoustic signals that vibrate the strings
+we also have an army of robots on stage these robots are the kind of the intermediary between the main character simon powers and his family
+there are a whole series of them kind of like a greek chorus they observe the action we've designed these square robots that we're testing right now at mit
+when you snap line up exactly the way you'd like to even though they're cubes they actually have a lot of personality
+the largest set piece in the opera is called the system it's a series of books every single book is robotic so they all move they all make sound and when you put them all
+turn into these walls which have the gesture and the personality of simon powers so he 's disappeared but the whole physical environment
+becomes this person this is how he 's chosen to represent high packed
+all display and here 's the great
+in monaco it's in september two thousand and nine if by any chance you can't make it another idea with this project here 's this guy building his legacy through this very unusual form through music and through the environment
+but we're also making this available both online and in public spaces as a way of each of us to use music and images of our lives
+but what if i could make an instrument that could be adapted to the way i personally behave to the way my hands work to what i do very skillfully
+so can you give a hand to adam
+ph d student from the mit media lab and dan ellsey
+thanks to ted and to
+dan is here with us today all the way from tewksbury he 's a resident at tewksbury hospital this is by far the farthest he 's strayed from tewksbury hospital i can tell you that
+hello my name is dan ellsey i am thirty four years old and i have cerebral palsy
+and we're really excited to have you here
+so we met dan about three years ago three and a half years ago when we started working at tewksbury everybody we met there was
+and over the last few years has been a constant collaborator of ours he has made many many pieces he makes his own cds actually he is quite well known in the boston area mentors people at the hospital and children locally in how to make their own music
+and i'll let adam tell you so adam is a ph d student at mit an expert in music technology and medicine and adam and dan have become close collaborators what adam 's been working on for this last period
+yes so tod and i entered into a discussion following the tewksbury work and it was really about how dan is an expressive person and he 's an intelligent and creative person and
+so we started developing a technology that will allow him with nuance with precision with control and despite his physical disability to be able to do that to be able to perform his piece of music so
+the process and the technology basically first we needed an engineering solution so you know we have a firewire camera it looked at an infrared pointer we went with the type of gesture metaphor that he was already used to
+with his speaking controller and this was actually the least interesting part of the work you know the design process we needed an input we needed continuous tracking in the software would look at the types of shapes he 's making
+but then was the really interesting aspect of the work following the engineering part where basically we're coding over dan 's shoulder at the hospital extensively to figure out you know how does dan move what's useful to him as an expressive motion
+you know what's his metaphor for performance what types of things does he find important to control and convey in a piece of music so all the parameter fitting and really
+they provide access they allow us to create pieces of creative work but what about expression what about that moment when an artist delivers that piece of work you know do our technologies allow us to express do they provide structure for us to do that
+and you know thats a personal relationship to expression that is lacking in the technological spheres so you know with dan we needed a new design process a new engineering process to sort of discover his movement and his path to expression that allow him to perform
+and so that's what we'll do
+so let 's do it so dan do you want to tell everyone about what you're going to play now
+this is my eagle song
+so dan is going to play a piece of his called my eagle song in fact this is the score of dan 's piece completely composed by dan in hyperscore so he can use his infrared
+'s really modest too so he can go in
+draws the lines places everything the way he wants to looking at the hyperscore you can see it also you can see where the sections are something might continue for a while change get really crazy
+and then end up with a big bang at the end
+so that's the way he made his piece and as adam says
+we then figured out the best way to have him
+what the camera is measuring but instead of making it very literal showing you exactly the camera tracing we turned it into a graphic that shows you the basic movement and shows the way it's being analyzed
+i think it gives an understanding of how we're picking out movement from what dan 's doing but i think it will also show you if you look at that movement that when dan makes music
+his motions are very purposeful very precise very disciplined and they're also very beautiful so in hearing this piece as i mentioned before the most important thing is the music 's great
+and it'll show you who dan is so are we ready adam ab yeah tm ok now dan will play his piece my eagle song for you

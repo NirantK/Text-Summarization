@@ -1,0 +1,52 @@
+and i suddenly realized that the next day was mother 's day and i hadn 't gotten anything for my mom so i started thinking about what should i get my mom for mother 's day i thought why don 't i make her an interactive mother 's day card
+using the scratch software that i 'd been developing with my research group at the mit media lab
+we developed it so that people could easily create their own interactive stories and games and animations and then share their creations with one another
+so i thought this would be an opportunity to use scratch to make an interactive card for my mom
+before making my own mother 's day card i thought i would take a look at the scratch website so over the last several years kids around the world ages eight and up have shared their projects and i thought i wonder if of those three million projects whether anyone else has thought to put up mother 's day cards
+and i was surprised and delighted to see a list of dozens and dozens of mother 's day cards that showed up on the scratch website many of them just in the past twenty four hours by procrastinators just like myself
+so i started taking a look at them
+and the creator very considerately offered a replay for her mom
+another one was an interactive project where when you moved the mouse over the letters of happy mom day it reveals a special happy mother 's day slogan
+so my mom was happy and that made me happy
+when you become fluent with language it means you can write an entry in your journal or tell a joke to someone or write a letter to a friend
+and it 's similar with new technologies
+but actually i 'm sort of skeptical about this term i 'm not so sure we should be thinking of young people as digital natives
+when you really look at it how is it that young people spend most of their time using new technologies you often see them in situations like this
+and there 's no doubt that young people are very comfortable and familiar browsing and chatting and texting and gaming
+but that doesn 't really make you fluent
+so young people today have lots of experience and lots of familiarity with interacting with new technologies but a lot less so of creating with new technologies and expressing themselves with new technologies it 's almost as if they can read but not write with new technologies
+and i 'm really interested in seeing how can we help young people become fluent so they can write with new technologies and that really means that they need to be able to write their own computer programs or code
+so increasingly people are starting to recognize the importance of learning to code you know in recent years there have been hundreds of new organizations and websites that are helping young people learn to code
+a few months later the country of estonia decided that all of its first graders should learn to code
+and that triggered a debate in the u k about whether all the children there should learn to code
+now for some of you when you hear about this it might seem sort of strange about everybody learning to code
+when many people think of coding they think of it as something
+but coding doesn 't have to be like this let me show you about what it 's like to code in scratch
+so in scratch to code you just snap blocks together in this case you take a move block snap it into a stack and the stacks of blocks control the behaviors of the different characters in your game or your story in this case controlling the big fish
+so of course making a fish game isn 't the only thing you can do with scratch of the millions of projects on the scratch website there 's everything from animated stories
+to school science projects to anime soap operas to virtual construction kits to recreations of classic video games to political opinion polls to trigonometry tutorials
+to interactive artwork and yes interactive mother 's day cards
+here 's an example from hong kong where some kids made a game and then built their own physical interface device and had a light sensor so the light sensor detects the hole in the board so as they move the physical saw the light sensor detects the hole
+we 're going to continue to look at new ways of bringing together the physical world and the virtual world and connecting to the world around us this is an example from a new version of scratch that we 'll be releasing in the next few months and we 're looking again to be able to push you in new directions here 's an example
+so it 's a little bit like microsoft kinect where you interact with gestures in the world but instead of just playing someone else 's game you get to create the games and if you see someone else 's game you can just say see inside
+the same way that this uses the camera to get information into scratch you can also use the microphone here 's an example of a project using the microphone so i 'm going to let all of you control this game using your voices
+as kids are creating projects like this they 're learning to code
+but even more importantly they 're coding to learn because as they learn to code it enables them to learn many other things opens up many new opportunities for learning again it 's useful to make an analogy to reading and writing
+when you learn to read and write it opens up opportunities for you to learn so many other things when you learn to read you can then read to learn and it 's the same thing with coding if you learn to code you can code to learn now some of the things you can learn are sort of obvious you learn more about how computers work
+but that 's just where it starts when you learn to code it opens up for you to learn many other things let me show you an example here 's another project
+and i saw this when i was visiting one of the computer clubhouses these are after school learning centers that we helped start that help young people from low income communities learn to express themselves creatively with new technologies
+and when i went to one of the clubhouses a couple years ago i saw a thirteen year old boy who was using our scratch software to create a game somewhat like this one and he was very happy with his game and proud of his game
+and he put it into the program exactly where the big fish eats the little fish
+so then each time the big fish eats the little fish he will increment the score and the score will go up by one
+when you learn ideas like this in scratch you can learn it in a way that 's really meaningful and motivating for you that you can understand the reason for learning variables and we see that kids learn it more deeply and learn it better victor
+so as kids like victor are creating projects like this they 're learning important concepts like variables but that 's just the start
+as victor worked on this project and created the scripts he was also learning about the process of design how to start with the glimmer of an idea and turn it into a fully fledged functioning project like you see here
+so he was learning many different core principles of design about how to experiment with new ideas how to take complex ideas and break them down into simpler parts how to collaborate with other people on your projects about how to find and fix bugs when things go wrong
+how to keep persistent and to persevere in the face of frustrations when things aren 't working well
+now who knows if victor is going to grow up and become a programmer or a professional computer scientist it 's probably not so likely but regardless of what he does he 'll be able to make use of these design skills that he learned regardless of whether he grows up to be a marketing manager or a mechanic or a community organizer
+it 's not something that you 're doing just to become a professional writer very few people become professional writers but it 's useful for everybody to learn how to read and write again the same thing with coding most people won 't grow up to become professional computer scientists or programmers
+coding can also enable you to express your ideas and feelings in your personal life let me end with just one more example
+so this is an example that came from after i had sent the mother 's day cards to my mom she decided that she wanted to learn scratch so she made this project for my birthday and sent me a happy birthday scratch card
+now this project is not going to win any prizes for design and you can rest assured that my eighty three year old mom is not training to become a professional programmer or computer scientist
+but working on this project enabled her to make a connection to someone that she cares about and enabled her to keep on learning new things and continuing to practice her creativity and developing new ways of expressing herself
+so as we take a look and we see that michael bloomberg is learning to code all of the children of estonia learn to code even my mom has learned to code don 't you think it 's about time that you might be thinking about learning to code

@@ -1,0 +1,81 @@
+i know it because people come up to me like colleagues and say chris you have a strange career
+something about life and i was actually a rocket scientist i wasn 't really a rocket scientist but i was working
+but it was an exciting experience one day a nasa manager comes into my office sits down
+and says can you please tell us how do we look for life outside earth
+and that came as a surprise to me because i was actually hired to work on quantum computation yet i had a very good answer i said i have no idea
+and he told me biosignatures we need to look for a biosignature and i said what is that and he said it 's any measurable phenomenon that allows us to indicate the presence of life
+and then i thought about it a little bit and i said well is it really that easy because yes if you see something like this then all right
+embryo again and then actually grows back up and back down and back up sort of yo yo and it never dies
+so it 's actually life but it 's actually not as we thought life would be
+and then you see something like that and he was like my god what kind of a life form is that
+except that nowadays it 's heavily disputed if you take the lesson of all these pictures then you realize well actually maybe it 's not that easy maybe i do need a definition of life in order to make that kind of distinction
+so can life be defined well how would you go about it well of course you 'd go to encyclopedia britannica and open at l no of course you don 't do that you put it somewhere in google and then you might get something
+and what you might get and anything that actually refers to things that we are used to you throw away and then you might come up with something like this and it says something complicated with lots and lots of concepts who on earth would write something as convoluted and complex and inane
+rely on things that are not based on amino acids or leaves or anything that we are used to but in fact on processes only and if you take a look at that this was actually in a book that i wrote that deals with artificial life and that explains why that nasa manager was actually in my office to begin with
+because the idea was that with concepts like that maybe we can actually manufacture a form of life
+and so if you go and ask yourself what on earth is artificial life let me give you a whirlwind tour of how all this stuff came about and it started out quite a while ago when someone wrote one of the first successful computer viruses
+and for those of you who aren 't old enough you have no idea how this infection was working namely through these floppy disks but the interesting thing about these computer virus infections was that if you look at the rate at which the infection worked they show this spiky behavior that you 're used to from a flu virus
+and it is in fact due to this arms race between hackers and operating system designers that things go back and forth and the result is kind of a tree of life
+of these viruses a phylogeny that looks very much like the type of life that we 're used to at least on the viral level so is that life
+not as far as i 'm concerned why because these things don 't evolve by themselves in fact they have hackers writing them but the idea was taken very quickly a little bit further
+when a scientist working at the scientific institute decided why don 't we try to package these little viruses in artificial worlds inside of the computer and let them evolve
+and this was steen rasmussen and he designed this system but it really didn 't work because his viruses were constantly destroying each other but there was another scientist who had been watching this an ecologist and he went home and says i know how to fix this
+and he wrote the tierra system and in my book is in fact one of the first truly artificial living systems except for the fact that these programs didn 't really grow in complexity
+and i decided to create a system that has all the properties that are necessary to see the evolution of complexity more and more complex problems constantly evolving
+and of course since i really don 't know how to write code i had help in this i had two undergraduate students at california institute of technology that worked with me that 's charles offria on the left titus brown on the right they are now actually respectable professors at michigan state university
+but i can assure you back in the day we were not a respectable team and i 'm really happy that no photo survives of the three of us anywhere close together
+but what is this system like well i can 't really go into the details but what you see here is some of the entrails but what i wanted to focus on is this type of population structure there 's about ten thousand programs sitting here and all different strains are colored in different colors
+and as you see here there are groups that are growing on top of each other because they are spreading any time there is a program that 's better at surviving in this world due to whatever mutation it has acquired it is going to spread over the others and drive the others to extinction
+so i 'm going to show you a movie where you 're going to see that kind of dynamic and these kinds of experiments are started with programs that we wrote ourselves we write our own stuff replicate it and are very proud of ourselves and we put them in
+and what you see immediately is that there are waves and waves of innovation by the way this is highly accelerated so it 's like a thousand generations a second
+but immediately the system goes like what kind of dumb piece of code was this this can be improved upon in so many ways so quickly so you see waves of new types taking over the other types
+and this type of activity goes on for quite awhile until
+the main easy things have been acquired by these programs
+and then you see sort of like a stasis coming on where the system essentially waits for a new type of innovation like this one which is going to spread
+so what we see here is a system that lives in very much the way we 're used to life going but what the nasa people had asked me really was
+do these guys have a biosignature
+in fact it should perhaps make use of the concepts that i developed just in order to sort of capture what a simple living system might be
+and the thing i came up with i have to first give you an introduction about the idea and maybe that would be a meaning detector rather than a life detector and the way we would do that i would like to find out how i can distinguish text that was written by a million monkeys
+as opposed to text that is in our books
+and i would like to do it in such a way that i don 't actually have to be able to read the language because i 'm sure i won 't be able to as long as i know that there 's some sort of alphabet so here would be a frequency plot of how often you find each of the twenty six letters of the alphabet in a text written by random monkeys
+and obviously each of these letters comes off about roughly equally frequent
+but if you now look at the same distribution in english texts it looks like that
+and i 'm telling you this is very robust across english texts and if i look at french texts it looks a little bit different or italian or german they all have their own type of
+frequency distribution but it 's robust it doesn 't matter whether it writes about politics or about science it doesn 't matter whether it 's a poem or whether it 's a mathematical text
+it 's a robust signature
+and it 's very stable as long as our books are written in english because people are rewriting them and recopying them it 's going to be there so that inspired me to think about well what if i try to use this idea in order not to detect
+random texts from texts with meaning but rather detect the fact that there is meaning in the biomolecules that make up life
+but first i have to ask what are these building blocks like the alphabet elements that i showed you well it turns out we have many different alternatives for such a set of building blocks we could use amino acids we could use nucleic acids carboxylic acids fatty acids in fact chemistry 's extremely rich
+and our body uses a lot of them so that we actually to test this idea first took a look at
+amino acids and some other carboxylic acids and here 's the result
+here is in fact what you get
+if you for example look at the distribution of amino acids on a comet or in interstellar space or in fact in a laboratory where you made very sure that in your primordial soup that there is not living stuff in there what you find is mostly glycine and then alanine and there 's some trace elements of the other ones that is
+also very robust what you find in systems
+like earth where there are amino acids but there is no life
+but suppose you take some dirt and dig through it and then put it into these spectrometers because there 's bacteria all over the place or you take water
+anywhere on earth because it 's teaming with life and you make the same analysis the spectrum looks completely different of course there is still glycine and alanine but in fact there are these heavy elements these heavy amino acids that are being produced because these are valuable to the organism
+and some other ones that are not used in the set of twenty they will not appear at all in any type of concentration
+now you could ask well what about
+these avidians the avidians being the denizens of this computer world where they are perfectly happy replicating and growing in complexity
+so this is the distribution that you get if in fact there is no life they have about twenty eight of these instructions and if you have a system where they 're being replaced one by the other it 's like the monkeys writing on a typewriter each of these instructions appears with roughly the equal frequency but if you now
+take a set of replicating guys like in the video that you saw it looks like this
+so there are some instructions that are extremely valuable to these organisms and their frequency is going to be high and there 's actually some instructions that you only use once if ever so they are either poisonous or really should be used at less of a level than random in this case the frequency is lower
+and below there i show in fact the mutation rate in the environment and i 'm starting this at a mutation rate that is so high that even if you would drop
+a replicating program that would otherwise happily grow up to fill the entire world if you drop it in it gets mutated to death immediately so there is no life possible at that type of mutation rate but then i 'm going to slowly
+turn down the heat so to speak and then there 's this viability threshold where now it would be possible for a replicator to actually live
+and indeed we 're going to be dropping these guys
+into that soup all the time
+so let 's see what that looks like so first
+nothing nothing nothing too hot too hot now the viability
+once you hit the threshold where the mutation rate is so high that you cannot self reproduce you cannot copy the information forward to your offspring without making so many mistakes that your ability to replicate vanishes and then that signature is lost
+what do we learn from that
+then we could start to think about life not
+as something that is so special to earth but that in fact could exist anywhere because it really only has to do with these concepts of information of storing information within physical substrates anything bits nucleic acids anything that 's an alphabet
+is that it is possible to define life in terms of processes alone without referring at all to the type of things that we hold dear as far as the type of life on earth is and that in a sense removes us again
+like all of our scientific discoveries or many of them it 's this continuous dethroning of man of how we think we 're special because we 're alive well we can make life we can make life in the computer granted it 's limited but we have learned
+what it takes in order to actually construct it and once we have that
+then it is not such a difficult task anymore to say if we understand the fundamental processes that do not refer to any particular substrate then we can go out and try other worlds figure out what kind of chemical alphabets might there be
+figure enough about the normal chemistry the geochemistry of the planet
+so that we know what this distribution would look like in the absence of life and then look for large deviations from this this thing sticking out which says this chemical really shouldn 't be there now we don 't know that there 's life then but we could say well at least i 'm going to have to take a look
+very precisely at this chemical and see where it comes from and that might be our chance of actually discovering life when we cannot visibly see it and so that 's really the only take home message that i have for you
+life can be less mysterious than we make it out to be when we try to think about how it would be on other planets

@@ -1,0 +1,80 @@
+so it was taken for granted that i attend some of the best universities which in turn opened the door to a world of opportunity
+unfortunately most of the people in the world are not so lucky
+in some parts of the world for example south africa education is just not readily accessible in south africa the educational system was constructed in the days of apartheid for the white minority and as a consequence today there is just not enough spots for the many more people who want and deserve a high quality education that
+there were a handful of positions left open from the standard admissions process and the night before they were supposed to open that for registration thousands of people lined up outside the gate in a line a mile long hoping to be first in line to get one of those positions
+when the gates opened there was a stampede and twenty people were injured and one woman died she was a mother who gave her life trying to get her son a chance at a better life
+but even in parts of the world like the united states where education is available it might not be within reach
+finally even for those who do manage to get the higher education the doors of opportunity might not open only a little over half of recent college graduates in the united states who get a higher education actually are working in jobs that require that education
+this of course is not true for the students who graduate from the top institutions but for many others they do not get the value for their time
+when what is suddenly possible meets what is desperately necessary i 've talked about what 's desperately necessary let 's talk about what 's suddenly possible what 's suddenly possible was demonstrated by three big stanford classes each of which had an enrollment of one hundred thousand people
+so to understand this let 's look at one of those classes the machine learning class offered by my colleague and cofounder andrew ng
+andrew teaches one of the bigger stanford classes it 's a machine learning class and it has four hundred people enrolled every time it 's offered when andrew taught the machine learning class to the general public it had one hundred thousand people registered
+so to put that number in perspective for andrew to reach that same size audience by teaching a stanford class he would have to do that for two hundred and fifty years
+of course he 'd get really bored so
+having seen the impact of this andrew and i decided that we needed to really try and scale this up to bring the best quality education to as many people as we could so we formed coursera whose goal is to take the best
+courses from the best instructors at the best universities and provide it to everyone around the world for free we currently have forty three courses on the platform from four universities across a range of disciplines and let me show you a little bit of an overview of what that looks like
+far have been submitted and fourteen million videos have been viewed
+but it 's not just about the numbers it 's also about the people whether it 's akash who comes from a small town in india and would never have access in this case to a stanford quality course and would never be able to afford it
+so what made these courses so different after all online course content has been available for a while
+what made it different was that this was real course experience it started on a given day and then the students would watch videos on a weekly basis and do homework assignments and these would be real homework assignments for a real grade with a real deadline
+at the end of the course the students got a certificate
+they could present that certificate to a prospective employer and get a better job and we know many students who did some students took their certificate and presented this to an educational institution at which they were enrolled for actual college credit so these students were really getting something meaningful for their investment of time and effort
+let 's talk a little bit about some of the components that go into these courses
+the first component is that when you move away from the constraints of a physical classroom and design content explicitly for an online format you can break away from for example the monolithic one hour lecture
+you can break up the material for example into these short modular units of eight to twelve minutes each of which represents a coherent concept
+their skills or their interests so for example some students might benefit from a little bit of preparatory material that other students might already have other students might be interested in a particular enrichment topic that they want to pursue individually
+so this format allows us to break away from the one size fits all model of education and allows students to follow a much more personalized curriculum
+of course we all know as educators that students don 't learn by sitting and passively watching videos perhaps one of the biggest components of this effort is that we need to have students who practice with the material
+we 've tried to build in retrieval practice into the platform as well as other forms of practice in many ways for example even our videos are not just videos every few minutes the video pauses and the students get asked a question
+there 's an optional explanation if they want and now the video moves on to the next part of the lecture this is a kind of simple question that i as an instructor might ask in class but when i ask that kind of a question in class eighty percent of the students are still scribbling the last thing i said fifteen
+percent are zoned out on facebook and then there 's the smarty pants in the front row who blurts out the answer before anyone else has had a chance to think about it and i as the instructor am terribly gratified that somebody actually knew the answer and so the lecture moves on before really most of the students have even noticed that a question had been asked
+here every single student has to engage with the material
+the answer is you need to use technology to do it for you
+now fortunately technology has come a long way and we can now grade a range of interesting types of homework
+in addition to multiple choice and the kinds of short answer questions that you saw in the video we can also grade math mathematical expressions as well as mathematical derivations we can grade models whether it 's financial models in a business class or physical models in a science or engineering class
+and we can grade some pretty sophisticated programming assignments let me show you one that 's actually pretty simple but fairly visual this is from stanford 's computer science one hundred and one class and the students are supposed to color correct that blurry red image
+they 're typing their program into the browser and you can see they didn 't get it quite right lady liberty is still seasick
+and so the student tries again and now they got it right and they 're told that and they can move on to the next assignment
+this ability to interact actively with the material and be told when you 're right or wrong is really essential to student learning
+now of course we cannot yet grade the range of work that one needs for all courses specifically what 's lacking is the kind of critical thinking work that is so essential in such disciplines as the humanities the social sciences business and others
+so we tried to convince for example some of our humanities faculty that multiple choice was not such a bad strategy that didn 't go over really well
+so we had to come up with a different solution and the solution we ended up using is peer grading it turns out that previous studies show like this one by saddler and good that peer grading is a surprisingly effective strategy for providing reproducible grades
+it was tried only in small classes but there it showed for example that these student assigned grades on the y axis are actually very well correlated with the teacher assigned grade on the x axis
+what 's even more surprising is that self grades where the students grade their own work critically so long as you incentivize them properly so they can 't give themselves a perfect score
+are actually even better correlated with the teacher grades and so this is an effective strategy that can be used for grading at scale and is also a useful learning strategy for the students because they actually learn from the experience
+so we now have the largest peer grading pipeline ever devised where tens of thousands of students are grading each other 's work and quite successfully i have to say
+but this is not just about students sitting alone in their living room working through problems
+around each one of our courses a community of students had formed a global community of people around a shared intellectual endeavor what you see here is a self generated map from students in our princeton sociology one hundred and one course where they have put themselves on a world map and you can really see the global reach of this kind of effort
+students collaborated in these courses in a variety of different ways
+first of all there was a question and answer forum where students would pose questions and other students would answer those questions
+which is not a level of service i have ever offered to my stanford students
+students also self assembled without any kind of intervention from us into small study groups
+some of these were physical study groups along geographical constraints and met on a weekly basis to work through problem sets this is the san francisco study group but there were ones all over the world
+others were virtual study groups sometimes along language lines or along cultural lines and on the bottom left there you see our multicultural universal study group where people explicitly wanted to connect with people from other cultures
+there are some tremendous opportunities to be had from this kind of framework
+the first is that it has the potential of giving us a completely unprecedented look into understanding human learning because the data that we can collect here is unique you can collect every click
+every homework submission every forum post from tens of thousands of students so you can turn the study of human learning from the hypothesis driven mode to the data driven mode a transformation that for example has revolutionized biology
+you can use these data to understand fundamental questions like what are good learning strategies that are effective versus ones that are not and in the context of particular courses you can ask questions like what are some of the misconceptions that are more common and how do we help students fix them
+so here 's an example of that also from andrew 's machine learning class this is a distribution of wrong answers to one of andrew 's assignments the answers happen to be pairs of numbers so you can draw them on this two dimensional plot each of the little crosses that you see is a different wrong answer
+the big cross at the top left is where two thousand students gave the exact same wrong answer
+now if two students in a class of one hundred give the same wrong answer you would never notice but when two thousand students give the same wrong answer it 's kind of hard to miss
+so andrew and his students went in looked at some of those assignments understood the root cause of the misconception and then they produced a targeted error message that would be provided to every student whose answer fell into that bucket
+which means that students who made that same mistake would now get personalized feedback telling them how to fix their misconception much more effectively
+so this personalization is something that one can then build by having the virtue of large numbers
+the first is the population that studied in a lecture based classroom the second is a population of students that studied using a standard lecture based classroom but with a mastery based approach so the students couldn 't move on to the next topic before demonstrating mastery of the previous one
+and finally there was a population of students that were taught in a one on one instruction using a tutor
+the mastery based population was a full standard deviation or sigma in achievement scores better than the standard lecture based class
+and the individual tutoring gives you two sigma improvement in performance to understand what that means let 's look at the lecture based classroom and let 's pick the median performance as a threshold so in a lecture based class half the students are above that level and half are below
+in the individual tutoring instruction ninety eight percent of the students are going to be above that threshold
+imagine if we could teach so that ninety eight percent of our students would be above average
+hence the two sigma problem because we cannot afford as a society to provide every student with an individual human tutor
+and even personalization is something that we 're starting to see the beginnings of whether it 's via the personalized trajectory through the curriculum or some of the personalized feedback that we 've shown you so the goal here is to try and push and see how far we can get towards the green curve
+so if this is so great are universities now obsolete well mark twain certainly thought so he said that college is a place where a professor 's lecture notes go straight to the students lecture notes without passing through the brains of
+and maybe we should spend less time at universities filling our students minds with content by lecturing at them and more time igniting their creativity their imagination and their problem solving skills by actually talking with them so how do we do that
+we do that by doing active learning in the classroom
+so there 's been many studies including this one that show that if you use active learning interacting with your students in the classroom
+performance improves on every single metric on attendance on engagement and on learning as measured by a standardized test you can see for example that the achievement score almost doubles in this particular experiment so maybe this is how we should spend our time at universities
+so to summarize if we could offer a top quality education to everyone around the world for free what would that do three things
+first it would establish education as a fundamental human right where anyone around the world with the ability and the motivation could get the skills that they need to make a better life for themselves their families and their communities
+and finally this would enable a wave of innovation
+because amazing talent can be found anywhere maybe the next albert einstein or the next steve jobs is living somewhere in a remote village in africa and if we could offer that person an education they would be able to come up with the next big idea and make the world a better place for all of us thank you very much

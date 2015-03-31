@@ -1,0 +1,96 @@
+you know one of the things that i'd like to say upfront is that i'm really here by accident and what i mean not at ted
+that i'm at this point in my life truly my set of circumstances i would truly consider an accident
+but what i'd like to talk to you about today is perhaps a way in which we could use technology to make those accidents happen often
+because i really think when i look back at how i actually ended up in this accident technology played a big role in
+the two greatest passions in my life today are children and education and
+then about the initiative that chris mentioned that we decided to launch at amd that we call fifty x fifteen and then i'll come back to the beginning and tell you a little bit more hopefully
+so with that in mind first of all let me tell you i'm one of five children i'm the oldest the other four are women so i grew up in a family of women i learned a lot about how to deal with that part of the world
+and as you can imagine if you can picture this i was born in a very small village in mexico in unfortunately very poor surroundings
+and my parents did not have a college education but i was fortunate to be able to have one and so were my four sisters that kind of tells you a little bit of an idea of
+the emphasis that my parents placed on education my parents were fanatics about learning and i'll come back to that a little bit later
+but one of the things that exposed me early to learning and a tremendous curiosity that was instilled in me as a child
+was through a technology which is on the screen is a victrola my father found that in a junkyard and was able to repair it and make it work
+and somehow to this day i frankly don't know how he was so aware of what was going on in the world but by inviting me to sit down with him when i was only a few years old
+and playing records in this victrola by mozart and he would tell me how mozart was the most romantic of all the classic composers ever
+and how claire de lune which was one of his favorites was a real exposure to me to classical music
+he explained to me about johann strauss and how he created the waltzes that became so famous in the world and would tell me a little bit about history too when
+and even as a child he was able to instill in me a lot of curiosity and perhaps to you this product may not look like high tech but if you can imagine
+the time when this occurred it was in the mid forties this was really in his view a pretty piece of high tech well
+one of the things that is really critical to try to
+from that experience is that in addition to that people ask me and say well how did your parents treat you when you were a child
+and i always said that they were really tough on me and not tough in the sense that most people think of where your parents yell at you or hit you or whatever
+they were tough in the sense that as i grew up both my mother and father would always say to me it's really important that you always remember two things
+and that you did everything you could to do it the best way you could and the second thing they said
+and we trust you that no matter where you are or where you go you will always do the right thing now i don't know how many of you have ever done that with your kids but if you do
+one of the things that has happened with technology is that it can only be helpful if it is useful of course but it can only be helpful too if it's accessible and it can only be helpful if
+and in today 's world being useful affordable and accessible is not necessarily what happens in a lot of the technology that is done today
+so one of our passions in our company and now one of my personal passions is to be able to really work hard at making the technology useful
+a tremendous thing that people refer to as a killer app is called the internet although frankly speaking we don't believe the internet is the killer app what we believe is that the internet frankly is a connection of people and ideas
+the internet happens to be just the medium in which those people and ideas get connected and the power of connecting people and ideas can be pretty awesome
+and so we believe that through all the changes that have occurred that we're faced today with a tremendous opportunity if we can connect people and ideas more
+intensely and although you've seen a plethora and a myriad of products that have come to the market today
+the key to me is how many of these products are able to provide people connectivity
+in a useful way accessibility in an easy manner and also affordability that regardless of the economic status that a person could have
+that they could have the opportunity to afford this technology so when you look at that we said well we would like to then enable that a little bit we would like to create an initiative
+a couple of years ago at amd we came up with this idea of saying what if we create this initiative we call fifty by fifteen
+where we are going to aim that by the year two thousand and fifteen half of the world will be connected to the internet so that people and ideas can get connected we knew we couldn't do it by ourselves and by no means did we ever intend
+to imply that we at amd could do it alone we always felt that this was something that could be done through partnerships with governments industry educational institutions
+a myriad of other companies and frankly even competitors so it is really a rather lofty initiative if you want to think that way
+but we felt that we had to put a real stake up in the years ahead that was bold enough and courageous enough
+and so when we gave ourselves this scorecard to say well where are we related to our goal towards two thousand and fifteen the thing that becomes apparent is three pieces one
+is the western world defined mostly by western europe and the united states has made an awful lot of progress the connectivity in these parts of the world are really
+truly phenomenal and continue to increase as a matter of fact we think reaching one hundred percent is very doable even before the
+fifteen timeframe in other parts of emerging countries such as india and china the progress has been good has been solid has been good
+the progress has been rather slow as a matter of fact i was just recently visiting south africa i had the opportunity to
+have a discussion with president mbeki and one of the things that we talked about is what is it that's keeping this connectivity goal from moving ahead faster
+and one of the reasons is in south africa it costs one hundred dollars a month to have a broadband connectivity it is impossible
+even in the united states for that cost to be able to enable the connectivity that we're all trying to reach so we talked about ways in which perhaps
+one could partner to be able to bring the cost of this technology down so when you look at this chart you look at the very last it's a logarithmic chart on a horizontal scale you look at the very end
+phenomenal driver of things to force us to do things differently and we look forward to being able to actually working with so many partners around the world to be able to reach that goal
+now one of the things i'd like to explain by fifty x fifteen which i think is really critical is that it is not a charity
+is actually a business venture let 's take a small segment of this of this unconnected world and call it the education market when you look at elementary school children
+we have hundreds and hundreds of millions of children around the world that could benefit tremendously from being able to be connected to the internet
+therefore when we see that we see an opportunity to have a business that addresses the need of that segment and when we embarked in this initiative from the very beginning we said it very clearly
+this is not a charity this is really a business venture one that addresses a very challenging segment of the market because what we have learned in the last three years
+is that this segment of the market whether it's education or under developed nations either way it's a segment that demands incredibly high quality incredibly
+and for twenty odd years it hasn't changed it is still in most places a grey or black box and it looks the same and frankly
+and i know that sometimes i offend some of my customers when i say this but i truly mean it if you could take the name of the computer off the top of it
+would be very difficult to judge who made it because they're all highly commoditized but they're all different so there has not been a human centric approach to addressing this segment of the market so we really believe it is critical
+to think of it it reminded me a lot of the talk we heard this morning about this operating room machinery that was designed specifically for africa we're talking about something very similar here
+it has to be based on a geo sensitive approach what i mean by that is that in some parts of the world the government plays a key role in the development of technology in other parts it doesn 't in other parts of the world you have
+an infrastructure that allows for manufacturing to take place in other parts it doesn 't and then we have to be sensitive about how this technology can be developed and put into action in those regions
+and the last piece which is really important and this is an opinion that we have not shared by many this is one where we seem to stand alone on this one
+is that we really believe that the greatest success of this initiative can come by fostering local integrated end to end ecosystems what i mean by that and let me
+the country of south africa because i was just there therefore i'm a little bit familiar with some of the challenges they have it's a country of forty five million people
+a software training environment in their universities what a place what an ideal place to create an ecosystem that could build the hardware and the software
+needed for their schools and to my surprise i learned in south africa they have eighteen dialects i always thought they only had
+english and afrikaans but it turns out they have eighteen dialects and to be able to meet the needs of this rather complex educational system
+could only be done from inside i don't think this segment of the market can be addressed by companies parachuting from another place of the world
+and just dumping product and selling into the markets so we believe that in those regions of the world where the population is large and there's an infrastructure that can provide it that a local integrated end to end system is really critical for its success
+this is a picture of a classroom that we outfitted with computers in mexico in my home country
+this particular classroom happens to be in the state of michoacan those of you that might be familiar with mexico michoacan is a very colorful state children dress
+and it is incredible to see the power that this has in the hands of kids in a computer and i have to tell you that
+it's so easy to appreciate the impact that access to technology and connectivity can have in the lives and education of these kids we just recently opened a learning laboratory in a school in
+and recently they've written us letters telling us how excited they are about the impact that this has had on their lives on their educational dreams on their capabilities and it's just phenomenal we have now
+in an effort to continue to learn what this particular segment of the market needs and demands and i have to tell you that although millions doesn't sound like a lot in terms of the billions that need to be connected
+one example of this has been the one laptop per child some of you are familiar with this this is a partnership between mit and a group of companies
+google is involved red hat and amd is a key player the electronics behind the one laptop per child are based on amd technology it's a microprocessor
+would last at least eight hours and you wanted the child to have the ability to use the laptop for at least one full day without having to recharge it
+the engineers have done a phenomenal amount of innovation on this part and battery life on this product is now fifteen hours just through a lot of innovative work people have done
+because they're passionate and motivated to be able to do this we expect this to be deployed towards the end of this year and we're very excited at the opportunities that this is going to offer in the field of education it's a highly focused product
+the education market not only in the developing countries but actually in the developed regions as well because there are parts of the united states where this can have also a huge impact
+on the ability to make education more fun and more efficient we also have partnered with ted in this project with architecture for humanity and along with the ted prize winner cameron sinclair we're
+that we have issued to the architectural community to come up with the best design for a computer lab for an emerging region
+and we're really thrilled about the opportunity to be part of this and can't wait to see what comes out of this exciting exciting activity
+let me come back to the beginning to end this presentation i'll tell you that one of the things that i feel is really critical for us in industry in business is to be able to be passionate about solving these problems
+i don't think it's enough to be able to put them on a spreadsheet and look at numbers and say yes that's a good business i really believe that you have to have a passion for it
+and one of the things that i learned too from my parents and i'll give you a little anecdote especially from my father and it took me a while to understand it
+but he said to me when i went to college he said you're the first person in the family to go to college and it's really important you understand that for civilization to make progress
+each generation has to do better than the last one and therefore this is your opportunity to do better than my generation
+but then i finished college i graduated i decided to get married and on my wedding day my father came to me again and said you know
+i'm going to remind you again that each generation has to do better than the last one you have to be a better husband than i was
+because that's how you make progress and now he began to make sense because i knew what a great husband he was and now he was once again beginning to put pressure on me like he did when i was a little kid
+and then a few years later i had a child my first child and again my father comes to the hospital
+and we're looking at the glass and see all the children on the other side and he said i've got to remind you again that for each generation to do better you're going to have to be a better father than i was that's when it dawned on me
+the tremendous challenge that he was placing on me because he was a great father but the key is that he instilled in me a passion to really get up every day in the morning and want to do better to really get up and think that
+my role in life is not just to be the ceo of a fortune five hundred company it's got to be that someday i can look back and this place is truly better through some small contribution that perhaps each of us could make thank you very much

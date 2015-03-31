@@ -1,0 +1,62 @@
+so this chap here he thinks he can tell you the future his name is nostradamus although here the sun have made him look a little bit like sean connery
+and that 's probably because it was a fluke and we only hear about the flukes and about the freaks we don 't hear about all the times that people got stuff wrong
+now we expect that to happen with silly stories about precognition
+but the problem is we have exactly the same problem
+in academia and in medicine and in this environment it costs lives
+so firstly thinking just about precognition as it turns out just last year a researcher called daryl bem conducted a piece of research where he found evidence
+of precognitive powers in undergraduate students and this was published in a peer reviewed academic journal and most of the people who read this just said okay well fair enough but i think that 's a fluke that 's a freak because i know that if i did a study where i found no evidence that undergraduate students had precognitive powers it probably wouldn 't get published in a journal
+and in fact we know that that 's true because several different groups of research scientists tried to replicate the findings of this precognition study and when they submitted it to the exact same journal the journal said no we 're not interested in publishing replication we 're not interested in your negative data
+so this is already evidence of how in the academic literature we will see a biased sample of the true picture of all of the scientific studies that have been conducted
+but it doesn 't just happen in the dry academic field of psychology it also happens in for example cancer research
+so in march two thousand and twelve just one month ago some researchers reported in the journal nature how they had tried to replicate fifty three different basic science studies looking at potential treatment targets in cancer
+because it is a problem because it sends us all down blind alleys their first recommendation of how to fix this problem is to make it easier to publish negative results in science and to change the incentives so that scientists are encouraged to post more of their negative results in public
+but it doesn 't just happen in the very dry world of preclinical basic science cancer research it also happens in the very real
+flesh and blood of academic medicine
+so in one thousand nine hundred and eighty some researchers did a study on a drug called lorcainide and this was an anti arrhythmic drug a drug that suppresses abnormal heart rhythms and the idea was after people have had a heart attack they 're quite likely to have abnormal heart rhythms so if we give them a drug that suppresses abnormal heart rhythms this will increase the chances of them surviving
+early on its development they did a very small trial just under a hundred patients fifty patients got lorcainide and of those patients ten died another fifty patients got a dummy placebo sugar pill with no active ingredient and only one of them died so they rightly regarded this drug as a failure
+and its commercial development was stopped and because its commercial development was stopped this trial was never published
+unfortunately over the course of the next five ten years
+other companies had the same idea about drugs that would prevent arrhythmias in people who have had heart attacks these drugs were brought to market they were prescribed very widely because heart attacks are a very common thing
+and it took so long for us to find out that these drugs also caused an increased rate of death that before we detected that safety signal over one hundred thousand people died
+unnecessarily in america from the prescription of anti arrhythmic drugs
+the development of lorcainide was abandoned for commercial reasons and this study was never published it 's now a good example of publication bias that 's the technical term for the phenomenon where unflattering data gets lost gets unpublished is left missing in action
+and they say the results described here might have provided an early warning of trouble ahead
+now these are stories from basic science these are stories
+from twenty thirty years ago
+the academic publishing environment is very different now there are academic journals like trials the open access journal which will publish any trial conducted in humans regardless of whether it has a positive or a negative result but this problem
+of negative results that go missing in action is still very prevalent in fact it 's so prevalent that it cuts to the core of evidence based medicine
+so this is a drug called reboxetine and this is a drug that i myself have prescribed it 's an antidepressant and i 'm a very nerdy doctor so i read all of the studies that i could on this drug i read the one study that was published that showed that reboxetine was better than placebo and i read the other three studies that were published that showed that reboxetine was just as good as any other antidepressant and because
+but it turned out that i was misled
+in fact seven trials were conducted comparing reboxetine against a dummy placebo sugar pill one of them was positive and that was published but six of them were negative and they were left unpublished
+three trials were published comparing reboxetine against other antidepressants in which reboxetine was just as good and they were published but three times as many patients worth of data was collected which showed that reboxetine was worse than those other treatments and those trials were not published i felt misled
+now you might say well that 's an extremely unusual example and i wouldn 't want to be guilty of the same kind of cherry picking and selective referencing that i 'm accusing other people of
+but it turns out that this phenomenon of publication bias has actually been very very well studied
+so here is one example of how you approach it
+the classic model is you get a bunch of studies where you know that they 've been conducted and completed and then you go and see if they 've been published anywhere in the academic literature
+so this took all of the trials that had ever been conducted on antidepressants that were approved over a fifteen year period by the fda they took all of the trials which were submitted to the fda as part of the approval package so that 's not all of the trials that were ever conducted on these drugs because we can never know if we have those but it is the ones that were conducted in order to get the marketing authorization
+and then they went to see if these trials had been published in the peer reviewed academic literature and this is what they found it was pretty much a fifty fifty split half of these trials were positive half of them were negative in reality
+but when they went to look for these trials in the peer reviewed academic literature what they found was a very different picture
+only three of the negative trials were published but all but one
+of the positive trials were published now if we just flick back and forth between those two you can see what a staggering difference there was between reality
+and what doctors patients commissioners of health services and academics were able to see in the peer reviewed academic literature we were misled and this is a systematic flaw in the core of medicine
+this is a cancer at the core of evidence based medicine
+if i flipped a coin one hundred times but then withheld the results from you from half of those tosses i could make it look as if i had a coin that always came up heads but that wouldn 't mean that i had a two headed coin that would mean that i was a chancer and you were an idiot for letting me get away with it
+and to me this is
+research misconduct if i conducted one study and i withheld half of the data points from that one study you would rightly accuse me essentially of research fraud
+and yet for some reason if somebody conducts ten studies but only publishes the five that give the result that they want we don 't consider that to be research misconduct and when that responsibility is diffused between
+a whole network of researchers academics industry sponsors journal editors for some reason we find it more acceptable but the effect on patients
+this is a drug called tamiflu tamiflu is a drug which governments around the world have spent billions and billions of dollars on stockpiling and we 've stockpiled tamiflu in panic in the belief that it will reduce the rate of complications of influenza complications is a medical euphemism for pneumonia and death
+now when the cochrane systematic reviewers
+they found that several of those trials were unpublished the results were unavailable to them and when they started obtaining the writeups of those trials through various different means through freedom of information act requests through harassing various different organizations what they found was inconsistent
+and when they tried to get a hold of the clinical study reports the ten thousand page long documents that have the
+and the most staggering thing of all of this to me
+is that not only is this a problem not only do we recognize that this is a problem
+but we 've had to suffer fake fixes we 've had people pretend
+and so then the international committee of medical journal editors came along and they said oh well we will hold the line we won 't publish any journals
+we won 't publish any trials unless they 've been registered before they began
+weren 't properly registered and a quarter of them weren 't registered
+to that ruling and it turns out that only one in five have done so this is a
+we cannot know the true effects of the medicines that we prescribe if we do not have access to all of the information and this is not a difficult problem to fix
+we need to force people to publish all trials conducted in humans
+including the older trials because the fda amendment act only asks that you publish the trials conducted after two thousand and eight and i don 't know what world it is in which we 're only practicing medicine on the basis of trials that completed in the past two years
+we need to publish all trials in humans including the older trials for all drugs in current use and you need to tell everyone you know

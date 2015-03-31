@@ -1,0 +1,88 @@
+to tell you about the mysteries of the universe or the wonders of evolution or the really clever innovative ways people are attacking the major inequalities in our world
+or even the challenges of nation states in the modern global economy my brief as you've just heard is to tell you about statistics
+and to be more precise to tell you some exciting things about statistics and that's that's rather more challenging than all the speakers before me and all the ones coming after me
+my senior colleagues told me when i was a youngster in this profession rather proudly that statisticians were people who liked figures but didn't have the personality skills to become accountants
+and there's another in joke among statisticians and that 's how do you tell the introverted statistician from the extroverted statistician to which the answer is the extroverted statistician 's the one who looks at the other person 's shoes
+but i want to tell you something useful and here it is so concentrate now this evening there's a reception in the university 's museum of natural history and it's a wonderful setting as i hope you'll find and a great icon to the best of the victorian tradition
+it's very unlikely in this special setting and this collection of people but you might just find yourself talking to someone you'd rather wish that you
+so here 's what you do when they say to you what do you do you say i 'm a statistician
+now and they'll know you're making it up and then one of two things will happen they'll either discover their long lost cousin in the other corner of the room and run over and talk to them
+it's one of the challenges in our profession to try and explain what we do we're not top on people 's lists for dinner party
+guests and conversations and so on and it's something i've never really found a good way of doing but my wife who was then my girlfriend managed it much better than
+been able to many years ago when we first started going out she was working for the bbc in britain and i was at that stage working in america i was coming back to visit her she told this to one of her colleagues
+said well what does your boyfriend do sarah thought quite hard about the things i'd explained and she concentrated in those days on listening
+that and she was thinking about the work i did developing mathematical models for understanding evolution and modern genetics
+so when her colleague said what does he do she paused and said he models things
+how we react to that and how well we do or don't think about it so you've had a pretty easy time up till now a few laughs and all that kind of thing in the talks
+think and i'm going to ask you some questions so here 's the scene for the first question i'm going to ask you can you imagine tossing a coin successively
+and for some reason which shall remain rather vague we're interested in a particular pattern here 's one a head followed by a tail followed by a tail so suppose we toss a coin repeatedly
+then the pattern head tail tail that we've suddenly become fixated with happens here and you can count one two three four five six seven eight nine ten it happens after the tenth toss
+this side to think about the other half of the audience doesn't like head tail tail they think for deep cultural reasons that's boring
+on this side you've got a number you've done it lots of times so you get it accurately which is the average number of tosses until head tail tail on this side you've got a number the average number of tosses until head tail head
+so what's going on here so you've all got to think about this and you've all got to vote and we're not moving on and i don't want to end up in the two minute silence to give you more time to think about it until everyone 's expressed a view
+ok so what you want to do is compare the average number of tosses until we first see head tail head with the average number of tosses until we first see head tail tail
+who thinks that a is true that on average it'll take longer to see head tail head than head tail tail who thinks that b is true that on average they're the same
+that c is true that on average it'll take less time to see head tail head than head tail tail ok who hasn't voted yet because that's really naughty i said you had to
+ok so most people think b is true and you might be relieved to know even rather distinguished mathematicians think that it's not
+a is true here it takes longer on average in fact the average number of tosses till head tail head is ten and the average number of tosses until head tail tail is eight
+how could that be anything different about the two
+there is head tail head overlaps itself if you went head tail head tail head you can cunningly get two occurrences of the pattern in only five tosses
+you can't do that with head tail tail
+that turns out to be important there are two ways of thinking about this i'll give you one of them so imagine let 's suppose we're doing it on this side remember you're excited about
+if it comes down a head that's great you're done and you celebrate if it's a tail well rather disappointedly you put the glasses away and put the champagne back and you keep tossing to wait for the next head to get excited
+on this side there's a different experience it's the same for the first two parts of the sequence you're a little bit excited with the first head you get rather more excited with the next tail then you toss the coin if it's a tail you crack open the champagne
+if it's a head you're disappointed but you're still a third of the way to your pattern again and that's an informal way of presenting it that's why there's a difference
+little chemical scissors called restriction enzymes which cut dna whenever they see particular patterns and they're an enormously useful tool in modern molecular biology and instead of asking the question how long until i see a head tail head you can ask
+how big will the chunks be when i use a restriction enzyme which cuts whenever it sees g a a g for example how long will
+but it turns out that unlocking the secrets in the information generated by modern experimental technologies a key part of that has to do with fairly sophisticated
+to know that i do something useful in my day job rather more sophisticated than the head tail head story but quite sophisticated computer modelings and mathematical modelings and modern statistical techniques
+give you two little snippets two examples of projects we're involved in in my group in oxford both of which i think are rather exciting
+you know about the human genome project that was a project which aimed to read one copy of the human genome
+the natural thing to do after you've done that and that's what this project the international hapmap project which is a collaboration between labs in five or six different countries
+why do we care about that well there are lots of reasons the most pressing one is that we want to understand how some differences make some people susceptible to one disease type two diabetes for example
+and other differences make people more susceptible to heart disease or stroke or autism and so on
+one big project there's a second big project recently funded by the wellcome trust in this country involving very large studies thousands of individuals with each of eight different diseases common diseases
+like type one and type two diabetes and coronary heart disease bipolar disease and so on to try and understand the genetics to try and understand what it is about genetic differences that causes the diseases
+why do we want to do that because we understand very little about most human diseases we don't know what causes them and if we can get in at the bottom and understand the genetics
+as i said the little diversion on my main love back to some of the more mundane issues of thinking about uncertainty here 's another quiz for you
+now suppose we've got a test for a disease which isn't infallible but it's pretty good it gets it right ninety nine percent of the time and i take one of you or i take someone off the street
+and i test them for the disease in question let 's suppose there's a test for hiv the virus that causes aids and the test says the person has the disease
+the test gets it right ninety nine percent of the time so a natural answer is
+so let 's think about a disease that affects it's pretty rare it affects one person in ten thousand amongst these million individuals most of them are healthy and some of them will have the disease and in fact if this is the prevalence of the disease about one hundred will have the disease
+and the rest won 't so now suppose we test them all what happens well amongst the one hundred who do have the disease the test will get it right ninety nine percent of the time and ninety nine will test positive
+put that another way of all of them who test positive so here they are the individuals involved less than one in one hundred
+actually have the disease so even though we think the test is accurate the important part of the story is there's another bit of information we need
+here 's the key intuition what we have to do once we know the test is positive is to weigh up the plausibility or the likelihood of two competing explanations
+each of those explanations has a likely bit and an unlikely bit one explanation is that the person doesn't have the disease that's overwhelmingly likely if you pick someone
+but the test gets it wrong which is unlikely the other explanation is that the person does have the disease that's unlikely but the test gets it right which is likely
+and the number we end up with that number which is a little bit less than one in one hundred is to do with how likely one of those explanations is relative to the other each of them taken together is unlikely
+a more topical example of exactly the same thing those of you in britain will know about what's become rather a celebrated case of a
+who had two babies who died suddenly and initially it was thought that they died of what's known informally as cot death and more formally as sudden infant death syndrome
+for various reasons she was later charged with murder and at the trial her trial a very distinguished pediatrician gave evidence that the chance of two cot deaths
+long story short she was convicted at the time later and fairly recently acquitted on appeal in fact on the second appeal
+and just to set it in context you can imagine how awful it is for someone to have lost one child
+if they're innocent to be convicted of murdering them to be put through the stress of the trial convicted of murdering them and to spend time in a women 's prison where all the other prisoners think you killed your children is a really awful thing to happen to someone
+it happened in large part here because the expert got the statistics horribly wrong in two different ways so where did he get the one in seventy three million number
+he looked at some research which said the chance of one cot death in a family like sally clark 's is about one in eight and a half thousand
+so if you toss a coin twice the chance of getting a head twice are a half that's the chance the first time times a half the chance a second time
+so he said here let 's assume i'll assume that these events are independent when you multiply eight and a half thousand together twice you get about seventy three million and none of this was stated to the court as an assumption or presented to the jury that way
+and secondly it's palpably false there are lots and lots of things that we don't know about sudden infant deaths
+it might well be that there are environmental factors that we're not aware of and it's pretty likely to be the case that there are genetic factors we're not aware of so if a family suffer from one cot death
+put them in a high risk group they've probably got these environmental risk factors and or genetic risk factors we don't know about and to argue then that the chance of a second death is as if you didn't know that information is really silly
+the first problem the second problem is what does the number of one in seventy three million mean so after sally clark was convicted you can imagine it made rather
+a splash in the press one of the journalists from one of britain 's more reputable newspapers wrote that what the expert had said was the chance that she was innocent was one in seventy three million
+now that's a logical error it's exactly the same logical error as the logical error of thinking that after the disease test which is ninety nine percent accurate the chance of having the disease is ninety nine percent
+in the disease example we had to bear in mind two things one of which was the possibility that the test got it right
+there are two things involved two parts to the explanation we want to know how likely or relatively how likely two different explanations
+one of them is that sally clark was innocent which is a priori overwhelmingly likely most mothers don't kill their children
+the other explanation is that she was guilty now we probably think a priori that's unlikely and we certainly should think in the context of a criminal trial that that's unlikely because of the presumption of innocence and then if she were trying to kill the children she succeeded
+so the chance that she's innocent isn't one in seventy three million we don't know what it is it has to do with weighing up the strength of the other evidence against her and the statistical evidence
+we know the children died what matters is how likely or unlikely relative to each other the two explanations are and they're both implausible
+there's a situation where errors in statistics had really profound and really unfortunate consequences in fact there are two other women who were convicted on the basis of the evidence of this pediatrician who have subsequently been released on appeal
+so just to conclude what are the take home messages from this well we know that randomness and uncertainty and chance are very much a part of our everyday life
+in not getting the examples i gave right it's very well documented that people get things wrong they make errors of logic in reasoning with uncertainty
+in medicine and indeed quite a lot of industry all of quality control which has had a major impact on industrial processing is underpinned by statistics
+so if a pediatrician had come out and said to a jury i know how to build bridges i've built one down the road please drive your car home over it they would have said well pediatricians don't know how to build bridges that's what engineers do
+if you believe the number just like the seventy three million to one that's not what it meant and there have been celebrated appeal cases in britain and elsewhere because of that
+and just to finish in the context of the legal system it's all very well to say let 's do our best to present the evidence but more and more in cases of dna profiling this is another one we expect juries
+in the case of uncertainty we get it wrong all the time and at the very least we should be aware of that and ideally we might try and do something about it thanks very much

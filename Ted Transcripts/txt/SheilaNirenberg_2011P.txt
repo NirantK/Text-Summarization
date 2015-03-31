@@ -1,0 +1,17 @@
+and so for the vast majority of patients their best hope for regaining sight is through prosthetic devices the problem is that current prosthetics don 't work very well they 're still very limited in the vision that they can provide and so you know for example with these devices patients can see simple things like bright lights and high contrast edges not very much more
+and what i wanted to do is show you how it works okay so let me back up a little bit and show you how a normal retina works first so you can see the problem that we were trying to solve here you have a retina so you have an image a retina and a brain so when you look at something like this image of this baby 's face
+it goes into your eye and it lands on your retina on the front end cells here the photoreceptors
+then what happens is the retinal circuitry the middle part goes to work on it and what it does is it performs operations on it it extracts information from it and it converts that information into a code and the code is in the form of these patterns of electrical pulses that get sent up to the brain
+and so the key thing is that the image ultimately gets converted into a code and when i say code i do literally mean code like this pattern of pulses here
+actually means baby 's face and so when the brain gets this pattern of pulses it knows that what was out there was a baby 's face
+so you know it 's sort of a complicated thing you have these patterns of pulses coming out of your eye
+every millisecond telling your brain what it is
+what we call an encoder and a transducer and so the encoder does just what i was saying it mimics the actions of the front end circuitry so it takes images in and converts them into the retina 's code and then the transducer then makes the output cells send the code on up to the brain and the result is
+a retinal prosthetic that can produce normal retinal output
+so a completely blind retina even one with no front end circuitry at all no photoreceptors
+and i just made the pulses a little bit smaller and thinner so i could show you a long stretch of data so as you can see the firing patterns from the blind animal treated with the encoder transducer really do very closely match the normal
+in the normal firing patterns because they don 't have the right code how important is this what 's the potential impact on a patient 's ability to see so i 'm just going to show you one bottom line
+and on the right is from an actual blind retina so the encoder and the transducer but the key one really is the encoder alone because we can team up the encoder with the different transducer this is just actually the first one that we tried
+able to communicate with the brain in its language and the potential power of being able to do that so it 's different from the motor prosthetics where you 're communicating from the brain to a device here we have to communicate from the outside world into the brain and be understood and be understood by the brain
+or jump over damaged areas in the cortex in the motor cortex to bridge the gap produced by a stroke i just want to end with a simple message that understanding the code is really really important
+and if we can understand the code the language of the brain things become possible that didn 't seem obviously possible before thank you

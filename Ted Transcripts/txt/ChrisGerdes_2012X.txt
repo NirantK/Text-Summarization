@@ -1,0 +1,51 @@
+maybe you 're out on the road for a long day and you just wanted to get home you were tired but you felt you could drive a few more miles maybe you thought i 've had less to drink than everybody else i should be the one to go home
+or maybe your mind was just entirely elsewhere that you could push
+and the car would get you home safely
+now that 's been the promise of the self driving car the autonomous vehicle and it 's been the dream since at least one thousand nine hundred and thirty nine when general motors showcased this idea at their futurama booth at the world 's fair
+now california 's considering similar legislation and this would make sure that the autonomous car is not one of those things that has to stay in vegas
+now why would we want to do such a thing well there 's two really good reasons for this
+now if you 're like me and the other seventy percent of the population who know that we are above average drivers you understand that 's a very high bar
+there 's another reason as well
+just like race car drivers can use all of the friction between the tire and the road all of the car 's capabilities to go as fast as possible
+we want to use all of those capabilities to avoid any accident we can
+now you may push the car to the limits not because you 're driving too fast but because you 've hit an icy patch of road conditions have changed
+in those situations we want a car that is capable enough to avoid any accident that can physically be avoided
+i must confess there 's kind of a third motivation as well you see i have a passion for racing
+in the past i 've been a race car owner a crew chief and a driving coach
+although maybe not at the level that you 're currently expecting
+one of the things that we 've developed in the lab we 've developed several vehicles
+is what we believe is the world 's first autonomously drifting car
+we 've also worked with volkswagen oracle on shelley an autonomous race car that has raced at one hundred and fifty miles an hour through the bonneville salt flats
+gone around thunderhill raceway park in the sun
+the wind and the rain
+and navigated the one hundred and fifty three turns and twelve point four miles of the pikes peak hill climb route in colorado with nobody at the wheel
+i guess it goes without saying that we 've had a lot of fun doing this these autonomous cars
+we have developed a tremendous appreciation
+for the capabilities of human race car drivers
+as we 've looked at the question of how well do these cars perform
+we wanted to compare them to our human counterparts are amazing
+we can take a mathematical model of a car and with some iteration we can actually find the fastest way around that track
+we line that up with data that we record from a professional driver
+and the resemblance is absolutely remarkable
+yes there are subtle differences here
+but the human race car driver is able to go out and drive an amazingly fast line without the benefit of an algorithm that compares the trade off between going as fast as possible in this corner and shaving a little bit of time off of the straight over here
+not only that they 're able to do it lap after lap after lap
+they 're able to go out and consistently do this pushing the car to the limits every single time
+it 's extraordinary to watch
+you put them in a new car
+and after a few laps they 've found the fastest line in that car
+and they 're off to the races
+it really makes you think
+we 'd love to know what 's going on inside their brain
+so as researchers that 's what we decided to find out
+we decided to instrument not only the car
+but also the race car driver to try to get a glimpse into what was going on in their head as they were doing this
+now this is dr lene harbott applying electrodes to the head of john morton
+john morton is a former can am and imsa driver who 's also a class champion at le mans fantastic driver and very willing to put up with graduate students and this sort of research
+she 's putting electrodes on his head so that we can monitor the electrical activity in john 's brain as he races around the track
+now clearly we 're not going to put a couple of electrodes on his head and understand exactly what all of his thoughts are on the track however neuroscientists have identified certain patterns that let us tease out some very important aspects of this
+for instance the resting brain tends to generate a lot of alpha waves
+now we can measure this and we can look at the relative power between the theta waves and the alpha waves this gives us a measure of mental workload how much the driver is actually challenged cognitively at any point along the track
+now we wanted to see if we could actually record this on the track so we headed down south to laguna seca
+now the corkscrew is a chicane followed by a quick right handed turn as the road drops three stories now the strategy for driving this as explained to me was you aim for the bush in the distance and as the road falls away you realize it was actually the top of a tree
+life is way too short

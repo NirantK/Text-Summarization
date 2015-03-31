@@ -1,0 +1,62 @@
+raise your hand if you know someone in your immediate family or circle of friends who suffers from some form of mental illness
+as we heard from dr insel this morning psychiatric disorders like autism depression and schizophrenia take a terrible toll on human suffering
+we know much less about their treatment
+and the understanding of their basic mechanisms than we do about diseases of the body think about it in two thousand and thirteen the second decade of the millennium if you 're concerned about a cancer diagnosis and you go to your doctor you get bone scans biopsies and blood tests
+in two thousand and thirteen if you 're concerned about a depression diagnosis you go to your doctor and what do you get a questionnaire
+this view is conditioned by the fact
+that many of the drugs that are prescribed to treat these disorders like prozac
+by globally changing brain chemistry as if the brain were indeed a bag of chemical soup
+but that can 't be the answer because these drugs actually don 't work all that well
+a lot of people won 't take them or stop taking them because of their unpleasant side effects these drugs have so many side effects because using them to treat a complex psychiatric disorder is a bit like trying to change your engine oil by opening a can and pouring it all over the engine block
+some of it will dribble into the right place but a lot of it will do more harm than good now an emerging view
+when we think about cognition we analogize the brain to a computer that 's no problem well it turns out that the computer analogy is just as valid for emotion
+it 's just that we don 't tend to think about it that way but we know much less about the circuit basis of psychiatric disorders because of the overwhelming dominance of this chemical imbalance hypothesis
+now it 's not that chemicals are not important in psychiatric disorders it 's just that they don 't bathe the brain like soup rather they 're released in very specific locations and they act on specific synapses to change the flow of information in the brain
+so if we ever really want to understand the biological basis of psychiatric disorders we need to pinpoint these locations in the brain where these chemicals act
+otherwise we 're going to keep pouring oil all over our mental engines and suffering the consequences
+now to begin to overcome our ignorance of the role of brain chemistry in brain circuitry it 's helpful to work on what we biologists call model organisms animals like fruit flies and laboratory mice in which we can apply powerful genetic techniques
+to molecularly identify and pinpoint specific classes of neurons as you heard about in allan jones 's talk this morning moreover once we can do that we can actually activate specific neurons or we can destroy or inhibit the activity of those neurons
+so if we inhibit a particular type of neuron and we find that a behavior is blocked we can conclude that those neurons are necessary for that behavior
+on the other hand if we activate a group of neurons and we find that that produces the behavior we can conclude that those neurons are sufficient for the behavior
+so in this way by doing this kind of test we can draw cause and effect relationships between the activity of specific neurons in particular circuits and particular behaviors something that is extremely difficult if not impossible to do right now in humans
+but can an organism like a fruit fly which is it 's a great model organism
+because it 's got a small brain it 's capable of complex and sophisticated behaviors it breeds quickly and it 's cheap but can an organism like this teach us anything about emotion like states do these organisms even have
+emotion like states or are they just little digital robots
+charles darwin believed that insects have emotion and express them in their behaviors as he wrote in his one thousand eight hundred and seventy two monograph on the expression of the emotions in man and animals
+so how do we ask this question it 's one thing to believe that flies have emotion like states but how do we actually find out whether that 's true or not now in humans we often infer emotional states as you 'll hear later today from facial expressions
+well one of the ways that we can start is to try to come up with some general characteristics or properties of emotion like states such as arousal and see if we can identify any fly behaviors that might exhibit some of those properties
+so three important ones that i can think of are persistence gradations in intensity and valence persistence means long lasting we all know that the stimulus that triggers an emotion causes that emotion to last long after the stimulus is gone
+valence means good or bad positive or negative
+so we decided to see if flies could be provoked into showing the kind of behavior that you see by the proverbial wasp at the picnic table you know the one that keeps coming back to your hamburger the more vigorously you try to swat it away and it seems to keep getting irritated
+so we built a device which we call a puff o mat
+in which we could deliver little brief air puffs to fruit flies in these plastic tubes in our laboratory bench and blow them away
+and what we found is that if we gave these flies in the puff o mat several puffs in a row they became somewhat hyperactive and continued to run around for some time after the air puffs actually stopped and took a while to calm down
+so we quantified this behavior using custom locomotor tracking software developed with my collaborator pietro perona who 's in the electrical engineering division here at caltech
+and what this quantification showed us is that upon experiencing a train of these air puffs the flies appear to enter a kind of state of hyperactivity which is persistent long lasting and also appears to be graded
+more puffs or more intense puffs make the state last for a longer period of time
+so now we wanted to try to understand something about what controls the duration of this state
+so we decided to use our puff o mat and our automated tracking software to screen through hundreds of lines of mutant fruit flies to see if we could find any that showed abnormal responses to the air puffs
+and this is one of the great things about fruit flies there are repositories where you can just pick up the phone and order hundreds of vials of flies of different mutants and screen them in your assay and then find out what gene is affected in the mutation
+so doing the screen we discovered one mutant that took much longer than normal to calm down after the air puffs
+and when we examined the gene that was affected in this mutation it turned out to encode a dopamine receptor
+that 's right flies like people have dopamine and it acts on their brains and on their synapses through the same dopamine receptor molecules that you and i have
+now in genetics it 's a little counterintuitive we tend to infer the normal function of something by what doesn 't happen when we take it away by the opposite of what we see when we take it away
+so when we take away the dopamine receptor and the flies take longer to calm down from that we infer that the normal function of this receptor
+and dopamine is to cause the flies to calm down faster after the puff
+and that 's a bit reminiscent of adhd which has been linked to disorders of the dopamine system in humans
+indeed if we increase the levels of dopamine in normal flies by feeding them cocaine after getting the appropriate dea license oh my god
+which is often treated with drugs like ritalin that act similarly to cocaine so slowly i began to realize that what started out as a rather playful attempt to try to annoy fruit flies might actually have some relevance to a human psychiatric disorder
+remarkably the answer is yes
+as seymour showed back in the one thousand nine hundred and seventy s flies like songbirds as you just heard are capable of learning you can train a fly to avoid an odor shown here in blue if you pair that odor with a shock
+then when you give those trained flies the chance to choose between a tube with the shock paired odor and another odor it avoids the tube containing the blue odor that was paired with shock well if you do this test on dopamine receptor mutant flies they don 't learn their learning score is zero they flunk out of caltech
+now people have been wondering about this for a long time in humans but in flies we can actually test this and the way that we do this is to delve deeply into the mind of the fly and begin to untangle its circuitry using genetics
+we take our dopamine receptor mutant flies
+and we genetically restore or cure the dopamine receptor by putting a good copy of the dopamine receptor gene back into the fly brain but in each fly we put it back only into certain neurons and not in others
+and then we test each of these flies for their ability to learn and for hyperactivity
+remarkably we find we can completely dissociate these two abnormalities if we put a good copy of the dopamine receptor back in this elliptical structure called the central complex the flies are no longer hyperactive but they still can 't
+on the other hand if we put the receptor back in a different structure called the mushroom body
+the learning deficit is rescued the flies learn well but they 're still hyperactive what that tells us is that dopamine is not bathing the brain of these flies like soup
+rather it 's acting to control two different functions on two different circuits so the reason there are two things wrong with our dopamine receptor flies is that the same receptor is controlling two different functions in two different regions of the brain
+whether the same thing is true in adhd in humans we don 't know but these kinds of results should at least cause us to consider that possibility
+so these results make me and my colleagues more convinced
+what we need to do is to use our ingenuity and our scientific knowledge to try to design a new generation of treatments that are targeted to specific neurons and specific regions of the brain that are affected in particular psychiatric disorders
