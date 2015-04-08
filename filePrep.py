@@ -19,4 +19,4 @@ for document_path in datapath:
 			except Exception as e:
 				# print 'Removing...',doc, e
 				# os.remove(os.path.join(document_file))
-				print 'Mofo, you got error: ', e
+				print 'Exception: ', e

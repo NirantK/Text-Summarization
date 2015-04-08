@@ -1,0 +1,2133 @@
+{
+    "0": {
+        "caption": {
+            "duration": 2000,
+            "content": "In terms of invention,",
+            "startOfParagraph": true,
+            "startTime": 0
+        }
+    },
+    "1": {
+        "caption": {
+            "duration": 3000,
+            "content": "I'd like to tell you the tale of one of my favorite projects.",
+            "startOfParagraph": false,
+            "startTime": 2000
+        }
+    },
+    "2": {
+        "caption": {
+            "duration": 3000,
+            "content": "I think it's one of the most exciting that I'm working on,",
+            "startOfParagraph": false,
+            "startTime": 5000
+        }
+    },
+    "3": {
+        "caption": {
+            "duration": 2000,
+            "content": "but I think it's also the simplest.",
+            "startOfParagraph": false,
+            "startTime": 8000
+        }
+    },
+    "4": {
+        "caption": {
+            "duration": 4000,
+            "content": "It's a project that has the potential to make a huge impact around the world.",
+            "startOfParagraph": false,
+            "startTime": 10000
+        }
+    },
+    "5": {
+        "caption": {
+            "duration": 4000,
+            "content": "It addresses one of the biggest health issues on the planet,",
+            "startOfParagraph": false,
+            "startTime": 14000
+        }
+    },
+    "6": {
+        "caption": {
+            "duration": 3000,
+            "content": "the number one cause of death in children under five,",
+            "startOfParagraph": false,
+            "startTime": 18000
+        }
+    },
+    "7": {
+        "caption": {
+            "duration": 5000,
+            "content": "which is ... ? Water-borne diseases? Diarrhea? Malnutrition?",
+            "startOfParagraph": false,
+            "startTime": 21000
+        }
+    },
+    "8": {
+        "caption": {
+            "duration": 6000,
+            "content": "No, it's breathing the smoke from indoor cooking fires --",
+            "startOfParagraph": false,
+            "startTime": 26000
+        }
+    },
+    "9": {
+        "caption": {
+            "duration": 5000,
+            "content": "acute respiratory infections caused by this. Can you believe that?",
+            "startOfParagraph": false,
+            "startTime": 32000
+        }
+    },
+    "10": {
+        "caption": {
+            "duration": 3000,
+            "content": "I find this shocking and somewhat appalling.",
+            "startOfParagraph": true,
+            "startTime": 37000
+        }
+    },
+    "11": {
+        "caption": {
+            "duration": 3000,
+            "content": "Can't we make cleaner burning cooking fuels?",
+            "startOfParagraph": false,
+            "startTime": 40000
+        }
+    },
+    "12": {
+        "caption": {
+            "duration": 2000,
+            "content": "Can't we make better stoves?",
+            "startOfParagraph": false,
+            "startTime": 43000
+        }
+    },
+    "13": {
+        "caption": {
+            "duration": 4000,
+            "content": "How is it that this can lead to over two million deaths every year?",
+            "startOfParagraph": false,
+            "startTime": 45000
+        }
+    },
+    "14": {
+        "caption": {
+            "duration": 2000,
+            "content": "I know Bill Joy was talking to you",
+            "startOfParagraph": false,
+            "startTime": 49000
+        }
+    },
+    "15": {
+        "caption": {
+            "duration": 2000,
+            "content": "about the wonders of carbon nanotubes,",
+            "startOfParagraph": false,
+            "startTime": 51000
+        }
+    },
+    "16": {
+        "caption": {
+            "duration": 2000,
+            "content": "so I'm going to talk to you about",
+            "startOfParagraph": false,
+            "startTime": 53000
+        }
+    },
+    "17": {
+        "caption": {
+            "duration": 4000,
+            "content": "the wonders of carbon macro-tubes, which is charcoal.",
+            "startOfParagraph": false,
+            "startTime": 55000
+        }
+    },
+    "18": {
+        "caption": {
+            "duration": 5000,
+            "content": "So this is a picture of rural Haiti. Haiti is now 98 percent deforested.",
+            "startOfParagraph": false,
+            "startTime": 61000
+        }
+    },
+    "19": {
+        "caption": {
+            "duration": 3000,
+            "content": "You'll see scenes like this all over the island.",
+            "startOfParagraph": false,
+            "startTime": 66000
+        }
+    },
+    "20": {
+        "caption": {
+            "duration": 3000,
+            "content": "It leads to all sorts of environmental problems",
+            "startOfParagraph": false,
+            "startTime": 69000
+        }
+    },
+    "21": {
+        "caption": {
+            "duration": 5000,
+            "content": "and problems that affect people throughout the nation.",
+            "startOfParagraph": false,
+            "startTime": 72000
+        }
+    },
+    "22": {
+        "caption": {
+            "duration": 2000,
+            "content": "A couple years ago there was severe flooding",
+            "startOfParagraph": false,
+            "startTime": 77000
+        }
+    },
+    "23": {
+        "caption": {
+            "duration": 1000,
+            "content": "that led to thousands of deaths --",
+            "startOfParagraph": false,
+            "startTime": 79000
+        }
+    },
+    "24": {
+        "caption": {
+            "duration": 2000,
+            "content": "that's directly attributable to the fact",
+            "startOfParagraph": false,
+            "startTime": 80000
+        }
+    },
+    "25": {
+        "caption": {
+            "duration": 3000,
+            "content": "that there are no trees on the hills to stabilize the soil.",
+            "startOfParagraph": false,
+            "startTime": 82000
+        }
+    },
+    "26": {
+        "caption": {
+            "duration": 4000,
+            "content": "So the rains come, they go down the rivers, and the flooding happens.",
+            "startOfParagraph": false,
+            "startTime": 85000
+        }
+    },
+    "27": {
+        "caption": {
+            "duration": 3000,
+            "content": "Now one of the reasons why there are so few trees is this:",
+            "startOfParagraph": true,
+            "startTime": 90000
+        }
+    },
+    "28": {
+        "caption": {
+            "duration": 3000,
+            "content": "people need to cook, and they harvest wood",
+            "startOfParagraph": false,
+            "startTime": 93000
+        }
+    },
+    "29": {
+        "caption": {
+            "duration": 3000,
+            "content": "and they make charcoal in order to do it.",
+            "startOfParagraph": false,
+            "startTime": 96000
+        }
+    },
+    "30": {
+        "caption": {
+            "duration": 3000,
+            "content": "It's not that people are ignorant to the environmental damage.",
+            "startOfParagraph": false,
+            "startTime": 99000
+        }
+    },
+    "31": {
+        "caption": {
+            "duration": 3000,
+            "content": "They know perfectly well, but they have no other choice.",
+            "startOfParagraph": false,
+            "startTime": 102000
+        }
+    },
+    "32": {
+        "caption": {
+            "duration": 2000,
+            "content": "Fossil fuels are not available,",
+            "startOfParagraph": false,
+            "startTime": 105000
+        }
+    },
+    "33": {
+        "caption": {
+            "duration": 5000,
+            "content": "and solar energy doesn't cook the way that they like their food prepared.",
+            "startOfParagraph": false,
+            "startTime": 107000
+        }
+    },
+    "34": {
+        "caption": {
+            "duration": 2000,
+            "content": "And so this is what they do.",
+            "startOfParagraph": false,
+            "startTime": 112000
+        }
+    },
+    "35": {
+        "caption": {
+            "duration": 4000,
+            "content": "You'll find families like this who go out into the forest to find a tree,",
+            "startOfParagraph": false,
+            "startTime": 114000
+        }
+    },
+    "36": {
+        "caption": {
+            "duration": 3000,
+            "content": "cut it down and make charcoal out of it.",
+            "startOfParagraph": false,
+            "startTime": 118000
+        }
+    },
+    "37": {
+        "caption": {
+            "duration": 3000,
+            "content": "So not surprisingly, there's a lot of effort",
+            "startOfParagraph": false,
+            "startTime": 122000
+        }
+    },
+    "38": {
+        "caption": {
+            "duration": 4000,
+            "content": "that's been done to look at alternative cooking fuels.",
+            "startOfParagraph": false,
+            "startTime": 125000
+        }
+    },
+    "39": {
+        "caption": {
+            "duration": 3000,
+            "content": "About four years ago I took a team of students down to Haiti,",
+            "startOfParagraph": true,
+            "startTime": 129000
+        }
+    },
+    "40": {
+        "caption": {
+            "duration": 3000,
+            "content": "and we worked with Peace Corps volunteers there.",
+            "startOfParagraph": false,
+            "startTime": 132000
+        }
+    },
+    "41": {
+        "caption": {
+            "duration": 2000,
+            "content": "This is one such volunteer,",
+            "startOfParagraph": false,
+            "startTime": 135000
+        }
+    },
+    "42": {
+        "caption": {
+            "duration": 3000,
+            "content": "and this is a device that he had built in the village where he worked.",
+            "startOfParagraph": false,
+            "startTime": 137000
+        }
+    },
+    "43": {
+        "caption": {
+            "duration": 2000,
+            "content": "And the idea was that you could take waste paper;",
+            "startOfParagraph": false,
+            "startTime": 140000
+        }
+    },
+    "44": {
+        "caption": {
+            "duration": 4000,
+            "content": "you could compress it; and make briquettes that could be used for fuel.",
+            "startOfParagraph": false,
+            "startTime": 142000
+        }
+    },
+    "45": {
+        "caption": {
+            "duration": 2000,
+            "content": "But this device was very slow.",
+            "startOfParagraph": false,
+            "startTime": 146000
+        }
+    },
+    "46": {
+        "caption": {
+            "duration": 3000,
+            "content": "So our engineering students went to work on it,",
+            "startOfParagraph": false,
+            "startTime": 148000
+        }
+    },
+    "47": {
+        "caption": {
+            "duration": 3000,
+            "content": "and with some very simple changes,",
+            "startOfParagraph": false,
+            "startTime": 151000
+        }
+    },
+    "48": {
+        "caption": {
+            "duration": 3000,
+            "content": "they were able to triple the throughput of this device.",
+            "startOfParagraph": false,
+            "startTime": 154000
+        }
+    },
+    "49": {
+        "caption": {
+            "duration": 2000,
+            "content": "So you could imagine they were very excited about it.",
+            "startOfParagraph": false,
+            "startTime": 157000
+        }
+    },
+    "50": {
+        "caption": {
+            "duration": 4000,
+            "content": "And they took the briquettes back to MIT so that they could test them.",
+            "startOfParagraph": false,
+            "startTime": 159000
+        }
+    },
+    "51": {
+        "caption": {
+            "duration": 5000,
+            "content": "And one of the things that they found was they didn't burn.",
+            "startOfParagraph": false,
+            "startTime": 163000
+        }
+    },
+    "52": {
+        "caption": {
+            "duration": 3000,
+            "content": "So it was a little discouraging to the students.",
+            "startOfParagraph": false,
+            "startTime": 168000
+        }
+    },
+    "53": {
+        "caption": {
+            "duration": 4000,
+            "content": "And in fact if you look closely, right here,",
+            "startOfParagraph": false,
+            "startTime": 172000
+        }
+    },
+    "54": {
+        "caption": {
+            "duration": 2000,
+            "content": "you can see it says, \"U.S. Peace Corps.\"",
+            "startOfParagraph": false,
+            "startTime": 176000
+        }
+    },
+    "55": {
+        "caption": {
+            "duration": 4000,
+            "content": "As it turns out, there actually wasn't any waste paper in this village.",
+            "startOfParagraph": false,
+            "startTime": 178000
+        }
+    },
+    "56": {
+        "caption": {
+            "duration": 4000,
+            "content": "And while it was a good use of government paperwork",
+            "startOfParagraph": false,
+            "startTime": 182000
+        }
+    },
+    "57": {
+        "caption": {
+            "duration": 2000,
+            "content": "for this volunteer to bring it back with him to his village (Laughter),",
+            "startOfParagraph": false,
+            "startTime": 186000
+        }
+    },
+    "58": {
+        "caption": {
+            "duration": 2000,
+            "content": "it was 800 kilometers away.",
+            "startOfParagraph": false,
+            "startTime": 188000
+        }
+    },
+    "59": {
+        "caption": {
+            "duration": 4000,
+            "content": "And so we thought perhaps there might be a better way",
+            "startOfParagraph": false,
+            "startTime": 190000
+        }
+    },
+    "60": {
+        "caption": {
+            "duration": 2000,
+            "content": "to come up with an alternative cooking fuel.",
+            "startOfParagraph": false,
+            "startTime": 194000
+        }
+    },
+    "61": {
+        "caption": {
+            "duration": 3000,
+            "content": "What we wanted to do is we wanted to make a fuel",
+            "startOfParagraph": true,
+            "startTime": 196000
+        }
+    },
+    "62": {
+        "caption": {
+            "duration": 3000,
+            "content": "that used something that was readily available on the local level.",
+            "startOfParagraph": false,
+            "startTime": 199000
+        }
+    },
+    "63": {
+        "caption": {
+            "duration": 4000,
+            "content": "You see these all over Haiti as well. They're small-scale sugar mills.",
+            "startOfParagraph": false,
+            "startTime": 202000
+        }
+    },
+    "64": {
+        "caption": {
+            "duration": 1000,
+            "content": "And the waste product from them",
+            "startOfParagraph": false,
+            "startTime": 206000
+        }
+    },
+    "65": {
+        "caption": {
+            "duration": 4000,
+            "content": "after you extract the juice from the sugarcane is called \"bagasse.\"",
+            "startOfParagraph": false,
+            "startTime": 207000
+        }
+    },
+    "66": {
+        "caption": {
+            "duration": 3000,
+            "content": "It has no other use. It has no nutritional value,",
+            "startOfParagraph": false,
+            "startTime": 211000
+        }
+    },
+    "67": {
+        "caption": {
+            "duration": 2000,
+            "content": "so they don't feed it to the animals.",
+            "startOfParagraph": false,
+            "startTime": 214000
+        }
+    },
+    "68": {
+        "caption": {
+            "duration": 4000,
+            "content": "It just sits in a pile near the sugar mill until eventually they burn it.",
+            "startOfParagraph": false,
+            "startTime": 216000
+        }
+    },
+    "69": {
+        "caption": {
+            "duration": 3000,
+            "content": "What we wanted to do was we wanted to find a way",
+            "startOfParagraph": false,
+            "startTime": 220000
+        }
+    },
+    "70": {
+        "caption": {
+            "duration": 3000,
+            "content": "to harness this waste resource and turn it into a fuel",
+            "startOfParagraph": false,
+            "startTime": 223000
+        }
+    },
+    "71": {
+        "caption": {
+            "duration": 3000,
+            "content": "that would be something that people could easily cook with,",
+            "startOfParagraph": false,
+            "startTime": 226000
+        }
+    },
+    "72": {
+        "caption": {
+            "duration": 2000,
+            "content": "something like charcoal.",
+            "startOfParagraph": false,
+            "startTime": 229000
+        }
+    },
+    "73": {
+        "caption": {
+            "duration": 5000,
+            "content": "So over the next couple of years, students and I worked to develop a process.",
+            "startOfParagraph": false,
+            "startTime": 231000
+        }
+    },
+    "74": {
+        "caption": {
+            "duration": 4000,
+            "content": "So you start with the bagasse, and then you take a very simple kiln",
+            "startOfParagraph": true,
+            "startTime": 236000
+        }
+    },
+    "75": {
+        "caption": {
+            "duration": 3000,
+            "content": "that you can make out of a waste fifty five-gallon oil drum.",
+            "startOfParagraph": false,
+            "startTime": 240000
+        }
+    },
+    "76": {
+        "caption": {
+            "duration": 4000,
+            "content": "After some time, after setting it on fire, you seal it",
+            "startOfParagraph": false,
+            "startTime": 243000
+        }
+    },
+    "77": {
+        "caption": {
+            "duration": 3000,
+            "content": "to restrict the oxygen that goes into the kiln,",
+            "startOfParagraph": false,
+            "startTime": 247000
+        }
+    },
+    "78": {
+        "caption": {
+            "duration": 4000,
+            "content": "and then you end up with this carbonized material here.",
+            "startOfParagraph": false,
+            "startTime": 250000
+        }
+    },
+    "79": {
+        "caption": {
+            "duration": 2000,
+            "content": "However, you can't burn this. It's too fine",
+            "startOfParagraph": false,
+            "startTime": 254000
+        }
+    },
+    "80": {
+        "caption": {
+            "duration": 4000,
+            "content": "and it burns too quickly to be useful for cooking.",
+            "startOfParagraph": false,
+            "startTime": 256000
+        }
+    },
+    "81": {
+        "caption": {
+            "duration": 4000,
+            "content": "So we had to try to find a way to form it into useful briquettes.",
+            "startOfParagraph": false,
+            "startTime": 260000
+        }
+    },
+    "82": {
+        "caption": {
+            "duration": 3000,
+            "content": "And conveniently, one of my students was from Ghana,",
+            "startOfParagraph": false,
+            "startTime": 264000
+        }
+    },
+    "83": {
+        "caption": {
+            "duration": 5000,
+            "content": "and he remembered a dish his mom used to make for him called \"kokonte,\"",
+            "startOfParagraph": false,
+            "startTime": 267000
+        }
+    },
+    "84": {
+        "caption": {
+            "duration": 3000,
+            "content": "which is a very sticky porridge made out of the cassava root.",
+            "startOfParagraph": false,
+            "startTime": 272000
+        }
+    },
+    "85": {
+        "caption": {
+            "duration": 2000,
+            "content": "And so what we did was we looked, and we found",
+            "startOfParagraph": false,
+            "startTime": 275000
+        }
+    },
+    "86": {
+        "caption": {
+            "duration": 4000,
+            "content": "that cassava is indeed grown in Haiti, under the name of \"manioc.\"",
+            "startOfParagraph": false,
+            "startTime": 277000
+        }
+    },
+    "87": {
+        "caption": {
+            "duration": 2000,
+            "content": "And in fact, it's grown all over the world --",
+            "startOfParagraph": false,
+            "startTime": 281000
+        }
+    },
+    "88": {
+        "caption": {
+            "duration": 4000,
+            "content": "yucca, tapioca, manioc, cassava, it's all the same thing --",
+            "startOfParagraph": false,
+            "startTime": 283000
+        }
+    },
+    "89": {
+        "caption": {
+            "duration": 2000,
+            "content": "a very starchy root vegetable.",
+            "startOfParagraph": false,
+            "startTime": 287000
+        }
+    },
+    "90": {
+        "caption": {
+            "duration": 3000,
+            "content": "And you can make a very thick, sticky porridge out of it,",
+            "startOfParagraph": false,
+            "startTime": 289000
+        }
+    },
+    "91": {
+        "caption": {
+            "duration": 4000,
+            "content": "which you can use to bind together the charcoal briquettes.",
+            "startOfParagraph": false,
+            "startTime": 292000
+        }
+    },
+    "92": {
+        "caption": {
+            "duration": 3000,
+            "content": "So we did this. We went down to Haiti.",
+            "startOfParagraph": false,
+            "startTime": 296000
+        }
+    },
+    "93": {
+        "caption": {
+            "duration": 3000,
+            "content": "These are the graduates of the first Ecole de Chabon,",
+            "startOfParagraph": false,
+            "startTime": 299000
+        }
+    },
+    "94": {
+        "caption": {
+            "duration": 2000,
+            "content": "or Charcoal Institute. And these --",
+            "startOfParagraph": false,
+            "startTime": 302000
+        }
+    },
+    "95": {
+        "caption": {
+            "duration": 2000,
+            "content": "(Laughter)",
+            "startOfParagraph": false,
+            "startTime": 304000
+        }
+    },
+    "96": {
+        "caption": {
+            "duration": 5000,
+            "content": "-- that's right. So I'm actually an instructor at MIT as well as CIT.",
+            "startOfParagraph": false,
+            "startTime": 306000
+        }
+    },
+    "97": {
+        "caption": {
+            "duration": 4000,
+            "content": "And these are the briquettes that we made.",
+            "startOfParagraph": false,
+            "startTime": 311000
+        }
+    },
+    "98": {
+        "caption": {
+            "duration": 5000,
+            "content": "Now I'm going to take you to a different continent. This is India,",
+            "startOfParagraph": true,
+            "startTime": 315000
+        }
+    },
+    "99": {
+        "caption": {
+            "duration": 5000,
+            "content": "and this is the most commonly used cooking fuel in India; it's cow dung.",
+            "startOfParagraph": false,
+            "startTime": 320000
+        }
+    },
+    "100": {
+        "caption": {
+            "duration": 4000,
+            "content": "And more than in Haiti, this produces really smoky fires,",
+            "startOfParagraph": false,
+            "startTime": 325000
+        }
+    },
+    "101": {
+        "caption": {
+            "duration": 3000,
+            "content": "and this is where you see the health impacts",
+            "startOfParagraph": false,
+            "startTime": 329000
+        }
+    },
+    "102": {
+        "caption": {
+            "duration": 4000,
+            "content": "of cooking with cow dung and biomass as a fuel.",
+            "startOfParagraph": false,
+            "startTime": 332000
+        }
+    },
+    "103": {
+        "caption": {
+            "duration": 3000,
+            "content": "Kids and women are especially affected by it,",
+            "startOfParagraph": false,
+            "startTime": 336000
+        }
+    },
+    "104": {
+        "caption": {
+            "duration": 2000,
+            "content": "because they're the ones who are around the cooking fires.",
+            "startOfParagraph": false,
+            "startTime": 339000
+        }
+    },
+    "105": {
+        "caption": {
+            "duration": 3000,
+            "content": "So we wanted to see if we could introduce",
+            "startOfParagraph": false,
+            "startTime": 341000
+        }
+    },
+    "106": {
+        "caption": {
+            "duration": 2000,
+            "content": "this charcoal-making technology there.",
+            "startOfParagraph": false,
+            "startTime": 344000
+        }
+    },
+    "107": {
+        "caption": {
+            "duration": 3000,
+            "content": "Well unfortunately, they didn't have sugarcane",
+            "startOfParagraph": false,
+            "startTime": 346000
+        }
+    },
+    "108": {
+        "caption": {
+            "duration": 3000,
+            "content": "and they didn't have cassava, but that didn't stop us.",
+            "startOfParagraph": false,
+            "startTime": 349000
+        }
+    },
+    "109": {
+        "caption": {
+            "duration": 4000,
+            "content": "What we did was we found what were the locally available sources of biomass.",
+            "startOfParagraph": true,
+            "startTime": 352000
+        }
+    },
+    "110": {
+        "caption": {
+            "duration": 3000,
+            "content": "And there was wheat straw and there was rice straw in this area.",
+            "startOfParagraph": false,
+            "startTime": 356000
+        }
+    },
+    "111": {
+        "caption": {
+            "duration": 2000,
+            "content": "And what we could use as a binder",
+            "startOfParagraph": false,
+            "startTime": 359000
+        }
+    },
+    "112": {
+        "caption": {
+            "duration": 2000,
+            "content": "was actually small amounts of cow manure,",
+            "startOfParagraph": false,
+            "startTime": 361000
+        }
+    },
+    "113": {
+        "caption": {
+            "duration": 3000,
+            "content": "which they used ordinarily for their fuel.",
+            "startOfParagraph": false,
+            "startTime": 363000
+        }
+    },
+    "114": {
+        "caption": {
+            "duration": 4000,
+            "content": "And we did side-by-side tests, and here you can see",
+            "startOfParagraph": false,
+            "startTime": 366000
+        }
+    },
+    "115": {
+        "caption": {
+            "duration": 3000,
+            "content": "the charcoal briquettes and here the cow dung.",
+            "startOfParagraph": false,
+            "startTime": 370000
+        }
+    },
+    "116": {
+        "caption": {
+            "duration": 3000,
+            "content": "And you can see that it's a lot cleaner burning of a cooking fuel.",
+            "startOfParagraph": false,
+            "startTime": 373000
+        }
+    },
+    "117": {
+        "caption": {
+            "duration": 3000,
+            "content": "And in fact, it heats the water a lot more quickly.",
+            "startOfParagraph": false,
+            "startTime": 376000
+        }
+    },
+    "118": {
+        "caption": {
+            "duration": 2000,
+            "content": "And so we were very happy, thus far.",
+            "startOfParagraph": false,
+            "startTime": 379000
+        }
+    },
+    "119": {
+        "caption": {
+            "duration": 2000,
+            "content": "But one of the things that we found",
+            "startOfParagraph": false,
+            "startTime": 381000
+        }
+    },
+    "120": {
+        "caption": {
+            "duration": 3000,
+            "content": "was when we did side-by-side comparisons with wood charcoal,",
+            "startOfParagraph": false,
+            "startTime": 383000
+        }
+    },
+    "121": {
+        "caption": {
+            "duration": 3000,
+            "content": "it didn't burn as long. And the briquettes crumbled a little bit,",
+            "startOfParagraph": false,
+            "startTime": 386000
+        }
+    },
+    "122": {
+        "caption": {
+            "duration": 3000,
+            "content": "and we lost energy as they fell apart as they were cooking.",
+            "startOfParagraph": false,
+            "startTime": 389000
+        }
+    },
+    "123": {
+        "caption": {
+            "duration": 4000,
+            "content": "So we wanted to try to find a way to make a stronger briquette",
+            "startOfParagraph": false,
+            "startTime": 392000
+        }
+    },
+    "124": {
+        "caption": {
+            "duration": 4000,
+            "content": "so that we could compete with wood charcoal in the markets in Haiti.",
+            "startOfParagraph": false,
+            "startTime": 396000
+        }
+    },
+    "125": {
+        "caption": {
+            "duration": 4000,
+            "content": "So we went back to MIT, we took out the Instron machine,",
+            "startOfParagraph": true,
+            "startTime": 400000
+        }
+    },
+    "126": {
+        "caption": {
+            "duration": 3000,
+            "content": "and we figured out what sort of forces did you need",
+            "startOfParagraph": false,
+            "startTime": 404000
+        }
+    },
+    "127": {
+        "caption": {
+            "duration": 2000,
+            "content": "in order to compress a briquette to the level",
+            "startOfParagraph": false,
+            "startTime": 407000
+        }
+    },
+    "128": {
+        "caption": {
+            "duration": 3000,
+            "content": "that you actually are getting improved performance out of it?",
+            "startOfParagraph": false,
+            "startTime": 409000
+        }
+    },
+    "129": {
+        "caption": {
+            "duration": 4000,
+            "content": "And at the same time that we had students in the lab looking at this,",
+            "startOfParagraph": false,
+            "startTime": 412000
+        }
+    },
+    "130": {
+        "caption": {
+            "duration": 6000,
+            "content": "we also had community partners in Haiti working to develop the process,",
+            "startOfParagraph": false,
+            "startTime": 416000
+        }
+    },
+    "131": {
+        "caption": {
+            "duration": 6000,
+            "content": "to improve it and to make it more accessible to people in the villages there.",
+            "startOfParagraph": false,
+            "startTime": 422000
+        }
+    },
+    "132": {
+        "caption": {
+            "duration": 2000,
+            "content": "And after some time,",
+            "startOfParagraph": false,
+            "startTime": 428000
+        }
+    },
+    "133": {
+        "caption": {
+            "duration": 5000,
+            "content": "we developed a low-cost press that allows you to produce charcoal,",
+            "startOfParagraph": false,
+            "startTime": 430000
+        }
+    },
+    "134": {
+        "caption": {
+            "duration": 7000,
+            "content": "which actually now burns longer, cleaner than wood charcoal.",
+            "startOfParagraph": false,
+            "startTime": 435000
+        }
+    },
+    "135": {
+        "caption": {
+            "duration": 4000,
+            "content": "So now we're in a situation where we have a product, which is actually better",
+            "startOfParagraph": true,
+            "startTime": 442000
+        }
+    },
+    "136": {
+        "caption": {
+            "duration": 3000,
+            "content": "than what you can buy in Haiti in the marketplace,",
+            "startOfParagraph": false,
+            "startTime": 446000
+        }
+    },
+    "137": {
+        "caption": {
+            "duration": 3000,
+            "content": "which is a very wonderful place to be.",
+            "startOfParagraph": false,
+            "startTime": 449000
+        }
+    },
+    "138": {
+        "caption": {
+            "duration": 6000,
+            "content": "In Haiti alone, about 30 million trees are cut down every year.",
+            "startOfParagraph": false,
+            "startTime": 453000
+        }
+    },
+    "139": {
+        "caption": {
+            "duration": 2000,
+            "content": "There's a possibility of this being implemented",
+            "startOfParagraph": false,
+            "startTime": 459000
+        }
+    },
+    "140": {
+        "caption": {
+            "duration": 2000,
+            "content": "and saving a good portion of those.",
+            "startOfParagraph": false,
+            "startTime": 461000
+        }
+    },
+    "141": {
+        "caption": {
+            "duration": 6000,
+            "content": "In addition, the revenue generated from that charcoal is 260 million dollars.",
+            "startOfParagraph": false,
+            "startTime": 463000
+        }
+    },
+    "142": {
+        "caption": {
+            "duration": 3000,
+            "content": "That's an awful lot for a country of Haiti --",
+            "startOfParagraph": false,
+            "startTime": 469000
+        }
+    },
+    "143": {
+        "caption": {
+            "duration": 2000,
+            "content": "with a population of eight million",
+            "startOfParagraph": false,
+            "startTime": 472000
+        }
+    },
+    "144": {
+        "caption": {
+            "duration": 4000,
+            "content": "and an average income of less than 400 dollars.",
+            "startOfParagraph": false,
+            "startTime": 474000
+        }
+    },
+    "145": {
+        "caption": {
+            "duration": 5000,
+            "content": "So this is where we're also moving ahead with our charcoal project.",
+            "startOfParagraph": false,
+            "startTime": 478000
+        }
+    },
+    "146": {
+        "caption": {
+            "duration": 2000,
+            "content": "And one of the things that I think is also interesting,",
+            "startOfParagraph": true,
+            "startTime": 483000
+        }
+    },
+    "147": {
+        "caption": {
+            "duration": 5000,
+            "content": "is I have a friend up at UC Berkeley who's been doing risk analysis.",
+            "startOfParagraph": false,
+            "startTime": 485000
+        }
+    },
+    "148": {
+        "caption": {
+            "duration": 3000,
+            "content": "And he's looked at the problem of the health impacts",
+            "startOfParagraph": false,
+            "startTime": 490000
+        }
+    },
+    "149": {
+        "caption": {
+            "duration": 2000,
+            "content": "of burning wood versus charcoal.",
+            "startOfParagraph": false,
+            "startTime": 493000
+        }
+    },
+    "150": {
+        "caption": {
+            "duration": 2000,
+            "content": "And he's found that worldwide,",
+            "startOfParagraph": false,
+            "startTime": 495000
+        }
+    },
+    "151": {
+        "caption": {
+            "duration": 4000,
+            "content": "you could prevent a million deaths switching from wood to charcoal",
+            "startOfParagraph": false,
+            "startTime": 497000
+        }
+    },
+    "152": {
+        "caption": {
+            "duration": 2000,
+            "content": "as a cooking fuel. That's remarkable,",
+            "startOfParagraph": false,
+            "startTime": 501000
+        }
+    },
+    "153": {
+        "caption": {
+            "duration": 3000,
+            "content": "but up until now, there weren't ways to do it without cutting down trees.",
+            "startOfParagraph": false,
+            "startTime": 503000
+        }
+    },
+    "154": {
+        "caption": {
+            "duration": 2000,
+            "content": "But now we have a way",
+            "startOfParagraph": false,
+            "startTime": 506000
+        }
+    },
+    "155": {
+        "caption": {
+            "duration": 4000,
+            "content": "that's using an agricultural waste material to create a cooking fuel.",
+            "startOfParagraph": false,
+            "startTime": 508000
+        }
+    },
+    "156": {
+        "caption": {
+            "duration": 2000,
+            "content": "One of the really exciting things, though,",
+            "startOfParagraph": true,
+            "startTime": 512000
+        }
+    },
+    "157": {
+        "caption": {
+            "duration": 3000,
+            "content": "is something that came out of the trip that I took to Ghana just last month.",
+            "startOfParagraph": false,
+            "startTime": 514000
+        }
+    },
+    "158": {
+        "caption": {
+            "duration": 3000,
+            "content": "And this is, I think, the coolest thing,",
+            "startOfParagraph": false,
+            "startTime": 517000
+        }
+    },
+    "159": {
+        "caption": {
+            "duration": 3000,
+            "content": "and it's even lower tech than what you just saw,",
+            "startOfParagraph": false,
+            "startTime": 520000
+        }
+    },
+    "160": {
+        "caption": {
+            "duration": 3000,
+            "content": "if you can imagine such a thing. Here it is.",
+            "startOfParagraph": false,
+            "startTime": 523000
+        }
+    },
+    "161": {
+        "caption": {
+            "duration": 5000,
+            "content": "So what is this? This is corncobs turned into charcoal.",
+            "startOfParagraph": false,
+            "startTime": 526000
+        }
+    },
+    "162": {
+        "caption": {
+            "duration": 3000,
+            "content": "And the beauty of this is that you don't need to form briquettes --",
+            "startOfParagraph": false,
+            "startTime": 531000
+        }
+    },
+    "163": {
+        "caption": {
+            "duration": 4000,
+            "content": "it comes ready made. This is my $100 laptop, right here.",
+            "startOfParagraph": false,
+            "startTime": 534000
+        }
+    },
+    "164": {
+        "caption": {
+            "duration": 3000,
+            "content": "And actually, like Nick, I brought samples.",
+            "startOfParagraph": false,
+            "startTime": 538000
+        }
+    },
+    "165": {
+        "caption": {
+            "duration": 3000,
+            "content": "(Laughter)",
+            "startOfParagraph": true,
+            "startTime": 541000
+        }
+    },
+    "166": {
+        "caption": {
+            "duration": 2000,
+            "content": "So we can pass these around.",
+            "startOfParagraph": true,
+            "startTime": 544000
+        }
+    },
+    "167": {
+        "caption": {
+            "duration": 5000,
+            "content": "They're fully functional, field-tested, ready to roll out.",
+            "startOfParagraph": false,
+            "startTime": 547000
+        }
+    },
+    "168": {
+        "caption": {
+            "duration": 5000,
+            "content": "And I think one of the things, which is also remarkable about this technology,",
+            "startOfParagraph": false,
+            "startTime": 555000
+        }
+    },
+    "169": {
+        "caption": {
+            "duration": 4000,
+            "content": "is that the technology transfer is so easy.",
+            "startOfParagraph": false,
+            "startTime": 560000
+        }
+    },
+    "170": {
+        "caption": {
+            "duration": 2000,
+            "content": "Compared to the sugarcane charcoal,",
+            "startOfParagraph": false,
+            "startTime": 564000
+        }
+    },
+    "171": {
+        "caption": {
+            "duration": 3000,
+            "content": "where we actually have to teach people how to form it into briquettes",
+            "startOfParagraph": false,
+            "startTime": 566000
+        }
+    },
+    "172": {
+        "caption": {
+            "duration": 2000,
+            "content": "and you have the extra step of cooking the binder,",
+            "startOfParagraph": false,
+            "startTime": 569000
+        }
+    },
+    "173": {
+        "caption": {
+            "duration": 2000,
+            "content": "this comes pre-briquetted.",
+            "startOfParagraph": false,
+            "startTime": 571000
+        }
+    },
+    "174": {
+        "caption": {
+            "duration": 3000,
+            "content": "And this is about the most exciting thing in my life right now,",
+            "startOfParagraph": false,
+            "startTime": 573000
+        }
+    },
+    "175": {
+        "caption": {
+            "duration": 3000,
+            "content": "which is perhaps a sad commentary on my life.",
+            "startOfParagraph": false,
+            "startTime": 576000
+        }
+    },
+    "176": {
+        "caption": {
+            "duration": 2000,
+            "content": "(Laughter)",
+            "startOfParagraph": true,
+            "startTime": 579000
+        }
+    },
+    "177": {
+        "caption": {
+            "duration": 3000,
+            "content": "But once you see it, like you guys in the front row, all right,",
+            "startOfParagraph": true,
+            "startTime": 581000
+        }
+    },
+    "178": {
+        "caption": {
+            "duration": 2000,
+            "content": "yeah, OK. So anyway --",
+            "startOfParagraph": false,
+            "startTime": 584000
+        }
+    },
+    "179": {
+        "caption": {
+            "duration": 2000,
+            "content": "(Laughter)",
+            "startOfParagraph": false,
+            "startTime": 586000
+        }
+    },
+    "180": {
+        "caption": {
+            "duration": 4000,
+            "content": "-- here it is. And this is I think a perfect example",
+            "startOfParagraph": false,
+            "startTime": 588000
+        }
+    },
+    "181": {
+        "caption": {
+            "duration": 5000,
+            "content": "of what Robert Wright was talking about in those non-zero-sum things.",
+            "startOfParagraph": false,
+            "startTime": 592000
+        }
+    },
+    "182": {
+        "caption": {
+            "duration": 3000,
+            "content": "So not only do you have health benefits,",
+            "startOfParagraph": false,
+            "startTime": 597000
+        }
+    },
+    "183": {
+        "caption": {
+            "duration": 2000,
+            "content": "you have environmental benefits.",
+            "startOfParagraph": false,
+            "startTime": 600000
+        }
+    },
+    "184": {
+        "caption": {
+            "duration": 3000,
+            "content": "But this is one of the incredibly rare situations",
+            "startOfParagraph": false,
+            "startTime": 602000
+        }
+    },
+    "185": {
+        "caption": {
+            "duration": 3000,
+            "content": "where you also have economic benefits.",
+            "startOfParagraph": false,
+            "startTime": 605000
+        }
+    },
+    "186": {
+        "caption": {
+            "duration": 4000,
+            "content": "People can make their own cooking fuel from waste products.",
+            "startOfParagraph": false,
+            "startTime": 608000
+        }
+    },
+    "187": {
+        "caption": {
+            "duration": 2000,
+            "content": "They can generate income from this.",
+            "startOfParagraph": false,
+            "startTime": 612000
+        }
+    },
+    "188": {
+        "caption": {
+            "duration": 3000,
+            "content": "They can save the money that they were going to spend on charcoal,",
+            "startOfParagraph": false,
+            "startTime": 614000
+        }
+    },
+    "189": {
+        "caption": {
+            "duration": 2000,
+            "content": "and they can produce excess and sell it in the market",
+            "startOfParagraph": false,
+            "startTime": 617000
+        }
+    },
+    "190": {
+        "caption": {
+            "duration": 2000,
+            "content": "to people who aren't making their own.",
+            "startOfParagraph": false,
+            "startTime": 619000
+        }
+    },
+    "191": {
+        "caption": {
+            "duration": 2000,
+            "content": "It's really rare that you don't have trade-offs",
+            "startOfParagraph": false,
+            "startTime": 621000
+        }
+    },
+    "192": {
+        "caption": {
+            "duration": 4000,
+            "content": "between health and economics, or environment and economics.",
+            "startOfParagraph": false,
+            "startTime": 623000
+        }
+    },
+    "193": {
+        "caption": {
+            "duration": 3000,
+            "content": "So this is a project that I just find extremely exciting,",
+            "startOfParagraph": false,
+            "startTime": 627000
+        }
+    },
+    "194": {
+        "caption": {
+            "duration": 6000,
+            "content": "and I'm really looking forward to see where it takes us.",
+            "startOfParagraph": false,
+            "startTime": 630000
+        }
+    },
+    "195": {
+        "caption": {
+            "duration": 4000,
+            "content": "So when we talk about, now, the future we will create,",
+            "startOfParagraph": true,
+            "startTime": 637000
+        }
+    },
+    "196": {
+        "caption": {
+            "duration": 3000,
+            "content": "one of the things that I think is necessary",
+            "startOfParagraph": false,
+            "startTime": 641000
+        }
+    },
+    "197": {
+        "caption": {
+            "duration": 4000,
+            "content": "is to have a very clear vision of the world that we live in.",
+            "startOfParagraph": false,
+            "startTime": 644000
+        }
+    },
+    "198": {
+        "caption": {
+            "duration": 4000,
+            "content": "And now I don't actually mean the world that we live in.",
+            "startOfParagraph": false,
+            "startTime": 648000
+        }
+    },
+    "199": {
+        "caption": {
+            "duration": 4000,
+            "content": "I mean the world where women spend two to three hours everyday",
+            "startOfParagraph": false,
+            "startTime": 652000
+        }
+    },
+    "200": {
+        "caption": {
+            "duration": 3000,
+            "content": "grinding grain for their families to eat.",
+            "startOfParagraph": false,
+            "startTime": 656000
+        }
+    },
+    "201": {
+        "caption": {
+            "duration": 3000,
+            "content": "I mean the world where advanced building materials",
+            "startOfParagraph": false,
+            "startTime": 659000
+        }
+    },
+    "202": {
+        "caption": {
+            "duration": 3000,
+            "content": "means cement roofing tiles that are made by hand,",
+            "startOfParagraph": false,
+            "startTime": 662000
+        }
+    },
+    "203": {
+        "caption": {
+            "duration": 3000,
+            "content": "and where, when you work 10 hours a day,",
+            "startOfParagraph": false,
+            "startTime": 665000
+        }
+    },
+    "204": {
+        "caption": {
+            "duration": 3000,
+            "content": "you're still only earning 60 dollars in a month.",
+            "startOfParagraph": false,
+            "startTime": 668000
+        }
+    },
+    "205": {
+        "caption": {
+            "duration": 8000,
+            "content": "I mean the world where women and children spend 40 billion hours a year fetching water.",
+            "startOfParagraph": false,
+            "startTime": 672000
+        }
+    },
+    "206": {
+        "caption": {
+            "duration": 4000,
+            "content": "That's as if the entire workforce of the State of California",
+            "startOfParagraph": false,
+            "startTime": 680000
+        }
+    },
+    "207": {
+        "caption": {
+            "duration": 4000,
+            "content": "worked full time for a year doing nothing but fetching water.",
+            "startOfParagraph": false,
+            "startTime": 684000
+        }
+    },
+    "208": {
+        "caption": {
+            "duration": 5000,
+            "content": "It's a place where, for example, if this were India,",
+            "startOfParagraph": true,
+            "startTime": 688000
+        }
+    },
+    "209": {
+        "caption": {
+            "duration": 3000,
+            "content": "in this room, only three of us would have a car.",
+            "startOfParagraph": false,
+            "startTime": 693000
+        }
+    },
+    "210": {
+        "caption": {
+            "duration": 1000,
+            "content": "If this were Afghanistan,",
+            "startOfParagraph": false,
+            "startTime": 696000
+        }
+    },
+    "211": {
+        "caption": {
+            "duration": 4000,
+            "content": "only one person in this room would know how the use the Internet.",
+            "startOfParagraph": false,
+            "startTime": 697000
+        }
+    },
+    "212": {
+        "caption": {
+            "duration": 5000,
+            "content": "If this were Zambia, 300 of you would be farmers,",
+            "startOfParagraph": false,
+            "startTime": 701000
+        }
+    },
+    "213": {
+        "caption": {
+            "duration": 3000,
+            "content": "100 of you would have AIDS or HIV.",
+            "startOfParagraph": false,
+            "startTime": 706000
+        }
+    },
+    "214": {
+        "caption": {
+            "duration": 4000,
+            "content": "And more than half of you would be living on less than a dollar a day.",
+            "startOfParagraph": false,
+            "startTime": 709000
+        }
+    },
+    "215": {
+        "caption": {
+            "duration": 5000,
+            "content": "These are the issues that we need to come up with solutions for.",
+            "startOfParagraph": false,
+            "startTime": 713000
+        }
+    },
+    "216": {
+        "caption": {
+            "duration": 5000,
+            "content": "These are the issues that we need to be training our engineers,",
+            "startOfParagraph": false,
+            "startTime": 718000
+        }
+    },
+    "217": {
+        "caption": {
+            "duration": 4000,
+            "content": "our designers, our business people, our entrepreneurs to be facing.",
+            "startOfParagraph": false,
+            "startTime": 723000
+        }
+    },
+    "218": {
+        "caption": {
+            "duration": 3000,
+            "content": "These are the solutions that we need to find.",
+            "startOfParagraph": false,
+            "startTime": 727000
+        }
+    },
+    "219": {
+        "caption": {
+            "duration": 5000,
+            "content": "I have a few areas that I believe are especially important that we address.",
+            "startOfParagraph": true,
+            "startTime": 730000
+        }
+    },
+    "220": {
+        "caption": {
+            "duration": 6000,
+            "content": "One of them is creating technologies to promote micro-finance and micro-enterprise,",
+            "startOfParagraph": false,
+            "startTime": 735000
+        }
+    },
+    "221": {
+        "caption": {
+            "duration": 4000,
+            "content": "so that people who are living below the poverty line can find a way to move out --",
+            "startOfParagraph": false,
+            "startTime": 741000
+        }
+    },
+    "222": {
+        "caption": {
+            "duration": 2000,
+            "content": "and that they're not doing it",
+            "startOfParagraph": false,
+            "startTime": 745000
+        }
+    },
+    "223": {
+        "caption": {
+            "duration": 4000,
+            "content": "using the same traditional basket making, poultry rearing, etc.",
+            "startOfParagraph": false,
+            "startTime": 747000
+        }
+    },
+    "224": {
+        "caption": {
+            "duration": 3000,
+            "content": "But there are new technologies and new products",
+            "startOfParagraph": false,
+            "startTime": 751000
+        }
+    },
+    "225": {
+        "caption": {
+            "duration": 2000,
+            "content": "that they can make on a small scale.",
+            "startOfParagraph": false,
+            "startTime": 754000
+        }
+    },
+    "226": {
+        "caption": {
+            "duration": 5000,
+            "content": "The next thing I believe is that we need to create technologies for poor farmers",
+            "startOfParagraph": true,
+            "startTime": 756000
+        }
+    },
+    "227": {
+        "caption": {
+            "duration": 3000,
+            "content": "to add value to their own crops.",
+            "startOfParagraph": false,
+            "startTime": 761000
+        }
+    },
+    "228": {
+        "caption": {
+            "duration": 3000,
+            "content": "And we need to rethink our development strategies,",
+            "startOfParagraph": false,
+            "startTime": 764000
+        }
+    },
+    "229": {
+        "caption": {
+            "duration": 4000,
+            "content": "so that we're not promoting educational campaigns",
+            "startOfParagraph": false,
+            "startTime": 767000
+        }
+    },
+    "230": {
+        "caption": {
+            "duration": 2000,
+            "content": "to get them to stop being farmers,",
+            "startOfParagraph": false,
+            "startTime": 771000
+        }
+    },
+    "231": {
+        "caption": {
+            "duration": 3000,
+            "content": "but rather to stop being poor farmers.",
+            "startOfParagraph": false,
+            "startTime": 773000
+        }
+    },
+    "232": {
+        "caption": {
+            "duration": 3000,
+            "content": "And we need to think about how we can do that effectively.",
+            "startOfParagraph": false,
+            "startTime": 776000
+        }
+    },
+    "233": {
+        "caption": {
+            "duration": 3000,
+            "content": "We need to work with the people in these communities,",
+            "startOfParagraph": false,
+            "startTime": 779000
+        }
+    },
+    "234": {
+        "caption": {
+            "duration": 3000,
+            "content": "and give them the resources and the tools that they need",
+            "startOfParagraph": false,
+            "startTime": 782000
+        }
+    },
+    "235": {
+        "caption": {
+            "duration": 3000,
+            "content": "to solve their own problems. That's the best way to do it.",
+            "startOfParagraph": false,
+            "startTime": 785000
+        }
+    },
+    "236": {
+        "caption": {
+            "duration": 2000,
+            "content": "We shouldn't be doing it from outside.",
+            "startOfParagraph": false,
+            "startTime": 788000
+        }
+    },
+    "237": {
+        "caption": {
+            "duration": 5000,
+            "content": "So we need to create this future, and we need to start doing it now.",
+            "startOfParagraph": false,
+            "startTime": 790000
+        }
+    },
+    "238": {
+        "caption": {
+            "duration": 2000,
+            "content": "Thank you.",
+            "startOfParagraph": false,
+            "startTime": 795000
+        }
+    },
+    "239": {
+        "caption": {
+            "duration": 9000,
+            "content": "(Applause)",
+            "startOfParagraph": true,
+            "startTime": 797000
+        }
+    },
+    "240": {
+        "caption": {
+            "duration": 3000,
+            "content": "Chris Anderson: Tell us -- just while we see if someone has a question --",
+            "startOfParagraph": true,
+            "startTime": 806000
+        }
+    },
+    "241": {
+        "caption": {
+            "duration": 3000,
+            "content": "just tell us about one of the other things that you've worked on.",
+            "startOfParagraph": false,
+            "startTime": 809000
+        }
+    },
+    "242": {
+        "caption": {
+            "duration": 2000,
+            "content": "Amy Smith: A couple of other things that we're working on",
+            "startOfParagraph": true,
+            "startTime": 812000
+        }
+    },
+    "243": {
+        "caption": {
+            "duration": 3000,
+            "content": "are looking at ways to do low-cost water quality testing,",
+            "startOfParagraph": false,
+            "startTime": 814000
+        }
+    },
+    "244": {
+        "caption": {
+            "duration": 3000,
+            "content": "so that communities can maintain their own water systems,",
+            "startOfParagraph": false,
+            "startTime": 817000
+        }
+    },
+    "245": {
+        "caption": {
+            "duration": 3000,
+            "content": "know when they're working, know when they treat them, etc.",
+            "startOfParagraph": false,
+            "startTime": 820000
+        }
+    },
+    "246": {
+        "caption": {
+            "duration": 2000,
+            "content": "We're also looking at low-cost water treatment systems.",
+            "startOfParagraph": false,
+            "startTime": 823000
+        }
+    },
+    "247": {
+        "caption": {
+            "duration": 4000,
+            "content": "One of the really exciting things is looking at solar water disinfection",
+            "startOfParagraph": false,
+            "startTime": 825000
+        }
+    },
+    "248": {
+        "caption": {
+            "duration": 3000,
+            "content": "and improving the ability to be able to do that.",
+            "startOfParagraph": false,
+            "startTime": 829000
+        }
+    },
+    "249": {
+        "caption": {
+            "duration": 4000,
+            "content": "CA: What's the bottleneck to preventing this stuff getting from scale?",
+            "startOfParagraph": true,
+            "startTime": 832000
+        }
+    },
+    "250": {
+        "caption": {
+            "duration": 3000,
+            "content": "Do you need to find entrepreneurs, or venture capitalists,",
+            "startOfParagraph": false,
+            "startTime": 836000
+        }
+    },
+    "251": {
+        "caption": {
+            "duration": 5000,
+            "content": "or what do you need to take what you've got and get it to scale?",
+            "startOfParagraph": false,
+            "startTime": 839000
+        }
+    },
+    "252": {
+        "caption": {
+            "duration": 3000,
+            "content": "AS: Yeah, I think its large numbers of people moving it forward.",
+            "startOfParagraph": true,
+            "startTime": 844000
+        }
+    },
+    "253": {
+        "caption": {
+            "duration": 3000,
+            "content": "It's a difficult thing; it's a marketplace which is very fragmented",
+            "startOfParagraph": false,
+            "startTime": 847000
+        }
+    },
+    "254": {
+        "caption": {
+            "duration": 2000,
+            "content": "and a consumer population with no income.",
+            "startOfParagraph": false,
+            "startTime": 850000
+        }
+    },
+    "255": {
+        "caption": {
+            "duration": 4000,
+            "content": "So you can't use the same models that you use in the United States",
+            "startOfParagraph": false,
+            "startTime": 852000
+        }
+    },
+    "256": {
+        "caption": {
+            "duration": 2000,
+            "content": "for making things move forward.",
+            "startOfParagraph": false,
+            "startTime": 856000
+        }
+    },
+    "257": {
+        "caption": {
+            "duration": 3000,
+            "content": "And we're a pretty small staff, which is me.",
+            "startOfParagraph": false,
+            "startTime": 858000
+        }
+    },
+    "258": {
+        "caption": {
+            "duration": 1000,
+            "content": "(Laughter)",
+            "startOfParagraph": true,
+            "startTime": 861000
+        }
+    },
+    "259": {
+        "caption": {
+            "duration": 3000,
+            "content": "So, you know, I do what I can with the students.",
+            "startOfParagraph": true,
+            "startTime": 862000
+        }
+    },
+    "260": {
+        "caption": {
+            "duration": 2000,
+            "content": "We have 30 students a year go out into the field",
+            "startOfParagraph": false,
+            "startTime": 865000
+        }
+    },
+    "261": {
+        "caption": {
+            "duration": 2000,
+            "content": "and try to implement this and move it forward.",
+            "startOfParagraph": false,
+            "startTime": 867000
+        }
+    },
+    "262": {
+        "caption": {
+            "duration": 4000,
+            "content": "The other thing is you have to do things with a long time frame,",
+            "startOfParagraph": false,
+            "startTime": 869000
+        }
+    },
+    "263": {
+        "caption": {
+            "duration": 4000,
+            "content": "as -- you know, you can't expect to get something done in a year or two years;",
+            "startOfParagraph": false,
+            "startTime": 873000
+        }
+    },
+    "264": {
+        "caption": {
+            "duration": 2000,
+            "content": "you have to be looking five or 10 years ahead.",
+            "startOfParagraph": false,
+            "startTime": 877000
+        }
+    },
+    "265": {
+        "caption": {
+            "duration": 4000,
+            "content": "But I think with the vision to do that, we can move forward.",
+            "startOfParagraph": false,
+            "startTime": 879000
+        }
+    },
+    "_meta": {
+        "preroll_offset": 11820
+    }
+}
