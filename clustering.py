@@ -1,5 +1,7 @@
 import string
 import collections
+
+import os, glob, sys
  
 from nltk import word_tokenize
 from nltk.stem import PorterStemmer
@@ -43,5 +45,12 @@ def cluster_texts(texts, clusters=3):
  
 if __name__ == "__main__":
     articles = ["Help"]
-    clusters = cluster_texts(articles, 7)
+    datapath = ['./demo_dataset/']
+    for document_path in datapath:
+		for document_file in glob.glob(os.path.join(document_path, '*.txt')):
+			with open(document_file, "r+") as doc:
+				inputd = doc.read()
+				articles.append(inputd)
+				print inputd
+    clusters = cluster_texts(articles)
     print(dict(clusters))

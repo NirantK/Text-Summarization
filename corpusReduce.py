@@ -24,7 +24,7 @@ def test(s1, s2):
 
 def driver():
 	linedump = []
-	datapath = ['./dataset/summaries/test']
+	datapath = ['./dataset/summaries/']
 	for document_path in datapath:
 		for document_file in glob.glob(os.path.join(document_path, '*.txt')):
 			mockingJay = []
@@ -65,7 +65,7 @@ def driver():
 		ele = ele.split('.')[0]
 		remove.append(int(ele))
 	remove = list(set(remove))
-	print len(remove)
+	print len(remove), 'lines are removed from the corpus. '
 	for index in sorted(remove, reverse=True):
 		# print 'removing', index, linedump[index][0].encode('utf-8')
 		del linedump[index]
